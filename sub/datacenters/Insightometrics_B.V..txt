@@ -1,8 +1,8 @@
-trojan://7v7k90we-3jjc-gzwt-cq99-8vf4a0wo6dpu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 01:59 ]
-trojan://m6tr49hn-f482-jb9l-mg6p-xs65w1q96by8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1qscmfg6-5nmd-p943-h7df-1dkw5tv9nmew@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6qrccie9-koc0-gg3x-zi48-tkw3v0sivr0f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 02:27 ]
+trojan://3mr7hu5r-nfmo-tp4l-9xcw-im8x3a615442@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://e9m8m1hn-31dw-k4hg-fb9z-uuj63cf1mz9f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://be34d195-0697-44b4-8a3e-07edc2f3abb7@87.247.169.211:8001?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Insightometrics B.V. ┇ 87.247.169.211
-vless://4c20c859-a872-4659-be2d-86b07a8f329c@87.247.169.69:2101?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Insightometrics B.V. ┇ 87.247.169.69
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEluc2lnaHRvbWV0cmljcyBCLlYuIFx1MjUwNyA4Ny4yNDcuMTY4LjIzNyIsImFkZCI6Ijg3LjI0Ny4xNjguMjM3IiwicG9ydCI6MjA3MCwiaWQiOiJjNGNhY2I4YS02NGVjLTRkZmMtYTgwZC1kZjNmZDg4NTFmY2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-trojan://on4zy870-uuiy-rywh-v7pa-z63h16bh9lig@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gfqvozdp-0eci-8zio-cu5r-6d0ddopzxrxe@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://4c20c859-a872-4659-be2d-86b07a8f329c@87.247.169.69:2101?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Insightometrics B.V. ┇ 87.247.169.69
+trojan://yewjc3tp-0m0e-qlu6-d70c-rz3l31thzqka@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://n115pp0b-9tzn-460z-4j7j-56zvx1olsajj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
