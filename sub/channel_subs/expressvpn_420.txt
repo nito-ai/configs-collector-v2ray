@@ -1,14 +1,6 @@
-trojan://shwl0pve-b9ad-s637-y6fe-v2kzlsp8c364@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-16 | 15:20 ]
-trojan://71d4m9q6-xfo6-0d6u-mi4j-tk0yk07puzhb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2e4dmrah-qfxv-arm2-umi2-i21luwbznuio@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#admin.c1.webramz.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#api.namasha.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#admin.c2.webramz.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#admin.c2.webramz.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#admin.c1.webramz.co:443
+trojan://7hl5aqjp-ps3u-6yhp-qbcy-3sdxw4b5bm08@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 00:02 ]
+trojan://a1mhto6g-xrv1-0ycs-yq6u-cq8829epf34c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mlj0q1d0-msnb-woav-jpar-0l86ix92ejj6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
@@ -17,25 +9,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.60.151:443#4.250
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.124.20:443#4.158.124.20:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#4.223.100.248:48172
-trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?sni=S1.mitivpN.wOrKeRS.DEV&peer=S1.mitivpN.wOrKeRS.DEV&security=tls#104.18.26.90:443
-vmess://eyJ2IjoiMiIsInBzIjoiQEVYUFJFU1NWUE5fNDIwIiwiYWRkIjoiNjIuNjAuMTU1LjY0IiwicG9ydCI6NDQzLCJpZCI6IjVlNmUyNjNlLTZiYzQtNDU3ZC04NDI5LTc3NDUzM2NlNzQ2NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODM1XHVkZGRkXHVkODM1XHVkZGZjXHVkODM1XHVkZGY2XHVkODM1XHVkZGZiIFx1MjdhMCBcdWQ4MzVcdWRjMTNcdWQ4MzVcdWRjMWVcdWQ4MzVcdWRjMjU6QEVYUFJFU1NWUE5fNDIwXHUwMGI5IiwiYWRkIjoicGFuZWwxLmlweWFyLm9yZyIsInBvcnQiOjQyNjg0LCJpZCI6ImM0YmQ5ZWJhLThhZWEtNGQ1ZS1hMmVlLWI1ZGU2NWFjMTRlMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://51d85dda-7821-4bae-ac08-daaaf2299e70@hi.somo44.sbs:8880?type=ws&security=none&path=/bhvcgvvc#hi.somo44.sbs:8880
-vless://6f6946ff-d061-4bc9-9c3c-b927c9bad3cb@hh.somo44.sbs:8080?type=ws&security=none&path=/hhvghhv#hh.somo44.sbs:8080
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.204.237:443?type=tcp&security=none#91.99.204.237:443
-vless://86892e3f-83ed-49c1-ade2-c12f8ace1487@84.32.190.1:2200?type=tcp&security=none#84.32.190.1:2200
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?type=ws&security=none&path=/download#add.ski1plag.ir:80
-vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?type=ws&security=tls&path=/?ed=2560&sni=a.xiazitong.zone.id&fp=randomized#104.18.13.51:2087
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.135:51615?type=tcp&security=none#91.99.207.135:51615
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?type=tcp&security=none#91.99.170.191:443
-vless://a3ed4feb-d7c5-4f8f-bd9e-74cb01597843@85.133.204.235:1010?type=tcp&security=none#85.133.204.235:1010
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?type=tcp&security=none#91.99.202.155:443
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&security=none&path=/?ed=2560#www.speedtest.net:80
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?type=ws&security=none&path=/upload&fp=chrome#add.ski1plag.ir:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?type=ws&security=none&path=Telegram:@ShadowProxy66/?ed=2560&fp=chrome#147.185.161.229:80
-vless://f2a3f500-2690-466f-9133-b73e7f24d10b@svnteam.misvn.ir:2082?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=2052#svnteam.misvn.ir:2082
-vless://901f06a3-ac81-4ff4-bf7c-2b79bc0a244b@104.16.1.106:2082?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=2052#104.16.1.106:2082
-vless://901f06a3-ac81-4ff4-bf7c-2b79bc0a244b@104.18.26.90:2082?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=2052#104.18.26.90:2082
 vless://a764c6fd-956c-4477-9d85-a41b16953e5b@104.16.1.106:80?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#104.16.1.106:80
 vless://a764c6fd-956c-4477-9d85-a41b16953e5b@104.18.26.90:80?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#104.18.26.90:80
 vless://41d4e11b-1e7c-40ce-b7f8-abedb994ca6c@104.18.26.90:80?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#104.18.26.90:80
@@ -56,12 +30,20 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=no
 vless://71168f32-84d8-4061-b865-dfe7f685ad38@hi.somo44.sbs:8880?type=ws&security=none&path=/bhvcgvvc#hi.somo44.sbs:8880
 vless://5f49437c-64f1-4b44-b71d-214c73e048c9@172.66.40.99:80?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#172.66.40.99:80
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.18.26.90:443?type=ws&security=tls&path=/WrQunvc9WRIaU32H?ed=2560&sni=gEtaSa.IR#104.18.26.90:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&security=none#95.164.45.85:8880
-vless://9516661c-7433-4959-b40c-ec77ff36625a@hh.somo44.sbs:8080?type=ws&security=none&path=/hhvghhv#hh.somo44.sbs:8080
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?type=ws&security=tls&path=/&sni=NGINX-Z.pages.DEV#62.3.12.185:443
-vless://71b1411d-f242-4e84-83f6-a4d3ca912844@62.212.70.94:2025?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=B6w7zRowM6YMjWfoo93HdAwngS7SxXa-K1msMet_P3U&sid=e9#62.212.70.94:2025
-vless://770d49ff-d8d1-456a-a009-6a4833718c98@62.212.70.94:2060?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=B6w7zRowM6YMjWfoo93HdAwngS7SxXa-K1msMet_P3U&sid=e9#62.212.70.94:2060
+vless://11c89ba7-b173-4372-9976-c9e8b97557aa@172.66.40.99:8080?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#172.66.40.99:8080
+vless://3256d023-55cc-4a99-8713-98a21baa5a6a@104.21.43.168:8880?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#104.21.43.168:8880
+vless://3256d023-55cc-4a99-8713-98a21baa5a6a@172.66.40.99:8880?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#172.66.40.99:8880
+vless://c358c324-68eb-41f9-a2a4-3f95fd0d2a61@104.21.43.168:8080?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#104.21.43.168:8080
+vless://c358c324-68eb-41f9-a2a4-3f95fd0d2a61@172.66.40.99:8080?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#172.66.40.99:8080
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
+vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?type=grpc&security=tls&sni=servers.xvon.in#servers.xvon.in:5000
+vless://73fe0ac0-6dc7-45c9-aa0c-d2d21adf9b2b@servrbot-alishabani.sbs:13867?type=tcp&security=none#servrbot-alishabani.sbs:13867
+vless://Telegram-MsV2ray@www.speedtest.net:80?type=httpupgrade&security=none&path=/MsV2ray?ed=80#www.speedtest.net:80
+vless://aa85159e-131f-4a94-be93-93c6952eba09@104.21.43.168:8880?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#104.21.43.168:8880
+vless://aa85159e-131f-4a94-be93-93c6952eba09@172.66.40.99:8880?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#172.66.40.99:8880
+vless://a5309e53-9cc9-4c85-90fa-f1b78f14fe38@104.21.43.168:8880?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#104.21.43.168:8880
+vless://a5309e53-9cc9-4c85-90fa-f1b78f14fe38@172.66.40.99:8880?type=ws&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#172.66.40.99:8880
+vless://c7fd1132-11ce-45e9-9274-ad5624429ae9@104.21.43.168:8080?type=httpupgrade&security=none&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80#104.21.43.168:8080
 vless://d33b228d-654d-4dc2-a60e-16cbdd5b3e08@62.212.70.94:2025?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=Q1a6ooyct6J0bZRpJD02S6PLMOl0HaLWT2ECyMAwQgw&sid=e9#62.212.70.94:2025
 vless://f6e4491f-59b6-4b9a-982b-4b7e05509f96@62.212.70.94:2025?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=Q1a6ooyct6J0bZRpJD02S6PLMOl0HaLWT2ECyMAwQgw&sid=e9#62.212.70.94:2025
 vless://06f5a7cb-3842-49d0-a498-d4165c0eb956@test-lets-wildcard.spotifycdn.org:443?type=xhttp&security=reality&path=/&sni=www.tgju.org&fp=chrome&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=7f2798f9#test-lets-wildcard.spotifycdn.org:443
@@ -70,5 +52,8 @@ vless://dd7550e3-59ef-4d01-aa9b-a3dabd37d66b@91.107.248.47:8443?type=xhttp&secur
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&sid=e701a013553059ba#real-all3-2.sdcards.ir:8501
 vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?type=grpc&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&sid=8d9c20be72b4#5.75.197.120:2025
 vless://afc70422-f320-4523-bd14-4ee01f53ba3e@62.212.70.94:2026?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=eGk1Ry8mkkWQZc2QuGV_n123JIBFKsPtFcBSXDg33mk&sid=e9#62.212.70.94:2026
-trojan://oowrqnx7-hmdi-myfx-adjc-lnu62a4lz8g0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gph849fe-8lve-868s-36pt-xx2jd70oij1o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://9cd13592-4ea9-4320-a910-af51a25e4aef@62.212.70.94:2090?type=tcp&security=reality&sni=zhaket.com&fp=chrome&pbk=2ijB2vzukb0W-bYBFFZujTv6V-lrOTVuhxVKU8uxTRo&sid=e9#62.212.70.94:2090
+vless://b962948d-6d78-4810-a8df-1b062a23cafe@62.212.70.94:2026?type=tcp&security=reality&sni=zhaket.com&fp=chrome&pbk=U3dj7hcbexG-SmeG88Mdzr7-4aHk-r_IShG2EXTvXFI&sid=e9#62.212.70.94:2026
+vless://9a3ea5fb-1975-4726-8c1e-a7f64915953b@209.38.244.147:32789?type=grpc&security=reality&sni=www.stackoverflow.com&fp=chrome&pbk=33SVAlQv9slq7MriLy25Th1TFz3G156aLk9uc2iSXGk&sid=1e1ef98ffaf09d#209.38.244.147:32789
+trojan://itwgzakk-a3dn-uq9r-1t5j-yoeuq8iwzxvk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://unu1ymen-xcw0-5904-buqv-qeeam1ed2zks@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
