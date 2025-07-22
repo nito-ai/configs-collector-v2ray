@@ -1,10 +1,10 @@
-trojan://u68cn1d8-pjek-rrze-1bi1-si231db5j4fw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 00:02 ]
-trojan://7xszq5rl-49on-4qz8-8iwh-c1mvs4zrh72v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://40e0smif-tgq8-tvcd-1vhb-6t1k826w09fb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bnc7wx9e-weno-0v4y-tzr0-8vn6jdpzj2nj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 00:26 ]
+trojan://erdbscfl-dtfw-3k4d-m0og-bk2gf7k1sj41@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://p78gssa4-2owj-v4ld-t7zu-cj7bxmluoc1c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://8382ac4a-95a5-11ee-b55e-473254c6dcf2@50.114.37.34:10004?type=tcp&security=none&path=/vpnjantit#US 🇺🇸 ┇ VLESS-TCP-NTLS - MoeChuang Network Limited ┇ 50.114.37.34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMGY2ZjBjOC05NGYyLTQ5NjMtOTVmMi0yYjBjMzhkZDFhZGU@45.158.59.74:27802#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 45.158.59.74
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk@213.130.141.113:58226#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 213.130.141.113
-trojan://61c6ceee-ee4f-475f-867d-dcfda15490fb@v01.gutingting.com:30017?sni=v2hgc01.fuqiangren.com&peer=v2hgc01.fuqiangren.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MoeChuang Network Limited ┇ 5.83.221.31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYjg5NTQxNS04MDQwLTRlNTItOGMyZC0zYTI0MjQ0OWVmYWE@191.96.206.4:51166#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 191.96.206.4
-trojan://90c1qurn-3a4f-m0w6-s7wy-lz5y9b62nmlj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uax16jzs-l51t-9wcj-o2iv-1mhntl11y0ju@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk@213.130.141.113:58226#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 213.130.141.113
+trojan://a0087535-9c6f-42cd-9220-a7bb8eeae6cc@v02.gutingting.com:30057?sni=v1kr02.fuqiangren.com&peer=v1kr02.fuqiangren.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MoeChuang Network Limited ┇ 5.83.221.31
+trojan://k18bny64-thj9-131e-3zjv-ldtg2u294ots@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xdsdabvy-iiyi-tuuv-ql3x-gphpp9atxh3j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
