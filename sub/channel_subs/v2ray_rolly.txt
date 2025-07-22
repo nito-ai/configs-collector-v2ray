@@ -1,6 +1,6 @@
-trojan://zpcm2i6x-valc-6m40-pxb8-3memm2vn5795@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 00:27 ]
-trojan://lgic7bzl-ue9z-6ymb-f2rw-2dms9ww51s6k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7pmtdiel-oyha-5w2y-o7y6-sshgwtaipcz3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://h1g9rk3g-l9fw-5j1r-wdcy-oo0qeyexwr28@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 00:59 ]
+trojan://2uzr77uu-7eun-ja9c-kktz-g645a87y5t56@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iglfiz6p-vxki-lap7-iurc-kpqn0s1ldhwf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d6acae1a-cc46-430d-a7ae-88571965c00b@193.24.103.12:35459?type=grpc&security=none#193.24.103.12:35459
 vless://bac0d769-a6ac-4b00-8aa5-092391aaac42@185.146.173.185:2052?type=httpupgrade&security=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#185.146.173.185:2052
 vless://bac0d769-a6ac-4b00-8aa5-092391aaac42@172.67.181.173:2052?type=httpupgrade&security=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#172.67.181.173:2052
@@ -8,5 +8,5 @@ vless://bac0d769-a6ac-4b00-8aa5-092391aaac42@104.21.72.109:2052?type=httpupgrade
 vless://691cf35d-2b8b-42d3-a174-0eba3a09d53d@185.146.173.185:2052?type=httpupgrade&security=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#185.146.173.185:2052
 vless://691cf35d-2b8b-42d3-a174-0eba3a09d53d@172.67.181.173:2052?type=httpupgrade&security=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#172.67.181.173:2052
 vless://691cf35d-2b8b-42d3-a174-0eba3a09d53d@104.21.72.109:2052?type=httpupgrade&security=none&path=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#104.21.72.109:2052
-trojan://qv1n8fq2-tj9o-tuhz-l39k-o6on5y1r8434@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v7idfvht-w80d-bp8c-0qon-bzy09tw3lagu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://gxsjhvb8-yqp8-evde-zdu7-hyear4ah3vlr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3ho08zpn-gc0k-99p5-htev-yae90dfz44ad@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

@@ -1,8 +1,8 @@
-trojan://f9csvjva-cb3i-0k62-g5eb-vwsvdmyr3cor@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 00:26 ]
-trojan://s9lxjz0d-ypdw-ouc1-o1yz-3ar5hbgcd0n2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nl3af8oa-sqnw-x3n7-aazi-mnuofscf0lgz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ksk8v8xx-a4zq-qp3n-zsiz-z7jonm7cdy8d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 00:59 ]
+trojan://hj8r4smk-1qtq-v8g4-jelq-ojj43nnzx3cm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://p2dth93r-8yxq-cv4d-l1zi-919oqrjspi3o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZJQkVSU1RBVEUgXHUyNTA3IDM4LjE0Ny4xMDcuMjE0IiwiYWRkIjoiMzguMTQ3LjEwNy4yMTQiLCJwb3J0IjoyMzc3MCwiaWQiOiI2YzU2NTBjZC1hYWFjLTQxMTAtZmIzNS1iNjVlN2RkNDJiNDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
-tuic://548760e0-2de5-437d-a8ac-2b32b80424a8:548760e0-2de5-437d-a8ac-2b32b80424a8@2602:294:0:f5:1234:4321:dc1e:1:28029?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - FIBERSTATE ┇ 2602:294:0:f5:1234:4321:dc1e:1
 trojan://0667f570-ceea-11ee-9c78-1239d0255272@us1.socifiles.com:443?sni=circles.asia&peer=circles.asia&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FIBERSTATE ┇ 23.158.72.133
-trojan://sewlhckv-795f-h40q-fl2w-0lsb30ym62hl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r7n7bjz0-ey84-7lde-oost-rda6widfvinj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+tuic://548760e0-2de5-437d-a8ac-2b32b80424a8:548760e0-2de5-437d-a8ac-2b32b80424a8@2602:294:0:f5:1234:4321:dc1e:1:28029?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - FIBERSTATE ┇ 2602:294:0:f5:1234:4321:dc1e:1
+trojan://t98qoudy-tdpl-qf0c-zh43-7pzlm68j30g9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://91v0g54k-ldwd-seaa-bk85-dj0ce1nsaxd1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
