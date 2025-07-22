@@ -1,9 +1,8 @@
-trojan://vctiagxw-jjji-41io-rzr9-zze4gbxm39t3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 03:00 ]
-trojan://97emrb5p-5y2n-8mw9-l7qp-gyo5tmdgfu2q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://70xr2h7r-gqao-7ysl-td86-3lw164f6idpn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://22jby4c3-dd6l-0gwx-mzdk-xpdytkk2s8nc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 03:24 ]
+trojan://4nvedars-66ze-pkim-wiup-6wu5wbis2asy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zjb7cqck-b1se-nrje-caqa-nmbymhuvh6dj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#185.213.20.227:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@4.158.95.221:443#4.158.95.221:443
-trojan://blue2024@188.114.97.105:443?sni=td.promote.icu&peer=td.promote.icu&security=tls#188.114.97.105:443
 trojan://NISHIKUITAN111@104.20.76.165:443?security=tls#104.20.76.165:443
 trojan://bpb-trojan@104.17.116.87:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#104.17.116.87:443
 trojan://NISHIKUITAN111@104.25.101.22:443?security=tls#104.25.101.22:443
@@ -20,6 +19,7 @@ vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.175.239:80?type=tcp&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
 vless://f954d7c1-e793-45e7-8505-8e95e6170dbb@159.203.138.123:8710?type=tcp&security=none#159.203.138.123:8710
 vless://f954d7c1-e793-45e7-8505-8e95e6170dbb@159.203.138.123:9387?type=ws&security=none#159.203.138.123:9387
+vless://1bb4b5c0-9daf-4a04-af97-aaa220fb191e@193.228.168.194:2062?type=tcp&security=none#193.228.168.194:2062
 vless://8611dbb2-fdd5-4ba3-b06f-bc10bb75deeb@138.199.168.187:28153?type=xhttp&security=reality&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&sni=zhaket.com&fp=chrome&pbk=wIyC9CuOB33Hx1HbHnx_0JZXypmEink7icN0rWmzTlE&sid=b6f9#138.199.168.187:28153
-trojan://i9omh5mn-c93a-m213-yxm0-15s2abhtzmjm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xptjwvl7-6bb7-va2a-c6ux-pu1uvjjwedz0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://r10vl6yw-jvxq-6kks-bvm5-6pn4a70t9bv6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hkzz1ggo-e0hp-h2lv-rotd-nfv377gnb237@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
