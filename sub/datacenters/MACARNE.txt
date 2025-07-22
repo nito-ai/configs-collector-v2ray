@@ -1,10 +1,10 @@
-trojan://6iurlu7n-qig3-1m2a-wvdb-xhclbuandjxo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 00:59 ]
-trojan://ne59wvxs-aoid-xwvb-zo73-35dddktlxobv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mp2awhzt-bhp6-in1a-trw3-7yl4yi52pr21@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - MACARNE ┇ 206.71.158.10
+trojan://06nl8h8z-00dx-jofr-98gq-1is2m47w5zz8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 01:23 ]
+trojan://y24az7mw-suep-r1jj-f3ia-oghvzirdq4v9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://illtcz9q-it18-9ndx-7rj2-zsofye8o5250@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@yapc-1.afshin.ir:443?type=tcp&security=tls&sni=YAPC-1.afshin.ir&fp=randomized&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - MACARNE ┇ 206.71.158.37
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1BQ0FSTkUgXHUyNTA3IDIwNi43MS4xNTguNDAiLCJhZGQiOiIyMDYuNzEuMTU4LjQwIiwicG9ydCI6MjA4NiwiaWQiOiJiNWMxYjAwNC1jZDA1LTFlZjItZjZmZi1lZGRhMmU0N2Q1MzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCJ9
-vless://5159e44f-b4cf-49d9-a4c2-5620a6431e87@206.71.158.75:465?type=xhttp&security=reality&path=/&sni=smtp.zoho.com&fp=chrome&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - MACARNE ┇ 206.71.158.75
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - MACARNE ┇ 206.71.158.23
-trojan://bcby0oab-dzuu-1e0m-pioq-onpyvl67g9zk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9yxej75m-t3g3-vzoc-nnkx-0jexxeof7rd1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://5159e44f-b4cf-49d9-a4c2-5620a6431e87@206.71.158.75:465?type=xhttp&security=reality&path=/&sni=smtp.zoho.com&fp=chrome&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - MACARNE ┇ 206.71.158.75
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1BQ0FSTkUgXHUyNTA3IDIwNi43MS4xNTguNDAiLCJhZGQiOiIyMDYuNzEuMTU4LjQwIiwicG9ydCI6MjA4NiwiaWQiOiJiNWMxYjAwNC1jZDA1LTFlZjItZjZmZi1lZGRhMmU0N2Q1MzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCJ9
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - MACARNE ┇ 206.71.158.10
+trojan://cto0gwx4-gp7l-4j8c-ndng-xwi9u831hgj2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d839m7ow-a33c-93yf-ck49-sxfiqlojafvh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
