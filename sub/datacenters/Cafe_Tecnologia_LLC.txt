@@ -1,12 +1,12 @@
-trojan://2a9k5dxj-x18p-vhjg-ae6p-bnci2x4mglw8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 12:08 ]
-trojan://4ouohiki-nl66-0auv-550u-7mlxyziurb12@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nyofhk91-k73b-zzgo-a9qr-ms7azmorr47u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://b73qj6t3-ywrb-hgl0-r1e8-wnwua84n7rpr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 12:35 ]
+trojan://na8zqayl-iarc-frqn-2ure-0h080h31vpwg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g8d2ig64-7knw-r3xc-ybwy-oov7fi90obaw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://c5d7e9f0-1a2b-4c3d-8e9f-0a1b2c3d4e5f@185.199.229.118:443?type=ws&security=tls&path=/ws&sni=v2ray.sohala.uk#ES 🇪🇸 ┇ VLESS-WS-TLS - Cafe Tecnologia LLC ┇ 185.199.229.118
 vless://a9c1e3f5-2a3b-4c5d-6e7f-8a9b0c1d2e3f@185.199.229.122:443?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#ES 🇪🇸 ┇ VLESS-WS-TLS - Cafe Tecnologia LLC ┇ 185.199.229.122
+vless://a3c5e7f9-6f7a-8b9c-1d2e-4f5a6b7c8d9e@185.199.229.119:443?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#ES 🇪🇸 ┇ VLESS-WS-TLS - Cafe Tecnologia LLC ┇ 185.199.229.119
 vless://a5c7e9f1-2c3d-4e5f-6a7b-9c8d0e1f2a3b@185.199.229.120:443?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#ES 🇪🇸 ┇ VLESS-WS-TLS - Cafe Tecnologia LLC ┇ 185.199.229.120
 vless://abc1e3f5-7f8a-9b0c-1d2e-3f4a5b6c7d8e@185.199.229.123:443?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#ES 🇪🇸 ┇ VLESS-WS-TLS - Cafe Tecnologia LLC ┇ 185.199.229.123
-vless://a7c9e1f3-7b8c-9d0e-1f2a-3b4c5d6e7f8a@185.199.229.121:443?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#ES 🇪🇸 ┇ VLESS-WS-TLS - Cafe Tecnologia LLC ┇ 185.199.229.121
-vless://c5d7e9f0-1a2b-4c3d-8e9f-0a1b2c3d4e5f@185.199.229.118:443?type=ws&security=tls&path=/ws&sni=v2ray.sohala.uk#ES 🇪🇸 ┇ VLESS-WS-TLS - Cafe Tecnologia LLC ┇ 185.199.229.118
-vless://a3c5e7f9-6f7a-8b9c-1d2e-4f5a6b7c8d9e@185.199.229.119:443?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#ES 🇪🇸 ┇ VLESS-WS-TLS - Cafe Tecnologia LLC ┇ 185.199.229.119
 vless://a3c5e7f9-2e3f-4a5b-6c7d-8e9f0a1b2c3d@185.199.229.124:443?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#ES 🇪🇸 ┇ VLESS-WS-TLS - Cafe Tecnologia LLC ┇ 185.199.229.124
-trojan://kam7tbqr-1bag-dn9b-kbu2-0ssmgo0pvdkv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a8bn7esg-jguf-9tb4-0auk-8vnydwnpcezh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://a7c9e1f3-7b8c-9d0e-1f2a-3b4c5d6e7f8a@185.199.229.121:443?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#ES 🇪🇸 ┇ VLESS-WS-TLS - Cafe Tecnologia LLC ┇ 185.199.229.121
+trojan://o6z1t5ev-6tg2-d1l7-qhjh-lr7lkupbk4bn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://j42hcwoo-sjtf-26wx-lpot-p6438g06k6km@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

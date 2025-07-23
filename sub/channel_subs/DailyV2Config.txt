@@ -1,16 +1,18 @@
-trojan://815kf4jk-majc-um8u-w884-quuvg9rt916i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 12:08 ]
-trojan://g7ten6bh-sk18-60yk-gpmx-ww3o51r3s4gb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rhlrgipn-7dsk-6qss-373l-d8e4wlfdm88a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiI1MS42OC4xOTEuMjMzIiwicG9ydCI6ODAsImlkIjoiZjBlZGEwNzItOWFlOC00OTRjLWE0OTUtMjE1ZmE1NzI5NDY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii92bWVzcy8ifQ
-vless://5159e44f-b4cf-49d9-a4c2-5620a6431e87@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed#www.speedtest.net:2095
-vless://a5b00f0a-4c83-4e76-9eaa-75a7c6451017@www.speedtest.net:8080?type=ws&security=none&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048#www.speedtest.net:8080
+trojan://x4qb4mhy-46j0-9ld9-26wv-bc6u40vtdydj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 12:35 ]
+trojan://ktr9gomd-bpwo-cbmr-xsbg-d394lv6a8mt2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uoe6efto-a2iy-8nnz-g1td-w6j6cvpkihox@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560#172.67.65.158:8880
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560#172.67.65.158:8880
+vless://telegram@fc.acmilan.lol:80?type=grpc&security=tls&sni=fc.Acmilan.lol&fp=chrome#fc.acmilan.lol:80
+vless://cec135d5-fcce-4c9e-c5f4-d94744055291@185.162.228.226:80?type=ws&security=none&path=/olem/ws?ed=1024#185.162.228.226:80
+vless://28d32210-a00d-478f-8221-1c66eb3a73f3@www.speedtest.net:8880?type=ws&security=none&path=/ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY?ed=2560#www.speedtest.net:8880
+vless://19478a08-9239-40b9-b550-4cfa58df58a7@tunsite2.vipmehspd.ir:65421?type=tcp&security=none#tunsite2.vipmehspd.ir:65421
+vless://19478a08-9239-40b9-b550-4cfa58df58a7@tunsite2.vipmehspd.ir:65421?type=tcp&security=none#tunsite2.vipmehspd.ir:65421
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@185.221.160.3:80?type=ws&security=none&path=/193.123.81.105=443#185.221.160.3:80
+vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?type=ws&security=none&path=/?ed#104.16.53.11:80
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.14.69:2096
 vless://24e56f45-c3b9-46ee-a32f-39cc5c2d43d2@162.159.20.126:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#162.159.20.126:80
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&security=none&path=/xhttp#91.99.85.185:8443
-vless://mahanvpn-vip-chanell@172.67.160.192:2052?type=httpupgrade&security=none&path=/mAhAnkarNanaNd.kouRdneTpluSedAte.iR,?ed=2560#172.67.160.192:2052
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?type=ws&security=tls&path=/assets&sni=NGINX.NSCl.IR#104.16.243.59:443
-vless://616997f9-fff3-4280-8760-adddf9048203@104.17.148.22:8443?type=ws&security=tls&path=/&sni=pishgam.pinpen.ir.&fp=chrome#104.17.148.22:8443
-vless://2751d4fd-f5de-46fd-bc98-44a0b43a274a@meli_proxyy.vip-plan.org:50452?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=44l4QJ3IgqePj0rrHHiFBcCa1cwubF6JwE5grbtY33A&sid=10#meli_proxyy.vip-plan.org:50452
-vless://2751d4fd-f5de-46fd-bc98-44a0b43a274a@meli_proxyy.vip-plan.org:50452?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=44l4QJ3IgqePj0rrHHiFBcCa1cwubF6JwE5grbtY33A&sid=10#meli_proxyy.vip-plan.org:50452
-vless://95dd1a77-89e1-4448-9763-514cc79168ed@direct.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#direct.yasharteam.com:443
-trojan://9ih6pi4w-f81l-szol-otdt-s7qbruodgxgr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5hw91n6j-9pk4-tne1-wgid-0kfp30sj8y64@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?type=httpupgrade&security=none&path=/?ed=2052#www.speedtest.net:2095
+vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?type=ws&security=none&path=/?ed=2048#cdn39030.marzban-l.ir:8080
+trojan://xg4g62sg-vz0k-kd5f-vhpo-fj7p8p26on7m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3p5i1txb-lg44-ttn6-n5ae-jyho7jx1o3bd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
