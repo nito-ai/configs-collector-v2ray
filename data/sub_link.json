@@ -49,5 +49,9 @@
     "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt",
     "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/vless_iran.txt",
     "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/ss_iran.txt",
-    "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/trojan_iran.txt"
+    "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/trojan_iran.txt",
+    "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/vmess_iran.txt",
+    "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/ss_iran.txt",
+    "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/trojan_iran.txt",
+    "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/vless_iran.txt"
 ]
