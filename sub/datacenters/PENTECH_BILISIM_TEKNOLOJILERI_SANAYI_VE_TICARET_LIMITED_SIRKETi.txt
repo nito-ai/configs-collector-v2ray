@@ -1,8 +1,8 @@
-trojan://k13s49yh-d4j9-89bh-uhq7-3kz8yf2788pu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 16:19 ]
-trojan://s21g42nm-lnaq-c252-pgps-7tdwdwhab2fh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rynhsa8v-7twt-hrjo-nnub-zb2c2hqobaxd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSVdtSTFNbVZHWmtoSFpXSQ@188.132.209.15:15303#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.132.209.15
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBFTlRFQ0ggQklMSVNJTSBURUtOT0xPSklMRVJJIFNBTkFZSSBWRSBUSUNBUkVUIExJTUlURUQgU0lSS0VUaSBcdTI1MDcgMTg4LjEzMi4yMDkuODEiLCJhZGQiOiIxODguMTMyLjIwOS44MSIsInBvcnQiOjI4NDI0LCJpZCI6IjczNTdmY2Y0LTllMzQtNDU5Zi1hOTUyLWEzZWRjZDgxYWQ4YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+trojan://msgi0zi5-se2h-6lqn-gqju-zjvi965cjamk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 17:18 ]
+trojan://7i7hwhtf-4se1-401y-34e9-xri3jtqdyyg9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://twda0d89-ve9q-tn30-clq5-t8hchj0ods1w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 tuic://975b32a7-51dc-45c4-ba8d-3b57dc71e453:opetateam1tuic@188.132.209.49:52300?sni=cmirq.ir&congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#TR 🇹🇷 ┇ TUIC-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.132.209.49
-trojan://ptzzdr6g-4ccx-fjt1-wl9m-w10zlqkvuuxz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://unq9w6od-cah3-58mq-7o3e-tnje292s0iog@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBFTlRFQ0ggQklMSVNJTSBURUtOT0xPSklMRVJJIFNBTkFZSSBWRSBUSUNBUkVUIExJTUlURUQgU0lSS0VUaSBcdTI1MDcgMTg4LjEzMi4yMDkuODEiLCJhZGQiOiIxODguMTMyLjIwOS44MSIsInBvcnQiOjI4NDI0LCJpZCI6IjczNTdmY2Y0LTllMzQtNDU5Zi1hOTUyLWEzZWRjZDgxYWQ4YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSVdtSTFNbVZHWmtoSFpXSQ@188.132.209.15:15303#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.132.209.15
+trojan://2dcsx9ym-xsa4-x5tp-xdcy-nn1taww1b8q1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xgya44p0-6oki-c9cl-o3vc-4sykgol044xa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
