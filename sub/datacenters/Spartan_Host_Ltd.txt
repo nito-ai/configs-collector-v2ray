@@ -1,12 +1,13 @@
-trojan://2gi3z5rr-o57h-rw2j-njki-y78fw1or6wn9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 03:24 ]
-trojan://asth4siu-qjoz-5mwh-nmqy-6h99wwcn0htd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://72nx17xo-n7px-crd3-2odp-unc1rpyhccnv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-hysteria2://dongtaiwang.com@45.145.72.212:23520?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - Spartan Host Ltd ┇ 45.145.72.212
-vless://82f6a148-5c4a-48f9-931a-e3b26777ffa2@45.150.165.121:7885?type=tcp&security=tls&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Spartan Host Ltd ┇ 45.150.165.121
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU3BhcnRhbiBIb3N0IEx0ZCBcdTI1MDcgNDUuMTQyLjE1OC44NSIsImFkZCI6IjQ1LjE0Mi4xNTguODUiLCJwb3J0Ijo0NDMsImlkIjoiYjdiNjA0ZTQtNTBlNy0zYThiLTg0ZjYtMjAzNWZjZDI0ZTNmIiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvdjJyYXkifQ
+trojan://v3rkiz1m-acco-zco7-7o4r-szqdn69rzz19@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 05:08 ]
+trojan://dment9bc-ron4-zj7e-xu1a-nwhu055cr0xs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://50lnp7gs-kbxk-8lgc-lpwa-kdbdo696ypdr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZTQ5MzYyMy0zZGE3LTQ1NWEtOTA1Ny05NTRkOTMxODE1MjM@ahyd.pangupy.com:57408#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Spartan Host Ltd ┇ 94.154.114.6
+hysteria2://d017e316-82cb-441c-8eea-7b5e9de64a20@45.150.165.84:8881?sni=45.150.165.84&insecure=1&obfs=salamander#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - Spartan Host Ltd ┇ 45.150.165.84
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU3BhcnRhbiBIb3N0IEx0ZCBcdTI1MDcgMTA0LjE5NC4yMDYuMjI2IiwiYWRkIjoiMTA0LjE5NC4yMDYuMjI2IiwicG9ydCI6ODA4MywiaWQiOiIyMTNlMjIyYy04ZTBmLTExZWYtOGRjNC1mMjNjOTFjZmJiYzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+vless://82f6a148-5c4a-48f9-931a-e3b26777ffa2@45.150.165.121:7885?type=tcp&security=tls&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Spartan Host Ltd ┇ 45.150.165.121
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU3BhcnRhbiBIb3N0IEx0ZCBcdTI1MDcgMTA0LjE5NC4yMDYuMjMwIiwiYWRkIjoiNWU0NDc1YWMtc3Yyc2cwLXN3b3M4ZC0xdGUyYS5zdi5wbGViYWkubmV0IiwicG9ydCI6MTI4MSwiaWQiOiI1NzRkYjRiYy1lZjVlLTExZWYtYmQxYS1mMjNjOTEzYzhkMmIiLCJhaWQiOjIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU3BhcnRhbiBIb3N0IEx0ZCBcdTI1MDcgNDUuMTQ1Ljc0LjIyNSIsImFkZCI6IjQ1LjE0NS43NC4yMjUiLCJwb3J0IjozMzk5OSwiaWQiOiIzMDBjNTA1Yi1jMDlkLTRlMmItZjRmZi1mNTIyZjhjNTc2YmYiLCJhaWQiOjEyOCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-hysteria2://d017e316-82cb-441c-8eea-7b5e9de64a20@45.150.165.84:8881?sni=45.150.165.84&insecure=1&obfs=salamander#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - Spartan Host Ltd ┇ 45.150.165.84
-trojan://gc7x1y63-b9n2-zw8l-t1lw-98ssm0b44qjg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rimk22is-8ohk-mkj3-b9jw-wmuh2h1iwdl2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU3BhcnRhbiBIb3N0IEx0ZCBcdTI1MDcgNDUuMTQyLjE1OC44NSIsImFkZCI6IjQ1LjE0Mi4xNTguODUiLCJwb3J0Ijo0NDMsImlkIjoiYjdiNjA0ZTQtNTBlNy0zYThiLTg0ZjYtMjAzNWZjZDI0ZTNmIiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvdjJyYXkifQ
+hysteria2://dongtaiwang.com@45.145.72.212:23520?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - Spartan Host Ltd ┇ 45.145.72.212
+trojan://6ckk6t68-656a-iraq-yc14-03rlvlf1srau@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v9lqc8fg-isjj-myrc-xlda-uxeyddews8f9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
