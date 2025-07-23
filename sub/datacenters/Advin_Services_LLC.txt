@@ -1,10 +1,10 @@
-trojan://0lot9wjy-tron-e07k-ea7y-rh2wjcrnlzxe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 00:02 ]
-trojan://4lx5frhg-boju-6t5y-8wn2-skofs78k8k9k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nz5okysu-49ws-x68x-upky-rwyrkd8e719a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://t8k6ex5s-a63s-k3rc-iwd5-hjuk88ap6h8n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 00:26 ]
+trojan://bafr5z5k-zuwa-togc-ftad-8x0bin9h788t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i3bq9mao-chgy-p88a-or69-ubinpo8n3mvp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODUzMzIxNi02NWE4LTRkMzAtOWQ0MC03ZTk1MjZjZGQxZjE@shadow-de01.gproxy.gratis:8388#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.114
-vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision-udp443-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
-trojan://769c2da7-add3-42e8-a03c-07be9fcf483c@146.19.215.81:443?sni=zaelot.cc&peer=zaelot.cc&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.81
-trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@146.19.215.165:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.165
 vless://99cd771c-0bc5-4f41-879e-925b973a3186@usreal.tsmoe.com:9003?type=tcp&security=reality&sni=cd2.tsmoe.com&fp=edge&flow=xtls-rprx-vision&pbk=SwtFfm3eCWmppdc8fXIrX26XT8OMp9qrAQoHfgLJLS8&sid=09ba19fa#US 🇺🇸 ┇ VLESS-TCP-RLT - Advin Services LLC ┇ 45.8.22.65
-trojan://1hs3fhal-ttmh-kt5y-wdgx-ghf2prfr7i69@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://thz0e7wv-cgca-3x64-5lwl-uo085bl98vci@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision-udp443-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
+trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@146.19.215.165:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.165
+trojan://769c2da7-add3-42e8-a03c-07be9fcf483c@146.19.215.81:443?sni=zaelot.cc&peer=zaelot.cc&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.81
+trojan://eeq0m9kv-luof-kzhb-lzzv-xhl6l7wyk2qa@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://u88aedcc-x3k3-7twy-ugo7-uh42tbtbkh1a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
