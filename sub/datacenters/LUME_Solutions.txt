@@ -1,9 +1,9 @@
-trojan://3asb0nln-8356-55qw-h6zf-gi15ql8dxazy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 09:15 ]
-trojan://uk0ayq5b-8flh-4avh-wnmh-bqf610wk4nav@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lycovfk4-1c95-is9o-3pjz-wt57k1l6ovuw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - LUME Solutions ┇ 89.144.25.236
-vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?type=tcp&security=tls&sni=chopper.lnmarketplace.net&fp=randomized&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - LUME Solutions ┇ 89.144.25.195
+trojan://n4wj0fxe-e0z6-j0d9-09dy-20t8dw2qupgv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 10:09 ]
+trojan://ylli0y5w-sx8g-fzy9-t0e5-1s14q7al2eya@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2y5p9flt-nijw-ns36-9ajg-ykpvmawz8izl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?sni=pichondan.com&insecure=1&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - LUME Solutions ┇ 77.90.52.69
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - LUME Solutions ┇ 89.144.35.100
-trojan://m87o56s9-m0gf-ktgl-bbsx-q6fruwirv27a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://p7wau69s-t37n-425v-8b7t-6avfnfa7bw7b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.25.236:443?type=xhttp&security=tls&path=/kavir/?telegram@MTMVPN&sni=kavir.lnmarketplace.net&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - LUME Solutions ┇ 89.144.25.236
+vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@89.144.25.195:443?type=tcp&security=tls&sni=chopper.lnmarketplace.net&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - LUME Solutions ┇ 89.144.25.195
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.35.100:443?type=xhttp&security=tls&path=/kavir/?Join_Bade_Channel@JOKERRVPN&sni=kavir.lnmarketplace.net&fp=firefox#DE 🇩🇪 ┇ VLESS-XHTTP-TLS - LUME Solutions ┇ 89.144.35.100
+trojan://vptqiv1r-j2nx-3z34-sgmv-f8uvzbts8h5g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fe9t6et5-m5j7-491t-w6my-fhbcuxbf2e5i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
