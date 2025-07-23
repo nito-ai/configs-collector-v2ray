@@ -1,9 +1,9 @@
-trojan://5e2msb4w-nnj1-129p-v5zo-wt8y55kpq7z5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 08:41 ]
-trojan://04w9tfg9-hiad-sxpu-6ajd-ef13ak043jkx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sgswb2fw-dnfx-6g4s-057t-88ksj8vzqbx7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206ekpjdnVqcHNYdA@133.18.108.187:37422#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - KAGOYA JAPAN Inc. ┇ 133.18.108.187
+trojan://z60wb8uh-48en-r40b-dld8-l0lwe1kwfcu2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 09:15 ]
+trojan://51yaj1mc-h390-pb3i-6a83-oxumxurt7lvi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kyiccsb0-idy1-8f2p-wi4a-4ujmfvykmmzy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://e42b8392-782e-43f4-8403-1f006c2173ab@133.18.227.50:30000?sni=cdn.jp-01.planb.cat&peer=cdn.jp-01.planb.cat&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KAGOYA JAPAN Inc. ┇ 133.18.227.50
+ss://YWVzLTI1Ni1nY206ekpjdnVqcHNYdA@133.18.108.187:37422#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - KAGOYA JAPAN Inc. ┇ 133.18.108.187
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS0FHT1lBIEpBUEFOIEluYy4gXHUyNTA3IDEzMy4xOC4yMDMuMTg4IiwiYWRkIjoianAxLndhbnNzLndpbiIsInBvcnQiOjIzMzQ0LCJpZCI6IjQ4QzE2NkIyLUJGQzItNTEyRS00RDY3LTQ3QzJGN0IyQ0U1QyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vless://34cf07e4-0c8c-425f-afe5-45c07fd49f87@133.18.104.235:33001?type=tcp&security=reality&sni=s0.awsstatic.com&fp=firefox&flow=xtls-rprx-vision&pbk=rckWtXghGii1mFHTK0UzeXYjtUsqkiQSGz0eBScn1E4#JP 🇯🇵 ┇ VLESS-TCP-RLT - KAGOYA JAPAN Inc. ┇ 133.18.104.235
-trojan://0tdyo9nb-gqf5-gmpv-75p2-ctqnoody5eg1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wjue0j4o-qbsy-5g8w-7qeu-83red9rcaob5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://sji9cn6u-psw7-j747-spka-l0txfnj038bq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sunvo3jg-ov8m-7nva-fth5-guoboth1emzq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
