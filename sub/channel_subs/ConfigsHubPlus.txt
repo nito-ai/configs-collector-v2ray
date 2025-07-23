@@ -1,24 +1,24 @@
-trojan://uv7hqvqm-bk14-mvjz-4svq-nf20ouozk20d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 13:44 ]
-trojan://4trxzqx5-4jbh-qlnh-7m0a-ekok7urpes12@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hs1cawmo-xphe-6o0i-03s1-n5gifn960ml9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6ixkpjix-ll8n-3z9l-iaxt-yuoe1576g4fl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 14:02 ]
+trojan://x70847z1-3fhq-hvgp-an93-8miia8o6l2m8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i4h9y5hx-4l6i-6uh2-1ii3-rehr9veol38g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#104.192.226.106:990
+trojan://blue2024@104.19.185.248:443?sni=td.promote.icu&peer=td.promote.icu&security=tls#104.19.185.248:443
+trojan://bpb-trojan@104.27.97.121:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#104.27.97.121:443
+vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGZjMV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiIxNzIuMTExLjE0Ni42NCIsInBvcnQiOjgwLCJpZCI6IjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvdm1lc3MvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGZjMV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiI2MS4yNDUuMTEuNjAiLCJwb3J0Ijo4MCwiaWQiOiI2OTI0MTgyZi05MGVjLTRiMTEtYjA1Ni1mYzUwMTk1ZTMzNTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3ZtZXNzLyJ9
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.16.69.162:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.16.69.162:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@104.24.8.53:8880?type=ws&security=none&path=/#104.24.8.53:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
-vless://b9a0ed54-123f-4353-909b-61468462372e@65.109.209.53:14720?type=tcp&security=none#65.109.209.53:14720
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#198.62.62.175:8880
-vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?type=httpupgrade&security=none&path=/?ed=2052#www.speedtest.net:2095
-vless://68c99831-a708-4079-a70f-283ef7ae5e16@193.238.153.24:31023?type=tcp&security=none#193.238.153.24:31023
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#198.62.62.175:8880
+vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@151.101.242.172:80?type=xhttp&security=none&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&sni=global.ssl.fastly.net&fp=chrome#151.101.242.172:80
+vless://7a8d449f-8f00-4b7b-8c87-f44af9898a57@167.99.216.10:45500?type=tcp&security=none#167.99.216.10:45500
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
+vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?type=httpupgrade&security=none&path=/?ed=2052#www.speedtest.net:2095
+vless://afbf8704-8ef4-48cc-90df-820849c64e54@167.99.216.10:45500?type=tcp&security=none#167.99.216.10:45500
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.14.69:2096
 vless://710fa5e1-b181-523c-8f37-54adc56b9eb9@fox.7gozar.net:53815?type=ws&security=none&path=/#fox.7gozar.net:53815
-vless://c4f69d42-76fd-454b-ce3f-1af09ad14309@sqz.outis6.xyz:44643?type=tcp&security=reality&sni=rel6rel.outis6.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=I1AB7_vPAaI3tP4sEEgO8LjX-iCTYDoejlR0kF9flT0#sqz.outis6.xyz:44643
-vless://0a806f40-bd95-42c3-8457-f520f80bfd61@45.150.33.157:50810?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=zhaket.com&fp=chrome&pbk=J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg&sid=aa60a00122200b76#45.150.33.157:50810
-vless://0a806f40-bd95-42c3-8457-f520f80bfd61@45.150.33.157:50810?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=zhaket.com&fp=chrome&pbk=J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg&sid=aa60a00122200b76#45.150.33.157:50810
-vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&sid=788456bc#45.83.20.34:58164
-trojan://ourtkkvn-gz8c-4u3a-ocqt-rsfwkzons412@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7se7svqz-7ppz-h9w0-beg1-tfg242et8qoj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://338af65d-b2d5-4acb-ae72-bc79ba1c509e@199.232.125.59:443?type=ws&security=tls&path=/Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-Telegram,@ELiV2RAY-?ed=2560&sni=JOin--E-L-i-V-2-R-A-Y.coM&fp=randomized#199.232.125.59:443
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?type=grpc&security=none#95.164.45.78:8880
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-4.cristiano.name.ng:443
+trojan://fbzejovv-yrct-xeal-4l2n-01fwoyh9wtyg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5tm2e33i-vbfi-6kzp-x2qu-j2pubk5th7ke@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

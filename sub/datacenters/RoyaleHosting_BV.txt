@@ -1,9 +1,10 @@
-trojan://cw1kxc1z-5yab-kg1a-xo1l-p1421c43zw0d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 13:44 ]
-trojan://mnzm4hct-c7c4-y4ni-w098-c1pb73o9dv6x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fgu0xk6w-npal-527w-mn20-d5joc9bw9rcf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://ceeb20b5-88b3-49e1-99f5-24e3ef634205@ro2.pandu.lat:443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=kpMhvUIrBqfhD6exZF_mkjkPpjUZlKHxfRpSZ4e_gzA&sid=1919e8f5fdbb50cd#NL 🇳🇱 ┇ VLESS-TCP-RLT - RoyaleHosting BV ┇ 185.102.172.5
-hysteria2://87f055ba@141.11.89.172:60000?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - RoyaleHosting BV ┇ 141.11.89.172
-vless://1dd65630-29e2-4333-9b92-43ea8ca7f4ce@nt1.yasharteam.com:500?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - RoyaleHosting BV ┇ 146.19.162.73
+trojan://7vpa6wgq-nkjv-bm7r-hghi-lskqtarsf33n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 14:02 ]
+trojan://9sezh2tb-37nn-ug3m-skue-4uke1kqmx8ab@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://99zktsdb-u6rh-floo-sowu-mobmw2lre2uc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://ceeb20b5-88b3-49e1-99f5-24e3ef634205@ro2.pandu.lat:443?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=kpMhvUIrBqfhD6exZF_mkjkPpjUZlKHxfRpSZ4e_gzA&sid=1919e8f5fdbb50cd#NL 🇳🇱 ┇ VLESS-TCP-RLT - RoyaleHosting BV ┇ 185.102.172.5
 vless://05e56ba7-e920-43e8-97ad-dc6c18913ef7@45.140.188.8:2082?type=ws&security=none&path=/?ed=2052#NL 🇳🇱 ┇ VLESS-WS-NTLS - RoyaleHosting BV ┇ 45.140.188.8
-trojan://n7u88ow2-bf2o-715a-qn5i-7nrbhma43sjv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fsutx35u-duhr-5vjp-dovr-euw6eh85wn5y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://757889e2-cbca-4a71-aa10-eba9a120985e@direct2.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#NL 🇳🇱 ┇ VLESS-TCP-RLT - RoyaleHosting BV ┇ 91.190.100.42
+vless://1dd65630-29e2-4333-9b92-43ea8ca7f4ce@nt1.yasharteam.com:500?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - RoyaleHosting BV ┇ 146.19.162.73
+hysteria2://87f055ba@141.11.89.172:60000?sni=www.bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - RoyaleHosting BV ┇ 141.11.89.172
+trojan://hk93lfx6-9uak-7eny-tyut-c0rpkbdkw6uu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8cznsia1-9iop-6p6g-5y9q-or26qpazcr8l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
