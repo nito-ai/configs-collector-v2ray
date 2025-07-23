@@ -1,9 +1,9 @@
-trojan://8wppeo5m-8drp-0t6u-2rpf-7mm7utwgie0w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 22:08 ]
-trojan://l8t4x9dp-2j9f-qxbe-7aki-ogghkz9zsek1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jp1db9aq-20e9-xlv4-4u7s-s9mgi6n3fbw3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@147.79.20.239:443?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 147.79.20.239
-trojan://4f9d1abb-cca4-4f44-a2a5-e126e622ea35@sg1.3224536.xyz:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 109.176.19.79
-vless://0b1b62ab-537f-4cc3-b8b2-71fb1ddbfdb1@185.115.207.29:10726?type=ws&security=tls&path=/?ed=2560&sni=111-aw3.pages.dev&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - ByteVirt LLC ┇ 185.115.207.29
+trojan://lbev59qw-1cpe-6zv2-8pq9-iu2ak4yre49r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 22:35 ]
+trojan://p4u9ry5l-twaf-rfbv-4ypm-zgs0lv8d2zt7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bdll8pyd-gzxf-37i0-9in2-1iis2v3qmixz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0b1b62ab-537f-4cc3-b8b2-71fb1ddbfdb1@147.79.20.121:30001?type=ws&security=tls&path=/?ed=2560&sni=111-aw3.pages.dev&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - ByteVirt LLC ┇ 147.79.20.121
-trojan://xrqdphuu-8qz1-2sgr-7dzq-amxahhvkiqcz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://atimy33f-0zdv-hb9e-u56x-e1o23b0t4hzb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://0b1b62ab-537f-4cc3-b8b2-71fb1ddbfdb1@185.115.207.29:10726?type=ws&security=tls&path=/?ed=2560&sni=111-aw3.pages.dev&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - ByteVirt LLC ┇ 185.115.207.29
+trojan://4f9d1abb-cca4-4f44-a2a5-e126e622ea35@sg1.3224536.xyz:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 109.176.19.79
+trojan://Aimer@147.79.20.239:443?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 147.79.20.239
+trojan://qtjknu8k-09ek-ngwu-2zqg-vgaq7uj9o8dd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vyhpveuw-004w-jzdr-jg9q-taba64v0zeyl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
