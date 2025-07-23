@@ -1,8 +1,8 @@
-trojan://dtg8t77y-bkfm-lg6n-mw0z-0jr5ig5a6fs9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 21:28 ]
-trojan://3ob6nqv4-pxhe-4d6r-4p8f-6av4vgq0pwzj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://43ssr9d0-9vkw-6nm2-lxp5-nleu26zmbx5z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-tuic://975b32a7-51dc-45c4-ba8d-3b57dc71e453:opetateam1tuic@188.132.209.49:52300?sni=cmirq.ir&congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#TR 🇹🇷 ┇ TUIC-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.132.209.49
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSVdtSTFNbVZHWmtoSFpXSQ@188.132.209.15:15303#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.132.209.15
+trojan://ctxdzdsm-4vju-2s7c-zmxz-jzg4vd7km0wy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 22:08 ]
+trojan://ax0hnom0-vnzi-duwq-ql7o-5a2mj1tvw9t2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://j98elbcc-zgxu-zs0u-1dyl-3tul6eg8v6ai@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBFTlRFQ0ggQklMSVNJTSBURUtOT0xPSklMRVJJIFNBTkFZSSBWRSBUSUNBUkVUIExJTUlURUQgU0lSS0VUaSBcdTI1MDcgMTg4LjEzMi4yMDkuODEiLCJhZGQiOiIxODguMTMyLjIwOS44MSIsInBvcnQiOjI4NDI0LCJpZCI6IjczNTdmY2Y0LTllMzQtNDU5Zi1hOTUyLWEzZWRjZDgxYWQ4YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://i6z3st62-ycrg-xn3h-1ky8-hjpjuijuni1e@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tb0qx2v6-fh0h-dq3v-z7ef-pi3y57ui999x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSVdtSTFNbVZHWmtoSFpXSQ@188.132.209.15:15303#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.132.209.15
+tuic://975b32a7-51dc-45c4-ba8d-3b57dc71e453:opetateam1tuic@188.132.209.49:52300?sni=cmirq.ir&congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#TR 🇹🇷 ┇ TUIC-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.132.209.49
+trojan://b97le2kz-jwl2-3u4e-c4ma-pyx3xcxoahb3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ytkdrhol-cjsm-rgoz-jxvg-b2g3k81q3x55@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
