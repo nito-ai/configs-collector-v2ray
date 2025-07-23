@@ -1,9 +1,9 @@
-trojan://gjdu972z-i6vb-hxk1-uoxb-zjsbhmjpjceg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 22:59 ]
-trojan://lk108cti-fv0z-v8wy-q78t-ifluawe2ji06@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://of4r401v-d6na-dr0b-523f-bf1f52ww2abo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://5cf90cec-7303-409e-8772-b1478defb56f@99.199.73.57:23877?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.57
-vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuODMuNDgiLCJhZGQiOiI5OS4xOTkuODMuNDgiLCJwb3J0IjozMzY3OCwiaWQiOiJmZDgzZDYzYy1lOTdlLTRhOTQtODdkYi0yNzEwN2RjYmUyOTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+trojan://vd1qvyhk-u51q-grad-5gih-clbfyoa3qz5r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 23:21 ]
+trojan://aesibtkd-g9r6-2ggh-xw9u-avbdqjae9cvc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ghlexq5y-922u-g8ma-toed-n51npc52a18q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b1867b10-e968-44d1-9182-a674ef81ecb7@142.179.77.40:56565?type=tcp&security=tls&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision-udp443#CA 🇨🇦 ┇ VLESS-TCP-TLS - TELUS Communications ┇ 142.179.77.40
+vless://5cf90cec-7303-409e-8772-b1478defb56f@99.199.73.57:23877?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.57
 trojan://p5T9x5WrfZ@99.199.73.53:46780?security=none#CA 🇨🇦 ┇ TROJAN-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
-trojan://y7mobwtp-kemk-43o7-5kgt-csgebzk3y3d8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hbju10qn-607b-bmny-l1kr-6imni5w5g8t3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuODMuNDgiLCJhZGQiOiI5OS4xOTkuODMuNDgiLCJwb3J0IjozMzY3OCwiaWQiOiJmZDgzZDYzYy1lOTdlLTRhOTQtODdkYi0yNzEwN2RjYmUyOTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+trojan://igfjtcah-e7hr-4xvi-uc8s-huokgomaprea@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://satt2ss0-pmgk-cyew-do64-cqp4yvy0aodx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
