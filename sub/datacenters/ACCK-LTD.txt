@@ -1,10 +1,10 @@
-trojan://4au6li9r-lr2y-4a1z-1kpm-k9pugg0p4i49@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 14:31 ]
-trojan://b2x0ql9w-6323-fvaa-my5t-jekgynp7sgeg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kdfykn81-lozk-csmd-nnyl-yplh2fl7t6fd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSEpIYTFjeVowUm5ObEZ4V0haUWRHZHJVR2RxTlhWbw@45.196.235.33:48019#MU 🇲🇺 ┇ SHADOWSOCKS-TCP-NTLS - ACCK-LTD ┇ 45.196.235.33
+trojan://8031j51m-qfj2-hlpt-gkvo-mxfvonpq3une@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 14:58 ]
+trojan://mnt7mplq-r1z9-4r6s-d1hi-pfb2jifrinuj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lehae2hx-g24w-2vvx-y4x6-kyr2bcuwmxm8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQUNDSy1MVEQgXHUyNTA3IDQ1LjE5Ni4yMzkuMTQxIiwiYWRkIjoiNDUuMTk2LjIzOS4xNDEiLCJwb3J0Ijo1Mzg2MSwiaWQiOiI0MWE4ZDlkNC0wM2VmLTRhYzctZGM0Zi0zY2VhNGUxY2I0N2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+vless://59f0b1e2-99ce-43f9-8384-36879ed3a0ba@45.196.239.142:62847?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=V_5TpnTG0Emqgv-ZKM43XucMemAYAzGbMInSYJnQ3gQ#MU 🇲🇺 ┇ VLESS-TCP-RLT - ACCK-LTD ┇ 45.196.239.142
 vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFDQ0stTFREIFx1MjUwNyA0NS4xOTYuMjE5LjE3NCIsImFkZCI6IjQ1LjE5Ni4yMTkuMTc0IiwicG9ydCI6NDc2ODAsImlkIjoiZDFmMjBlMGMtOTY3Zi00ZjlhLWZiOGMtMzAyN2VlMzZjY2E2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
 vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFDQ0stTFREIFx1MjUwNyA0NS4xOTYuMjM0LjEzNSIsImFkZCI6IjQ1LjE5Ni4yMzQuMTM1IiwicG9ydCI6Mjk3MTQsImlkIjoiMjYzMTJhYTctMTNhOC00MGM5LTljMzctZGEwY2RmYzJkMjI1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://59f0b1e2-99ce-43f9-8384-36879ed3a0ba@45.196.239.142:62847?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=V_5TpnTG0Emqgv-ZKM43XucMemAYAzGbMInSYJnQ3gQ#MU 🇲🇺 ┇ VLESS-TCP-RLT - ACCK-LTD ┇ 45.196.239.142
-trojan://pmk9kqlt-0guf-vxpl-cgz3-eb3ozf0t31n1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://i1u0b4fv-mwoi-a41n-51ke-wk4awbmh1whu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSEpIYTFjeVowUm5ObEZ4V0haUWRHZHJVR2RxTlhWbw@45.196.235.33:48019#MU 🇲🇺 ┇ SHADOWSOCKS-TCP-NTLS - ACCK-LTD ┇ 45.196.235.33
+trojan://csty43it-6i73-55in-l5vv-r16t7llhxkyn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e78njrso-5av3-7lx2-7k0o-j6hdnxy2q4b6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
