@@ -1,10 +1,10 @@
-trojan://0sknhzl8-gsmb-ifmx-xw4l-3ymcml2r508m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 19:02 ]
-trojan://sw4vv8gl-aan3-g3ru-tybe-4pz2nixfx6r3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yuwnh1w1-mjro-p4pf-u5t4-npf0x7pdhl9d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://96f97d12-d89e-4ffc-9d33-77927f041570@46.249.35.171:50175?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Hhu0s3MQbVt6XEggtDYUoy4DnzuIJw5VOhXC2QMQ_io&sid=ead5fbe08ecf49#NL 🇳🇱 ┇ VLESS-TCP-RLT - Serverius Holding B.V. ┇ 46.249.35.171
-vless://82f726c1-9d81-4ec5-881d-2da53a4d1a38@91.198.77.59:650?type=tcp&security=reality&sni=dolat.ir&fp=chrome&pbk=aMttwESaYXl_Gh2EOT8BHNGkX7K9n_7iQg8a0SEs5R4#NL 🇳🇱 ┇ VLESS-TCP-RLT - Serverius Holding B.V. ┇ 91.198.77.59
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNlcnZlcml1cyBIb2xkaW5nIEIuVi4gXHUyNTA3IDUuMjU1LjkxLjEzMiIsImFkZCI6IjUuMjU1LjkxLjEzMiIsInBvcnQiOjQ0MywiaWQiOiIxYmU3YzZkOS05MWYzLTQxZTMtOWU1NC1kYWQwZDg4MTYzOTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://cbc043ca-bef6-431b-a182-5ca6446253bb@88.218.17.244:443?type=ws&security=tls&path=/9GUmETb6BT7sPyZ4Bfz0qA&sni=mech.sharghidustrial.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 88.218.17.244
+trojan://qfinqq76-nl0e-u65o-0vq1-oiewtmudp1k9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 19:28 ]
+trojan://g60brp52-7e76-wbs3-2ao6-sq05k43eq2hc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4g1o82qo-2g1k-nkfv-yy02-8uog6hcr26vu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2VydmVyaXVzIEhvbGRpbmcgQi5WLiBcdTI1MDcgNDYuMjQ5LjU4LjE0IiwiYWRkIjoiNDYuMjQ5LjU4LjE0IiwicG9ydCI6Mzk4ODksImlkIjoiNmRmNWIyODctZDQ1NC00YWRhLWQ1NjktMjkyNjFkYWVlYWY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
-trojan://v02bumg9-jvfo-8k3h-wobd-55fumyv86jm2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hi4uqwsk-9swn-ns30-h2n6-0ecip91kypqm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://96f97d12-d89e-4ffc-9d33-77927f041570@46.249.35.171:50175?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Hhu0s3MQbVt6XEggtDYUoy4DnzuIJw5VOhXC2QMQ_io&sid=ead5fbe08ecf49#NL 🇳🇱 ┇ VLESS-TCP-RLT - Serverius Holding B.V. ┇ 46.249.35.171
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNlcnZlcml1cyBIb2xkaW5nIEIuVi4gXHUyNTA3IDUuMjU1LjkxLjEzMiIsImFkZCI6IjUuMjU1LjkxLjEzMiIsInBvcnQiOjQ0MywiaWQiOiIxYmU3YzZkOS05MWYzLTQxZTMtOWU1NC1kYWQwZDg4MTYzOTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://82f726c1-9d81-4ec5-881d-2da53a4d1a38@91.198.77.59:650?type=tcp&security=reality&sni=dolat.ir&fp=chrome&pbk=aMttwESaYXl_Gh2EOT8BHNGkX7K9n_7iQg8a0SEs5R4#NL 🇳🇱 ┇ VLESS-TCP-RLT - Serverius Holding B.V. ┇ 91.198.77.59
+vless://cbc043ca-bef6-431b-a182-5ca6446253bb@88.218.17.244:443?type=ws&security=tls&path=/9GUmETb6BT7sPyZ4Bfz0qA&sni=mech.sharghidustrial.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 88.218.17.244
+trojan://f8pvtrkp-nacb-imj9-w147-e1sxcaagusi5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2q3urbqc-wy0w-b4v2-t5o0-tkby04u9eu97@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

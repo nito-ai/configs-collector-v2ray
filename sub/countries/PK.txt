@@ -1,11 +1,11 @@
-trojan://ah9ws1r9-vyd0-sujo-nh9n-7hpzzthxms8v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 19:02 ]
-trojan://ivz4iq6p-99k6-nm0j-ougx-69v8datnz0zk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0a9tshuj-9va7-kdpu-1m1w-95f7t27sypq0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206QjJwc1g4TFI@38.60.217.99:27178#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.217.99
-ss://YWVzLTI1Ni1nY206Mk1LRFo5WU5RTkJNV0tPWA@223.165.5.107:20023#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 223.165.5.107
+trojan://vvo3tjsn-3ans-yt1d-v4ex-3m0omnyh0l7m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 19:28 ]
+trojan://emx30o6v-2zv3-4ss6-k4te-x48e6guqfnsg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tuk7fn1l-v1dz-t6su-3u98-wg1ug4lygme7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://cmM0LW1kNTphOWJjMjFlZGM4ODkxZTgy@119.159.245.24:26735#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Pakistan Telecommunication Company Limited ┇ 119.159.245.24
+trojan://3770966768580042752@38.60.217.170:443?sni=fun-louse.treefrog761.one&peer=fun-louse.treefrog761.one&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.60.217.170
 trojan://53784f81-7b1a-468e-8792-756a2d4e744e@38.54.79.138:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.54.79.138
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 103.175.79.10
-trojan://3770966768580042752@38.60.217.170:443?sni=fun-louse.treefrog761.one&peer=fun-louse.treefrog761.one&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.60.217.170
-ss://cmM0LW1kNTphOWJjMjFlZGM4ODkxZTgy@119.159.245.24:26735#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Pakistan Telecommunication Company Limited ┇ 119.159.245.24
-trojan://ebaun34w-ltxs-xsfe-iqce-vxoh01zk58dv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://blk0mfsr-mzwp-fhr8-lrjl-7akixszv8vly@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://YWVzLTI1Ni1nY206Mk1LRFo5WU5RTkJNV0tPWA@223.165.5.107:20023#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 223.165.5.107
+ss://YWVzLTI1Ni1nY206QjJwc1g4TFI@38.60.217.99:27178#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.217.99
+trojan://odxdqi2f-2zw7-y27p-a0c3-e3p1tif4jwcf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://p9exzwb7-e9gz-5rur-dtcl-bj1x5c78b2u7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

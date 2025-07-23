@@ -1,12 +1,12 @@
-trojan://r43qdszz-dt4c-bn60-6105-6nnq39iqvif4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 19:02 ]
-trojan://evvkq07k-15il-ssuq-hd5g-q4frkccg6otn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sgjvw0dd-b2up-8alt-1qk9-5mbuma4rqk1f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://wkricr8j-f63r-6avb-q2mh-8hpw6p8ntyrw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 19:28 ]
+trojan://eep6qdv4-ll9h-bnaa-19s2-b6a12cahueks@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dmwnytri-agh1-kxpc-9q8g-q72wpb3g5a7p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206Q01kdWFGWGRkY1Fid05BQXM3eEZEbmM4@199.58.187.67:33148#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 199.58.187.67
-ss://YWVzLTI1Ni1nY206Tkh3UVRQTENmYVRNU3FUblUzbWpjU3hl@198.147.22.87:33998#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 198.147.22.87
-ss://YWVzLTI1Ni1nY206dWd5QmtTRUZ4VkVtVVlTSHl2eG1XTmo5@198.8.92.84:40220#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 198.8.92.84
-ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@66.115.175.37:50168#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 66.115.175.37
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@66.115.182.68:33992#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 66.115.182.68
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 184.170.241.194
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@66.115.182.68:33992#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 66.115.182.68
 trojan://d1478689-439c-4590-b7ce-36e786a02dc3@107.181.161.163:443?sni=107.181.161.163&peer=107.181.161.163&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PERFORMIVE ┇ 107.181.161.163
-trojan://bwov2086-mj5h-p0h7-vdxi-t212bd4pl2am@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7t82kla2-msdl-4ycq-u5kq-6zj8kawxkupw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://YWVzLTI1Ni1nY206dWd5QmtTRUZ4VkVtVVlTSHl2eG1XTmo5@198.8.92.84:40220#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 198.8.92.84
+ss://YWVzLTI1Ni1nY206Tkh3UVRQTENmYVRNU3FUblUzbWpjU3hl@198.147.22.87:33998#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 198.147.22.87
+ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@66.115.175.37:50168#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - PERFORMIVE ┇ 66.115.175.37
+trojan://uyjcc120-honb-tyoy-gfvp-d57v05hs7tfz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://20n0882s-4184-t2h8-6d4u-fko2lrr8sr7s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
