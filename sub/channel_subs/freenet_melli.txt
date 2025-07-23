@@ -1,6 +1,6 @@
-trojan://kn03zaug-qu6v-y0qj-75yd-l7p4s4mp7ji9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 17:18 ]
-trojan://pkn9ftzr-684o-ha06-6m7p-xk4j4hk3ape5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xqascfna-2v5s-0grf-9umj-oampvqe6bn28@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://puc6t8pk-nqxb-y33e-t4x1-r24uy26z7e9b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 18:01 ]
+trojan://gh2piicw-vxgy-f4rb-q92j-018b0eok9szq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fqbfwbck-nk7p-e2gg-1av4-cb5fz77nwot2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVJBTiAzNzQgKEBPdXRsaW5lX1ZwbikgZnJlZSIsImFkZCI6InBhbmVsMy5pcHlhci5vcmciLCJwb3J0IjozMjAxNywiaWQiOiJjMGNjZGViOS03ODRjLTRkNjctYjkwNC0yMGRjYWFjOTkwMmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://74e96ccd-d0c2-45f9-8dd4-486b6a93fa5b@91.107.170.231:2053?type=tcp&security=none#91.107.170.231:2053
 vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?type=tcp&security=none#tunel-finland.katolvpn.sbs:2020
@@ -26,5 +26,5 @@ vless://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?type=g
 vless://b847c699-a570-4357-88fa-62789a29fee2@uk.marzban-locations.com:3033?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#uk.marzban-locations.com:3033
 vless://b847c699-a570-4357-88fa-62789a29fee2@fr.marzban-locations.com:3032?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#fr.marzban-locations.com:3032
 vless://45b645aa-20ee-4573-884f-fd1f4d7ce9cb@new.mygoldiran.com:33621?type=grpc&security=reality&sni=pubg-sell.ir&fp=chrome&pbk=83jeAqc0ET6NdZdgmNZYVTUz5Gwvz5k9EuJty2Wntms&sid=91253ee3f91a3b66#new.mygoldiran.com:33621
-trojan://13dcj9oh-ffwp-ktjy-ux6o-7ws3l5qtev95@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fuqc3yta-5u03-futl-78e1-96l1d0m2eeaa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://eo3ccdbl-8643-jbkn-3n35-k9o4h7f9v4bt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://p5ptapev-r9us-onzu-28wz-vor2tnkukc1y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
