@@ -1,11 +1,11 @@
-trojan://bv2putu0-pz0u-5iqc-pp3s-36rxbp7b2c1v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 18:31 ]
-trojan://fdzp2mqe-fkx7-837x-g10m-sz3303v5eo9x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aghde01x-0rbn-0t2f-o54b-ejbh238iw9vg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - High Family Technology Co., Limited ┇ 156.225.22.213
-hysteria2://e37be73b-4347-439b-a0c9-aa22f8a85226@154.12.81.133:8453?sni=xg10.441122.xyz&insecure=1#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - High Family Technology Co., Limited ┇ 154.12.81.133
+trojan://877xhckn-8sfc-brlp-va1x-5p4eik9k8bx7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-23 | 19:02 ]
+trojan://g65muaav-utr2-u840-67xn-tazfovc28rj2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2dz7jyf2-0bxh-i2uu-t1jh-k0r2wjbrd7wh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@103.106.190.208:34045#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - High Family Technology Co., Limited ┇ 103.106.190.208
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIaWdoIEZhbWlseSBUZWNobm9sb2d5IENvLiwgTGltaXRlZCBcdTI1MDcgNDMuMjQyLjIwMC4xNTkiLCJhZGQiOiJuMTY3NDg2Mjk1NS5qZnpsYXNpLmNuIiwicG9ydCI6NDQzLCJpZCI6IjAyMmM0MmJhLWM2NjItNDliZC1iZDhjLWY4NDI4ZTZhYTkxYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMifQ
-vless://59170576-12c1-480c-a8d9-3a1046b7b701@149.88.95.42:443?type=ws&security=tls&path=/http://156.238.227.203:40000&sni=test.enkelte.ggff.net&fp=randomized#US 🇺🇸 ┇ VLESS-WS-TLS - High Family Technology Co., Limited ┇ 149.88.95.42
+ss://YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - High Family Technology Co., Limited ┇ 156.225.22.213
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIaWdoIEZhbWlseSBUZWNobm9sb2d5IENvLiwgTGltaXRlZCBcdTI1MDcgMTU0LjIwMS44Ny43OCIsImFkZCI6ImhrLWNuLTAxLnl1bWVpZmFuZy5jbiIsInBvcnQiOjEwODEsImlkIjoiZGY5Yjc4OGYtOTI5YS00MzQ5LTk3MGEtOGNiYmUxMmQ2YWU4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJoay1jbi0wMS55dW1laWZhbmcuY24iLCJwYXRoIjoiL2FzZGQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoay1jbi0wMS55dW1laWZhbmcuY24ifQ
-trojan://2kf09vna-55bq-l5zx-usnq-1wqoceolf8v0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://33pdee6i-b5lf-hya4-evt7-vq6chephxpb0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://59170576-12c1-480c-a8d9-3a1046b7b701@149.88.95.42:443?type=ws&security=tls&path=/http://156.238.227.203:40000&sni=test.enkelte.ggff.net&fp=randomized#US 🇺🇸 ┇ VLESS-WS-TLS - High Family Technology Co., Limited ┇ 149.88.95.42
+hysteria2://e37be73b-4347-439b-a0c9-aa22f8a85226@154.12.81.133:8453?sni=xg10.441122.xyz&insecure=1#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - High Family Technology Co., Limited ┇ 154.12.81.133
+trojan://vthuz9ul-med9-0ovj-iua2-lew420hsadx4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xji7a3it-2t4s-h5jm-mx7i-3jqgeq7jevsm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
