@@ -11,6 +11,7 @@ permissions:
 jobs:
   collect_configs:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
@@ -35,7 +36,7 @@ jobs:
           git config --global user.email "action@github.com"
           git add -A
           if ! git diff --staged --quiet; then
-            git commit -m "CHORE: Update V2Ray configs"
+            git commit -m "chore: 🔄 Update V2Ray configs on $(TZ='Asia/Tehran' date)"
             git push --force
           else
             echo "No changes to commit."
