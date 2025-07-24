@@ -1,14 +1,14 @@
-trojan://t67qemue-14ys-03s4-ozfu-6187cdcsrwxp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 07:54 ]
-trojan://43iq1pa8-15do-fj6u-792g-54i37x9jraen@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2ogjjwz2-8rb6-39wb-ojv2-coi9545u91j7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.61:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.61
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdEFYa3NwS0tnOWJvd290WUc3NFh5@45.153.126.14:8443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 45.153.126.14
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.64:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.64
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.37
-vmess://eyJ2IjoiMiIsInBzIjoiSFIgXHVkODNjXHVkZGVkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWt0b24gZC5vLm8uIFx1MjUwNyA0Ni4xODMuMTg0LjExMCIsImFkZCI6IjQ2LjE4My4xODQuMTEwIiwicG9ydCI6NDQzLCJpZCI6IjE1ZTUyOWUzLWU1ZGEtNDk1YS1hZjg1LTU3ZGYwNjU3ZDIxNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmVHBBaEdHUEIyZ2JPd0pvWEpscnVk@46.183.185.42:8443#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.42
+trojan://ky5iqp6x-1mkx-wa5t-gxbg-lx1jz3lna09d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 08:39 ]
+trojan://mcflqsfs-dtjf-f6zd-7bfp-p4v1qo00lfsj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://468ch0cg-m73i-8g7h-b9p6-j3r58bg31t1b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.60:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.60
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdEFYa3NwS0tnOWJvd290WUc3NFh5@45.153.126.14:8443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 45.153.126.14
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.37
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.15
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.64:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.64
+vmess://eyJ2IjoiMiIsInBzIjoiSFIgXHVkODNjXHVkZGVkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWt0b24gZC5vLm8uIFx1MjUwNyA0Ni4xODMuMTg0LjExMCIsImFkZCI6IjQ2LjE4My4xODQuMTEwIiwicG9ydCI6NDQzLCJpZCI6IjE1ZTUyOWUzLWU1ZGEtNDk1YS1hZjg1LTU3ZGYwNjU3ZDIxNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.61:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.61
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmekZ5YU15Tk1zY245OGRvdHZDNlFq@46.183.185.67:8443#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.67
-trojan://fvqifkki-e21s-5i67-8y2o-9s8vcp3sxa5p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c8ptylaf-2uo8-j6fq-nzjz-70txlq65bvkn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmVHBBaEdHUEIyZ2JPd0pvWEpscnVk@46.183.185.42:8443#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.42
+trojan://s7bv7gvi-a24w-vhjs-7smg-eeb78v2dkzi3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v5wufl5a-tb8n-7p60-cnle-278zz3x5909n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

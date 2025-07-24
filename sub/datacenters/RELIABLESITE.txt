@@ -1,13 +1,13 @@
-trojan://wfuf6kvp-z9zp-ssa9-hmni-61aoj2x14ckc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 07:54 ]
-trojan://bdapqppd-k1x3-ceo4-q08n-c4pe4pwl9vag@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0q36y7pr-x6t5-xuyu-98x0-xmlw0u28ysaa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://bac2e4a6-5d6e-7f8a-9b0c-1d2e3f4a5b6c@103.195.103.94:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.94
-vless://b4c6e8f0-9a1b-2c3d-4e5f-7a6b8c9d0e1f@103.195.103.91:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.91
-vless://b6c8e0a2-5f6a-7b8c-9d0e-1f2a3b4c5d6e@103.195.103.92:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.92
-vless://b2c4e6f8-4d5f-6a7b-9c1d-2e3f4a5b6c7d@103.195.103.90:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.90
-vless://b8c0e2a4-0e1f-2a3b-4c5d-6e7f8a9b0c1d@103.195.103.93:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.93
-hysteria2://sharecentrepro@172.93.103.28:4433?sni=us.scproxy.top&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - RELIABLESITE ┇ 172.93.103.28
-vless://bdc4e6a8-0c1d-2e3f-4a5b-6c7d8e9f0a1b@103.195.103.95:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.95
+trojan://5ve7y4df-dccz-cexy-7t9j-no9wok6nrzv8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 08:39 ]
+trojan://5x8pb4eh-xkwt-oxym-c9oi-12p33fdl8fe8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3mo1zv1i-atmz-yj0e-ohc6-uon75avtyqqg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6MTE2MjY5YTZlMQ@45.58.126.153:19094#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - RELIABLESITE ┇ 45.58.126.153
-trojan://9r92dcq2-0gkl-lrb4-5xoj-jxnnt81wdm0w@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6g7cndu3-ilru-342j-losg-lbt2od7vwg7o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://b8c0e2a4-0e1f-2a3b-4c5d-6e7f8a9b0c1d@103.195.103.93:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.93
+vless://bac2e4a6-5d6e-7f8a-9b0c-1d2e3f4a5b6c@103.195.103.94:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.94
+vless://bdc4e6a8-0c1d-2e3f-4a5b-6c7d8e9f0a1b@103.195.103.95:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.95
+vless://b2c4e6f8-4d5f-6a7b-9c1d-2e3f4a5b6c7d@103.195.103.90:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.90
+hysteria2://sharecentrepro@172.93.103.28:4433?sni=us.scproxy.top&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - RELIABLESITE ┇ 172.93.103.28
+vless://b6c8e0a2-5f6a-7b8c-9d0e-1f2a3b4c5d6e@103.195.103.92:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.92
+vless://b4c6e8f0-9a1b-2c3d-4e5f-7a6b8c9d0e1f@103.195.103.91:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.91
+trojan://h0l0ix7y-fe13-rc12-rfty-2b2m89jn0vnd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y7psu6rr-h1re-3ami-0dp5-567qntcxloaj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
