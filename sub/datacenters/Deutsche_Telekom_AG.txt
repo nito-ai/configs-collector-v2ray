@@ -1,9 +1,9 @@
-trojan://d20wvl79-zaoh-1cjm-qdad-rcrtd1omqo1o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 14:02 ]
-trojan://2sce1y4o-umvo-gjwr-5ene-6vhcih09t0ov@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yl6lc7ng-jeiz-nfd9-be4l-bxp0893relzg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://1earf053-5ff6-4def-b234-d760690355ff@91.19.83.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 91.19.83.138
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvM01EZzRabVZtWXkxaU1ETmhMVFJqTVRZdFlUVm1aQzFpTTJGaFpqRTVZek15TkdJ@hncu.donghui.tech:27100#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Deutsche Telekom AG ┇ 46.82.174.69
+trojan://lrtlsa20-zdlk-on8w-hjle-wyg169evxyik@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 14:31 ]
+trojan://cd0psbbk-qaxb-y85d-v0wn-u7fxqf1jdssj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dqab6pd8-345l-fp3c-dwlh-kczit0a2b37t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f2981156-f162-4809-bb5f-416e247e63f1@dns.hosseinjadgall.sbs:443?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 193.9.16.47
+trojan://df3ce737-09ae-4c2a-98fe-73840561ab67@tu1.worldwide.my.id:45890?sni=tu1.worldwide.my.id&peer=tu1.worldwide.my.id&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Deutsche Telekom AG ┇ 46.82.174.69
 vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 193.9.16.37
-trojan://sfhzlla7-nagy-av24-zihz-r12r0dpwr1qq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://i0s1eojk-my14-nkoc-aez4-8qbdwz15riet@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://1earf053-5ff6-4def-b234-d760690355ff@91.19.83.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 91.19.83.138
+trojan://86pnqk6d-covw-8p7q-nzrf-6sgvuj0n683g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dnp3i2is-lbbu-3oww-vvk4-sv3hhohifofd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
