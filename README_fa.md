@@ -3,7 +3,7 @@
 
 <div align="center">
 
-🌐 [English](#) | 🇮🇷 [فارسی](#) | 🇨🇳 [中文](#) | 🇷🇺 [Русский](#)
+🌐 [English](https://github.com/PlanAsli/configs-collector-v2ray/blob/main/README.md) | [فارسی](https://github.com/PlanAsli/configs-collector-v2ray/blob/main/README_fa.md) | [中文](https://github.com/PlanAsli/configs-collector-v2ray/blob/main/README_ch.md) | [Русский](https://github.com/PlanAsli/configs-collector-v2ray/blob/main/README_ru.md)
 
 </div>
 
