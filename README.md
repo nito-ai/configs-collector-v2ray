@@ -1,5 +1,5 @@
 # 🚀 V2Ray Collector
-## Your Ultimate Platform for Seamless V2Ray Configurations
+## Collecting v2ray configurations from Telegram and GitHub sources
 
 <div align="center">
 
