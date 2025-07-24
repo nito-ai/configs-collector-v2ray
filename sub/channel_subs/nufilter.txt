@@ -1,6 +1,6 @@
-trojan://wjcyriw8-76rt-u40s-rq1x-ymd606ljc4pp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 22:36 ]
-trojan://nuk6f6lo-vngm-svrj-h0pn-t61gmuetic4l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hahg40jf-as08-i69j-jb32-h7uyy0mbvch9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qjn265vt-v47b-lx8l-jm1f-nktbexbf6lu1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 22:58 ]
+trojan://f98meaxu-tedl-ezif-fjak-9r1yvdloias6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jk6t2krq-0lqv-yovk-d2h9-49iscqncufz7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://493f50f6-fbf0-4810-9ced-b129c18e7de4@bekhabim.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#bekhabim.fast.hosting-ip.com:80
 vless://TELEGRAM-CONFiGLiNE@configline.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#configline.fast.hosting-ip.com:80
 vless://TELEGRAM-CONFiGLiNE@configline.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#configline.fast.hosting-ip.com:80
@@ -13,5 +13,6 @@ vless://b43cbbb7-7859-4bbb-b224-4a60f5c0d75c@172.66.40.99:8080?type=ws&security=
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8880?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#172.66.40.99:8880
 vless://2eb9c669-6ea3-42a1-861f-d30669cbfc01@172.66.40.99:8880?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#172.66.40.99:8880
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8880?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8880#172.66.40.99:8880
-trojan://xl6puijf-m8oq-c8bu-hdc5-c5sroabfgta4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://881x9x80-9dhf-kcby-siac-piw4nsdpek13@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://4390049a-814c-4a60-a6a5-0ce8d0c87c55@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#172.66.40.99:8080
+trojan://i0nw13jc-j3m4-my7f-cf38-gyqham0q1ccs@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m30zuaao-jdo4-rja3-qei0-f7k13372yxyp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

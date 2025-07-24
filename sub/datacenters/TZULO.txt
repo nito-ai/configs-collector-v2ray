@@ -1,9 +1,9 @@
-trojan://zhix41pk-5y4y-z3a0-b6nr-ltuo6gjcaqzn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 22:36 ]
-trojan://8z5fknmu-4xl6-3nfb-h0e0-adbmkk2121du@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://a68ho7mq-sii3-hr05-jwbr-zi4vmv6d4dq5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.249.197.84:443?type=ws&security=tls&path=/blue&sni=jp033.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - TZULO ┇ 173.249.197.84
+trojan://ixj68c5v-tx2n-ch0j-xilp-iqi0wx6pwzoi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 22:58 ]
+trojan://q6p3550d-cm99-qo2b-wly0-eug2k2my9n5l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xgd7way0-s7k0-j4i4-sow4-yu98kwcneg3o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVFpVTE8gXHUyNTA3IDE3My4yNDkuMjA2LjEzNiIsImFkZCI6IjE3My4yNDkuMjA2LjEzNiIsInBvcnQiOjQ0MywiaWQiOiJlNTU0M2VmZC01NDAwLTM3NjAtOWJiNi0wMjc2NzcyOGU4ODgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii92aWRlbyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVFpVTE8gXHUyNTA3IDE3My4yNDkuMTk5LjI3IiwiYWRkIjoiMTczLjI0OS4xOTkuMjciLCJwb3J0Ijo0NDMsImlkIjoiZTU1NDNlZmQtNTQwMC0zNzYwLTliYjYtMDI3Njc3MjhlODg4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvdmlkZW8ifQ
 ss://YWVzLTI1Ni1nY206MzBmOGMwNTAtNjY4MS00MWY0LTk1ZTYtMTkxYmYwN2M5YTZl@173.249.199.82:600#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TZULO ┇ 173.249.199.82
-trojan://q84s7tsu-rs6v-dq8k-s00a-0xsgvpcotti3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uq5n7bct-0qoz-pvic-uaa7-htp3sd49l2wn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVFpVTE8gXHUyNTA3IDE3My4yNDkuMTk5LjI3IiwiYWRkIjoiMTczLjI0OS4xOTkuMjciLCJwb3J0Ijo0NDMsImlkIjoiZTU1NDNlZmQtNTQwMC0zNzYwLTliYjYtMDI3Njc3MjhlODg4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvdmlkZW8ifQ
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.249.197.84:443?type=ws&security=tls&path=/blue&sni=jp033.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - TZULO ┇ 173.249.197.84
+trojan://a0wddqfw-l55i-8jl2-hk5o-aa3qdkrifbs9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://u3hj2brd-fxv1-t0qn-lhg4-jk8eqah6tsql@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
