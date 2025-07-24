@@ -1,10 +1,10 @@
-trojan://30306gpx-28e6-n8gn-zj16-ohokeds7pjlq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 06:57 ]
-trojan://a2nse0uz-do5n-tc8n-kp24-p9v59qxh2xq5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fha9jali-ixuh-4f2z-pgwg-ox554qa7vymy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://bpb-trojan@37.252.5.75:443?sni=skwygx.top&peer=skwygx.top&security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - Aktsiaselts WaveCom ┇ 37.252.5.75
-vless://c775021c-c5a5-476e-8f0d-d78116f506c0@38.180.230.17:36654?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=96e9a9a656a3cc83#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 38.180.230.17
-vless://cdaf9409-936e-4056-94d5-e68e9bf0d306@37.252.4.81:24773?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 37.252.4.81
+trojan://ncy82ftb-ros8-5o7b-hlar-1oh1mb9fyl29@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 07:54 ]
+trojan://skodamd3-rqn9-elnx-jrys-8bvca0qlc3ao@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4rx5whyo-8csw-pb50-vwe6-80boraqg2g50@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@38.180.44.28:1080#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 38.180.44.28
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
-trojan://ghohwtmy-g6yj-oxs6-xcv8-qm3cfs15mrqp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pq7kala0-ub1k-ygd7-50fn-lj4njsm17iw5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://cdaf9409-936e-4056-94d5-e68e9bf0d306@37.252.4.81:24773?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 37.252.4.81
+vless://c775021c-c5a5-476e-8f0d-d78116f506c0@38.180.230.17:36654?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=96e9a9a656a3cc83#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 38.180.230.17
+trojan://bpb-trojan@37.252.5.75:443?sni=skwygx.top&peer=skwygx.top&security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - Aktsiaselts WaveCom ┇ 37.252.5.75
+trojan://bjt2i62q-by6k-ymx2-cexj-dqx3j9k62iep@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://h1pegp73-vvom-enkx-vp9r-3u6pc51k29eq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
