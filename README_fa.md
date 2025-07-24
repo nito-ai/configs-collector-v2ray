@@ -346,6 +346,6 @@
 ---
 
 <div align="center">
-  <strong>ساخته شده برای دسترسی ازاد به اینترنت</strong><br>
+  <strong></strong><br>
   <a href="https://github.com/PlanAsli/configs-collector-v2ray">🌟 ما را در GitHub ستاره کنید</a> | <a href="https://t.me/v2coaw">📢 به تلگرام ما بپیوندید</a>
 </div>
