@@ -1,8 +1,8 @@
-trojan://a9qcyfa9-bkwa-5ol9-80v6-mvcvqr2o3pf8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 10:38 ]
-trojan://woeu1bas-txuk-zxqi-r3ku-kw1b5scjb4mf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jr5im37f-t64g-2mqs-pq8t-mb8xujbsgcij@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://2bf79887-6392-4af3-91a7-9115067bf06e@194.87.129.222:2053?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Serverbike LTD ┇ 194.87.129.222
-vless://99e7663b-3c55-46a3-8b84-f174d814cc93@104.156.151.82:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - Serverbike LTD ┇ 104.156.151.82
+trojan://6o0kmn38-1it3-cfhi-gty5-r5jjmtesdz42@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 11:04 ]
+trojan://mqoozqq0-k4az-54fy-yfl0-vrx8ewsto47l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1vzg5193-zw6s-2ej4-56xp-tjg519kisib1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206STFoVG1hMEJvTA@92.119.199.33:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Serverbike LTD ┇ 92.119.199.33
-trojan://m58yxau1-01nl-vmdg-8krn-vy8pivk0nx3m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z8j50os6-5btr-dp9x-gke7-84o3xvgg8c6m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://2bf79887-6392-4af3-91a7-9115067bf06e@194.87.129.222:2053?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Serverbike LTD ┇ 194.87.129.222
+vless://99e7663b-3c55-46a3-8b84-f174d814cc93@104.156.151.82:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#FR 🇫🇷 ┇ VLESS-TCP-RLT - Serverbike LTD ┇ 104.156.151.82
+trojan://2asi3j35-8w57-k2xv-t4zo-lblw4mmsgkzl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fiunniim-497l-xvja-k10s-liedy45f8c2z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

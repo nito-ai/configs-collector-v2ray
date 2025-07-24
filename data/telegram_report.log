@@ -1,13 +1,12 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-24 10:27:34
+Timestamp: 2025-07-24 10:53:31
 Total Channels: 92
-Successful Scrapes: 65
+Successful Scrapes: 66
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freakconfig: 173 configs
 vpnod: 77 configs
-v2ray_configs_pool: 76 configs
 v2rayng_1378: 68 configs
 ZibaNabz: 67 configs
 azarbayjab1: 66 configs
@@ -70,5 +69,7 @@ colsvpn: 2 configs
 ineronix: 2 configs
 BeFreeWithUs: 2 configs
 lightning6: 1 configs
+v2ray_configs_pool: 1 configs
+WedBaZtel: 1 configs
 
 --- Failed Channels ---
