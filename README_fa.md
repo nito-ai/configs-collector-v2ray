@@ -347,5 +347,5 @@
 
 <div align="center">
   <strong></strong><br>
-  <a href="https://github.com/PlanAsli/configs-collector-v2ray">🌟 ما را در GitHub ستاره کنید</a> | <a href="https://t.me/v2coaw">📢 به تلگرام ما بپیوندید</a>
+  <a href="https://github.com/PlanAsli/configs-collector-v2ray">🌟 ما را در GitHub ستاره کنید</a> | <a href="https://t.me/DailyV2Config">📢 به تلگرام ما بپیوندید</a>
 </div>
