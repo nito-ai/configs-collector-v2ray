@@ -1,9 +1,9 @@
-trojan://pctl3tc6-3qz3-bt05-h5sp-j0e1nakkugxf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 21:27 ]
-trojan://efvvxene-n1t2-w63d-vqgh-xt7fl5ihg7ap@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2fm1cegx-xe0x-p4ut-nwnt-jfqj3ac3u9x9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://1earf053-5ff6-4def-b234-d760690355ff@91.19.83.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 91.19.83.138
-trojan://b065b64a-905a-494a-a25f-5e313e93cca8@fsyy.fosi.hk:61530?sni=id05tk.ifengsoutu233.tk&peer=id05tk.ifengsoutu233.tk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Deutsche Telekom AG ┇ 46.82.174.69
-vless://f2981156-f162-4809-bb5f-416e247e63f1@dns.hosseinjadgall.sbs:443?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 193.9.16.47
+trojan://14l2gd2s-uqck-i9cm-9i1r-ugs5toszbq89@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 22:07 ]
+trojan://e9u0r88j-loe5-fnwl-0lj6-5mjkzkmb6umh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://29uk7cov-rxd6-4awz-08s6-z5m6npayujww@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRGV1dHNjaGUgVGVsZWtvbSBBRyBcdTI1MDcgNDYuODIuMTc0LjY5IiwiYWRkIjoiY2RuLWNuLm5la29jbG91ZC5jbiIsInBvcnQiOjE5MDk0LCJpZCI6ImRlNjllYmQxLThkNTYtMzZmNC1iNWM3LTgyYzhhOWNjMWIyMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2RhaGp3dWgifQ
 vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 193.9.16.37
-trojan://jkli90aw-bd1k-vk9u-yd8z-o0ycliy6s53h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gyywupof-yukh-46n5-a425-c71haevx74fj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://f2981156-f162-4809-bb5f-416e247e63f1@dns.hosseinjadgall.sbs:443?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 193.9.16.47
+vless://1earf053-5ff6-4def-b234-d760690355ff@91.19.83.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 91.19.83.138
+trojan://cmgrw9e2-ro0f-3yvt-vq4c-sn0aylns9d65@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://k69bxmlv-pnx9-8s92-dl4v-plwflazy6uin@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
