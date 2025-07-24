@@ -1,9 +1,9 @@
-trojan://oqsfkrol-tu79-r50n-y48m-92i66i96i98r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 16:19 ]
-trojan://v6ue92sa-580f-0k7z-zvkh-98uw70nludxt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dtmqxc9w-i5y9-oedq-8exc-6hxvtoxb3wis@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvM01EZzRabVZtWXkxaU1ETmhMVFJqTVRZdFlUVm1aQzFpTTJGaFpqRTVZek15TkdJ@hncu.donghui.tech:27100#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Deutsche Telekom AG ┇ 46.82.174.69
-vless://1earf053-5ff6-4def-b234-d760690355ff@91.19.83.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 91.19.83.138
+trojan://mon08be3-ewmi-4nf9-u0q2-kdkq4q9kprre@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 17:18 ]
+trojan://aa0lywox-s09r-tdkf-mqz4-b30097d75ujl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dt935jwn-gnch-iika-vv7s-uqml4027ndba@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f2981156-f162-4809-bb5f-416e247e63f1@dns.hosseinjadgall.sbs:443?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 193.9.16.47
 vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 193.9.16.37
-trojan://3se2pxqo-nlao-j8v5-1v7q-5w31iow04ysr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ef5huiab-0a96-dtb9-lley-l0cegi8iakwo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://1earf053-5ff6-4def-b234-d760690355ff@91.19.83.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 91.19.83.138
+ss://YWVzLTEyOC1nY206YTk4N2RmZWItYzIyYy00ZDNmLWFiZjItNWU0YmQ5MWQyYjBk@gddxc.fosi.hk:46682#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Deutsche Telekom AG ┇ 46.82.174.69
+trojan://jmhwd3af-185z-nqwu-v9kl-k3jjz8u9td5h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://iaozhbom-bt0g-4z5k-773i-hi8hjcemifuc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
