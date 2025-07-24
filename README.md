@@ -3,6 +3,8 @@
 
 <div align="center">
 
+🌐 [English](#) | 🇮🇷 [فارسی](#) | 🇨🇳 [中文](#) | 🇷🇺 [Русский](#)
+
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
 ![Configs](https://img.shields.io/badge/Configs-10K+-blueviolet?style=for-the-badge&logo=v2ray)
 ![Countries](https://img.shields.io/badge/Countries-100+-orange?style=for-the-badge&logo=globe)
@@ -15,7 +17,7 @@
 
 ## 💡 About the Project
 
-**V2Ray Configurations Hub** is a cutting-edge, fully automated platform designed to collect, process, and distribute high-quality V2Ray configurations. Powered by intelligent algorithms, it systematically gathers **Vmess**, **Vless**, **Shadowsocks**, **Trojan**, and **Reality** configurations from publicly accessible Telegram channels. The platform categorizes configurations based on open and closed ports, eliminates duplicates, resolves addresses using IP addresses, and updates configuration titles to reflect server and protocol properties, including network type, security type, IP address, port, and associated country. With over 10,000 configurations spanning 100+ countries, it ensures reliable, secure, and optimized connections for users worldwide.
+**V2Ray Configurations Hub** is a cutting-edge, fully automated platform designed to collect, process, and distribute high-quality V2Ray configurations. Powered by intelligent algorithms, it systematically gathers **Vmess**, **Vless**, **Shadowsocks**, **Trojan**, **Hysteria2**, **TUIC**, and **Reality** configurations from publicly accessible Telegram channels. The platform categorizes configurations based on open and closed ports, eliminates duplicates, resolves addresses using IP addresses, and updates configuration titles to reflect server and protocol properties, including network type, security type, IP address, port, and associated country. With over 10,000 configurations spanning 100+ countries, it ensures reliable, secure, and optimized connections for users worldwide.
 
 ### 🎯 Why V2Ray Configurations Hub?
 - **Seamless Automation**: Fully autonomous with no manual intervention required.
@@ -80,15 +82,23 @@
   </tr>
   <tr>
     <td align="center">
-      <strong>🔒 Reality</strong><br>
-      <code>Cutting-edge protocol for maximum privacy</code><br>
-      <a href="https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/reality.txt">📡 Subscription Link</a>
+      <strong>🔥 Hysteria2</strong><br>
+      <code>High-performance protocol for low-latency connections</code><br>
+      <a href="https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/hysteria2.txt">📡 Subscription Link</a>
     </td>
     <td align="center">
+      <strong>🔗 TUIC</strong><br>
+      <code>Efficient and secure protocol for modern networks</code><br>
+      <a href="https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/protocols/tuic.txt">📡 Subscription Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <strong>🌐 Mixed Configurations</strong><br>
-      <code>20 curated configs combining Vmess, Vless, Shadowsocks, Trojan, and Reality</code><br>
+      <code>20 curated configs combining Vmess, Vless, Shadowsocks, Trojan, Hysteria2, and TUIC</code><br>
       <a href="https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/splitted/mixed_1.txt">📡 Subscription Link</a>
     </td>
+    <td></td>
   </tr>
 </table>
 
@@ -188,11 +198,19 @@
       <code>Optimized HTTP protocol for speed</code><br>
       <a href="https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/xhttp.txt">📡 Subscription Link</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <strong>🔗 TCP</strong><br>
       <code>Direct and reliable TCP connections</code><br>
       <a href="https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/tcp.txt">📡 Subscription Link</a>
     </td>
+    <td align="center">
+      <strong>🔒 Reality</strong><br>
+      <code>Cutting-edge protocol for maximum privacy</code><br>
+      <a href="https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/networks/reality.txt">📡 Subscription Link</a>
+    </td>
+    <td></td>
   </tr>
 </table>
 
@@ -207,7 +225,7 @@
 
 ## 🚀 Quick Start
 
-1. **Choose a Protocol**: Select from Vmess, Vless, Shadowsocks, Trojan, Reality, or Mixed Configurations based on your needs.
+1. **Choose a Protocol**: Select from Vmess, Vless, Shadowsocks, Trojan, Hysteria2, TUIC, or Mixed Configurations based on your needs.
 2. **Subscribe**: Use the provided [Subscription Links](#configuration-categories) to import configs into your V2Ray client.
 3. **Connect**: Configure your client with the subscription link and connect to the desired server.
 4. **Optimize**: Use our API to fetch location-optimized configurations for the best performance.
@@ -234,16 +252,15 @@ Access configurations from leading global providers:
 | 🇧🇩 Bangladesh | BD | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BD.txt) | 🇧🇹 Bhutan | BT | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BT.txt) |
 | 🇰🇭 Cambodia | KH | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KH.txt) | 🇨🇳 China | CN | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CN.txt) |
 | 🇭🇰 Hong Kong | HK | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/HK.txt) | 🇮🇳 India | IN | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IN.txt) |
-| 🇮🇩 Indonesia | ID | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/ID.txt) | 🇮🇷 Iran | IR | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IR.txt) |
-| 🇯🇵 Japan | JP | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/JP.txt) | 🇰🇿 Kazakhstan | KZ | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KZ.txt) |
-| 🇰🇬 Kyrgyzstan | KG | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KG.txt) | 🇰🇷 South Korea | KR | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KR.txt) |
-| 🇲🇴 Macau | MO | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MO.txt) | 🇲🇾 Malaysia | MY | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MY.txt) |
-| 🇲🇳 Mongolia | MN | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MN.txt) | 🇲🇲 Myanmar | MM | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MM.txt) |
-| 🇳🇵 Nepal | NP | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NP.txt) | 🇳🇿 New Zealand | NZ | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NZ.txt) |
-| 🇵🇰 Pakistan | PK | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PK.txt) | 🇵🇭 Philippines | PH | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PH.txt) |
-| 🇸🇬 Singapore | SG | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/SG.txt) | 🇹🇭 Thailand | TH | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/TH.txt) |
-| 🇹🇼 Taiwan | TW | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/TW.txt) | 🇺🇿 Uzbekistan | UZ | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/UZ.txt) |
-| 🇻🇳 Vietnam | VN | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/VN.txt) |
+| 🇮🇩 Indonesia | ID | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/ID.txt) | 🇯🇵 Japan | JP | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/JP.txt) |
+| 🇰🇿 Kazakhstan | KZ | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KZ.txt) | 🇰🇬 Kyrgyzstan | KG | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KG.txt) |
+| 🇰🇷 South Korea | KR | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KR.txt) | 🇲🇴 Macau | MO | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MO.txt) |
+| 🇲🇾 Malaysia | MY | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MY.txt) | 🇲🇳 Mongolia | MN | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MN.txt) |
+| 🇲🇲 Myanmar | MM | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MM.txt) | 🇳🇵 Nepal | NP | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NP.txt) |
+| 🇳🇿 New Zealand | NZ | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NZ.txt) | 🇵🇰 Pakistan | PK | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PK.txt) |
+| 🇵🇭 Philippines | PH | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PH.txt) | 🇸🇬 Singapore | SG | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/SG.txt) |
+| 🇹🇭 Thailand | TH | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/TH.txt) | 🇹🇼 Taiwan | TW | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/TW.txt) |
+| 🇺🇿 Uzbekistan | UZ | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/UZ.txt) | 🇻🇳 Vietnam | VN | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/VN.txt) |
 
 </details>
 
@@ -303,14 +320,14 @@ Access configurations from leading global providers:
 |---------|------|-------------------|---------|------|-------------------|
 | 🇦🇪 United Arab Emirates | AE | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/AE.txt) | 🇧🇭 Bahrain | BH | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/BH.txt) |
 | 🇨🇮 Côte d'Ivoire | CI | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/CI.txt) | 🇪🇬 Egypt | EG | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/EG.txt) |
-| 🇮🇱 Israel | IL | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IL.txt) | 🇯🇴 Jordan | JO | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/JO.txt) |
-| 🇰🇪 Kenya | KE | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KE.txt) | 🇰🇼 Kuwait | KW | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KW.txt) |
-| 🇱🇧 Lebanon | LB | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/LB.txt) | 🇲🇦 Morocco | MA | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MA.txt) |
-| 🇲🇺 Mauritius | MU | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MU.txt) | 🇳🇦 Namibia | NA | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NA.txt) |
-| 🇳🇬 Nigeria | NG | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NG.txt) | 🇴🇲 Oman | OM | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/OM.txt) |
-| 🇵🇸 Palestine | PS | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PS.txt) | 🇶🇦 Qatar | QA | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/QA.txt) |
-| 🇸🇦 Saudi Arabia | SA | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/SA.txt) | 🇸🇨 Seychelles | SC | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/SC.txt) |
-| 🇿🇦 South Africa | ZA | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/ZA.txt) |
+| 🇮🇱 Israel | IL | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IL.txt) | 🇮🇷 Iran | IR | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/IR.txt) |
+| 🇯🇴 Jordan | JO | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/JO.txt) | 🇰🇪 Kenya | KE | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KE.txt) |
+| 🇰🇼 Kuwait | KW | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/KW.txt) | 🇱🇧 Lebanon | LB | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/LB.txt) |
+| 🇲🇦 Morocco | MA | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MA.txt) | 🇲🇺 Mauritius | MU | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/MU.txt) |
+| 🇳🇦 Namibia | NA | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NA.txt) | 🇳🇬 Nigeria | NG | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/NG.txt) |
+| 🇴🇲 Oman | OM | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/OM.txt) | 🇵🇸 Palestine | PS | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/PS.txt) |
+| 🇶🇦 Qatar | QA | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/QA.txt) | 🇸🇦 Saudi Arabia | SA | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/SA.txt) |
+| 🇸🇨 Seychelles | SC | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/SC.txt) | 🇿🇦 South Africa | ZA | [📡 Subscription Link](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/ZA.txt) |
 
 </details>
 
