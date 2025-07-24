@@ -1,10 +1,10 @@
-trojan://4z3eoehg-8bh7-3rng-beaf-xq1jr20d2tse@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 05:07 ]
-trojan://8bliqifu-nlre-jidj-irxf-2z40vr9vu7fp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o48p9rbw-wulm-qbnx-lezu-bxvwi5oz5rd9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jlfs40kt-w1k0-faot-zhpq-8xmqwfu6g72x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 06:57 ]
+trojan://gpnxk0x0-5eia-r7o3-cal1-31xye2xh4fd6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://56rdgyiz-yopd-0233-pe0p-87a9k9ygtimv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@121.80.244.179:12333?type=ws&security=tls&path=/?ed=2560&sni=cc.ylka.dpdns.org&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - OPTAGE Inc. ┇ 121.80.244.179
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.87.0.21:11588?type=ws&security=none&path=/Telegram🇨🇳&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - OPTAGE Inc. ┇ 121.87.0.21
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@150.66.0.85:443?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - OPTAGE Inc. ┇ 150.66.0.85
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.85.55.59:19842?type=ws&security=none&path=/Telegram&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - OPTAGE Inc. ┇ 121.85.55.59
 trojan://df283334-6f6e-4efb-9a8a-b8ecf3040924@150.66.13.75:443?sni=tk15.1coinvp.vip&peer=tk15.1coinvp.vip&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - OPTAGE Inc. ┇ 150.66.13.75
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@121.87.0.21:11588?type=ws&security=tls&path=/telegram🇨🇳 @pgkj666 /?ed&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - OPTAGE Inc. ┇ 121.87.0.21
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@150.66.0.85:443?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - OPTAGE Inc. ┇ 150.66.0.85
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@121.80.244.179:12333?type=ws&security=tls&path=/?ed=2560&sni=cc.ylka.dpdns.org&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - OPTAGE Inc. ┇ 121.80.244.179
-trojan://fhi911wm-zrgn-gci0-o81m-59lzozvgdq54@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://o09ivk29-gr59-igt7-day4-whqy8and2qo5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://a1mcmbg8-lnrg-5nh7-1i2v-9qit2zppb3ow@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3zhwqmxu-5f95-u2vp-a955-y9wex791yw0d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
