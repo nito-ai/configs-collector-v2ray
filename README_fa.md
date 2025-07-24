@@ -5,12 +5,6 @@
 
 🌐 [English](#) | 🇮🇷 [فارسی](#) | 🇨🇳 [中文](#) | 🇷🇺 [Русский](#)
 
-![وضعیت](https://img.shields.io/badge/وضعیت-فعال-brightgreen?style=for-the-badge&logo=github)
-![پیکربندی‌ها](https://img.shields.io/badge/پیکربندی‌ها-بیش%20از%2010هزار-blueviolet?style=for-the-badge&logo=v2ray)
-![کشورها](https://img.shields.io-badge/کشورها-بیش%20از%20100-orange?style=for-the-badge&logo=globe)
-![به‌روزرسانی](https://img.shields.io/badge/به‌روزرسانی%20خودکار-24/7-teal?style=for-the-badge&logo=refresh)
-![مجوز](https://img.shields.io/badge/مجوز-MIT-blue?style=for-the-badge&logo=mit)
-
 </div>
 
 ---
