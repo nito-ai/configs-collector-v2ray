@@ -3,7 +3,7 @@
 
 <div align="center">
 
-🌐 [English](#) | 🇮🇷 [فارسی](#) | 🇨🇳 [中文](#) | 🇷🇺 [Русский](#)
+🌐 [English](https://github.com/PlanAsli/configs-collector-v2ray/blob/main/README.md) | [فارسی](https://github.com/PlanAsli/configs-collector-v2ray/blob/main/README_fa.md) | [中文](https://github.com/PlanAsli/configs-collector-v2ray/blob/main/README_ch.md) | [Русский](https://github.com/PlanAsli/configs-collector-v2ray/blob/main/README_ru.md)
 
 ![状态](https://img.shields.io/badge/状态-活跃-brightgreen?style=for-the-badge&logo=github)
 ![配置数量](https://img.shields.io/badge/配置数量-超过10K-blueviolet?style=for-the-badge&logo=v2ray)
