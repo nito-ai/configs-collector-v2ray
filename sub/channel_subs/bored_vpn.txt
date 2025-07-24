@@ -1,6 +1,6 @@
-trojan://pj40m6cl-6uu0-tfyr-9btz-0dej2vc9j9cw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 19:25 ]
-trojan://slyh75pp-1q6k-80e9-evb6-k2ujft4vfzov@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://t91m1x1s-fdw8-f7zj-sx2m-5whlpsle9kg6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0o453n7y-pg62-f21j-mg73-js81jy18wbyx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 20:02 ]
+trojan://jlxk51ul-f4x3-juf8-a484-i14sc17g98vx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nkah6bq8-xzrw-joks-zc6w-peadjp7tgbmu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6799df1d-8c4b-4b01-bd82-%659c%61c3%61c%615c7@104.17.147.22:443?type=ws&security=tls&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560&sni=PamcHalL.coM&fp=randomized#104.17.147.22:443
 vless://%6501387f6-%6592%65-464%65-%61%6126-6b21611%61dc86@104.21.0.0:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.0.0:80
 vless://6799df1d-8c4b-4b01-bd82-%659c%61c3%61c%615c7@104.21.72.109:80?type=ws&security=none&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560#104.21.72.109:80
@@ -47,5 +47,8 @@ vless://f278037%65-c%6536-4634-9b4d-fc%6193%65345%6135@194.182.79.142:11745?type
 vless://Telegram--SRCVPN@91.107.188.21:3080?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&sid=eb91f5c0#91.107.188.21:3080
 vless://Telegram--SRCVPN@91.107.188.21:3090?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=IBTQswLX4U6WI_tl305r8FKwhZoCka5nW0_idDXLUlo&sid=eb91f5c0#91.107.188.21:3090
 vless://c7df53f9-8d92-4367-d889-c05bb14c2c54@91.98.21.55:51479?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=B2NhynX6fULgqNKDOyHWHV0tMUO8XKM_SShFu5N8ZmQ#91.98.21.55:51479
-trojan://fqoa1wk1-ryd9-o2dh-u1r0-gdjz8gktpvgg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oth7hby3-9f76-d1wf-lke6-yxi1piyb4dyg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://f03%656b46-c993-478f-8523-075399595735@194.182.79.64:14075?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=SRnfc3hHwI25Yz7EpNkYe6dGzH5UN4JoQa7FExTythI&sid=99d6eba91e81#194.182.79.64:14075
+vless://b68%61%65076-1268-45f0-b82%61-813732495724@194.182.79.235:28256?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=JQ9ZfU_CeZbOD-vqkXuTPedLrJedK4h7Jzpffhza3EQ&sid=70be4a908043#194.182.79.235:28256
+vless://f278037%65-c%6536-4634-9b4d-fc%6193%65345%6135@194.182.79.142:11746?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=PY9ZPXQhuNSjQAaiSl5GL9-TiXHnILEcNeYEAejv7jw&sid=c0f6f8b4#194.182.79.142:11746
+trojan://wjrsskqv-c0iq-hlco-we4l-7cynwkls18jr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://z3ijm4so-lsfl-utnw-kdsg-hpdooj05koxg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
