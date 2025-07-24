@@ -1,10 +1,10 @@
-trojan://yz22gpiv-1by9-p6gq-4nj4-dd8oeaicc2bw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 14:31 ]
-trojan://sz0klet7-v4re-59ye-cr29-l0qxde1yphup@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ob3ti423-mzjt-eanx-3i3t-wk1g8k20vl5r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIER1Y2t5IENsb3VkIFRlY2hub2xvZ2llcyBMaW1pdGVkIFx1MjUwNyAxNTQuODMuODguMTA2IiwiYWRkIjoiMTU0LjgzLjg4LjEwNiIsInBvcnQiOjg4ODgsImlkIjoiN2M5N2I2MTgtNzQxZC00OWY5LTgyYzItMTY5YTE5N2QyOGM5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRHVja3kgQ2xvdWQgVGVjaG5vbG9naWVzIExpbWl0ZWQgXHUyNTA3IDJhMGY6NzgwMzpmYWMyOmQ5YzY6MDAwMDowMDAwOjAwMDA6MDAwMSIsImFkZCI6IjJhMGY6NzgwMzpmYWMyOmQ5YzY6MDAwMDowMDAwOjAwMDA6MDAwMSIsInBvcnQiOjI0NDUsImlkIjoiN2ZmZjYwZWQtNTlkYi00Y2M2LWE1YWQtY2Y0Mjc0ZTU3YTUwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd2FkYTEyMjIyIn0
-hysteria2://ab78be87@45.192.243.159:2022?sni=www.bing.com&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Ducky Cloud Technologies Limited ┇ 45.192.243.159
+trojan://b3trlnat-vvvw-mtvn-tdhn-npg9d4szdu3q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 15:00 ]
+trojan://zruhm3kp-yac3-p1em-8gq9-j2xziz86ecas@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://q37499c5-umvf-46y0-ih9x-6oia2hikyw0y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a53d8305-4394-49ff-ac49-00a93be232c6@hlwy-v-20250403.hlwy2025.me:33040?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=48XapWp__ToHoLMmQrO5fn7wnDmvqkdROtxPnjALoH4#JP 🇯🇵 ┇ VLESS-TCP-RLT - Ducky Cloud Technologies Limited ┇ 45.192.243.53
+hysteria2://ab78be87@45.192.243.159:2022?sni=www.bing.com&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - Ducky Cloud Technologies Limited ┇ 45.192.243.159
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRHVja3kgQ2xvdWQgVGVjaG5vbG9naWVzIExpbWl0ZWQgXHUyNTA3IDJhMGY6NzgwMzpmYWMyOmQ5YzY6MDAwMDowMDAwOjAwMDA6MDAwMSIsImFkZCI6IjJhMGY6NzgwMzpmYWMyOmQ5YzY6MDAwMDowMDAwOjAwMDA6MDAwMSIsInBvcnQiOjI0NDUsImlkIjoiN2ZmZjYwZWQtNTlkYi00Y2M2LWE1YWQtY2Y0Mjc0ZTU3YTUwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvd2FkYTEyMjIyIn0
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIER1Y2t5IENsb3VkIFRlY2hub2xvZ2llcyBMaW1pdGVkIFx1MjUwNyAxNTQuODMuODguMTA2IiwiYWRkIjoiMTU0LjgzLjg4LjEwNiIsInBvcnQiOjg4ODgsImlkIjoiN2M5N2I2MTgtNzQxZC00OWY5LTgyYzItMTY5YTE5N2QyOGM5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://772cb4f0-6a82-48ca-b684-d9d286fc4d78@45.192.242.165:443?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=LYXOTQqwGZ01lSQNAtRhay35HEm6VqsYZq4iMBpR-38&sid=045b4468de703567#JP 🇯🇵 ┇ VLESS-TCP-RLT - Ducky Cloud Technologies Limited ┇ 45.192.242.165
-trojan://o1q9kkvq-vy3c-ej8w-62mh-vecjif128ia2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pf9s5na7-bga0-wd7u-87w6-mzzudtubht4c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://52ouwg0g-f8z3-i7gv-6apy-6k9ao871m9q5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bo1ou631-miak-kbwu-b3em-dsshj04sm8t7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

@@ -1,23 +1,12 @@
-trojan://f9m5ylw8-28rg-m2po-pufo-t2e2c54aswkl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 14:31 ]
-trojan://8unzh2sz-ophz-huz8-ndj3-2hwg3ert1rgv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ab3llebk-clw0-y57v-6zx9-cp21hzag69de@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVFdHRHJZU3MxclNqcTYxYTUzQ0ZS@23.177.185.63:49454#23.177.185.63:49454
-vless://588575c4-07d6-4c3e-ad9a-05db7e36dee8@162.159.20.126:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#162.159.20.126:80
-vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.95:443?type=grpc&security=tls&sni=pqh24v3.hiddendom.shop#156.238.19.95:443
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
-vless://54c6740f-76f0-4152-a06c-71fb77a7ae2c@45.33.115.7:443?type=tcp&security=none#45.33.115.7:443
-vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?type=xhttp&security=none&path=/Zed#151.101.67.8:80
+trojan://vh0qn0ad-r273-ehub-1isj-hrmy5splantr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 15:00 ]
+trojan://f9ijxlyw-vou7-lc98-nsdg-164742wrqcdn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vq17artw-4jlb-v6zo-31mw-o0osq0y7c5l1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?type=ws&security=tls&path=/lZU7WqWIDqC1jRn6?ed=2560&sni=azadnet05.pages.dev#172.66.47.175:2083
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.73.216:80?type=ws&security=none&path=/Telegram🇨🇳#172.67.73.216:80
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
-vless://ccfbd5c8-f3b4-4192-9b4e-42e8ebd78f21@31.47.51.143:50438?type=tcp&security=none#31.47.51.143:50438
-vless://f5b7a200-028d-4f0a-9fa0-2ba88b175241@104.16.157.108:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#104.16.157.108:8080
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
+vless://588575c4-07d6-4c3e-ad9a-05db7e36dee8@162.159.20.126:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#162.159.20.126:80
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#informed-location.seotoolsforyou.co.uk:80
 vless://f5b7a200-028d-4f0a-9fa0-2ba88b175241@104.16.157.108:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#104.16.157.108:8080
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?type=ws&security=tls&path=/assets&sni=NGINX.NSCl.IR#104.16.243.59:443
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?type=xhttp&security=none&path=/xhttp#91.99.218.14:8443
 vless://6e719400-b88e-4ab0-a05b-089d6cd3bcaa@uuk3v.tok8888.com:8443?type=tcp&security=reality&sni=www.thewilliamvale.com&fp=firefox&flow=xtls-rprx-vision&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8#uuk3v.tok8888.com:8443
-vless://95dd1a77-89e1-4448-9763-514cc79168ed@direct.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#direct.yasharteam.com:443
-vless://1ea87307-1d00-4c15-af3f-b363f8562ac5@45.150.33.157:50810?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=zhaket.com&fp=chrome&pbk=J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg&sid=aa60a00122200b76#45.150.33.157:50810
-trojan://7a7o05ox-w2xx-f2st-qp93-wkf04w6lzewi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0n6rug8t-fmka-ixxr-1jgn-z6e920b22lhm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://zwwyjvna-iviq-xm30-njer-gs9qu09vp3v0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://01s5i7xb-1z1t-pqcm-19nc-17fy8ymzo2kd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
