@@ -1,9 +1,9 @@
-trojan://9o9c9icf-ymbm-bb4r-g4ir-9p6v3evokwbn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 11:25 ]
-trojan://54n7pwdi-3rx3-lvwd-nu5b-w9317oy4lpce@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6ycnywsy-y7iq-v3ee-525l-fk2y4su4jm5x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIDI0ZmlyZSBHbWJIIFx1MjUwNyA0NS44NC4xOTYuMjEyIiwiYWRkIjoiNDUuODQuMTk2LjIxMiIsInBvcnQiOjUxNDYzLCJpZCI6ImE3MDdhYjA0LTk4OGYtNDk3Ny1iMjg5LWY3ODk4NmVmOThmYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+trojan://da6gau9y-46bp-uyvt-4uew-2sfacrfp2lbw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 12:06 ]
+trojan://8srnqc6d-kwm7-5yqs-h3t2-g0oyi9jekqzk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9qq5l62g-fpzx-8cmw-1a2t-r182cg2cilut@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207@night.dl.darinips.com:443?type=tcp&security=reality&sni=docker.com&fp=firefox&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY#DE 🇩🇪 ┇ VLESS-TCP-RLT - 24fire GmbH ┇ 45.147.7.116
-vless://Hqv2rayNG@hqmobin.ir:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=X5iCDX-UrsIGaS-8gqUzs6gRt9dqzGJ4xc28BTDTyVI&sid=88af6d73e1#DE 🇩🇪 ┇ VLESS-TCP-RLT - 24fire GmbH ┇ 194.117.224.20
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIDI0ZmlyZSBHbWJIIFx1MjUwNyA0NS44NC4xOTYuMjEyIiwiYWRkIjoiNDUuODQuMTk2LjIxMiIsInBvcnQiOjUxNDYzLCJpZCI6ImE3MDdhYjA0LTk4OGYtNDk3Ny1iMjg5LWY3ODk4NmVmOThmYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://4ee1809a-4a35-4601-99b3-51ce05fb4585@45.147.7.209:20000?type=ws&security=tls&path=/?ed=2560&sni=oty.myto.ip-ddns.com&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - 24fire GmbH ┇ 45.147.7.209
-trojan://5ykajr8b-t5fj-7evo-2bsj-7rvztevkl8fd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bfip81ec-dw9l-phj3-c3v7-41zkzukw43gt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://Hqv2rayNG@hqmobin.ir:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=X5iCDX-UrsIGaS-8gqUzs6gRt9dqzGJ4xc28BTDTyVI&sid=88af6d73e1#DE 🇩🇪 ┇ VLESS-TCP-RLT - 24fire GmbH ┇ 194.117.224.20
+trojan://yhhvgfjg-a6wg-jmef-ysib-gx8r4ecxudjj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e652b3pg-a07d-15un-5ufu-9z5qf1ztbsw5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
