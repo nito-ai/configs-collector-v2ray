@@ -1,11 +1,11 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-24 20:48:18
+Timestamp: 2025-07-24 21:16:39
 Total Channels: 92
 Successful Scrapes: 65
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
-freakconfig: 183 configs
+freakconfig: 184 configs
 v2rayng_1378: 94 configs
 freev2rng: 78 configs
 vpnod: 77 configs
@@ -47,8 +47,8 @@ PASARGAD_V2rayNG: 12 configs
 sinavm: 12 configs
 skivpn: 12 configs
 mcv2rayng: 11 configs
-SafeNet_Server: 10 configs
-DailyV2Config: 10 configs
+SafeNet_Server: 11 configs
+DailyV2Config: 11 configs
 jokerrvpn: 9 configs
 DALTON_PING: 8 configs
 dalton_ping: 8 configs
