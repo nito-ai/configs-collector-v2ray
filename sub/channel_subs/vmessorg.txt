@@ -1,11 +1,6 @@
-trojan://rdq0j2f5-e0lb-qz5q-0ofb-aj3wrdw0n7r2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 01:21 ]
-trojan://l5ndbvxy-pycw-yn02-u0wb-yd2ffq4k68i9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ky2w5gl3-f6vs-onpu-u5op-ucsvixaytucc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://1c72fdec-75c1-41fa-a4ca-7bd4b0509140@irc.testvp2.sbs:443?type=tcp&security=none#irc.testvp2.sbs:443
-vless://a2ae92f5-6557-4cc9-9b66-d8a22c05edf8@5.75.197.129:13836?type=tcp&security=none#5.75.197.129:13836
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6TvG8D6HimXKgdp2?ed=2560#104.16.85.3:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.16.69.162:8880
+trojan://a8rmkp7k-m74w-foye-ovlp-bx2nkgpfyonw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 01:59 ]
+trojan://chdxsh2q-gjet-3xnb-xkxb-njnuq7qp981n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://im8ooqig-9c5v-zflw-p4rp-ylgpkpw62dcf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/@Prime_Verse?ed=2560&sni=PaGes.deV#www.speedtest.net:443
 vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?type=tcp&security=none#65.109.184.141:2052
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
@@ -34,6 +29,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&securit
 vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?type=httpupgrade&security=none&path=/?ed=2052#www.speedtest.net:2095
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?type=tcp&security=none#54.38.214.56:37171
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?type=ws&security=tls&path=/8WuhXm4QjK0L68Uf?ed=2560&sni=gGHDFa.pAgeS.Dev&fp=randomized#172.66.47.61:8443
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?type=xhttp&security=none&path=/xhttp#91.99.132.59:8443
+vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&security=none&path=/xhttp#91.99.85.185:8443
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.80.215:8443?type=xhttp&security=none&path=/xhttp#91.99.80.215:8443
+vless://d4dad102-eb19-4bca-a536-a5d278fe3e0e@91.107.130.221:50453?type=tcp&security=none#91.107.130.221:50453
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
+vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?type=grpc&security=none#public15v7.fastipsport.com:8880
 vless://ce3acfb7-a0e8-4f96-b9ff-75c2657997fa@freedam.wirecard.store:2053?type=grpc&security=reality&sni=freedom.wirecard.store&fp=firefox&pbk=hRwCV7x14uQ7jdsLqsxvklkR4Mtf7kRsZhboIKRbsR4&sid=c531427f9b41#freedam.wirecard.store:2053
-trojan://ms5cnt6q-58i1-51yj-7jq4-6soawhxo1n79@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6fg81iu5-uxv8-qcbo-uxwg-rr0cztylnow8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://ksxoa41e-jojt-i3j6-3phq-rc5s3ss7izpm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wzhqn9r8-pnzg-0241-mced-lbourt1o1hyr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
