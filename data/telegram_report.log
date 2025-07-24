@@ -1,16 +1,18 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-07-24 14:49:08
+Timestamp: 2025-07-24 15:10:47
 Total Channels: 92
-Successful Scrapes: 60
-Failed Scrapes: 9
+Successful Scrapes: 65
+Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 freakconfig: 183 configs
 v2rayng_1378: 94 configs
 vpnod: 77 configs
 ZibaNabz: 67 configs
+azarbayjab1: 66 configs
 Tweety_Proxy: 66 configs
 expressvpn_420: 53 configs
+bored_vpn: 46 configs
 shadowproxy66: 45 configs
 ShadowProxy66: 45 configs
 v2ra_config: 40 configs
@@ -29,6 +31,7 @@ ghalagyann: 20 configs
 spikevpn: 20 configs
 v2rayfast_7: 20 configs
 lexernet: 19 configs
+arv2ray: 18 configs
 WarV2Ray: 17 configs
 configx2ray: 16 configs
 cybersoldiersst: 16 configs
@@ -43,23 +46,25 @@ v2raymelliii: 14 configs
 PASARGAD_V2rayNG: 12 configs
 sinavm: 12 configs
 skivpn: 12 configs
+DailyV2Config: 12 configs
 mcv2rayng: 11 configs
 SafeNet_Server: 11 configs
 DALTON_PING: 8 configs
 dalton_ping: 8 configs
 v2ray_rolly: 8 configs
-vpnpacket: 8 configs
 confingv2raayng: 7 configs
 fnet00: 7 configs
 jokerrvpn: 7 configs
+vpnpacket: 7 configs
 Subify_ir: 7 configs
-DailyV2Config: 7 configs
 proxystore11: 6 configs
 isvvpn: 5 configs
 mdvpnsec: 5 configs
 v2ray_god: 5 configs
 PRIMESOBI: 5 configs
 v2ngfast: 4 configs
+am20094: 2 configs
+befreewithus: 2 configs
 colsvpn: 2 configs
 ineronix: 2 configs
 BeFreeWithUs: 2 configs
@@ -67,12 +72,3 @@ lightning6: 1 configs
 WedBaZtel: 1 configs
 
 --- Failed Channels ---
-Alpha_V2ray_Iran
-abelimo
-am20094
-anty_filter
-arv2ray
-azarbayjab1
-befreewithus
-blueshekan
-bored_vpn
