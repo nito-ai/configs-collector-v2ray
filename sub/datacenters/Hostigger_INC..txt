@@ -1,10 +1,10 @@
-trojan://cni626ta-k3g2-ydf9-bkw8-eus40dtfg5vx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 09:09 ]
-trojan://rmf285t4-al3w-fmeu-9mr4-b5pxh3p8cdzx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5s09yh50-3ql6-hbw1-qv37-04xq13uy8meu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1g1dwtth-j23x-bz57-t73n-pdjrj6tma0hn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 09:32 ]
+trojan://kud87mst-xulv-u9t0-5b1h-3zs33vcee618@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kzvquw34-k5kn-kb5n-yjcz-yztsszahmvwp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@141.98.119.156:50003#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 141.98.119.156
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvc3RpZ2dlciBJTkMuIFx1MjUwNyAxODUuMTgxLjIxMC4xNzYiLCJhZGQiOiJzdWItdmlwLTQuaXJhbGl6YS5uZXQudHIiLCJwb3J0Ijo4MDgwLCJpZCI6ImVjMjg2MGZjLTRkMWQtNDY1YS1hYzZlLTFjNWMyZGUxZGU0OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@185.219.134.52:50003#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 185.219.134.52
-ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@185.219.134.182:50003#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 185.219.134.182
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSG9zdGlnZ2VyIElOQy4gXHUyNTA3IDE0MS45OC4xMTkuNDciLCJhZGQiOiIxNDEuOTguMTE5LjQ3IiwicG9ydCI6MjkzMjQsImlkIjoiYjhhY2M4NTEtN2IwZS0zYTc2LTg2NGEtNTBkZTU3YjM4YmQ3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvbnkifQ
-trojan://nx5rgo9r-siej-88oa-uz6t-fyk3yih0pdxa@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5bcngqam-a3no-qz4b-7gmf-cn1ojwkkrhda@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvc3RpZ2dlciBJTkMuIFx1MjUwNyAxODUuMTgxLjIxMC4xNzYiLCJhZGQiOiJzdWItdmlwLTQuaXJhbGl6YS5uZXQudHIiLCJwb3J0Ijo4MDgwLCJpZCI6ImVjMjg2MGZjLTRkMWQtNDY1YS1hYzZlLTFjNWMyZGUxZGU0OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMA@185.219.134.182:50003#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 185.219.134.182
+ss://YWVzLTI1Ni1jZmI6NzEyMjkxMDE0Mw@185.219.134.52:50007#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Hostigger INC. ┇ 185.219.134.52
+trojan://xyc4a3xm-b4ob-6hke-t3gf-wp6djxcfm2qz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7wltohwm-tsq7-axv3-g6zw-9y4iy5u107i1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
