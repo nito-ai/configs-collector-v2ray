@@ -1,12 +1,12 @@
-trojan://0x7raqh6-z4f8-vqpu-wzrj-668rp178ybj7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 08:39 ]
-trojan://674r83lo-dl47-60p9-mj3s-pkefp9jwst7e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pfre7abq-bzrk-wtlz-qe4p-mcn4hsz8xtm4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qle1mfyz-dryz-k10m-bmo9-dpgccof8c1rf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 09:09 ]
+trojan://gntf1smh-hkew-l2eh-lp66-tit4rhud2q5m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://biuwv3sc-0e04-9smb-skdd-ilsoe1e4oiyp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://694e7135-1a12-4ad0-a53f-b9217746bf9e@82.153.220.10:443?type=tcp&security=reality&sni=srhrforall.org&fp=chrome&flow=xtls-rprx-vision&pbk=Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ&sid=6412#DE 🇩🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 82.153.220.10
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElQWE8gXHUyNTA3IDEwNC4yNTMuNjguMjQzIiwiYWRkIjoiMTA0LjI1My42OC4yNDMiLCJwb3J0IjoyMjg4NSwiaWQiOiI4ZDQ3MzAxMy1lZGU2LTQxMGItYTU3Yi0xYzQ3ODMxNDBiYzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVBYTyBcdTI1MDcgMTcyLjI1Mi41Ni42OSIsImFkZCI6IjE3Mi4yNTIuNTYuNjkiLCJwb3J0IjozNjQ1MCwiaWQiOiIyZjUxNDRhZS04ZmI4LTQzZTEtYjZmOS01MmJiMzZmMTI0ZWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVBYTyBcdTI1MDcgMjA1LjIzNC4yMDAuMTA0IiwiYWRkIjoiMjA1LjIzNC4yMDAuMTA0IiwicG9ydCI6MzMxNjQsImlkIjoiMzFlOGY3YjQtYmEzZS00NDBhLTlmNTYtODI0MTU2OWMwMTdhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NkMjNkc3MifQ
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@216.246.25.159:16899#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IPXO ┇ 216.246.25.159
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElQWE8gXHUyNTA3IDg3LjEyMS42MS4yNTUiLCJhZGQiOiI4Ny4xMjEuNjEuMjU1IiwicG9ydCI6NDQzLCJpZCI6ImRhNzI2OWFjLWZmZGEtNGFkMC1hOTY5LTcxMjU0MWQ5YmJlZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVBYTyBcdTI1MDcgMTcyLjI1Mi41Ni42OSIsImFkZCI6IjE3Mi4yNTIuNTYuNjkiLCJwb3J0IjozNjQ1MCwiaWQiOiIyZjUxNDRhZS04ZmI4LTQzZTEtYjZmOS01MmJiMzZmMTI0ZWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
-vless://694e7135-1a12-4ad0-a53f-b9217746bf9e@82.153.220.10:443?type=tcp&security=reality&sni=srhrforall.org&fp=chrome&flow=xtls-rprx-vision&pbk=Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ&sid=6412#DE 🇩🇪 ┇ VLESS-TCP-RLT - IPXO ┇ 82.153.220.10
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVBYTyBcdTI1MDcgMjA1LjIzNC4yMDAuMTA0IiwiYWRkIjoiMjA1LjIzNC4yMDAuMTA0IiwicG9ydCI6MzMxNjQsImlkIjoiMzFlOGY3YjQtYmEzZS00NDBhLTlmNTYtODI0MTU2OWMwMTdhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NkMjNkc3MifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElQWE8gXHUyNTA3IDY2LjIyNS4yMjguMTgiLCJhZGQiOiI2Ni4yMjUuMjI4LjE4IiwicG9ydCI6NTA3OTUsImlkIjoiYWZkOTE4OTItYWE0NS00Mzc0LWVlZTItODY5MmNjOTJkOGJmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-trojan://0sbpk4j1-qjc3-q5ee-p8xd-fs88b1iovdqz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bb2p1pzy-8vp0-kvmt-8oi5-3x5hppfigk25@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://1dhybo6r-g61l-i9m8-mn13-kj4yi2xzp866@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lsw7v413-ek9s-tp47-pred-ru2t0fnei52j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

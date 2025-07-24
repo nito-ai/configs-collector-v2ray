@@ -1,11 +1,11 @@
-trojan://le7xdhwv-ecpp-tih4-mv8s-kxltgqx01sx0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 08:39 ]
-trojan://br1g8eaw-uwd7-2v36-052m-jgk5w9nl9rkh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u7kmr943-ni2w-1rzm-2b2y-wfpneesctwlx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIElQIFZvbHVtZSBpbmMgXHUyNTA3IDg5LjI0OC4xNzAuMjA3IiwiYWRkIjoiODkuMjQ4LjE3MC4yMDciLCJwb3J0IjoyNjc3OCwiaWQiOiIwODViZDE5OC1hMzJmLTRhMDItZjM2Zi1jZmM4NzBiMWE2MTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJzeW9nQVNuSzVTIn0
+trojan://8rtjghyx-nd91-8afp-kd10-i20uua2k783e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 09:09 ]
+trojan://zzq5u82z-hue3-nfo8-27ma-521ysxngayw1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ackzk3ue-4eph-klhw-j6bh-9xg8yd3f3660@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://TestingServer@@@94.102.53.19:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - IP Volume inc ┇ 94.102.53.19
-trojan://origin@94.102.54.66:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - IP Volume inc ┇ 94.102.54.66
-ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpzaGFkb3dzb2Nrc3I6YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUS8_cmVtYXJrcz1Ua3dnOEotSHNfQ2ZoN0VnNHBTSElGTlRVaTFVUTFBdFRsUk1VeUF0SUVsUUlGWnZiSFZ0WlNCcGJtTWc0cFNISURrMExqRXdNaTQxTnk0eE5qTQ
-vless://52e29dc6-df11-4f8e-82a9-24963e8c27ef@80.82.68.21:32951?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=cu5xGLkKStl9JPgzEUfI1ZBFN2ajwW7ig9KeNFNU4C0&sid=1e#NL 🇳🇱 ┇ VLESS-TCP-RLT - IP Volume inc ┇ 80.82.68.21
 trojan://Sp3eDVp@94.102.54.65:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - IP Volume inc ┇ 94.102.54.65
-trojan://we0ma6aa-x47r-ws4q-3wng-ae1oic6796m6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3fmcx1cv-htft-tdj5-1z2m-zqpzj3zc9hjw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpzaGFkb3dzb2Nrc3I6YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUS8_cmVtYXJrcz1Ua3dnOEotSHNfQ2ZoN0VnNHBTSElGTlRVaTFVUTFBdFRsUk1VeUF0SUVsUUlGWnZiSFZ0WlNCcGJtTWc0cFNISURrMExqRXdNaTQxTnk0eE5qTQ
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIElQIFZvbHVtZSBpbmMgXHUyNTA3IDg5LjI0OC4xNzAuMjA3IiwiYWRkIjoiODkuMjQ4LjE3MC4yMDciLCJwb3J0IjoyNjc3OCwiaWQiOiIwODViZDE5OC1hMzJmLTRhMDItZjM2Zi1jZmM4NzBiMWE2MTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJzeW9nQVNuSzVTIn0
+vless://52e29dc6-df11-4f8e-82a9-24963e8c27ef@80.82.68.21:32951?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=cu5xGLkKStl9JPgzEUfI1ZBFN2ajwW7ig9KeNFNU4C0&sid=1e#NL 🇳🇱 ┇ VLESS-TCP-RLT - IP Volume inc ┇ 80.82.68.21
+trojan://origin@94.102.54.66:443?security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - IP Volume inc ┇ 94.102.54.66
+trojan://e57ib1mf-vqh0-yyw7-ztj5-ie7ag7pg6n38@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fm0ec31u-njdh-i09k-r88y-s9m19fh8bqyg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

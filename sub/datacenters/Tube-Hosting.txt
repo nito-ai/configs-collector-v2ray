@@ -1,9 +1,9 @@
-trojan://848v5o8s-u4aw-39n2-zrwu-vxbv63mx24gp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 08:39 ]
-trojan://f1l310o6-u8jw-a06c-060a-2i0eo96mf25t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7zpg58uu-9v31-y7gz-fscf-gk4uzvfkwvip@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://b22a0538-39c3-4b16-92c9-c81a5b94d4f5@176.120.17.94:9001?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - Tube-Hosting ┇ 176.120.17.94
-vless://16f844c5-8b47-4e37-a1e7-393137ca81c2@vpn.metanetwork.top:2090?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Tube-Hosting ┇ 176.120.17.187
+trojan://3vp9jpn4-kq60-ert1-rvu4-7t41dnyhct66@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 09:09 ]
+trojan://98e9kun2-yn76-w8o0-6apa-6vv9tr3q8mzu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cmdc4yzs-gwlq-8jwt-qo52-i78fux33l2qq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://45412393-4ea3-4ad1-aee5-3b1a6eaf3068@wolf544.api-tel.ir:20779?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=wodBj9i1BLpFtuTbZmipx5xKfpinwvdQlUgWgKgs5Co&sid=28112dd1f3#DE 🇩🇪 ┇ VLESS-TCP-RLT - Tube-Hosting ┇ 89.106.69.78
+vless://16f844c5-8b47-4e37-a1e7-393137ca81c2@vpn.metanetwork.top:2090?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Tube-Hosting ┇ 176.120.17.187
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFR1YmUtSG9zdGluZyBcdTI1MDcgMTc2LjEyMC4xNy42NyIsImFkZCI6IjE3Ni4xMjAuMTcuNjciLCJwb3J0Ijo0MjI3MCwiaWQiOiIzYzBmOWNmNC02YTBjLTQyZjMtYTZkZS04OWM3OWQ0YWY4ZTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://wopsd23t-hcgl-hqg3-40cw-cl019m6ba3ud@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://li7h8goz-o26h-zego-ttrg-2rb1gijq8ncm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://b22a0538-39c3-4b16-92c9-c81a5b94d4f5@176.120.17.94:9001?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - Tube-Hosting ┇ 176.120.17.94
+trojan://teu2zeif-jh8u-u0z8-anze-7vcl2lrqsmh4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m4af9vh6-oqbk-gsbn-55av-72ysi1denwg8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
