@@ -1,10 +1,10 @@
-trojan://7nmxi23e-bj7c-k6cd-4l1x-c33yzgqzlxas@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 10:09 ]
-trojan://wjarmg9l-z28g-eino-eg20-digw9edx20yu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yaojitlc-9og1-2phu-h5ar-8x2xbajsux86@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
+trojan://n3asx8ix-dlff-ivb1-uavd-qbf9fho12g3a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 10:38 ]
+trojan://hoifsrzr-9iip-ncn7-k3uf-sbbwa9nzck6y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cskis4dr-no6v-ilks-gzim-9cwuih4jhk7n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f7fdf2c2-a98a-4e8f-b06a-29f1b3c8122f@46.253.4.31:443?type=tcp&security=reality&sni=www.dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=r-Sryx8MT35Vu5eHeRr-nfVXkGw1pQCkkwL0MFIkeEw&sid=321dd18a#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 46.253.4.31
-vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsZXhob3N0IFNybCBcdTI1MDcgNDYuMjUzLjQuMjE0IiwiYWRkIjoiNDYuMjUzLjQuMjE0IiwicG9ydCI6ODA4MCwiaWQiOiI3ZmQ1OWMwNC0wMjA3LTQ1ZTYtYTlkZS1iOGU3ZDk1NGJkMzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://3af682f1-3e13-4216-9a4a-49953d4009c3@78.40.117.69:8880?type=grpc&security=none#SE 🇸🇪 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 78.40.117.69
 vless://a0e3ae8d-c37f-4970-8754-3a978d084fd6@185.113.8.229:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 185.113.8.229
-trojan://z8eiefoy-t7nl-w5e8-61ym-9p9r9ytm0xyt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://p9vr32bg-bs22-h3q2-w665-zr88k60ypl94@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
+vless://3af682f1-3e13-4216-9a4a-49953d4009c3@78.40.117.69:8880?type=grpc&security=none#SE 🇸🇪 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 78.40.117.69
+vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsZXhob3N0IFNybCBcdTI1MDcgNDYuMjUzLjQuMjE0IiwiYWRkIjoiNDYuMjUzLjQuMjE0IiwicG9ydCI6ODA4MCwiaWQiOiI3ZmQ1OWMwNC0wMjA3LTQ1ZTYtYTlkZS1iOGU3ZDk1NGJkMzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+trojan://2j8dzbpk-hfvb-9eex-f88o-mte6dvo7zz4u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mr6it8q5-j4e8-d1y9-mekp-4lcnzzl1p2wd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

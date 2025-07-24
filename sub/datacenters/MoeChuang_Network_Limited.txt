@@ -1,10 +1,10 @@
-trojan://4uq1o12z-34n5-nvqt-ur5q-8rft5dhrlmvk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 10:09 ]
-trojan://gerlq9i3-6lpd-u15g-9bq1-calyxoi7a6q1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rooo99vs-632j-xqoa-genh-79f84kd611h1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMGY2ZjBjOC05NGYyLTQ5NjMtOTVmMi0yYjBjMzhkZDFhZGU@45.158.59.74:27802#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 45.158.59.74
+trojan://78iqcwwl-1i2e-96z9-jo72-ymqzn1y5ecqr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 10:38 ]
+trojan://6y5eo91g-kxdw-2qvj-1t9s-bm5og1n44ffj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://twsgiz7l-3f55-7eth-jnr6-1npsxxr18ye9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://8382ac4a-95a5-11ee-b55e-473254c6dcf2@50.114.37.34:10004?type=tcp&security=none&path=/vpnjantit#US 🇺🇸 ┇ VLESS-TCP-NTLS - MoeChuang Network Limited ┇ 50.114.37.34
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYjg5NTQxNS04MDQwLTRlNTItOGMyZC0zYTI0MjQ0OWVmYWE@191.96.206.4:51166#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 191.96.206.4
-trojan://c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f@v01.gutingting.com:30056?sni=v1kr01.fuqiangren.com&peer=v1kr01.fuqiangren.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MoeChuang Network Limited ┇ 5.83.221.31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMGY2ZjBjOC05NGYyLTQ5NjMtOTVmMi0yYjBjMzhkZDFhZGU@45.158.59.74:27802#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 45.158.59.74
+trojan://61c6ceee-ee4f-475f-867d-dcfda15490fb@v01.gutingting.com:30017?sni=v2hgc01.fuqiangren.com&peer=v2hgc01.fuqiangren.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MoeChuang Network Limited ┇ 5.83.221.31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYThkNjQ5Mi1mM2Y1LTQzNzYtYWE4OC0xYzNiZGE1N2E2ZDk@213.130.141.113:58226#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 213.130.141.113
-trojan://7biod8pr-hqs1-9kwa-mj40-duiewa4sgnzz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8nckbdgr-3zfb-549z-xnhw-17jpu4hrchce@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYjg5NTQxNS04MDQwLTRlNTItOGMyZC0zYTI0MjQ0OWVmYWE@191.96.206.4:51166#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 191.96.206.4
+trojan://0syok0c0-8v94-sdj4-5x87-i7sg0w48mze6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yyyrsh1m-5dmi-d55z-2i5x-hp0zkg0qugkt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
