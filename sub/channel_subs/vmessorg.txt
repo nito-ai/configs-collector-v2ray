@@ -1,6 +1,6 @@
-trojan://v0p990al-vadv-bj9a-oeku-oebr5sg6ql28@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 09:32 ]
-trojan://fwykinn3-1ybk-rbua-ob3b-dyues1hitoa2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dbj6f9f9-4m6d-cpyy-jrd3-z21hopwpbjqk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://m96z7a3s-gh67-zt5o-4mvl-llfdse1wr924@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 10:09 ]
+trojan://g46amkfa-tveo-dha8-6sjj-2me2y6ibn0f0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ex2ryb6g-94kv-7fu0-yxji-acaguz11cht1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1c72fdec-75c1-41fa-a4ca-7bd4b0509140@irc.testvp2.sbs:443?type=tcp&security=none#irc.testvp2.sbs:443
 vless://a2ae92f5-6557-4cc9-9b66-d8a22c05edf8@5.75.197.129:13836?type=tcp&security=none#5.75.197.129:13836
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
@@ -35,5 +35,5 @@ vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?type=httpupg
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?type=tcp&security=none#54.38.214.56:37171
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?type=ws&security=tls&path=/8WuhXm4QjK0L68Uf?ed=2560&sni=gGHDFa.pAgeS.Dev&fp=randomized#172.66.47.61:8443
 vless://ce3acfb7-a0e8-4f96-b9ff-75c2657997fa@freedam.wirecard.store:2053?type=grpc&security=reality&sni=freedom.wirecard.store&fp=firefox&pbk=hRwCV7x14uQ7jdsLqsxvklkR4Mtf7kRsZhboIKRbsR4&sid=c531427f9b41#freedam.wirecard.store:2053
-trojan://g5j39fym-s7x2-tpoz-cj9g-1n1mpz8sfjmr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gxd57cjz-bi76-obmu-akt4-slj55wic8vrj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://l39a1rff-s81a-oo54-2rtf-z1yq808zva71@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://b2ufvle1-4nhn-mhru-fjab-jx714xp25xxg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
