@@ -1,8 +1,8 @@
-trojan://15jsiw4l-l86l-h6a8-180h-bmau2s20zfeh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 18:01 ]
-trojan://290j6diq-7ckv-xj73-09ph-6btzckd8jj47@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4y1el1vz-wuzt-dlcz-4ohb-u5nh1hhg8ei3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?type=tcp&security=none&path=/#SA 🇸🇦 ┇ VLESS-TCP-NTLS - ZEN-DPS ┇ 162.128.76.63
-vless://c7658a66-518d-4187-9f46-99b3c1a7a90c@107.151.220.253:56363?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ZEN-DPS ┇ 107.151.220.253
+trojan://y50xjor3-pka1-dl49-2ndw-udunbin66nae@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 18:30 ]
+trojan://fbmh6tcl-fq3v-of5h-54dm-fg1ye9ixuqf8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3ukn2x4x-e0cx-acif-mifw-vkjjzmhgnwh6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206cjZjd2RHY3plQXhwbkNLVVRnbjBScFRzU3pJZWNtLzZ5ZjQzSjNmM2o4QT0@103.62.52.253:19320#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - ZEN-DPS ┇ 103.62.52.253
-trojan://69kglucf-aikg-411w-bqjl-z7jibm27nqk6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8v7mujll-m5mc-59vn-psnl-t0aj4yej5p7s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://c7658a66-518d-4187-9f46-99b3c1a7a90c@107.151.220.253:56363?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ZEN-DPS ┇ 107.151.220.253
+vless://f5a45265-3620-49ff-98b9-a862d5f3a09d@162.128.76.63:36729?type=tcp&security=none&path=/#SA 🇸🇦 ┇ VLESS-TCP-NTLS - ZEN-DPS ┇ 162.128.76.63
+trojan://cb1zr9iu-crw6-seuu-xdld-5ac1pk3cew4t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kmk5yz9v-3lgs-x8ch-vnpb-r5x9wws5ombg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

@@ -1,6 +1,6 @@
-trojan://9d6kgvis-qj8p-rwvy-lmzg-5smz58woosko@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 18:01 ]
-trojan://wi26egjl-j603-2kwc-g5kv-wb2yvg2o89wc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7gfn9onz-y8ao-v7eh-za5d-q1y5i0iju08d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://yasnb8h2-ylpr-ji6f-6d76-ke8euzsyg8cy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-24 | 18:30 ]
+trojan://y72d659l-jorv-y1b3-fvrk-mpnoxhu8kj1o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://b8qzy0x6-griq-0esd-wba0-zq4eh8en7xgi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#45.87.175.167:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3T3J2TDBKSDlmMkx2SUU0NU1UN1dO@77.105.166.12:8594#77.105.166.12:8594
 vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW0gOiBAaXRlbnZwbiBFMyIsImFkZCI6IjkxLjEwNy4yNDMuMTUwIiwicG9ydCI6MzIwMTcsImlkIjoiYzBjY2RlYjktNzg0Yy00ZDY3LWI5MDQtMjBkY2FhYzk5MDJhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
@@ -33,5 +33,5 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.210.16:8880?type=ws&security=none&path=/TJhZjFeb0fQLVntH?ed=2560#104.25.210.16:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@162.159.244.47:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#162.159.244.47:8880
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?type=xhttp&security=none&path=/xhttp#91.99.183.30:8443
-trojan://xakqy16p-ksh9-5p4d-6grj-w61fxhlvtpil@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u6huyeye-7st3-2c5t-ygr5-6wyv9hnohnbu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://5kb9g2do-atn7-8m0u-2mxf-1woatdq832m6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i7nsehef-8ww7-jbe6-zx4v-7bgx2rm2dw8l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
