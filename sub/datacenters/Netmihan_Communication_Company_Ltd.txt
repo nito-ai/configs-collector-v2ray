@@ -1,12 +1,12 @@
-trojan://ccwhluwp-1z6n-p6pc-hdur-nwzo8ob785rb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 12:32 ]
-trojan://3qffb64n-vcu3-ddjv-7ckg-xtnfn95vsqff@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gu0jw6s2-sl2w-x4id-0jko-ri0e8x078vh7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jhxfaz3r-v7ii-2kei-ohja-bzaxtplxgfh3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:02 ]
+trojan://ubsoq490-4jrg-czlj-y9ab-csa8tm9k2u1r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qpo6cx1r-j1wa-aql8-x7tr-s6yl1z43eksf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://abf6cbe0-8776-4b03-8e08-a7f8da202f12@89.32.250.83:8443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 89.32.250.83
 vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
+vless://479724d3-3f7e-480b-8f52-a06fcfd1ca26@4s.digikala.9ip.ir:22741?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 185.94.96.93
+ss://YWVzLTI1Ni1nY206WHBHNm1waGM@217.144.106.226:11122#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 217.144.106.226
 vless://fdd1dfce-3292-4441-8f45-212ea9b7d250@downloadha.com.iraniantim.ir:80?type=ws&security=none&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Netmihan Communication Company Ltd ┇ 89.42.211.170
 vless://d273fcfe-6ffe-49c9-84c0-bf920f64b8fc@split2.parsbsd.ir:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 89.32.251.74
-ss://YWVzLTI1Ni1nY206WHBHNm1waGM@217.144.106.226:11122#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 217.144.106.226
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV0bWloYW4gQ29tbXVuaWNhdGlvbiBDb21wYW55IEx0ZCBcdTI1MDcgMTg1Ljk0Ljk2LjEyIiwiYWRkIjoiMTg1Ljk0Ljk2LjEyIiwicG9ydCI6MTc2LCJpZCI6IjM1MDIyZjNjLWRkMzMtNDBlOC1jODBlLTkzNmZiM2EwOTc2OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
-vless://479724d3-3f7e-480b-8f52-a06fcfd1ca26@4s.digikala.9ip.ir:22741?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 185.94.96.93
-trojan://02ps7k3i-rtsd-z9ss-cn1k-4ybyh9ikga2a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cxw8dwnw-zt49-wnb8-7pfe-yn7c7yk40xdu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://m91mu88r-7rus-afx4-v1va-w29ywgbte0nb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://p5l9emr1-6c5f-yzcf-qdsh-dtj6k0tf0cl2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

@@ -1,9 +1,8 @@
-trojan://rpszsmdr-473t-yct8-dtcp-wug9u0j3srsr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 12:32 ]
-trojan://jwldrbfa-31nn-b6le-63mg-qz6vnior3zfa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://76aqs7lx-gdn7-zqw1-8376-3l7zw2sz8vi8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://dee6e497-bf07-45bb-82a4-a988ac8c1403@cf-node-hk-1.kcjb.org:443?type=ws&security=tls&path=/&sni=node-new-us-1.clashr.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - AS-PHREESIA-1 ┇ 66.179.48.100
-vless://6c7a6a6a-6a6a-4000-8000-000000000002@66.179.48.80:443?type=ws&security=none&sni=eu1-woiden.lzj520hxw.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-PHREESIA-1 ┇ 66.179.48.80
+trojan://fiep2kea-avg2-firr-3qdl-23sk34x7wbsy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:02 ]
+trojan://87p0hjrd-pg0e-hm5i-bi82-g4fnw0zf514r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ti5f9nv6-1l2c-qtid-0gjd-nw4nnteokskr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://dns68@66.179.48.88:443?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-PHREESIA-1 ┇ 66.179.48.88
 vless://a3c075ab-51cd-4947-e8a4-aad55e19bec2@66.179.48.46:443?type=ws&security=tls&path=/lzjjj&sni=hy2.xiaozi.cc.ua&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AS-PHREESIA-1 ┇ 66.179.48.46
-trojan://utokltov-uqay-h77g-7rd9-stx0u7xzbxsw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c8e5kz9p-1zi9-7lon-wd1v-0ux52vddtkys@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://6c7a6a6a-6a6a-4000-8000-000000000002@66.179.48.80:443?type=ws&security=none&sni=eu1-woiden.lzj520hxw.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-PHREESIA-1 ┇ 66.179.48.80
+trojan://7y110154-xvgd-9gfh-94qm-8wr6mzgoofys@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4k0a09ry-euj3-6htm-hu1n-w9i71higzhhs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
