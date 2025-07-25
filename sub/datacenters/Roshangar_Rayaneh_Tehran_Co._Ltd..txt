@@ -1,8 +1,8 @@
-trojan://1a8i2s1e-xpso-lwwj-kbah-p77zq764wr6f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 02:27 ]
-trojan://p15w52z6-nm7l-x161-ena4-anp4cmcydhs2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://josu17h6-ka5e-wbn8-vlqv-2vxjk0tlbvmm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6yjenooy-dxyw-gwqh-kbou-ule89dmgnl4a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 02:58 ]
+trojan://xngrw5s7-w31x-o7hr-ubb6-sljnybfrhf6y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pvuvxnaz-i956-klba-06ga-bxiowbn0cgl1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fa5f0428-00d4-45dd-8539-69c16b4c741c@iranhost.com:2052?type=ws&security=none&path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Roshangar Rayaneh Tehran Co. Ltd. ┇ 185.10.72.20
-vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?type=httpupgrade&security=none&path=/XRAYVPNHTTPUPGRADE#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Roshangar Rayaneh Tehran Co. Ltd. ┇ 185.10.75.78
+vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=de1.blackismyfavorite.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Roshangar Rayaneh Tehran Co. Ltd. ┇ 185.10.75.78
 vless://83757454-25ec-44a6-bde6-4fed7baaa161@185.10.75.66:2080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Roshangar Rayaneh Tehran Co. Ltd. ┇ 185.10.75.66
-trojan://ezjzaexx-70ag-fzmv-f7e0-ehk56h9fouwa@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dacl4v20-brh8-2uwl-u8oq-2cdkzozxfzs7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://04rbnxsr-ka5n-1dkz-j1qq-0vnjeew4au5n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://o43hrakk-bwap-d9c5-aoay-f6h3mncu45qu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
