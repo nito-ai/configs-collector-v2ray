@@ -1,8 +1,8 @@
-trojan://348pb8a8-hb4r-752r-ued5-l5fz21llj1jq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 19:26 ]
-trojan://qrllxbsb-htkz-ezoz-gyoi-a5vb1uk0torn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nqb79mpc-34u5-pqlh-axox-7h15vwr5uf7z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://faee6828-82e8-4716-934e-d9949caead07@209.209.48.19:38032?sni=aliyun.com&peer=aliyun.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - ASYMPTOTE ┇ 209.209.48.19
-hysteria2://4494a8b7-de19-4b0f-85fb-4c3aab9654e4@91.124.30.24:443?sni=www.bing.com&insecure=1#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - ASYMPTOTE ┇ 91.124.30.24
+trojan://91w7jrb7-g60y-kq80-z0qs-2vyuy3ujdnc8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 20:03 ]
+trojan://q5qf3oan-7934-6sk7-yhnz-qbhhyyphbjk0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3berdadu-irlz-hvhu-09ir-i170quqhhyfq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://bc3cc9e3-915d-4f76-ad9d-3e52d097476b@104.234.4.32:7000?type=ws&security=tls&path=/?ed=2560&sni=mihu.sorry.ip-ddns.com&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - ASYMPTOTE ┇ 104.234.4.32
-trojan://vpsxy210-gio1-8h97-3rvq-r3q9tt0654ul@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wnfhiu3f-8qd0-o2vn-7r3s-7qsnd2bgm4t4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+hysteria2://4494a8b7-de19-4b0f-85fb-4c3aab9654e4@91.124.30.24:443?sni=www.bing.com&insecure=1#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - ASYMPTOTE ┇ 91.124.30.24
+trojan://faee6828-82e8-4716-934e-d9949caead07@209.209.48.19:38032?sni=aliyun.com&peer=aliyun.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - ASYMPTOTE ┇ 209.209.48.19
+trojan://dvx8f2ay-10vu-2vl8-jtel-ah17e5bpa38r@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://k28si89q-shge-d7la-1z5y-1ik7n780i4ca@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
