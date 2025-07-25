@@ -1,11 +1,11 @@
-trojan://01v44fo2-atuv-hpj9-rnv6-0fibx063ip5m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 12:04 ]
-trojan://fx72lvpc-wdog-q5ko-59fk-8qry11qcdhj3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://z7ymp2se-410i-uuqj-9jlo-4rx1dtte5mp3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEN0c1cmNlYXFKZlZFbFVTMjVBWk5J@93.180.133.206:8443#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 93.180.133.206
+trojan://nptw8ayu-zzsw-vhpa-w0pz-nshb0w80con6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 12:32 ]
+trojan://v0ndddat-3hlq-j15j-bh6e-nvbq02bjlkfv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pj2eerwn-akjf-c9dd-1bu4-m78tawx18hue@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1e91f47b-4072-4da1-94cd-9d90a4d9f8b4@84.32.230.122:17349?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=I70amIvHB8SOaROuXBtonD9N1n9ph1qIvu-TOp4lWwU&sid=a9bb#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 84.32.230.122
 vless://9175264d-11b6-431f-86a7-69adf9fa24f2@84.32.230.160:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=cY7T3CiF0ysvFgyTXliMsXSTBM0Icd_VOhuDkxM9nFY&sid=75e19bf5087c4f0c#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 84.32.230.160
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEN0c1cmNlYXFKZlZFbFVTMjVBWk5J@93.180.133.206:8443#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 93.180.133.206
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTaWJ0b0tXQWRWZWl0WVo1VFdWaWl3@31.210.43.145:8443#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 31.210.43.145
-vless://19f3b302-fc7c-4fb9-9d35-e55083e97a03@154.53.164.213:443?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=jqrTHDmU7xOCdGGUNZ_orv2GvVHDoCCttUucmaCAH3M&sid=cc#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 154.53.164.213
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTDNzQnBGcnhHNkw4Q1o3REo4R1Rt@31.210.43.177:8443#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 31.210.43.177
-trojan://16b20wam-5h3s-oioy-asek-mvx4q6ewqkfg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nbel5wub-mct3-fsvi-zltn-80kiven6p0vv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://19f3b302-fc7c-4fb9-9d35-e55083e97a03@154.53.164.213:443?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=jqrTHDmU7xOCdGGUNZ_orv2GvVHDoCCttUucmaCAH3M&sid=cc#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Mailbox Internet Hizmetleri Ltd. Sti. ┇ 154.53.164.213
+trojan://fbzp1znr-sx93-bhas-uu08-4xpsdig0q6m9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://52loyk1y-rdvp-f249-0uyk-30bfa9j1b2zs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
