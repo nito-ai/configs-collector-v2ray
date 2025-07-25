@@ -1,9 +1,9 @@
-trojan://pa1q41ki-nh5t-ryid-rwtz-23m3j7u01g5i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 00:58 ]
-trojan://0xlpepfe-pba7-n9gj-7jta-w7ef08e4j10g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hqtr4xod-f5r2-69u3-1f55-ojh3l9azzyj3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?type=tcp&security=reality&sni=Zula.ir&fp=chrome&pbk=GiJD-Fcy7f8Ec0jJ2bfKwjIgVJgdblJ-HUEVt0r8LCM&sid=ce1f64bf8464#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 193.9.16.37
-vless://f2981156-f162-4809-bb5f-416e247e63f1@dns.hosseinjadgall.sbs:443?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 193.9.16.47
+trojan://2x5fqrc2-pg3z-t5vn-2hxk-7h85ki24futo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 01:21 ]
+trojan://v8vsd6dc-ho1x-7qdi-i7ca-bc4m79p815yl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gkngu49r-tips-3irq-l1y8-nbhvgo5ryajh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERldXRzY2hlIFRlbGVrb20gQUcgXHUyNTA3IDQ2LjgyLjE3NC42OSIsImFkZCI6ImFoaGZiLmZvc2kuaGsiLCJwb3J0IjoyNzE1NCwiaWQiOiIyNjMyODYzYS03NWQ4LTMwMDMtYjlmMS1iYzgxY2E2ZTg1Y2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://1earf053-5ff6-4def-b234-d760690355ff@91.19.83.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 91.19.83.138
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRGV1dHNjaGUgVGVsZWtvbSBBRyBcdTI1MDcgNDYuODIuMTc0LjY5IiwiYWRkIjoic3BlZWRjbC41NDg5MjY1Lnh5eiIsInBvcnQiOjIwNTIsImlkIjoiM2E0MGMzNTMtOTBmOS0zN2E2LTlmN2ItNjhhZmI5Y2MxM2UwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdWFzZmJiYyJ9
-trojan://nc1qnnd5-2d6e-2u3d-rcec-gjg9kc8a1k7q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wchffuss-gop4-1086-17a7-68fvpjpbleaq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://f2981156-f162-4809-bb5f-416e247e63f1@dns.hosseinjadgall.sbs:443?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 193.9.16.47
+vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?type=tcp&security=reality&sni=Zula.ir&fp=chrome&pbk=GiJD-Fcy7f8Ec0jJ2bfKwjIgVJgdblJ-HUEVt0r8LCM&sid=ce1f64bf8464#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 193.9.16.37
+trojan://mywb6ole-3xp6-wsbe-nzrt-23l6luypcomp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://upursweh-sfpr-5kr0-neew-c141icq6vfzl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
