@@ -1,10 +1,10 @@
-trojan://5obdfh0e-ryf2-ivzv-5w9b-286imzhv893n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:02 ]
-trojan://nfsi9d72-rzwa-f8sv-x1h4-3e4e9hrjz7kl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cl6l2vi8-omb8-u1qb-7z06-nlxyrlkzjle4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@154.205.147.24:8080#OM 🇴🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.24
-vless://8405b505-709f-4066-8f24-5337212d47d4@154.205.147.238:443?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mu0LLDgqLrI_QQwD3Dhd_sAldyWylaspLVS5lXDEeCU&sid=e0796eb9b80f7a#OM 🇴🇲 ┇ VLESS-GRPC-RLT - Kaopu Cloud HK Limited ┇ 154.205.147.238
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2cmd2UUl2NnVmSGwzNEw3dHdxemhv@154.205.147.68:8443#OM 🇴🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.68
-hysteria2://0f737d73b058c8cf@161.123.69.19:1602?insecure=1&obfs=salamander#OM 🇴🇲 ┇ HYSTERIA2-TCP-NTLS - Edgoo Networks Unipessoal Lda ┇ 161.123.69.19
+trojan://s0y79at1-yu57-lba9-rucr-rx6es397rk4l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:29 ]
+trojan://zqxsxsud-69wu-s9s5-w4y1-hgf7giaammxd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7lc0aqpk-fh30-9l3g-yup3-7la1bl9mnckt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@162.158.28.121:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#OM 🇴🇲 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 162.158.28.121
-trojan://ci7x93jv-4er5-x4mq-pp3p-h16v2tkmoj7w@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://35vvuls0-0n58-nah6-ncsh-fehw0opeihn3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+hysteria2://0f737d73b058c8cf@161.123.69.19:1602?insecure=1&obfs=salamander#OM 🇴🇲 ┇ HYSTERIA2-TCP-NTLS - Edgoo Networks Unipessoal Lda ┇ 161.123.69.19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2cmd2UUl2NnVmSGwzNEw3dHdxemhv@154.205.147.68:8443#OM 🇴🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.68
+vless://8405b505-709f-4066-8f24-5337212d47d4@154.205.147.238:443?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mu0LLDgqLrI_QQwD3Dhd_sAldyWylaspLVS5lXDEeCU&sid=e0796eb9b80f7a#OM 🇴🇲 ┇ VLESS-GRPC-RLT - Kaopu Cloud HK Limited ┇ 154.205.147.238
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@154.205.147.24:8080#OM 🇴🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.24
+trojan://jq3rfz7v-o71t-4rtt-yii0-89dkcs5vkqes@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4vfrmuvi-asme-sqgy-ryq9-ni562fzrdq9t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

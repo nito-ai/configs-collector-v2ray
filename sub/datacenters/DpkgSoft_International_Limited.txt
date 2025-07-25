@@ -1,7 +1,8 @@
-trojan://x5xqwy00-4bnz-f4dk-zviv-4750fvaj7lzn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:02 ]
-trojan://zvfpk9sh-urph-32m0-mgit-nnmwmcncg1cs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4ovnfa3v-j1f2-3263-1hxs-xvpohac3ob24@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZHZKVFRqUUFIeEdPM3RUVlJlcVJE@193.233.253.224:38264#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - DpkgSoft International Limited ┇ 193.233.253.224
+trojan://7gow3p58-2ugc-9n90-zfx9-4bq9uwxj5d7x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:29 ]
+trojan://gypgr9i5-eunk-5tiy-dptt-wsmpg3igzr5u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jin1gtxo-n25a-5dfi-mzoy-snza9jzh4g5p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SnpDUjR2R1I2bFFBMExFeDQzRGl3@91.108.245.111:23600#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - DpkgSoft International Limited ┇ 91.108.245.111
-trojan://57irgy6x-7osp-rxci-jp9i-n4dop0l0qshq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5gu9k67r-meoz-29cq-6dsg-8ndkzdxzyok6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZHZKVFRqUUFIeEdPM3RUVlJlcVJE@193.233.253.224:38264#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - DpkgSoft International Limited ┇ 193.233.253.224
+vless://1aa9177d-f535-495c-92a2-9b5c8b920d1a@89.23.123.243:443?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - DpkgSoft International Limited ┇ 89.23.123.243
+trojan://ycgcbibr-db0w-jetq-zu8v-td3ow38fnnnl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://s9mp3fnw-3rrd-cupb-fcuq-cyn1wcr69fcb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

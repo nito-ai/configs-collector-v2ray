@@ -1,10 +1,10 @@
-trojan://4jwnw7dd-yjyv-yzwi-qcoi-6e1wxyyruj1u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:02 ]
-trojan://ubf1kd2p-7c3j-98gp-gsgl-fhvmwoj6duni@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o0o04nja-s2ih-ygkz-5id6-j0x3sgsr36ed@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://czkofvoo-ukj8-qgrs-s5v7-v03kobnx27sk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:29 ]
+trojan://84xv2f6t-7j27-n1ro-bbav-ifbnb6g47r54@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1wx1on5a-8cle-tms8-e6mn-tdpba4ry7i6r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://ff0675b0-c665-3d69-800b-f7fc29e1ead8@39.164.141.104:40350?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Henan Mobile Communications Co.,Ltd ┇ 39.164.141.104
-ss://cmM0LW1kNTpQYW9mdQ@111.6.86.80:1157#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Henan Mobile Communications Co.,Ltd ┇ 111.6.86.80
-ss://cmM0LW1kNTpQYW9mdQ@111.6.86.119:1182#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Henan Mobile Communications Co.,Ltd ┇ 111.6.86.119
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhlbmFuIE1vYmlsZSBDb21tdW5pY2F0aW9ucyBDby4sTHRkIFx1MjUwNyAxMTEuNi44NS4xNjMiLCJhZGQiOiJjMTA2ZDZ6MnEubWN6dTYyYjMzLjk1YnZ6MGcxMi5zb2FiZ28uY29tIiwicG9ydCI6MjUwMDMsImlkIjoiMUFEN0NCNzQtRjE5RS0yMkUwLUY1QTYtQzIyN0NFNUVFNDQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLzJ5ZXZ3cyJ9
 ss://cmM0LW1kNTpkNHIwRUg@in01.clashcloud.tech:44517#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Henan Mobile Communications Co.,Ltd ┇ 111.6.87.27
-trojan://ti5xqdmd-ov5h-8muo-zs6j-zo6uplqr5ncz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4lxmhxye-bwmc-4t0h-p5rb-epifw01d3u74@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhlbmFuIE1vYmlsZSBDb21tdW5pY2F0aW9ucyBDby4sTHRkIFx1MjUwNyAxMTEuNi44NS4xNjMiLCJhZGQiOiJjMTA2ZDZ6MnEubWN6dTYyYjMzLjk1YnZ6MGcxMi5zb2FiZ28uY29tIiwicG9ydCI6MjUwMDMsImlkIjoiMUFEN0NCNzQtRjE5RS0yMkUwLUY1QTYtQzIyN0NFNUVFNDQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLzJ5ZXZ3cyJ9
+ss://cmM0LW1kNTpQYW9mdQ@111.6.86.80:1157#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Henan Mobile Communications Co.,Ltd ┇ 111.6.86.80
+ss://cmM0LW1kNTpQYW9mdQ@111.6.86.119:1154#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Henan Mobile Communications Co.,Ltd ┇ 111.6.86.119
+trojan://n1w08dng-hosq-yfl6-gd4x-bl1vwv8pt0fe@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hfifpczg-d10q-mlcw-8fig-0du10t2vyvv8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

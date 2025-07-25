@@ -1,7 +1,7 @@
-trojan://9s7ueg1j-zdso-9ek9-5dky-1szkiyndkjnk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:02 ]
-trojan://442girs6-kcmt-nefh-1yyg-pwgs7wj0zz5b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://678smchd-hzoh-jlfr-fsqu-kxlu2mn3wl6d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://euydr4u0-v4me-yqwv-2yl2-hq1fggy1kkb1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:29 ]
+trojan://m883ehq8-1b1e-jkgm-u105-smk9e3uzo4rs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zc2m3zmw-dyvt-mvud-jzbf-bnb5fp553az3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a07827b5-4b27-4910-8333-f78949562fc9@138.128.225.100:443?type=ws&security=tls&path=/telegram-mitivpn-telegram-mitivpn-telegram-mitivpn?ed=2048&sni=design-mobo.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - NetConnect Innovations LLC ┇ 138.128.225.100
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=ws&security=none&path=/telegram-mitivpn#AE 🇦🇪 ┇ VLESS-WS-NTLS - NetConnect Innovations LLC ┇ 138.128.224.100
-trojan://l4ixruaw-pere-atba-92ll-3gvsjdxmj8my@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z4h7qa1w-x8og-fksl-fd2b-6eyi7n9cstcr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetConnect Innovations LLC ┇ 138.128.224.100
+trojan://4yau16n7-sz9w-polf-0zst-oohf4f0x1u1a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nkhia0bg-tcmy-7vf2-k9kc-xmijg0ugdapc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
