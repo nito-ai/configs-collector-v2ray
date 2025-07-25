@@ -1,6 +1,6 @@
-trojan://shspqej8-3c6n-4iax-eeu6-wts88yz6f4lb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 22:35 ]
-trojan://fwtb67x3-2onv-jfh7-2e5r-hp8il29wij6v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gp29hilt-rxie-c0lp-9s32-r28kvi7lk3pw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://65pdmiuw-p4nk-9h39-83sy-tb82s0cqkpmx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 23:20 ]
+trojan://euks2ziq-uau0-1g0f-meos-0ujkoceukwu2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://w2a7oo9n-cey3-5m98-b4c5-7eh2rvsqygcl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?type=tcp&security=none&path=/#91.107.150.172:443
 vless://6cd35205-ccd3-426b-bfd7-677957aea695@cb4.connectbaash.info:4404?type=tcp&security=none#cb4.connectbaash.info:4404
 vless://c5faf134-bade-4e16-96de-a33a24c51cce@sn.lunarmc.ir:8082?type=grpc&security=none#sn.lunarmc.ir:8082
@@ -9,5 +9,5 @@ vless://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?type=grpc&secur
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&sni=miro.com&fp=firefox&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&sid=f74c827840#159.69.181.251:2087
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&sni=miro.com&fp=firefox&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&sid=f74c827840#159.69.181.251:2087
 hysteria2://flwhi%3AkcWlduqyvTDhaah8r1IIX7VnjB5r0SVl@tr-parsapt.hyper-ping.com:3105?sni=bts.com&insecure=1&obfs=salamander#tr-parsapt.hyper-ping.com:3105
-trojan://tt3s2lkf-xk2s-oopy-c603-90ipnhckn51n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gwu2lqo3-5wu0-i6p5-tldr-p79i9hjay4zc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://ucnkjfty-c7my-pqaq-2pv9-b12yzytoxcxb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xq7kc2bn-uiyy-muf6-wqbr-wq6xk7lsvik2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
