@@ -1,9 +1,9 @@
-trojan://kbv8c7ng-2u9g-4mo4-lurv-ogd3bh0al2q7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 22:06 ]
-trojan://gu4zrqqm-nbjw-0i1y-z6nl-uo3s51ucee3j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qo0407rv-fm9u-t3yv-e5i9-xret76bnw1il@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://bcf2ae66-9318-4450-8c96-e4fa1d128dcc@tanel.vpnmr.sub4u.site:1112?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 130.185.73.119
+trojan://m8dpzi33-8ss0-h7tx-8o5v-i6uu838c8rw5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 22:35 ]
+trojan://7x1lyl9a-dj8h-fyeg-t9i1-k4m0r8rbi6j9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3s76kdft-7j6j-29sv-yzu1-xjk2bwvsmk5v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@45.139.11.243:443?type=ws&security=tls&path=/&sni=Bia.alLhub.Ltd&fp=random#IR 🇮🇷 ┇ VLESS-WS-TLS - Pars Parva System LLC ┇ 45.139.11.243
-vless://d16407ba-e859-4a02-a15b-fa88b791ebae@193.5.44.197:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 193.5.44.197
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgUGFydmEgU3lzdGVtIExMQyBcdTI1MDcgNDUuMTU5LjE0OS4xOTQiLCJhZGQiOiI0NS4xNTkuMTQ5LjE5NCIsInBvcnQiOjI3OTI1LCJpZCI6ImI2NzBhZjIwLWIyM2ItNGQzYy1hMzNlLTdiMDhhMGM1NWIxMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-trojan://njoflto1-c3d4-rcvr-rjds-qoi6v7jptayu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vc0r5f2j-wc5m-ldjh-v1hi-i7cig32edlw9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://d16407ba-e859-4a02-a15b-fa88b791ebae@193.5.44.197:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 193.5.44.197
+vless://bcf2ae66-9318-4450-8c96-e4fa1d128dcc@tanel.vpnmr.sub4u.site:1112?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 130.185.73.119
+trojan://4nndn7pm-4564-oqoz-c2mu-t54hb2vx88um@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://c1ztbgaf-eotl-zq7o-67c2-0nn9oeblyf75@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
