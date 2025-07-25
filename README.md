@@ -360,5 +360,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 <div align="center">
   <strong>Built with ❤️ for the global V2Ray community</strong><br>
-  <a href="https://github.com/eQnz/configs-collector-v2ray">🌟 Star us on GitHub</a> | <a href="https://t.me/DailyV2Config">📢 Join our Telegram</a>
+  <a href="https://github.com/eQnz/configs-collector-v2ray">🌟 Star us on GitHub</a> | <a href="https://t.me/eQnz_github">📢 Join our Telegram</a>
 </div>
