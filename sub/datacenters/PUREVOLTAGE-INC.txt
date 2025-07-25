@@ -1,9 +1,9 @@
-trojan://a6j7t3nl-p9x4-03wd-hwfh-6yimy8v14cv4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 20:58 ]
-trojan://dg54xe61-a0cr-3rjw-fghn-z89ewihzp2t3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bhtj4gdf-5tuh-2ufi-jzih-ok3mxtuetou8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://h82t7ejm-vpp9-0jna-2s24-09u7khs9wxci@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 21:26 ]
+trojan://51ifb65x-o8kt-e3tv-ya0j-vkyb89hbfdn1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vlcbxwjj-lacm-aw51-icss-60vmudri1jml@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443#SC 🇸🇨 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 146.19.90.10
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#SC 🇸🇨 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 146.19.90.2
-vless://8e6acce9-8b56-7190-d491-7d84f8189e26@103.175.79.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 103.175.79.2
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.10
-trojan://kg4gcjbt-9a68-ok1d-ykls-iqbpgjp8vt05@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mcfjs9kk-21ak-fdat-zvpo-wf4tqb8cfiq2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://8e6acce9-8b56-7190-d491-7d84f8189e26@103.175.79.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 103.175.79.2
+trojan://zblmegx5-884i-5c4x-5nft-2f3oi01zxehh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v98rpidk-n9xy-bsge-jx8h-p7tm2ynvcled@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
