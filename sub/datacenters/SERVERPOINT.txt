@@ -1,8 +1,8 @@
-trojan://fb9cdi6k-3d3c-qbg0-l1kz-a3rtpbk61k74@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 10:09 ]
-trojan://42a41gv0-repo-vspr-fvde-e85tyhwga2kf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://38pbf7ze-8s0r-hhvq-m6aq-vfus3owiuszr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1qvmgzbd-l0np-y5ng-qbrq-mc14j9zcsbzm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 10:37 ]
+trojan://ruay80do-b50z-kehw-11ra-xbayhr3us7l8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jgztas8i-vfe6-txpp-ab52-h882betcv29g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@64.235.61.162:7000?type=ws&security=tls&path=/?ed=2560&sni=ccc.ylks0033.dpdns.org&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - SERVERPOINT ┇ 64.235.61.162
-vless://b22a0538-39c3-4b16-92c9-c81a5b94d4f5@64.235.38.146:7000?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - SERVERPOINT ┇ 64.235.38.146
 trojan://bpb-trojan@64.235.45.131:443?sni=skwygx.top&peer=skwygx.top&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - SERVERPOINT ┇ 64.235.45.131
-trojan://bz8d97ca-pt1v-5muv-u8xu-vzgwemvadzyl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://80kynt0g-0xfj-iwqa-9cv3-ndwm2zkrobuu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://b22a0538-39c3-4b16-92c9-c81a5b94d4f5@64.235.38.146:7000?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - SERVERPOINT ┇ 64.235.38.146
+trojan://4el9wq61-5m2e-z3yl-4r6b-78w2ixhnx9bf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tqfi8jpl-u52p-30qe-vimi-z14kpurqkt1y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
