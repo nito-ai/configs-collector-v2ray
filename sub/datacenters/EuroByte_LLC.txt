@@ -1,9 +1,9 @@
-trojan://58c0lwct-pewx-grx4-eorg-v3w4jcq1k4ok@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 01:58 ]
-trojan://98o7vf37-sptc-kxpa-7y3i-btblm71am4co@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2cdlm8sg-yavf-j6zh-qzgf-v7wqihab8yf8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xsmsqnzd-e365-f6vg-xz88-2cs6wu428ms6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 02:27 ]
+trojan://3i522lw5-g6bl-ags3-uueo-6mv87k8v9sh7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://v1huiu4m-3b7t-dkim-a6y9-ovti6z1n6p1u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EuroByte LLC ┇ 95.142.37.74
+vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EuroByte LLC ┇ 95.142.37.48
 vless://a698f2b0-130b-4625-8b57-ff888f7cc063@95.183.13.203:443?type=tcp&security=reality&sni=ftp.debian.org&fp=chrome&flow=xtls-rprx-vision&pbk=thzNE1MsvEBRenhjsQaob_M6G7vhmpQDfS1sLe8AflQ&sid=c93743d8#RU 🇷🇺 ┇ VLESS-TCP-RLT - EuroByte LLC ┇ 95.183.13.203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbGF0cGlmT29u@185.221.153.52:444#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - EuroByte LLC ┇ 185.221.153.52
-vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EuroByte LLC ┇ 95.142.37.48
-trojan://lnegtvlh-7idh-hm3j-5hba-96hf2lqf864l@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5c62al19-b75w-leds-erwv-d8r4td10h4nk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://nng86h4c-sp0u-cgar-3f4t-mey0xrebsg27@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pshtn58y-emc8-4kc1-w0dc-9y6h22dhj1g4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
