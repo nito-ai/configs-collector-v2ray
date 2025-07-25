@@ -360,5 +360,5 @@
 
 <div align="center">
   <strong>Создано с ❤️ для мирового сообщества V2Ray</strong><br>
-  <a href="https://github.com/eQnz/configs-collector-v2ray">🌟 Поставьте звезду на GitHub</a> | <a href="https://t.me/DailyV2Config">📢 Присоединяйтесь к нашему Telegram</a>
+  <a href="https://github.com/eQnz/configs-collector-v2ray">🌟 Поставьте звезду на GitHub</a> | <a href="https://t.me/eQnz_github">📢 Присоединяйтесь к нашему Telegram</a>
 </div>
