@@ -11,7 +11,6 @@ permissions:
 jobs:
   collect_configs:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Check out repository code
         uses: actions/checkout@v4
@@ -36,11 +35,7 @@ jobs:
           git config --global user.email "action@github.com"
           git add -A
           if ! git diff --staged --quiet; then
-            COMMIT_DATE=$(python -c "import jdatetime; now = jdatetime.datetime.now(); print(f\"{now.day} {jdatetime.date.j_months_en[now.month-1]}\")")
-            COMMIT_TIME=$(TZ='Asia/Tehran' date "+%a %H:%M:%S")
-            COMMIT_MESSAGE="🔄 Update V2Ray configs on $COMMIT_TIME $COMMIT_DATE"
-            
-            git commit -m "$COMMIT_MESSAGE"
+            git commit -m "chore: 🔄 Update V2Ray configs on $(TZ='Asia/Tehran' date)"
             git push --force
           else
             echo "No changes to commit."
