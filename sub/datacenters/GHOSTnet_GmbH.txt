@@ -1,9 +1,9 @@
-trojan://41dqpktd-yspn-6yfv-vcv3-ouukntr5c4l1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 01:21 ]
-trojan://gikjtjji-6bnw-r9xn-ijmo-p15i2wqs47cu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://29ysm0ar-dql6-bykd-9h45-0ly7hyrebmt1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f184c89c-80a4-4a3a-bc67-97db43266c11@5.230.44.233:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - GHOSTnet GmbH ┇ 5.230.44.233
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpadlFnVUxQa1o1UjcxN2tNb1c3cVVMMTNiMWM2b0pLSnRHMzVTVWp1U0dEV1Y1MmtmR0w0ZGRlYll2d25WcU5jRXp3OU1nZEN6MnBUeXZCZGE5OWFjR29WQ3lzc2FYQkI@5.231.63.169:40934#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - GHOSTnet GmbH ┇ 5.231.63.169
+trojan://ivv8pd6q-qha0-2jyn-e66a-i4pvrtw6ediz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 01:58 ]
+trojan://5vh4td0l-8nry-3f34-ttvj-9efn9a2eqlbp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://asp4t420-nzk2-ye9u-5c5h-ns4sifrfsi3h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@5.230.44.117:16771?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - GHOSTnet GmbH ┇ 5.230.44.117
+vless://f184c89c-80a4-4a3a-bc67-97db43266c11@5.230.44.233:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - GHOSTnet GmbH ┇ 5.230.44.233
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR0hPU1RuZXQgR21iSCBcdTI1MDcgNS4yMzAuNzQuMTk1IiwiYWRkIjoiNS4yMzAuNzQuMTk1IiwicG9ydCI6ODAsImlkIjoiM2M2ZjY1NmItZjc5Mi00YjVkLTg5MmMtNTM0NWIwMzU3NTIxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwifQ
-trojan://0cynjet1-6mer-vmhg-43o9-ftc8uvzlo5id@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nrdosdib-w9p2-pn45-6q6l-6g4zpgpahjqu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpadlFnVUxQa1o1UjcxN2tNb1c3cVVMMTNiMWM2b0pLSnRHMzVTVWp1U0dEV1Y1MmtmR0w0ZGRlYll2d25WcU5jRXp3OU1nZEN6MnBUeXZCZGE5OWFjR29WQ3lzc2FYQkI@5.231.63.169:40934#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - GHOSTnet GmbH ┇ 5.231.63.169
+trojan://d5sv1ew0-8ljs-dmx5-jozf-wv6ugce4jlzj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lbi5hi3t-0mcn-7qpn-l0mm-1tjbwxyr3yzj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

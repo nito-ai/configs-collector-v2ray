@@ -1,11 +1,11 @@
-trojan://v4da16b6-ne45-xu0y-nsay-q25e03hdhqn8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 01:21 ]
-trojan://k7hvin5f-yh6b-6myp-1kw9-f10129ihonm0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ec8tuzln-bojd-12cd-xpk6-7zsr4qm7elg7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 90.156.254.164
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 37.233.82.140
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 83.222.20.64
-vless://41a70c71-ebe0-41a5-b61b-d3137ba11446@83.222.20.45:8443?type=ws&security=none#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 83.222.20.45
+trojan://tm0s6trl-ntrl-wvv3-pwr5-ozjfvz2zuyju@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 01:58 ]
+trojan://z5rds0u5-8pf5-98av-73zv-y8kmokts7kc1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ir2hznrk-nbo3-vymp-va1w-nq7bzwme3b7y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 77.73.238.191
+vless://41a70c71-ebe0-41a5-b61b-d3137ba11446@83.222.20.45:8443?type=ws&security=none#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 83.222.20.45
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 37.233.82.140
 vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 45.130.214.192
-trojan://5u8yo4rz-260m-5ihr-d8py-9fv3bsptynnz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r8perjv6-iytu-xoh3-iexf-oejha46c3pye@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 90.156.254.164
+vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 83.222.20.64
+trojan://egm29bc9-k16f-7y8p-hulk-3ih6qgvroabo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xv6wqc6y-4m5x-ixz0-rmxb-wen6dz1figx0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
