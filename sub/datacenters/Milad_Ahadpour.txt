@@ -1,11 +1,11 @@
-trojan://yto3wxxe-0m4y-nubh-zdyy-btsoyghm6r7k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 07:53 ]
-trojan://r9ctdhxn-9fym-b5zx-tjou-vwoeifh5ym2i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ofimyj0v-46tz-4jvt-i2dw-xwjj3i34rnsz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://1a6599e9-f887-49d0-a8ef-3a9a8879e32d@85.133.224.183:40066?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Milad Ahadpour ┇ 85.133.224.183
+trojan://bw4zf8dp-2eoo-njvt-qgfu-yaip2e9k57xl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 08:40 ]
+trojan://i8x1zzxh-9sau-gcsv-181e-5nmm85o6o5sv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1bsrb1q3-fm44-uwd7-fpls-ivegu9s87w7u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://dd21b55c-a1e5-47db-dc93-eb6fcba28226@185.215.229.97:2222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Milad Ahadpour ┇ 185.215.229.97
+vless://f63a6f48-659b-44f4-8cc1-2928e174e150@85.133.224.236:50168?type=raw&security=none&path=/#IR 🇮🇷 ┇ VLESS-RAW-NTLS - Milad Ahadpour ┇ 85.133.224.236
 vless://9ba51a73-dd95-4d62-a9c2-c84a8707a631@85.133.224.231:38869?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Milad Ahadpour ┇ 85.133.224.231
 vless://6befc74c-a624-408c-bf77-0426ea40137b@iran.hesamshv.sbs:7412?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Milad Ahadpour ┇ 185.215.229.108
-vless://f63a6f48-659b-44f4-8cc1-2928e174e150@85.133.224.236:50168?type=raw&security=none&path=/#IR 🇮🇷 ┇ VLESS-RAW-NTLS - Milad Ahadpour ┇ 85.133.224.236
-vless://c205e218-39f0-43aa-a90d-65242d8c6bf5@poland.espyr.online:2021?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Milad Ahadpour ┇ 85.133.224.56
-vless://dd21b55c-a1e5-47db-dc93-eb6fcba28226@185.215.229.97:2222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Milad Ahadpour ┇ 185.215.229.97
-trojan://317v0v8x-0h7s-bki1-ppbi-oys5kb04pvb6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mvolbn6n-eafs-gqzs-ancg-a99x3rf5um92@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://c205e218-39f0-43aa-a90d-65242d8c6bf5@poland.espyr.online:2021?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Milad Ahadpour ┇ 85.133.224.53
+vless://1a6599e9-f887-49d0-a8ef-3a9a8879e32d@85.133.224.183:40066?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Milad Ahadpour ┇ 85.133.224.183
+trojan://0vsz9ei7-vdmc-p9t0-8muv-yq26vl0pr0gf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3ssulib4-1wa0-2l8h-zodb-3ch36fp9kkei@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
