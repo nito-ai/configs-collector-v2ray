@@ -1,25 +1,22 @@
-trojan://pz4j820r-ymi2-so4h-v63q-qfomz2579495@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 06:56 ]
-trojan://gaquf3db-nl1w-pxh0-g61e-xiti3xvncjk1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://37zgwubi-e8f3-szxe-w0x1-oe8xfuih5hzm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://caabbca-baca-abca-bdac-abaacccbcbba@127.0.0.1:8080?security=tls#127.0.0.1:8080
-trojan://telegram-id-directvpn@15.236.28.202:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#15.236.28.202:22223
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls#sg02.trojanyyds.xyz:443
+trojan://uyad738u-gzsp-tn78-q4nh-ccc25vep5uac@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 07:53 ]
+trojan://n8tmesxr-yznp-51cr-6cuk-hffdt0oroa74@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rv94b8sy-p466-eh9x-zokq-665qb3uqdzqu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuOVdNM1VIRlFoRmFVS3F5MkhtVEpj@91.103.253.151:19057#91.103.253.151:19057
+trojan://telegram-id-directvpn@52.21.177.242:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#52.21.177.242:22222
+vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiI1MS42OC4xOTEuMjMzIiwicG9ydCI6ODAsImlkIjoiZjBlZGEwNzItOWFlOC00OTRjLWE0OTUtMjE1ZmE1NzI5NDY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii92bWVzcy8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOF10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiI0NS44LjE0Ni4xMjkiLCJwb3J0Ijo4MCwiaWQiOiIwNzA0MDE2Zi01NDM1LTQ2NTUtYmU2YS03NzFhNWFiYTUyYzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3ZtZXNzLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGZjMV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiIxNzIuMTExLjE0Ni42NCIsInBvcnQiOjgwLCJpZCI6IjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvdm1lc3MvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGZjMV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiI2MS4yNDUuMTEuNjAiLCJwb3J0Ijo4MCwiaWQiOiI2OTI0MTgyZi05MGVjLTRiMTEtYjA1Ni1mYzUwMTk1ZTMzNTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiL3ZtZXNzLyJ9
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:2096?type=ws&security=tls&path=/#92.118.233.42:2096
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.72:2082?type=ws&security=none&path=/#95.164.18.72:2082
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&security=none#45.82.251.78:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?type=grpc&security=none#185.231.205.231:8880
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.193:443?type=ws&security=tls&path=/#45.15.127.193:443
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:443?type=ws&security=tls&path=/#94.131.122.76:443
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?type=grpc&security=none#45.82.251.124:8880
-vless://eb19e160-51f8-40d3-966b-9fa5de336924@104.24.177.129:80?type=ws&security=none&path=/#104.24.177.129:80
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2096?type=ws&security=tls&path=/#77.91.103.216:2096
+vless://f5b7a200-028d-4f0a-9fa0-2ba88b175241@104.16.157.108:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#104.16.157.108:8080
+vless://7e1d017e-91cd-4d96-a1a8-0c970ec0e692@be.kimjo.ir:8080?type=ws&security=none#be.kimjo.ir:8080
+vless://84948f5d-8555-4c5a-a789-c97678769c69@172.67.211.227:2082?type=httpupgrade&security=none&path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048#172.67.211.227:2082
+vless://cea06199-e51d-4a53-b7c8-195b75ab3f1d@185.146.173.58:8080?type=ws&security=none&path=/servernett#185.146.173.58:8080
+vless://e03adb18-3982-4128-8035-a39f4afc5d95@104.17.147.22:8880?type=ws&security=none#104.17.147.22:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.16.69.162:8880
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?type=tcp&security=tls&sni=local.rogsoftwaregroup.com#65.108.231.185:443
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-17.cristiano.name.ng:443
-trojan://1wd6wdk5-x3jk-y7w0-s25f-puwqr8vh9a4k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pijuooxy-q3df-eh96-n10s-db4v5tduxj3s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://742079d9-e7aa-4205-ae0f-bd3a94ecac18@bmi.raheaiande.ir:1001?type=tcp&security=reality&sni=ea.com&fp=edge&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&sid=c7bc4d#bmi.raheaiande.ir:1001
+vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33#5.181.20.219:17422
+vless://7e1d017e-91cd-4d96-a1a8-0c970ec0e692@holan.foxline.ir:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=IqSKHvETwm15L1CW3JfEA052UrEaUakJEhyUKb_9kz4&sid=87606ed6cdfaa532#holan.foxline.ir:443
+vless://95dd1a77-89e1-4448-9763-514cc79168ed@direct.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#direct.yasharteam.com:443
+trojan://yvifqjmx-umk3-x3pr-zf6v-waevd9gdrsyj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4341qgn6-rn5q-i0el-h93c-ao0hilspirsj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
