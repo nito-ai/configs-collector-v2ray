@@ -1,8 +1,8 @@
-trojan://mzsbf66h-5kbj-ykfx-mzty-0afn34dh9ukc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 10:37 ]
-trojan://8ncq1ns9-53tg-gifp-okps-13ibvhapzep8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://py367p8o-hmaf-4ir6-yu6k-6dk6oflo2op5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
-trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443?sni=wfi.sahnama.com&peer=wfi.sahnama.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Kuroit Limited ┇ 178.239.171.103
+trojan://qkm2642o-vcma-yxns-jtfb-cq5n0d3fk9ep@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 11:04 ]
+trojan://3gubo7bh-m86o-2avd-d8st-vnj1rob73tgt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9647lb3p-vdrq-b3lc-7oe9-kozzm69o4oyv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 tuic://81ef78ef-721f-443e-aa3f-969072c0b8eb:azadi@46.37.124.122:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 46.37.124.122
-trojan://szozej8a-5mui-wpqp-yh9l-ad5uqyqqw8g4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1xywsqgo-3vy7-icyb-bh49-56iakhft7v9v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443?sni=wfi.sahnama.com&peer=wfi.sahnama.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Kuroit Limited ┇ 178.239.171.103
+tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
+trojan://x1qpizay-baf5-9wcs-77yg-0pcmgnh9vznb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9e9mwvyk-g772-0502-q14h-n3qxqu9hrmtk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

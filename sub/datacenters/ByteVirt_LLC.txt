@@ -1,9 +1,9 @@
-trojan://sfo0pnul-jwgs-otqx-loqp-mjnvug5p3xmx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 10:37 ]
-trojan://f9i0epo2-16d0-9u7b-lw1q-edkq08kzm8d2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gsf2q35p-luul-b0hq-4qjp-ly1npvvf81fa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://4f9d1abb-cca4-4f44-a2a5-e126e622ea35@sg1.3224536.xyz:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 109.176.19.79
+trojan://h3z8m1pr-y4ey-f7fe-bo3d-8yma4ngovcau@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 11:04 ]
+trojan://xybedqm9-yirf-s26w-t4vp-8zzhodgw9d5i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mkcvnh6u-33ym-6seh-d44n-ecdcgumjt07p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0b1b62ab-537f-4cc3-b8b2-71fb1ddbfdb1@185.115.207.29:10726?type=ws&security=tls&path=/?ed=2560&sni=111-aw3.pages.dev&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - ByteVirt LLC ┇ 185.115.207.29
-vless://0b1b62ab-537f-4cc3-b8b2-71fb1ddbfdb1@147.79.20.121:30001?type=ws&security=tls&path=/?ed=2560&sni=111-aw3.pages.dev&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - ByteVirt LLC ┇ 147.79.20.121
 trojan://Aimer@147.79.20.239:443?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 147.79.20.239
-trojan://ouv1ae2a-hmqb-jdm9-ac5d-40ida60mjh0e@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wnmtua9e-buys-95kk-t4if-o03xe9r71jva@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://0b1b62ab-537f-4cc3-b8b2-71fb1ddbfdb1@147.79.20.121:30001?type=ws&security=tls&path=/?ed=2560&sni=111-aw3.pages.dev&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - ByteVirt LLC ┇ 147.79.20.121
+trojan://4f9d1abb-cca4-4f44-a2a5-e126e622ea35@sg1.3224536.xyz:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 109.176.19.79
+trojan://1lxh9ta2-vpf5-r2k4-qe8t-0p2s8xg7njow@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3ln8fgta-u2oy-8nfr-vl2y-jeaiou917kvi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
