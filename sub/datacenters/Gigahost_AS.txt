@@ -1,9 +1,9 @@
-trojan://5np3gbo2-2l3g-tkyd-rmfn-eov53ta3xrb4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:29 ]
-trojan://ve7r4v6f-5qvy-g6y3-0pyf-xjfrnoyjhsv7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ks7hfjkr-6hhx-1fp2-qz3r-rrk0x3o197g7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9ipskh5z-7idw-jyn9-8n2v-eblnz5csn958@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 14:01 ]
+trojan://iuttz8zl-n60m-a3k5-big7-012ooemcx1n7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ewxzicyk-wuci-vyin-1wsk-qoqzv5aaezus@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://id7871326936@193.243.189.221:443?type=tcp&security=reality&sni=www.store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=_f-xe8zRCHbVX-88yLY1xoDU0i_WFhM1usVK8tnmSFI&sid=c503d198#NL 🇳🇱 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 193.243.189.221
-vless://id8133491769@freevpn01.v2raytun.top:443?type=tcp&security=reality&sni=vk.com&fp=random&flow=xtls-rprx-vision&pbk=d0tsZKr6Y7rdsppLOpkgxZfeRsYigwjE6v-qNqYdAQE&sid=acd56b#NL 🇳🇱 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 193.243.189.238
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTEyOTM1MzQ1QnRnVjVQREhWd3c@195.35.113.79:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Gigahost AS ┇ 195.35.113.79
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?type=tcp&security=reality&sni=partner.g2.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#NO 🇳🇴 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 185.125.171.13
-trojan://uz017e5r-ly1i-qa3c-iy5q-ycx6ow7d5o07@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e1t83s5i-yu8r-vyiz-su6g-755cvkoj6zck@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTEyOTM1MzQ1QnRnVjVQREhWd3c@195.35.113.79:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Gigahost AS ┇ 195.35.113.79
+vless://id8133491769@freevpn01.v2raytun.top:443?type=tcp&security=reality&sni=vk.com&fp=random&flow=xtls-rprx-vision&pbk=d0tsZKr6Y7rdsppLOpkgxZfeRsYigwjE6v-qNqYdAQE&sid=acd56b#NL 🇳🇱 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 193.243.189.238
+trojan://u11usnsn-08eh-abyd-8abo-i5bmmj78zhcq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://c4yhkmed-dvt9-nfao-upmn-bjyeolpxvle3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

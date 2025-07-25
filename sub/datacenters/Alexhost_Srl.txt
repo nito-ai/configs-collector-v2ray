@@ -1,10 +1,10 @@
-trojan://hnsnfhm6-mbzi-k3xb-o9sq-4gdsov0a9n4j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 13:29 ]
-trojan://hc5u13b9-nmji-ly2j-vabo-rk4chhwlzuaq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nve2rah5-oi6a-1ux5-62uo-x9hmtbz81dz9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a0e3ae8d-c37f-4970-8754-3a978d084fd6@185.113.8.229:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 185.113.8.229
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
+trojan://82ybwql3-bjjs-s2tr-m8mt-irnli8rq3ehu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 14:01 ]
+trojan://3ro10f6x-uf8q-b9m7-xkae-fjplay44b8gr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://u452dcnc-v4gj-vvdp-4uso-ixk22396q26s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f7fdf2c2-a98a-4e8f-b06a-29f1b3c8122f@46.253.4.31:443?type=tcp&security=reality&sni=www.dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=r-Sryx8MT35Vu5eHeRr-nfVXkGw1pQCkkwL0MFIkeEw&sid=321dd18a#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 46.253.4.31
-vless://04cf10a3-2268-4c8c-a756-e0953ee9410d@46.253.4.214:8080?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 46.253.4.214
+vless://a0e3ae8d-c37f-4970-8754-3a978d084fd6@185.113.8.229:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 185.113.8.229
 vless://3af682f1-3e13-4216-9a4a-49953d4009c3@78.40.117.69:8880?type=grpc&security=none#SE 🇸🇪 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 78.40.117.69
-trojan://tpcy9tf2-n1r0-e82k-5n0r-hhgth2l5a6a0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://flcdeuly-pbbx-yzje-u87q-nsvnzp9jr0ov@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://04cf10a3-2268-4c8c-a756-e0953ee9410d@46.253.4.214:8080?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 46.253.4.214
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
+trojan://s6f632f1-g4pu-e1md-38kv-xec6lmzut6fx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ioslos9d-f7m3-fhdy-zgbv-gka4fww3470v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
