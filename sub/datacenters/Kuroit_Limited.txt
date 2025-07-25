@@ -1,8 +1,8 @@
-trojan://jk0kgugg-fuxz-pdys-xg4r-wo7tx120dhil@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 00:00 ]
-trojan://uwpep4d8-2viw-llnr-3rk0-8vupappapote@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wuset4b1-71hs-o8bd-znsk-fi9ynvw4tzv7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
+trojan://p3jbmwe0-3ws1-wigj-tfi7-bia9xbv2qkxp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 00:25 ]
+trojan://199qodk4-gv50-r74s-ugsl-l4zjsj7yjjjv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://llrpv446-cvhv-9unv-184u-37gpasveisvv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443?sni=wfi.sahnama.com&peer=wfi.sahnama.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Kuroit Limited ┇ 178.239.171.103
 tuic://81ef78ef-721f-443e-aa3f-969072c0b8eb:azadi@46.37.124.122:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 46.37.124.122
-trojan://1oticwt4-mtvl-mjsn-lwik-1rlz9v1ou38q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4n97l0cd-6czn-r3f2-7o27-mslonjof94g9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
+trojan://8ct5fx9b-i4iq-eet5-wwzg-mp6yknld5pmy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sa2h7udq-gc0s-nqyj-eeas-esd99g3ezowv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
