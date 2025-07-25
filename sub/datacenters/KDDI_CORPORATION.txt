@@ -1,10 +1,10 @@
-trojan://p8ufmryw-fzn8-e9n7-iehp-675rbh1y7mab@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 15:21 ]
-trojan://4h15oxkl-fbul-a27d-hzzi-2vrtk6yi48ly@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://229akewd-89fu-tw1p-0hro-m1z69enypnkd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://131-2f1d8-4iko45-bv1a-cb3172fpp133@114.18.26.90:2096?type=tcp&security=none&path=/jmgjhhws#JP 🇯🇵 ┇ VLESS-TCP-NTLS - KDDI CORPORATION ┇ 114.18.26.90
-vless://e510ef59-8e87-4b7a-bd9e-bf2277aa01e2@106.180.225.73:32606?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=H-nBYFMFdZInbzrieFTqt6Gsf8EhE2VT1qV855VQNg8&sid=984ba8d9#JP 🇯🇵 ┇ VLESS-TCP-RLT - KDDI CORPORATION ┇ 106.180.225.73
+trojan://3r8hsc7t-43n9-cg9e-vapl-150fsotl81d8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 16:18 ]
+trojan://bmia2wp9-dhms-66z8-q59t-1iqla58cnqll@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l2bibm1e-q1ip-nu9b-236j-go1kqf35h55c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KDDI CORPORATION ┇ 106.180.225.69
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEtEREkgQ09SUE9SQVRJT04gXHUyNTA3IDYxLjEyMC45LjE4IiwiYWRkIjoiNjEuMTIwLjkuMTgiLCJwb3J0Ijo0MzcyMCwiaWQiOiJmMjQ4ZDBlOS0xOWY3LWVhN2YtNjY1OS0xN2E2MTBkZmU4ZDYiLCJhaWQiOjAsInNjeSI6Im5vbmUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 trojan://9e0822c2-75ea-4d30-8895-9fe59da9935c@kddi.iggfastweb.com:23153?sni=kddi.iggfastweb.com&peer=kddi.iggfastweb.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KDDI CORPORATION ┇ 106.180.225.76
-trojan://7x2plw2r-s4kc-0yop-219t-n0e7tj81bhj3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0m9lt4zr-zszd-qalk-uqci-b3makh1nwxcz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://e510ef59-8e87-4b7a-bd9e-bf2277aa01e2@106.180.225.73:32606?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=H-nBYFMFdZInbzrieFTqt6Gsf8EhE2VT1qV855VQNg8&sid=984ba8d9#JP 🇯🇵 ┇ VLESS-TCP-RLT - KDDI CORPORATION ┇ 106.180.225.73
+vless://131-2f1d8-4iko45-bv1a-cb3172fpp133@114.18.26.90:2096?type=tcp&security=none&path=/jmgjhhws#JP 🇯🇵 ┇ VLESS-TCP-NTLS - KDDI CORPORATION ┇ 114.18.26.90
+trojan://ytcl1b65-rbf9-vk4i-u6mi-7xoao5oo8gvx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2pxbk4qj-efb0-gerb-bpl6-zikucuypv8du@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
