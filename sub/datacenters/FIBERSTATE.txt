@@ -1,9 +1,9 @@
-trojan://evt5cvg9-b7k7-8tg7-e95i-fhryprikxu9t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 09:12 ]
-trojan://1dzw8i9y-q4do-5qw7-ymsa-n601yv8biwno@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://98kioc08-ra7j-n4mm-14hh-331tu2jy1n09@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://0667f570-ceea-11ee-9c78-1239d0255272@us1.socifiles.com:443?sni=circles.asia&peer=circles.asia&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FIBERSTATE ┇ 23.158.72.133
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGSUJFUlNUQVRFIFx1MjUwNyAyMy4xNjAuNTYuOCIsImFkZCI6InVzLnNoLWNsb3VkZmxhcmUuc2JzIiwicG9ydCI6ODQ0MywiaWQiOiIyNzAzODY3ZC1kZDhmLTRmN2YtOTNmNC1hYzZlNGY1NmM3ZTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+trojan://7dbcghsz-g0ff-bl8e-dwce-dkf6fu30a6qt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 10:09 ]
+trojan://vbn9f850-lfj7-2trr-pd8m-o9mk2wzu7paq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h60h735m-62uz-nh7n-r1gr-u0bkgapu8o19@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 tuic://548760e0-2de5-437d-a8ac-2b32b80424a8:548760e0-2de5-437d-a8ac-2b32b80424a8@2602:294:0:f5:1234:4321:dc1e:1:28029?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - FIBERSTATE ┇ 2602:294:0:f5:1234:4321:dc1e:1
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZJQkVSU1RBVEUgXHUyNTA3IDM4LjE0Ny4xMDcuMjE0IiwiYWRkIjoiMzguMTQ3LjEwNy4yMTQiLCJwb3J0IjoyMzc3MCwiaWQiOiI2YzU2NTBjZC1hYWFjLTQxMTAtZmIzNS1iNjVlN2RkNDJiNDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
-trojan://46oa0s96-ugdx-walt-trpd-6zrmmyb7bxw9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r8pb3z3e-f2en-cnix-c0he-wj9q5ichseqa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGSUJFUlNUQVRFIFx1MjUwNyAyMy4xNjAuNTYuOCIsImFkZCI6InVzLnNoLWNsb3VkZmxhcmUuc2JzIiwicG9ydCI6ODQ0MywiaWQiOiIyNzAzODY3ZC1kZDhmLTRmN2YtOTNmNC1hYzZlNGY1NmM3ZTgiLCJhaWQiOjAsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
+trojan://0667f570-ceea-11ee-9c78-1239d0255272@us1.socifiles.com:443?sni=circles.asia&peer=circles.asia&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FIBERSTATE ┇ 23.158.72.133
+trojan://71zzwfrf-zje5-gt7r-w976-l4dvupfwpvbd@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3vuo756g-vrim-pzjd-x88d-weigzj898zle@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
