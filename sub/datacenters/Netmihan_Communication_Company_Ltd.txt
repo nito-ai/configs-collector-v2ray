@@ -1,12 +1,12 @@
-trojan://8n7moxvq-6j88-nz6s-b25z-92p2usvpiu3r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 17:15 ]
-trojan://f2raza3w-zsov-f43f-1k52-jb7j1889znix@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1zprscw1-g0b8-fviz-xwv2-3ulw5o4l9ldo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://abf6cbe0-8776-4b03-8e08-a7f8da202f12@89.32.250.83:8443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 89.32.250.83
-vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
-vless://479724d3-3f7e-480b-8f52-a06fcfd1ca26@4s.digikala.9ip.ir:22741?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 185.94.96.93
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV0bWloYW4gQ29tbXVuaWNhdGlvbiBDb21wYW55IEx0ZCBcdTI1MDcgMTg1Ljk0Ljk2LjEyIiwiYWRkIjoiMTg1Ljk0Ljk2LjEyIiwicG9ydCI6MTc2LCJpZCI6IjM1MDIyZjNjLWRkMzMtNDBlOC1jODBlLTkzNmZiM2EwOTc2OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
-vless://d273fcfe-6ffe-49c9-84c0-bf920f64b8fc@split2.parsbsd.ir:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 89.32.251.74
-ss://YWVzLTI1Ni1nY206WHBHNm1waGM@217.144.106.226:11122#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 217.144.106.226
+trojan://v5bdhtk7-l31w-c1vk-vg06-ioebvz4ruk5t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-25 | 17:58 ]
+trojan://wco1lnxh-69sf-76x0-22eo-tnytkrpboo0g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fikog55u-h7fn-8ex8-q5yb-ut3uosyhk8aw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://98c771c3-c85c-4203-be7e-be272514398f@downloadha.com.iraniantim.ir:80?type=ws&security=none&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Netmihan Communication Company Ltd ┇ 89.42.211.170
-trojan://zd1z3izi-ngox-magi-62ve-829jf4ozujfe@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://agb72jh7-659l-u13k-l3li-9q2d0pcv6t7m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTmV0bWloYW4gQ29tbXVuaWNhdGlvbiBDb21wYW55IEx0ZCBcdTI1MDcgMTg1Ljk0Ljk2LjEyIiwiYWRkIjoiMTg1Ljk0Ljk2LjEyIiwicG9ydCI6MTc2LCJpZCI6IjM1MDIyZjNjLWRkMzMtNDBlOC1jODBlLTkzNmZiM2EwOTc2OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
+vless://abf6cbe0-8776-4b03-8e08-a7f8da202f12@89.32.250.83:8443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 89.32.250.83
+vless://d273fcfe-6ffe-49c9-84c0-bf920f64b8fc@split2.parsbsd.ir:443?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 89.32.251.74
+vless://479724d3-3f7e-480b-8f52-a06fcfd1ca26@4s.digikala.9ip.ir:22741?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 185.94.96.93
+vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
+ss://YWVzLTI1Ni1nY206WHBHNm1waGM@217.144.106.226:11122#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Netmihan Communication Company Ltd ┇ 217.144.106.226
+trojan://67lwze8e-8824-ur9y-ji9o-kfkrbyhqqr7e@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t6h3dmtp-83tn-6bfp-c663-52b2wnob41mp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
