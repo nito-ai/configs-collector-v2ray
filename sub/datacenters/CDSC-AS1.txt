@@ -1,9 +1,9 @@
-trojan://9dtp4pcz-my8x-pd6a-ihxd-svvbbm6r2ugk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 19:24 ]
-trojan://cxdrcv3m-2qyi-2eey-oxul-rjbri7el47xm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://acf488tb-fa8t-sb67-nlus-mxa0pcemf7hm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@164.52.2.99:443?type=ws&security=none&sni=0926.qiang2000.link#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.99
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@164.52.2.100:443?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.100
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@148.153.234.37:443?type=ws&security=tls&path=/current_time&sni=ahmedquran19.xyz&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - CDSC-AS1 ┇ 148.153.234.37
+trojan://534lpzaw-z5nc-dhv1-yk0e-farp1k079g7r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 20:01 ]
+trojan://i84kmcvi-q9or-sd1f-75sm-z8lhrsem3mau@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1lkcmxff-nfri-gpec-kt6l-9sdh93i2i2lw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://ttfang@164.52.2.98:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - CDSC-AS1 ┇ 164.52.2.98
-trojan://8yja8oa6-azvu-6801-c3q7-diabflvidjip@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kk8audkw-7elm-6bdu-0msl-3jlx2ees79ou@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@164.52.2.100:443?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.100
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@164.52.2.99:443?type=ws&security=none&sni=0926.qiang2000.link#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.99
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@148.153.234.37:443?type=ws&security=tls&path=/current_time&sni=ahmedquran19.xyz&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - CDSC-AS1 ┇ 148.153.234.37
+trojan://ptgkxrbj-g36i-7qt0-gwy0-driawpehjco7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://njscfc5r-3atm-46uy-ve5u-h34s0vhhbn52@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
