@@ -1,10 +1,10 @@
-trojan://84l9z40q-h7xo-k3el-4wh9-m5uk95wiji7p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 11:21 ]
-trojan://qs26hn8x-fuuk-sv78-z1ku-5i1f0l4algs0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4hqabo3e-j0k7-v9d1-jhq6-qhq3dbbbxigi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://qhVUwyWuPbYCYH5Dum@45.90.208.21:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - xTom ┇ 45.90.208.21
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0geFRvbSBcdTI1MDcgMTY3Ljg4LjE4NC4xMjkiLCJhZGQiOiIxNjcuODguMTg0LjEyOSIsInBvcnQiOjQ5MjMyLCJpZCI6IjFhMzMxYjIwLTQ4MjItNGM1Zi1iMWVjLTIwNmE4NmQ1MWI3YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
+trojan://kfwy2a21-0etp-c90x-ug2f-oj7vn2n889d2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 12:02 ]
+trojan://i555fjmf-3eyr-kxk3-09y0-ug0pm0q6iovz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://okm0gp9f-a9il-rjxn-j435-21fhdb93v8s9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gXHUyNTA3IDE2Ny44OC4xODQuNjUiLCJhZGQiOiIxNjcuODguMTg0LjY1IiwicG9ydCI6NDk0NTUsImlkIjoiNDZkYzgwYmQtNDg4My00MDIxLThjMzctZjNjNmQ2YzQ2YTM0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@195.245.229.63:443?type=ws&security=none&path=/Telegram🇨🇳&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - xTom ┇ 195.245.229.63
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0geFRvbSBcdTI1MDcgMTY3Ljg4LjE4NC4xMjkiLCJhZGQiOiIxNjcuODguMTg0LjEyOSIsInBvcnQiOjQ5MjMyLCJpZCI6IjFhMzMxYjIwLTQ4MjItNGM1Zi1iMWVjLTIwNmE4NmQ1MWI3YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
+trojan://qhVUwyWuPbYCYH5Dum@45.90.208.21:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - xTom ┇ 45.90.208.21
 trojan://cSD2tExedR5RgGGKtb@os2-1.nrojat.com:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - xTom ┇ 45.142.165.21
-trojan://0nxhjuue-2j2r-jyzz-ppem-zhhyuzcocd0o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c47xgxfq-sbrj-igt1-8xyh-vfv42b1aolur@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@195.245.229.63:443?type=ws&security=none&path=/Telegram🇨🇳&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - xTom ┇ 195.245.229.63
+trojan://cnsiohe2-86a4-7zzs-fi17-i0ac9sze0rt0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cjhg2hq5-37d0-prdq-z2i1-5y4dcxsw3utn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
