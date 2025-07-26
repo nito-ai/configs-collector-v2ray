@@ -1,10 +1,10 @@
-trojan://ec4ogrxu-03b0-7vk2-epi1-fctpyz206so6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 02:25 ]
-trojan://872b4l1j-4wtl-wz8u-5qn6-928vi8brsnpx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kck93pu4-4pc1-60hp-2h1x-gqz0ma4uaphb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://qhVUwyWuPbYCYH5Dum@45.90.208.21:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - xTom ┇ 45.90.208.21
+trojan://3pyqy53i-239t-2t2n-e6wm-xafmlcsw0nhp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 02:58 ]
+trojan://ocwxyehi-yc34-wq1n-cx19-to9jeevghja5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gby7glyc-nei7-6k60-9wi3-wjb6h0z06ack@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHhUb20gXHUyNTA3IDE2Ny44OC4xODQuNjUiLCJhZGQiOiIxNjcuODguMTg0LjY1IiwicG9ydCI6NDk0NTUsImlkIjoiNDZkYzgwYmQtNDg4My00MDIxLThjMzctZjNjNmQ2YzQ2YTM0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@195.245.229.63:443?type=ws&security=none&path=/Telegram🇨🇳&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - xTom ┇ 195.245.229.63
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0geFRvbSBcdTI1MDcgMTY3Ljg4LjE4NC4xMjkiLCJhZGQiOiIxNjcuODguMTg0LjEyOSIsInBvcnQiOjQ5MjMyLCJpZCI6IjFhMzMxYjIwLTQ4MjItNGM1Zi1iMWVjLTIwNmE4NmQ1MWI3YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 trojan://cSD2tExedR5RgGGKtb@os2-1.nrojat.com:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - xTom ┇ 45.142.165.21
-trojan://qy0liprr-0xpr-zb7g-hfj5-3o47iqg265uc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ho670v1o-5b01-xyhq-5i7r-ybyr42u6lwd2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@195.245.229.63:443?type=ws&security=none&path=/Telegram🇨🇳&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - xTom ┇ 195.245.229.63
+trojan://qhVUwyWuPbYCYH5Dum@45.90.208.21:443?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - xTom ┇ 45.90.208.21
+trojan://0clqw48q-r3f7-a2mn-ep5j-71u1cyb8axry@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m90wk6ca-gy6q-6cfa-3j7b-3canp0ag84y5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

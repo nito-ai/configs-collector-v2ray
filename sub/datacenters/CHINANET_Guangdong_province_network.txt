@@ -1,16 +1,17 @@
-trojan://3498amgn-17z6-wz22-19fl-haaepov32iyz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 02:25 ]
-trojan://r9g18mdr-4nuu-6js9-zn1z-pvhm7k0gniwr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://t4aquuc3-z741-1dv7-32pd-4ryymnsk7can@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://3c4e10af98c30972@106.75.157.65:3389?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 106.75.157.65
-ssr://NDIuMTU3LjE5Ni4xMDM6MTAxMjA6c2hhZG93c29ja3NyOnJjNC1tZDU6aHR0cF9wb3N0OldXczBWV1J5VDNsUlp3Lz9yZW1hcmtzPVEwNGc4Si1IcVBDZmg3TWc0cFNISUZOVFVpMVVRMUF0VGxSTVV5QXRJRU5JU1U1QlRrVlVJRWQxWVc1blpHOXVaeUJ3Y205MmFXNWpaU0J1WlhSM2IzSnJJT0tVaHlBME1pNHhOVGN1TVRrMkxqRXdNdw
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENISU5BTkVUIEd1YW5nZG9uZyBwcm92aW5jZSBuZXR3b3JrIFx1MjUwNyAxMDYuNzUuMTQ2LjY4IiwiYWRkIjoiaGsub2NlYW4uMjAyMi4yMDIzLm1saW51dS50b3AiLCJwb3J0IjozNTAzLCJpZCI6ImZhNjc4NDkyLTY1ZGQtM2RmMC04MDBkLTExZjEzOGI4NjhhYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-ss://cmM0LW1kNTpkNHIwRUg@sg05.clashcloud.tech:44517#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Guangdong province network ┇ 211.99.96.27
-ss://cmM0LW1kNTpkNHIwRUg@hkt05.clashcloud.tech:44517#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Guangdong province network ┇ 211.99.96.18
-ss://bm9uZTo5MmNlM2RkNC02ZTA3LTk5NDktOWQ5OC03OTFiNjRkNDM1MTk@106.75.128.205:46257#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Guangdong province network ┇ 106.75.128.205
-ssr://NDIuMTU3LjE5Ni4xMDQ6MTA5Njc6c2hhZG93c29ja3NyOmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpka050Y0RoQlRHbG9OZy8_cmVtYXJrcz1RMDRnOEotSHFQQ2ZoN01nNHBTSElGTlRVaTFVUTFBdFRsUk1VeUF0SUVOSVNVNUJUa1ZVSUVkMVlXNW5aRzl1WnlCd2NtOTJhVzVqWlNCdVpYUjNiM0pySU9LVWh5QTBNaTR4TlRjdU1UazJMakV3TkE
-trojan://069a7054-7269-554b-bfab-a7f2651f92e5@160.22.188.200:5306?sni=tw-06-592.flztjc.net&peer=tw-06-592.flztjc.net&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 160.22.188.200
-ssr://NDIuMTU3LjE5NS4yNDY6MTIxMjc6c2hhZG93c29ja3NyOmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOk5qaDRaR2QxT1dWNWFXWS8_cmVtYXJrcz1RMDRnOEotSHFQQ2ZoN01nNHBTSElGTlRVaTFVUTFBdFRsUk1VeUF0SUVOSVNVNUJUa1ZVSUVkMVlXNW5aRzl1WnlCd2NtOTJhVzVqWlNCdVpYUjNiM0pySU9LVWh5QTBNaTR4TlRjdU1UazFMakkwTmc
-trojan://b09d2aaa443af97a@106.75.154.24:3389?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 106.75.154.24
+trojan://9539e6qt-x41s-vvh5-ce2g-tuc0kf8lmde3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 02:58 ]
+trojan://xgewi4fz-sv5d-pbkd-a3eq-40l7q22du5ey@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rer5fsat-e99x-hqzx-mof9-yzukg2q4ddfz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://1b4c16925f934c57b954a9f0f23dea33@42.240.152.238:8842?sni=brwx.spvpv.com&peer=brwx.spvpv.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 42.240.152.238
-trojan://4eaa4mnp-hs6m-na5m-1u1o-hdxglnvlhg4p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4ioc52hp-196t-v6sm-et1x-9vary53anvsg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://b09d2aaa443af97a@106.75.154.24:3389?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 106.75.154.24
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENISU5BTkVUIEd1YW5nZG9uZyBwcm92aW5jZSBuZXR3b3JrIFx1MjUwNyAxMDYuNzUuMTQ2LjY4IiwiYWRkIjoiaGsub2NlYW4uMjAyMi4yMDIzLm1saW51dS50b3AiLCJwb3J0IjozNTAzLCJpZCI6ImZhNjc4NDkyLTY1ZGQtM2RmMC04MDBkLTExZjEzOGI4NjhhYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+ss://bm9uZTo5MmNlM2RkNC02ZTA3LTk5NDktOWQ5OC03OTFiNjRkNDM1MTk@106.75.128.205:46257#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Guangdong province network ┇ 106.75.128.205
+trojan://3c4e10af98c30972@106.75.157.65:3389?security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 106.75.157.65
+ss://cmM0LW1kNTpkNHIwRUg@sg05.clashcloud.tech:44517#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Guangdong province network ┇ 211.99.96.27
+ssr://NDIuMTU3LjE5Ni4xMDQ6MTA5Njc6c2hhZG93c29ja3NyOmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpka050Y0RoQlRHbG9OZy8_cmVtYXJrcz1RMDRnOEotSHFQQ2ZoN01nNHBTSElGTlRVaTFVUTFBdFRsUk1VeUF0SUVOSVNVNUJUa1ZVSUVkMVlXNW5aRzl1WnlCd2NtOTJhVzVqWlNCdVpYUjNiM0pySU9LVWh5QTBNaTR4TlRjdU1UazJMakV3TkE
+ssr://NDIuMTU3LjE5NS4yNDY6MTIxMjc6c2hhZG93c29ja3NyOmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOk5qaDRaR2QxT1dWNWFXWS8_cmVtYXJrcz1RMDRnOEotSHFQQ2ZoN01nNHBTSElGTlRVaTFVUTFBdFRsUk1VeUF0SUVOSVNVNUJUa1ZVSUVkMVlXNW5aRzl1WnlCd2NtOTJhVzVqWlNCdVpYUjNiM0pySU9LVWh5QTBNaTR4TlRjdU1UazFMakkwTmc
+ssr://NDIuMTU3LjE5Ni4xMDM6MTAxMjA6c2hhZG93c29ja3NyOnJjNC1tZDU6aHR0cF9wb3N0OldXczBWV1J5VDNsUlp3Lz9yZW1hcmtzPVEwNGc4Si1IcVBDZmg3TWc0cFNISUZOVFVpMVVRMUF0VGxSTVV5QXRJRU5JU1U1QlRrVlVJRWQxWVc1blpHOXVaeUJ3Y205MmFXNWpaU0J1WlhSM2IzSnJJT0tVaHlBME1pNHhOVGN1TVRrMkxqRXdNdw
+ss://cmM0LW1kNTpkNHIwRUg@hkt05.clashcloud.tech:44517#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Guangdong province network ┇ 211.99.96.18
+trojan://069a7054-7269-554b-bfab-a7f2651f92e5@160.22.188.200:5306?sni=tw-06-592.flztjc.net&peer=tw-06-592.flztjc.net&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET Guangdong province network ┇ 160.22.188.200
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENISU5BTkVUIEd1YW5nZG9uZyBwcm92aW5jZSBuZXR3b3JrIFx1MjUwNyAxMDYuNzUuMTU0LjE0MCIsImFkZCI6IjE1MDAyLnZwZG5zcy50b3AiLCJwb3J0IjoxNTAwMiwiaWQiOiI5ZjUxMzE2MS01NzZiLTNhYmMtOWM5OC0wNmU1MmMzYTI0YzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+trojan://f2pd09l2-3bs0-6xrq-l13s-6u41ly54f0ce@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d6hv6689-pzcy-pepo-g6z4-bp24yv4t9863@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
