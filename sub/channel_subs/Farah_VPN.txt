@@ -1,11 +1,11 @@
-trojan://3en7ek00-08t9-tenc-lqzu-h5l4tcbkudpj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 02:58 ]
-trojan://3e29y3fq-g8b5-t10j-nzlk-vn3zxppkwzko@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://v4pd3lcy-rs4b-x730-9al1-v14ep8pdjk83@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://v9kvktsn-mkgb-0zb3-hg6u-q9jr3v261dpc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 03:21 ]
+trojan://yl8pznwo-fekb-qqkv-wmxa-mfuj675s65gz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1gh9obzx-gqgq-afut-re93-ujddziybvc8u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfZGU@de-1.stunnel.cc:8444#de-1.stunnel.cc:8444
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWw@fr-2.stunnel.cc:8444#fr-2.stunnel.cc:8444
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#103.186.155.22:38388
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.20:38388#103.186.154.20:38388
-trojan://NISHIKUITAN111@172.67.233.168:443?security=tls#172.67.233.168:443
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.33:38388#103.186.154.33:38388
 trojan://tunnel-astro@pl-1.stunnel.cc:8441?sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&peer=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&security=tls#pl-1.stunnel.cc:8441
 trojan://NISHIKUITAN111@172.66.42.99:443?security=tls#172.66.42.99:443
 trojan://bpb-trojan@89.116.250.94:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#89.116.250.94:443
@@ -21,5 +21,5 @@ vless://134c1950-3e5d-4dd1-9c3d-790ce358e374@174.138.101.107:45500?type=tcp&secu
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.34:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3#91.193.58.34:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?type=ws&security=none&path=/reklaz1FsDrIv7mW?ed=2560#104.25.220.177:8880
 vless://81294d12-9b29-438d-8af2-2bfcba7bd450@91.99.115.113:2012?type=tcp&security=reality&sni=www.pcmag.com&fp=firefox&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY#91.99.115.113:2012
-trojan://jlzvcd9r-njcr-7vri-g4ch-teoy1tkpdler@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://425mvkh6-3rkz-loqb-774n-xs4ikwhekuyz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://9f3pnvy8-oxx6-bv0z-1oh8-rb6bwd40rn4v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://htcywnco-j8tu-jmn8-14rc-80k1uyyfyynp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
