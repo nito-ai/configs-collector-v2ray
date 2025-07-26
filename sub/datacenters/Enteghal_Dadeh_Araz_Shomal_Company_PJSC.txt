@@ -1,18 +1,18 @@
-trojan://2rwoxxca-1pey-q40a-s7lp-0a9txd690r43@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 13:58 ]
-trojan://wkn2tuez-072x-ockx-n10k-rf10hrqn03my@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vbw65v4x-b56n-182s-20ky-x7emoqrzkvek@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://2bf38ece-21ad-406b-82c8-ebc151f8aac4@193.111.235.223:50894?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.223
-vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.125:1123?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.125
+trojan://pgvmn6fw-4egk-y97o-q0rq-xk43qqhaswcp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 14:26 ]
+trojan://tcj7upsh-7r0o-30mv-bro0-uix9of9e99ow@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zyxb66h5-n3bt-wjq3-918i-z5ci9jx7ttt7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://607719a0-a074-488a-85bb-eacbcd410e3c@193.111.235.113:8443?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.113
-vless://e26f7c15-5805-4082-aa3c-91553d53cb03@193.111.235.218:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=de1.blackismyfavorite.ir&fp=firefox#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.218
+vless://2bf38ece-21ad-406b-82c8-ebc151f8aac4@193.111.235.223:50894?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.223
+vless://26d4cd7c-f8bb-4c51-a07a-e7ed2a161b7b@193.111.235.155:4912?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.155
+vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.125:1123?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.125
+vless://cf2a626f-2fbc-4d55-8c49-750ed496df86@193.111.235.169:2070?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.169
 vless://183dcc51-58ab-44b7-a120-c7fb88596a15@193.111.235.247:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.247
 vless://2bf38ece-21ad-406b-82c8-ebc151f8aac4@193.111.235.187:50894?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.187
-vless://cf2a626f-2fbc-4d55-8c49-750ed496df86@193.111.235.169:2070?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.169
-vless://006401bb-9d60-0708-ceac-15b723379606@193.134.101.82:46758?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.134.101.82
-vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.151:8018?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.151
-vless://8e27edfb-48c5-4f1d-a4ad-eada6b3377e0@193.134.101.202:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.134.101.202
 vless://c6f9e7ee-068e-4d2b-acbf-00ae42f6cc24@193.111.235.167:8444?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.167
+vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.151:8018?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.151
+vless://e26f7c15-5805-4082-aa3c-91553d53cb03@193.111.235.218:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=de1.blackismyfavorite.ir&fp=firefox#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.218
+vless://8e27edfb-48c5-4f1d-a4ad-eada6b3377e0@193.134.101.202:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.134.101.202
 vless://b27be65d-6c42-4fb9-c3a7-2447a629bb3b@mci.vipconfig.ir:1717?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.116
-vless://26d4cd7c-f8bb-4c51-a07a-e7ed2a161b7b@193.111.235.155:4912?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.155
-trojan://k1e7q5ov-yj41-43k2-e750-kc0ctwvxdo0v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fgwej5e7-edbr-9dem-r98c-qlg7lszkdyld@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://006401bb-9d60-0708-ceac-15b723379606@193.134.101.82:46758?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.134.101.82
+trojan://s34l5d3l-k4v1-53rf-u35f-q44mqs1zx3ke@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://idm6pi1t-dsxj-uig6-32k2-duuovrsixtr0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
