@@ -1,9 +1,9 @@
-trojan://lvkzoucn-1y4b-328c-33jm-uzop14cupgqf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 03:22 ]
-trojan://9lo71erc-bluk-1i7e-i0be-31oemlriiuim@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://m17ty7jz-6cyk-s46c-ysdj-a7bva7uxdw1q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?type=tcp&security=reality&sni=partner.g2.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#NO 🇳🇴 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 185.125.171.13
-vless://id7871326936@193.243.189.221:443?type=tcp&security=reality&sni=www.store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=_f-xe8zRCHbVX-88yLY1xoDU0i_WFhM1usVK8tnmSFI&sid=c503d198#NL 🇳🇱 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 193.243.189.221
-vless://id8133491769@freevpn01.v2raytun.top:443?type=tcp&security=reality&sni=vk.com&fp=random&flow=xtls-rprx-vision&pbk=d0tsZKr6Y7rdsppLOpkgxZfeRsYigwjE6v-qNqYdAQE&sid=acd56b#NL 🇳🇱 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 193.243.189.238
+trojan://fcqx317u-cun8-93od-7ex7-1cbz4idap2q6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 05:04 ]
+trojan://bbqueb55-2oct-ilww-jvdy-v377bs103vgn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i1jj2qiq-vofy-a3b1-ci5n-q6wd35m3qu5y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTEyOTM1MzQ1QnRnVjVQREhWd3c@195.35.113.79:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Gigahost AS ┇ 195.35.113.79
-trojan://9kw0se5a-liei-97d9-2tbf-xzb95vl5h1ha@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bwy6n3lw-3rr8-kfza-xjsj-ifkdipx6frru@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://id7871326936@193.243.189.221:443?type=tcp&security=reality&sni=www.store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=_f-xe8zRCHbVX-88yLY1xoDU0i_WFhM1usVK8tnmSFI&sid=c503d198#NL 🇳🇱 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 193.243.189.221
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?type=tcp&security=reality&sni=partner.g2.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#NO 🇳🇴 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 185.125.171.13
+vless://id8133491769@freevpn01.v2raytun.top:443?type=tcp&security=reality&sni=vk.com&fp=random&flow=xtls-rprx-vision&pbk=d0tsZKr6Y7rdsppLOpkgxZfeRsYigwjE6v-qNqYdAQE&sid=acd56b#NL 🇳🇱 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 193.243.189.238
+trojan://wn718px8-fb8o-z0pu-fx00-ilpuoijmli5k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7wzrmon2-y6a0-x364-nnmm-1bpamlukb1t9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
