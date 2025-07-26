@@ -1,11 +1,11 @@
-trojan://7xy7lx5s-facj-55hb-59bv-035o4zgcakca@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 06:51 ]
-trojan://v40z7waf-ynrt-aas8-56h6-d36v60nglf8h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tnpzwvv6-on20-wyak-6da3-bwi0no1w4qet@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STM@62.112.10.201:8090#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - WorldStream B.V. ┇ 62.112.10.201
+trojan://fh07j1l2-qjgy-2rb1-j97l-a3gdfqv66be7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 07:51 ]
+trojan://zjg1wmjo-xc48-i3q5-nthg-vi33oidrf734@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h2igdagi-yho0-oo22-9gp4-jyhv46f2v16y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://92f18c31-c9c7-4bd4-9e9c-27aa8476ed81@185.180.223.10:10081?type=ws&security=tls&path=/?ed=2560&sni=etc.mesa.ip-ddns.com&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - WorldStream B.V. ┇ 185.180.223.10
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdvcmxkU3RyZWFtIEIuVi4gXHUyNTA3IDEwOS4yMzYuODQuMjM1IiwiYWRkIjoiMTA5LjIzNi44NC4yMzUiLCJwb3J0IjoxMDE3NSwiaWQiOiIyMDcwZjVkYS04MjllLTQ2MDAtZjMyZC1hOThjZjU0NTU5NmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://ac864844-c86b-4ac5-bbe9-50fcc05123f2@2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-RLT - WorldStream B.V. ┇ 2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e
 trojan://0xwjL4wkfo@91.238.93.127:51708?security=none#NL 🇳🇱 ┇ TROJAN-TCP-NTLS - WorldStream B.V. ┇ 91.238.93.127
-vless://92f18c31-c9c7-4bd4-9e9c-27aa8476ed81@185.180.223.10:10081?type=ws&security=tls&path=/?ed=2560&sni=etc.mesa.ip-ddns.com&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - WorldStream B.V. ┇ 185.180.223.10
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@91.232.105.253:2375#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - WorldStream B.V. ┇ 91.232.105.253
-trojan://nwxle8wl-pdje-643f-xjfi-embzk6mbmvx5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r8pvw4iv-rmiu-17c2-ogvy-w45in0752w24@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STM@62.112.10.201:8090#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - WorldStream B.V. ┇ 62.112.10.201
+trojan://he6qtv8a-3jkt-418b-fvt8-a3akdll5o6jk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gi367ffh-2io7-ygnp-yj87-kotwr6dxh56n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

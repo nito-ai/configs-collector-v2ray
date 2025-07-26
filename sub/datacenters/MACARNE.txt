@@ -1,10 +1,10 @@
-trojan://v6jfs0iz-6rg2-go6j-6rlf-vc9ig4q3np2h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 06:51 ]
-trojan://yxrwujvx-se63-1v37-zgr9-65492ut4ag4h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yrjoasmi-2vdb-fihd-8kt3-u6vavv7qtvgw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?type=xhttp&security=tls&path=/statue/?v2rayng_fars----@v2rayng_fars&sni=statue.lnmarketplace.net#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - MACARNE ┇ 206.71.158.10
-vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@yapc-1.afshin.ir:443?type=tcp&security=tls&sni=YAPC-1.afshin.ir&fp=randomized&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - MACARNE ┇ 206.71.158.37
-vless://5159e44f-b4cf-49d9-a4c2-5620a6431e87@206.71.158.75:465?type=xhttp&security=reality&path=/&sni=smtp.zoho.com&fp=chrome&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - MACARNE ┇ 206.71.158.75
+trojan://lv7upqze-v4k9-qed9-wtc7-0r5pmimy0lg8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 07:51 ]
+trojan://8z04nshw-nswy-70de-m193-qx7ln6mkwmq1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ozn3ajbh-h766-o0w7-4w28-vu9brug16ugw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1BQ0FSTkUgXHUyNTA3IDIwNi43MS4xNTguNDAiLCJhZGQiOiIyMDYuNzEuMTU4LjQwIiwicG9ydCI6MjA4NiwiaWQiOiJiNWMxYjAwNC1jZDA1LTFlZjItZjZmZi1lZGRhMmU0N2Q1MzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCJ9
+vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@yapc-1.afshin.ir:443?type=tcp&security=tls&sni=YAPC-1.afshin.ir&fp=randomized&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - MACARNE ┇ 206.71.158.37
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - MACARNE ┇ 206.71.158.10
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?sni=gavazn.55994421.xyz&insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - MACARNE ┇ 206.71.158.23
-trojan://40uyc3iw-pvnm-2bwk-cooy-5vhs0qmvdy0n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2ngwij8y-24t3-cwru-hhfb-0ixjnfbocgjs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://5159e44f-b4cf-49d9-a4c2-5620a6431e87@206.71.158.75:465?type=xhttp&security=reality&path=/&sni=smtp.zoho.com&fp=chrome&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - MACARNE ┇ 206.71.158.75
+trojan://avnwkqp7-h290-mtdk-4adf-1g9jsf1kaf9a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8sstct2f-nbqq-3yuw-6qov-jm4gubkbifeb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

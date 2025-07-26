@@ -1,6 +1,6 @@
-trojan://rs80jtxk-pi3e-k3yl-tap8-0no986b8gdsd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 06:51 ]
-trojan://47ita23m-7ol3-p6gt-4gvz-uctm3gv1oozy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vegkqiz4-zssa-pan6-tmj4-laswu6xseff7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://s3d5xhck-sto2-sems-zaw6-1iatf3t2ea37@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 07:51 ]
+trojan://bxdxyxeo-wm6g-3x1z-7o50-khqlc9a0cdab@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pyn2tiwx-uak7-gqxa-1f1c-0e8ja59lh0ko@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#45.87.175.167:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3T3J2TDBKSDlmMkx2SUU0NU1UN1dO@77.105.166.12:8594#77.105.166.12:8594
 vmess://eyJ2IjoiMiIsInBzIjoiVGVsZWdyYW0gOiBAaXRlbnZwbiBFMyIsImFkZCI6IjkxLjEwNy4yNDMuMTUwIiwicG9ydCI6MzIwMTcsImlkIjoiYzBjY2RlYjktNzg0Yy00ZDY3LWI5MDQtMjBkY2FhYzk5MDJhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
@@ -32,5 +32,5 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.210.16:8880?type=ws&security
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@162.159.244.47:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#162.159.244.47:8880
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?type=xhttp&security=none&path=/xhttp#91.99.183.30:8443
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:2082?type=ws&security=none#92.118.233.43:2082
-trojan://ht2srm8j-ubih-sqru-nwv7-mel09kv60abl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v3cdrvhz-11cy-zxdc-ppq6-85hiz2bnpsff@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://k9nrrgbm-g9mx-nifd-oj79-nfu4ep9qu3fp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ou53mqy4-65d7-tgdz-yskr-qro8l70vlyxb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
