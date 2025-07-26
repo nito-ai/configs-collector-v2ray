@@ -1,10 +1,10 @@
-trojan://8oy7h1u2-x2p3-wgm5-ftjl-rtdgn51d86km@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 12:02 ]
-trojan://5h7bp2vo-y6lo-fej2-gavw-bbp86f0d7pki@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8wq3axni-vb6f-27ot-fz02-1m2ecb68ieom@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://zx3b87ey-fqnv-t5p0-sdq2-vsabid5pe8f5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 12:28 ]
+trojan://6sxq0h74-f8uq-niwx-zvi9-404ds0pgkrl8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5blvaee4-lm5r-paib-tv4a-i3s1lrwrjrjk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a0e3ae8d-c37f-4970-8754-3a978d084fd6@185.113.8.229:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 185.113.8.229
+vless://3af682f1-3e13-4216-9a4a-49953d4009c3@78.40.117.69:8880?type=grpc&security=none#SE 🇸🇪 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 78.40.117.69
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
 vless://04cf10a3-2268-4c8c-a756-e0953ee9410d@46.253.4.214:8080?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Alexhost Srl ┇ 46.253.4.214
-vless://3af682f1-3e13-4216-9a4a-49953d4009c3@78.40.117.69:8880?type=grpc&security=none#SE 🇸🇪 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 78.40.117.69
 vless://f7fdf2c2-a98a-4e8f-b06a-29f1b3c8122f@46.253.4.31:443?type=tcp&security=reality&sni=www.dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=r-Sryx8MT35Vu5eHeRr-nfVXkGw1pQCkkwL0MFIkeEw&sid=321dd18a#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 46.253.4.31
-trojan://d1hsjkcj-o3k4-8ky5-w7rc-4arsapf4mrdy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fto7dpt3-putq-dit1-s9hh-gik9cfa5c0zj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://p16tilhb-j6a4-671i-prbg-1pnlign7qxdf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4lkor8q4-g183-vp4b-0hcp-uehfhea2uovm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
