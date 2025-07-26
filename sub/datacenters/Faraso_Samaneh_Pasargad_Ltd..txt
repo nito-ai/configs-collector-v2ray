@@ -1,11 +1,11 @@
-trojan://nj47fx6u-9jsy-8p9q-4mqo-on01zhon700b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 13:22 ]
-trojan://jgq3pkcg-9rdt-xrqv-783x-8vlm9i5jzsff@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zebdhe6o-ay3o-5oh3-prgz-xnh5xde8rtc7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://0e9c05b6-084d-46b0-af03-edb970a93476@sv24.farsdataagent.top:5325?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 45.89.236.148
+trojan://n9upeyo5-4sdd-ha6h-ss97-3am421b7zzgp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 13:58 ]
+trojan://43f6itlj-5mmn-c03s-s7po-54tj1b41q1oe@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kv0y4w4g-gcya-gat3-3l7i-tmiqi53v19i9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFyYXNvIFNhbWFuZWggUGFzYXJnYWQgTHRkLiBcdTI1MDcgMTU4LjU4LjE4OC4yMSIsImFkZCI6IjE1OC41OC4xODguMjEiLCJwb3J0Ijo0OTk4NiwiaWQiOiJkYWZkYTE5ZS1hZTYyLTRjYjQtYWU1Ni0yZjViMzQzZmViMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vless://d1182cea-8c20-4ce2-98ca-92547ac9646e@as6.irantls.com:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 185.2.15.232
-vless://8d77300a-0a55-44de-8be8-5c52be2ee905@185.2.15.139:8443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 185.2.15.139
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhcmFzbyBTYW1hbmVoIFBhc2FyZ2FkIEx0ZC4gXHUyNTA3IDE1OC41OC4xOTAuMTcwIiwiYWRkIjoiMTU4LjU4LjE5MC4xNzAiLCJwb3J0Ijo2MDAwLCJpZCI6IjU0MjE2ZWFjLTZjZWYtNGI4ZC1jZTQwLTIxNGFhZTM5NWNhMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://8d77300a-0a55-44de-8be8-5c52be2ee905@185.2.15.238:8443?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 185.2.15.238
-trojan://s5qqdve6-luvl-d2y1-uimz-qmyfbyql1oxw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://eekfc5h1-kqg1-qt9p-5z8o-fchsd1c1rmfz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://0e9c05b6-084d-46b0-af03-edb970a93476@sv24.farsdataagent.top:5325?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 45.89.236.148
+vless://8d77300a-0a55-44de-8be8-5c52be2ee905@185.2.15.139:8443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 185.2.15.139
+vless://d1182cea-8c20-4ce2-98ca-92547ac9646e@as6.irantls.com:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 185.2.15.232
+trojan://dd0lp12j-zsui-lz9l-v92t-21rvdgijr4ko@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lv5xefln-z1di-8ifd-4cdj-64qq02ju80t0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
