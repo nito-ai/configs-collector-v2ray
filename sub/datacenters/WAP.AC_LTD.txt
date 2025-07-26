@@ -1,13 +1,13 @@
-trojan://4n7kg7du-1lva-0eft-5xwp-d578ah82xws8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 17:30 ]
-trojan://5zzq5h1n-pdvx-azwh-hlfw-7dv5hb7lyu2h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pusyi59z-ahvr-lw8b-4hs6-0pg6h11sngl7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206OWRjY2ZmMjItMzA5ZS00OTBlLWJmNTUtNWNlZjU5OGU2NDA4@62.72.163.211:45573#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 62.72.163.211
+trojan://z8sp6p9g-3m12-1wl7-65se-16xosr14cfuv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 17:57 ]
+trojan://pad532fq-i74f-lb3u-006a-71rk6mum0xip@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://u6zm0rxd-z2os-nh8d-69u3-zy75wb6o7r1h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@23.94.192.19:13498?sni=freesg01.jd0001.top&peer=freesg01.jd0001.top&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 23.94.192.19
+ss://YWVzLTEyOC1nY206MTAwOTVmMGQtNTJmNy00MTdlLThhY2YtOTM0NzgwYzVjNmNi@hkg03.dns-node.top:45580#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 62.72.163.136
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV0FQLkFDIExURCBcdTI1MDcgMjMuMTU2LjE1Mi4xMDYiLCJhZGQiOiIyMy4xNTYuMTUyLjEwNiIsInBvcnQiOjgwLCJpZCI6IjJkOWE4MWY2LWU4NmUtNDhlNi05NjQ2LWIzYjEzMjVmOGQ2MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3N5anNxL2RhdGEifQ
+ss://YWVzLTEyOC1nY206MzhjZDgzOGQtYmE0Zi00YTQ2LWE0NzYtZDEzMTY3MGRmOTE5@sg02.dns-node.top:45574#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 45.145.154.8
 trojan://92435aa8-f3b6-466a-ad58-c55cbb6d2acf@sg.mjt000.com:443?sni=sg.mjt000.com&peer=sg.mjt000.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 45.149.92.71
 trojan://73962781-6234-4212-b981-f8158bb2d300@0001.sg.genzpn.com:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 185.151.146.24
-trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@23.94.192.19:13498?sni=freesg01.jd0001.top&peer=freesg01.jd0001.top&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 23.94.192.19
-ss://YWVzLTEyOC1nY206MzhjZDgzOGQtYmE0Zi00YTQ2LWE0NzYtZDEzMTY3MGRmOTE5@sg02.dns-node.top:45574#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 45.145.154.8
-ss://YWVzLTEyOC1nY206MTAwOTVmMGQtNTJmNy00MTdlLThhY2YtOTM0NzgwYzVjNmNi@hkg03.dns-node.top:45580#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 62.72.163.136
+ss://YWVzLTEyOC1nY206OWRjY2ZmMjItMzA5ZS00OTBlLWJmNTUtNWNlZjU5OGU2NDA4@62.72.163.211:45573#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 62.72.163.211
 vless://3d9d0485-e27f-4a82-820b-2251c14710b6@flyxg.flylink.cyou:10086?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=o0qeFNqPD24m-OTwXs_Bs7_FNcR-caK7lNP1-zcUIho&sid=d31616e2#HK 🇭🇰 ┇ VLESS-TCP-RLT - WAP.AC LTD ┇ 45.149.92.194
-trojan://fd4emsu6-rfg9-kkfx-s5k0-p50qenw1p4e7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vspcf8i4-5m1s-84ag-cui4-tixfoeb8tlfk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://4as17y5d-bgh6-vqs5-ghqt-hvl68imwgds0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t7fzdl2k-a53b-3ymz-f6et-hvynci11vz9t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
