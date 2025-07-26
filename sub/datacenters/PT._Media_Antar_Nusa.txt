@@ -1,8 +1,8 @@
-trojan://fd4d6lo5-wygo-z5mt-eskt-hgv4g9vduahf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 05:04 ]
-trojan://tfw77cun-xqlj-71co-cp9g-hq18i283nrky@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3i593rjp-17qw-aiqw-zau6-g407aoh4zd4v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?type=ws&security=none&path=/vless#ID 🇮🇩 ┇ VLESS-WS-NTLS - PT. Media Antar Nusa ┇ 43.229.254.177
-trojan://vvip-periantara@38.9.140.66:443?sni=id3tr.jagoan.vip&peer=id3tr.jagoan.vip&security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT. Media Antar Nusa ┇ 38.9.140.66
+trojan://8qfcxs7a-r6ze-25z9-2ynm-lbntk5uo09il@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 06:51 ]
+trojan://bad6li8o-jm05-p0gm-y3cs-nplbpqxhcl3t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://r74bycfx-pe4s-jpnq-qrxh-swwgh1nhodsl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSUQgXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQVC4gTWVkaWEgQW50YXIgTnVzYSBcdTI1MDcgNDMuMjI5LjI1NC45NiIsImFkZCI6IjQzLjIyOS4yNTQuOTYiLCJwb3J0Ijo0NDMsImlkIjoiNDg1N2Y5MjUtZmFiNy00ZmJjLWJjMTctZDFkNDYzN2E2NWJjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdm1lc3MiLCJ0bHMiOiJ0bHMifQ
-trojan://y50vjkuw-raea-l68x-6esy-19i3egddt0dn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8lfkwbrh-8n5f-s7xw-tdlk-94gvvbi8ewtd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://vvip-periantara@38.9.140.66:443?sni=id3tr.jagoan.vip&peer=id3tr.jagoan.vip&security=tls#ID 🇮🇩 ┇ TROJAN-TCP-TLS - PT. Media Antar Nusa ┇ 38.9.140.66
+vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?type=ws&security=none&path=/vless#ID 🇮🇩 ┇ VLESS-WS-NTLS - PT. Media Antar Nusa ┇ 43.229.254.177
+trojan://opcsop64-t68l-gg11-ltet-6kepve6uc75h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cp2emoef-qois-yp4b-xahb-1dlnnfnc84gi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
