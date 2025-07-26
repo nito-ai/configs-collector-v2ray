@@ -1,9 +1,9 @@
-trojan://l1m4wmjx-gn5e-6w5w-7p06-xdsnn6ad1hsh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 22:55 ]
-trojan://q9xqddst-wk7x-wwxm-2l1m-rwx65daoxl9e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u1yp98gm-cnrh-h8o1-dgux-42pb2ki24y72@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://l3p7beq1-67m5-930v-9we5-xytuyr50m4q5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 23:18 ]
+trojan://ljy8dn97-nfig-dayp-m5fu-285ruygygg1g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://12rxqkxe-pbvc-fx1q-a56o-w3hj41j3944s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 hysteria2://b24899a2-0e7a-458f-a858-5092bb4ff7aa@91.103.122.52:13301?sni=apple.com&insecure=1&obfs=salamander#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.52
-vless://e657e5fb-c417-4d3f-d84e-a3a8f010f9fa@31.59.111.49:33718?type=tcp&security=tls&sni=icloud.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Alice Networks Ltd ┇ 31.59.111.49
-vless://4ae2b728-4411-41d4-bf80-cd7a07fcfd8b@5.102.124.108:25888?type=tcp&security=reality&sni=www.samsung.com&fp=edge&flow=xtls-rprx-vision&pbk=Md6PoLS8ZgYxc-mOoMkLSRMksQzNTTPW0Psmo0y2c3E&sid=9c5b5b672053fc#HK 🇭🇰 ┇ VLESS-TCP-RLT - Alice Networks Ltd ┇ 5.102.124.108
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDEyZjc5ZS0zMjA5LTQ5NzAtODNjZC01ZTFmMzUyNmZmNTE@91.103.122.32:34648#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.32
-trojan://2reh6aoy-uedy-4kf3-vdz2-lqdokm1qcjas@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://co0f95h8-5po5-qnk9-rt69-w0f5ao408tus@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://4ae2b728-4411-41d4-bf80-cd7a07fcfd8b@5.102.124.108:25888?type=tcp&security=reality&sni=www.samsung.com&fp=edge&flow=xtls-rprx-vision&pbk=Md6PoLS8ZgYxc-mOoMkLSRMksQzNTTPW0Psmo0y2c3E&sid=9c5b5b672053fc#HK 🇭🇰 ┇ VLESS-TCP-RLT - Alice Networks Ltd ┇ 5.102.124.108
+vless://e657e5fb-c417-4d3f-d84e-a3a8f010f9fa@31.59.111.49:33718?type=tcp&security=tls&sni=icloud.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Alice Networks Ltd ┇ 31.59.111.49
+trojan://cdoouci6-wl0h-n9je-tm6s-iij3mylutod7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5z4myrtx-hclb-d51w-r654-senl25snxhg2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

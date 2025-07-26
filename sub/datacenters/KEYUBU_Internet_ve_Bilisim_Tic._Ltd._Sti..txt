@@ -1,10 +1,10 @@
-trojan://03oco1zb-q935-pre5-wvub-68kpi4ovtte5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 22:55 ]
-trojan://khn43sui-z0g5-t9jv-ztyw-71omtt0gptd1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0kl8o9dr-eaox-xlgn-h33q-dgcjdmm091hh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://h3yrg682-rywm-z5rv-st18-xhmg6jcxx3b5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 23:18 ]
+trojan://fbo1qnpn-ghc8-azf2-xhq6-2qwn7rb4py1d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rstalpqd-bj3a-on9e-9bwc-vfawdzion13f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://543e67bb-15c6-4731-d0c9-7641517783b2@193.164.6.27:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 193.164.6.27
-vless://3315df08-e2a4-4dbd-eccc-fa0cbacf40a9@45.133.36.230:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8#TR 🇹🇷 ┇ VLESS-TCP-RLT - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 45.133.36.230
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEtFWVVCVSBJbnRlcm5ldCB2ZSBCaWxpc2ltIFRpYy4gTHRkLiBTdGkuIFx1MjUwNyAzMS41Ny4zMy4xMDYiLCJhZGQiOiIzMS41Ny4zMy4xMDYiLCJwb3J0Ijo1NDkyOCwiaWQiOiJkZjgzYmNmNC1mYmU2LTQ4ZWMtYmRkNy04YTBhM2I5N2RiNmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OGQ0ODllNmEzYTZjNGIzOTNiMGM4N2VjMWRiNDI5Ng@193.164.4.66:6666#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 193.164.4.66
 vless://dbe17297-3c29-5348-33c6-fae3d706d9e7@94.154.34.112:443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Sx5gCel0sEdt1jvh7UWiQeff-jkqOAoq6yoWJvi-SSY&sid=2ef4b569e4#TR 🇹🇷 ┇ VLESS-TCP-RLT - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 94.154.34.112
-trojan://m3ghohim-ryji-4h7n-0pew-p7zkya2zhq4p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ettlftkr-vkkj-8fe8-qu3n-7m8l7tojbm7g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://bfff033b-6f6b-4c24-fd6c-5b7d6cf9b3cd@45.133.36.230:443?type=tcp&security=reality&pbk=aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8#TR 🇹🇷 ┇ VLESS-TCP-RLT - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 45.133.36.230
+trojan://7k518oh1-h8es-ahr2-xp94-pcl84q8i0arf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d62u39tm-ivl8-gbyh-348z-aguk3x5r60u9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
