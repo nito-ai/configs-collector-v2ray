@@ -1,6 +1,6 @@
-trojan://ptflakn3-ox0x-9hic-mfbg-9983wm1cg6k0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 00:57 ]
-trojan://30gymlb7-bn03-mpp0-puw2-1n4bcohjmh2t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g2jd0mdp-bk2l-9n7v-es86-jjsdlkv737by@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://11qcjg7t-nfqh-86x6-yz1s-8uzbc1kp031s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 01:20 ]
+trojan://bk30jrc2-j2gs-pp9g-gg6g-r0lwpcdrgdli@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g3tgkd2u-f6nc-ekw9-np2z-m2sf4ukh3uo8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#45.87.175.178:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#45.87.175.192:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
@@ -162,5 +162,7 @@ vless://81294d12-9b29-438d-8af2-2bfcba7bd450@91.99.115.113:2012?type=tcp&securit
 vless://81294d12-9b29-438d-8af2-2bfcba7bd450@91.99.190.190:2012?type=tcp&security=reality&sni=www.pcmag.com&fp=firefox&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY#91.99.190.190:2012
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ru01-vlr01.tcp-reset-club.net:443
 vless://1021e906-bc49-4961-8e67-1164a83c45ea@az7-nl.serverfreedom.com:20410?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#az7-nl.serverfreedom.com:20410
-trojan://4va2b9k9-tjkk-c7lv-q4eb-sy0af8vg5jw8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://w4ft0bdv-38u2-q9tl-bz3z-mi7vl1b9zb97@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://1021e906-bc49-4961-8e67-1164a83c45ea@az7-sub.serverfreedom.com:20000?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#az7-sub.serverfreedom.com:20000
+vless://1021e906-bc49-4961-8e67-1164a83c45ea@az7-nl.serverfreedom.com:20410?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#az7-nl.serverfreedom.com:20410
+trojan://miqq3kdf-3swz-k4tl-mkob-7qrtxtz21d8d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cimzcrhn-z5ed-0xpu-cp75-ka7p99nrellx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
