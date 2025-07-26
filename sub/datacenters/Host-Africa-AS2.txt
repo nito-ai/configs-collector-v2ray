@@ -1,8 +1,8 @@
-trojan://s12er4p4-lbrg-s0ed-z6k3-x51mpcakdwi0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 21:24 ]
-trojan://rhyhcxvk-on8b-3l47-op04-2ijgx77anj54@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zlozq0xc-sw9a-vok5-hst6-ymfdkuqyq7p4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0oj3ygp1-npoh-ce6i-sf3w-w6te7itxlw74@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 22:04 ]
+trojan://4tboema7-cgum-w7z6-pyq4-saemc7aeuuex@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yr0mlgp9-da9n-3l29-o608-r6om9c442gyg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3f2a64be-4bb8-567c-a3bd-1cbb7233b166@102.129.165.109:443?type=ws&security=tls&path=/vless&sni=102.129.165.109&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-TLS - Host-Africa-AS2 ┇ 102.129.165.109
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17132?insecure=0#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - Host-Africa-AS2 ┇ 102.129.165.167
 vless://855fe99e-0cc9-5b73-90be-251f7282d172@102.129.165.116:8880?type=grpc&security=none#ZA 🇿🇦 ┇ VLESS-GRPC-NTLS - Host-Africa-AS2 ┇ 102.129.165.116
-trojan://pfsai327-e0kg-1wpm-ug4g-gn2q2z22hdr9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vrijkrb5-pi7t-8tu1-c5mb-4v31we5hojji@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17132?insecure=0#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - Host-Africa-AS2 ┇ 102.129.165.167
+trojan://pigpy5ir-0yvd-syef-el76-b97at03a5o7w@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1i69qj5r-3ocv-c5nt-vhk0-w2988jb2itiu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
