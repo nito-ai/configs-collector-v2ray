@@ -1,9 +1,9 @@
-trojan://dmvknbxe-ecc9-ed9y-5im3-v3541k2s5x9j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 09:28 ]
-trojan://eyy37ow3-tgyz-uc2v-6uf2-3njx0f4j065u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nasjtb6m-nni8-balp-kd3i-wn7kb86os10t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://34cf07e4-0c8c-425f-afe5-45c07fd49f87@133.18.104.235:33001?type=tcp&security=reality&sni=s0.awsstatic.com&fp=firefox&flow=xtls-rprx-vision&pbk=rckWtXghGii1mFHTK0UzeXYjtUsqkiQSGz0eBScn1E4#JP 🇯🇵 ┇ VLESS-TCP-RLT - KAGOYA JAPAN Inc. ┇ 133.18.104.235
-ss://YWVzLTI1Ni1nY206ekpjdnVqcHNYdA@133.18.108.187:37422#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - KAGOYA JAPAN Inc. ┇ 133.18.108.187
+trojan://u3plqlg2-4w5q-i278-nl70-k7fx699sh4iv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 10:06 ]
+trojan://vgfxexo4-wekd-2btj-dvhv-w3x7jwo32t52@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://suxn95qt-m578-7p7x-z9vv-ouzm136eobzi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS0FHT1lBIEpBUEFOIEluYy4gXHUyNTA3IDEzMy4xOC4yMDMuMTg4IiwiYWRkIjoianAxLndhbnNzLndpbiIsInBvcnQiOjIzMzQ0LCJpZCI6IjQ4QzE2NkIyLUJGQzItNTEyRS00RDY3LTQ3QzJGN0IyQ0U1QyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vless://34cf07e4-0c8c-425f-afe5-45c07fd49f87@133.18.104.235:33001?type=tcp&security=reality&sni=s0.awsstatic.com&fp=firefox&flow=xtls-rprx-vision&pbk=rckWtXghGii1mFHTK0UzeXYjtUsqkiQSGz0eBScn1E4#JP 🇯🇵 ┇ VLESS-TCP-RLT - KAGOYA JAPAN Inc. ┇ 133.18.104.235
 trojan://e42b8392-782e-43f4-8403-1f006c2173ab@133.18.227.50:30000?sni=cdn.jp-01.planb.cat&peer=cdn.jp-01.planb.cat&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KAGOYA JAPAN Inc. ┇ 133.18.227.50
-trojan://aegb512v-xs9l-28av-j7qu-im4fp2nckvyr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5hmiv5b2-zio5-vo7z-07eh-08tcox6jon0t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://YWVzLTI1Ni1nY206ekpjdnVqcHNYdA@133.18.108.187:37422#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - KAGOYA JAPAN Inc. ┇ 133.18.108.187
+trojan://fa20hvm4-44tj-1fhl-2rqw-tg5a1spdhsj1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jcltboqd-qyz8-g0d5-xa9d-scri9cmwo29u@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
