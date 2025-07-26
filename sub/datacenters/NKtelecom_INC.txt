@@ -1,11 +1,11 @@
-trojan://4bfma59z-h216-xkb7-om6d-xhb1n3p76gia@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 20:57 ]
-trojan://7mr8jwrl-8vrf-ow77-figp-b2kdmth52huj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://001php5q-ypj7-dvfo-uisj-9bh1jirqz3g5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiahl.688997.xyz:20457?sni=nexiahl.688997.xyz&insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - NKtelecom INC ┇ 195.133.79.116
-vless://715b3f21-8774-484a-9230-f0a2c187e168@46.243.3.15:443?type=tcp&security=reality&sni=www.cdn77.com&fp=chrome&pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&sid=e54b5ad736ae4c38#NL 🇳🇱 ┇ VLESS-TCP-RLT - NKtelecom INC ┇ 46.243.3.15
+trojan://dqqehfe8-ze8e-npif-rj7b-j9o4loi6zaau@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 21:24 ]
+trojan://pyagngns-4vku-cwh5-lgjw-hv29o17byi51@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://efpj9cla-hfbb-51hm-hnep-m55epd26mhml@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYWdyaHJ5aHRqdHI@de-3-sst.medicaldream.ir:8444#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - NKtelecom INC ┇ 213.108.198.158
-hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiadg.688997.xyz:20557?sni=nexiadg.688997.xyz&insecure=1&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - NKtelecom INC ┇ 213.108.198.123
 vless://50c017ff-4271-4e22-8e16-7e4367898af8@213.108.198.149:443?type=tcp&security=reality&sni=www.cdn77.com&fp=chrome&pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&sid=e54b5ad736ae4c38#DE 🇩🇪 ┇ VLESS-TCP-RLT - NKtelecom INC ┇ 213.108.198.149
 vless://3a66f805-c29a-5786-b8ef-b6b1007545ba@213.108.198.53:443?type=ws&security=tls&path=/vless&sni=213.108.198.53&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - NKtelecom INC ┇ 213.108.198.53
-trojan://66n5clcu-nle9-thso-5ml8-w653lo2pk2by@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://voy88vfc-9ycm-14yw-m7ap-ueeou7v310zr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://715b3f21-8774-484a-9230-f0a2c187e168@46.243.3.15:443?type=tcp&security=reality&sni=www.cdn77.com&fp=chrome&pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&sid=e54b5ad736ae4c38#NL 🇳🇱 ┇ VLESS-TCP-RLT - NKtelecom INC ┇ 46.243.3.15
+hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiadg.688997.xyz:20557?sni=nexiadg.688997.xyz&insecure=1&obfs=salamander#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - NKtelecom INC ┇ 213.108.198.123
+hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiahl.688997.xyz:20457?sni=nexiahl.688997.xyz&insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - NKtelecom INC ┇ 195.133.79.116
+trojan://o3hnub8l-m1g4-ruuf-xeb2-kzoddaymiq17@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6dlxv9mk-nkqw-zn0p-nrhn-psdctmp42o4k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
