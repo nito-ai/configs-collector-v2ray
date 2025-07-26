@@ -1,15 +1,16 @@
-trojan://8fw17nf7-9gcf-f9rr-5ogl-cby2x65dylox@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 23:18 ]
-trojan://6h2zdxov-r0vi-26js-ku7b-mfo4o7d2rdna@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xa7bdvar-yvpx-hwv7-3qjc-fw6a98udsi1j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://upiazheq-6ujn-xddo-tqha-c8z5daqa12a6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 23:59 ]
+trojan://slkb22av-w4le-61ek-64zs-9liagbmeja4t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9jbhnmna-izc9-m6v0-chjk-hoqx9f7f4jkt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#147.45.178.200:57456
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?type=ws&security=tls&path=/assets&sni=NGINX.NSCl.IR#104.16.243.59:443
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?type=tcp&security=none#91.99.179.201:443
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?type=xhttp&security=none&path=/xhttp#91.99.181.47:8443
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
-vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403?type=tcp&security=none#15.204.199.122:57403
-vless://a05be988-b7fe-4913-82fe-767b3bf1b42e@alexde.hpcdn.info:443?type=ws&security=tls&path=/46200/wsMMad&sni=alexde.hpcdn.info&fp=random#alexde.hpcdn.info:443
-vless://10b7a1b9-99d7-4c31-9a82-ddb35fc464db@catherinede.hpcdn.info:443?type=ws&security=tls&path=/48733/wsMMad&sni=catherinede.hpcdn.info&fp=random#catherinede.hpcdn.info:443
-vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?type=ws&security=tls&path=/lZU7WqWIDqC1jRn6?ed=2560&sni=azadnet05.pages.dev#172.66.47.175:2083
-trojan://evohkm4b-hcns-l6jy-xarm-i3jt8511qe7r@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nr5cvn0o-7uj7-981h-slbx-ueq1xpg0h412@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://t%65l%65g%72%61m-%69d-%41%72f%69lt%65%72@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=eDp.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
+vless://25d0b00d-6b17-45c8-df12-4%657%6508fd8c19@151.101.3.8:80?type=xhttp&security=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#151.101.3.8:80
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.18.86.131:443?type=ws&security=tls&path=/?ed=2560&sni=vless5-edu.pages.dev&fp=random#104.18.86.131:443
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/vpn?ed=2560#104.16.191.195:80
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.14.1:8880?type=ws&security=none&path=/G8ZDmBYwOAz3ahmR?ed=2560#104.16.14.1:8880
+vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?type=ws&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:80
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?type=ws&security=none&path=/7YVyoVNnbaVzgl6D?ed=2560#104.16.69.64:8880
+vless://6a8eefa3-6916-41c5-a735-707720b96c3d@104.16.157.108:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#104.16.157.108:8080
+vless://bf5495e7-c1a8-43c1-894a-017904ab203e@91.99.218.97:443?type=tcp&security=reality&sni=neshan.org&fp=chrome&pbk=C-7hf193pd8ASAWWVeKwdcKI3Ph02zq8K7kGXa-vPWw&sid=34c06c19bf#91.99.218.97:443
+vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@tr01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31#tr01-vlr01.tcp-reset-club.net:443
+trojan://d13w2lzx-8qq7-5utr-r9dm-rjfct8vblkfu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4jt7scsp-lrmu-5gs1-9v65-4hpwk1gmg8mx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

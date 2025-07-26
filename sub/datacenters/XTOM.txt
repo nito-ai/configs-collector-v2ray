@@ -1,7 +1,7 @@
-trojan://s1v2651y-2u2a-32t5-813w-oaywwkqzk1n6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 23:18 ]
-trojan://0dgxcns6-5e01-o2uo-27hp-axr9gp1vsu0y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e6q8c3bi-yqs0-m6dv-babz-01t4ikka8cme@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://3d93a26b-4b85-49fc-9818-8bb80a76d04a@104.245.12.121:1443?type=ws&security=tls&path=/?ed=2560&sni=miku.mikuru.ip-ddns.com&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - XTOM ┇ 104.245.12.121
+trojan://r2p6iaey-r84x-vgpv-qj8t-gg4fn7n2p3gl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-26 | 23:59 ]
+trojan://y689qzcx-p6u6-r1u8-5wit-fxpsd3rsx351@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://oejxn1pd-2g2l-4lms-tus3-n06uhgckq7i6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://2af31107-e577-4995-8247-e8a57855e90b@62.3.15.223:10011?sni=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&peer=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - XTOM ┇ 62.3.15.223
-trojan://o1wqbcbv-nyu5-fp1c-r8g7-fx34h8303ppl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tv8oyybd-socg-m540-acas-l9av8d15ywbj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://3d93a26b-4b85-49fc-9818-8bb80a76d04a@104.245.12.121:1443?type=ws&security=tls&path=/?ed=2560&sni=miku.mikuru.ip-ddns.com&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - XTOM ┇ 104.245.12.121
+trojan://nvobms3j-h6rw-h2rp-jk1j-yckjc13m01ng@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mw8b5yf0-h29h-3mqv-b1t9-ek9wvrxhxj8v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
