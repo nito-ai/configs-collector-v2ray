@@ -1,14 +1,15 @@
-trojan://liv1fync-d16h-tdz2-pku3-36p5edd0z0vf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 01:20 ]
-trojan://9zr3tjpy-q225-c9m2-u8e4-i4sls085k0re@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7f11vvdn-2tpf-x6hf-4qkw-cpfh9p3hbc6f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1vb24gRGMgXHUyNTA3IDIxNy42MC4yMzkuMTIwIiwiYWRkIjoiMjE3LjYwLjIzOS4xMjAiLCJwb3J0IjoyNjU1MCwiaWQiOiJkZTIzMmFkNy00ZDI2LTRkNTktYTBmNC1lZTA3ZjE2NjI2OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://0387f978-a7cc-47c9-b421-39087bfd5845@217.60.239.58:26165?type=ws&security=none&path=telegram: @summertimeus#AE 🇦🇪 ┇ VLESS-WS-NTLS - Moon Dc ┇ 217.60.239.58
-vless://fafe936d-0b5a-4c46-86ad-85b65126b436@nl-server-vip-n-g-s-is.nl-vip-nightgemshop.pledh.com:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 95.128.196.145
+trojan://3m4p87av-fl1e-r4h3-nxwk-b5cb7nfwgwhs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 01:58 ]
+trojan://wn4lx0mz-melh-ab8m-mj9s-d0o97ayhplgh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ofcerfh1-e3da-3z3j-u9hl-x205hyb1v01l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://273b52c3-c9af-44a4-aaf5-d019fd07c001@ca.loyal-shop.ir:1006?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=72lC7QhlNZYX5iKI3AvigYH7K8aWudfi6YNKykoLe10#IR 🇮🇷 ┇ VLESS-TCP-RLT - Moon Dc ┇ 95.128.196.138
 vless://491f0cb0-c90d-49d5-8339-5bfc48e7bd00@syntax.leaksfa.com:2589?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 95.128.196.156
+vless://0387f978-a7cc-47c9-b421-39087bfd5845@217.60.239.58:26165?type=ws&security=none&path=telegram: @summertimeus#AE 🇦🇪 ┇ VLESS-WS-NTLS - Moon Dc ┇ 217.60.239.58
+vless://fafe936d-0b5a-4c46-86ad-85b65126b436@nl-server-vip-n-g-s-is.nl-vip-nightgemshop.pledh.com:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 95.128.196.145
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1vb24gRGMgXHUyNTA3IDIxNy42MC4yNDYuMjIiLCJhZGQiOiIyMTcuNjAuMjQ2LjIyIiwicG9ydCI6MjQ4MTIsImlkIjoiNzUxOTg5ZmQtNGE2Mi00M2RkLTllNTUtZmUzZWJjMmYzMmZjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1vb24gRGMgXHUyNTA3IDIxNy42MC4yMzkuMTIwIiwiYWRkIjoiMjE3LjYwLjIzOS4xMjAiLCJwb3J0IjoyNjU1MCwiaWQiOiJkZTIzMmFkNy00ZDI2LTRkNTktYTBmNC1lZTA3ZjE2NjI2OGEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://62149ca3-9870-49b2-9104-ef084f1de137@217.60.239.124:17479?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 217.60.239.124
-vless://17a7a43e-fc4d-4bce-94df-124e54026a72@panel1.zapserver.top:53217?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 95.128.196.72
 vless://23f15841-0587-42a6-b3cf-dcf456fc7b56@94.154.33.216:8080?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 94.154.33.216
-trojan://ccp7jkc0-kx0q-09oh-pjap-gawvn487jtxa@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yqhjp41e-7vqk-12j7-7kxr-fpafeh2abwcz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://fec72195-811f-455d-9185-381c58d2c396@www.learn-new.ir:443?type=tcp&security=reality&sni=www.pinterest.com&flow=xtls-rprx-vision&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&sid=6acf3ba5790e4324#IR 🇮🇷 ┇ VLESS-TCP-RLT - Moon Dc ┇ 95.128.196.137
+vless://17a7a43e-fc4d-4bce-94df-124e54026a72@panel1.zapserver.top:53217?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 95.128.196.72
+trojan://n4y1jl7a-7rin-isaj-jxfo-559lxnaxz5gz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://thyhmy2i-tl13-hzwu-9mwr-c9gz7cuey0i2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

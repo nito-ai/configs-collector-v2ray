@@ -1,6 +1,6 @@
-trojan://e9nq5snm-c8x4-72zx-9sh1-hl7p6ay68yql@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 01:20 ]
-trojan://r3blj67z-01xr-s4av-64ni-lsrorbj0mo50@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3tjhjcrx-ip4v-q1sj-xx2p-scszj9i5g0ln@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://i21s7kc1-jwr6-2890-woyc-pdl4zzhbaz8z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 01:58 ]
+trojan://q978z971-w25x-0med-i6ao-fve2h45u685i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hj3d8gqw-ixhc-6mia-dkzf-35jh93tfwaic@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://telegram-id-ArV2ray@www.speedtest.net:80?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter#www.speedtest.net:80
 vless://telegram-id-ArV2ray@www.speedtest.net:80?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter#www.speedtest.net:80
 vless://telegram-id-ArV2ray2@www.speedtest.net:8880?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter#www.speedtest.net:8880
@@ -19,5 +19,5 @@ vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegra
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=eDp.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=eDp.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://telegram-id-ArV2ray3@84.32.101.93:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#84.32.101.93:443
-trojan://h94kae1q-tfyl-vvxp-zzc1-v8epwh6odd4s@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1dgx7mhr-i6la-l75y-by98-j8gkmicwcwt8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://3w9pmkpy-ci2p-zbdb-2i2w-rx8cqv1x2a3s@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5z11uqte-hn0i-qleo-8kcr-bd99f384eyba@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

@@ -1,14 +1,14 @@
-trojan://6q3my6us-l5f3-tfjo-kic7-21jtgj5axbhy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 01:20 ]
-trojan://hll4k37c-7pk1-6qaq-6tb0-2lmw8tmeywm7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s9m8km0z-xas7-byf0-nfiy-wnc74vcko3jr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.128.195:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.195
+trojan://5t2j5u0c-8m5b-g155-5uv6-keyf20olc26t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 01:58 ]
+trojan://jmgo7b85-bswk-39w7-5dc2-oy8m14m5i4va@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xdi0jbdj-h4x2-z339-new3-62adjjqof3fh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTI1Ni1nY206RVRIVllJNDlVRThWUjZRVw@37.143.128.125:20012#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.125
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmQ2YzI4OS05Yjg5LTRhY2QtYjc5Yi1kYjUyNWI0MDc3MzQ@cl-01.cloxynode.com:35515#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.99.94
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - iHosting Servicios Internet Ltda. ┇ 37.235.52.112
+vless://32fe54d2-1605-41bf-aff4-8e24957a988d@cl.accesspoints.cloakify.app:35112?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=cl14G6KdRkNxGFpDGssxWDO09FRoV5QfI5lvco-dHVs&sid=e4#CL 🇨🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.82.249.35
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.128.195:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.195
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@64.176.17.53:8313#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 64.176.17.53
+vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?type=ws&security=tls&path=/vless/&sni=pq.chile1.09vpn.com#CL 🇨🇱 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.82.249.42
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@162.158.99.161:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-TLS ┇ 162.158.99.161
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.230.9:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.230.9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@64.176.17.53:8313#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 64.176.17.53
-ss://YWVzLTI1Ni1nY206MkI2RTZJU0xWQlFDMlRGVg@37.143.128.125:20012#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.125
-vless://32fe54d2-1605-41bf-aff4-8e24957a988d@cl.accesspoints.cloakify.app:35112?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=cl14G6KdRkNxGFpDGssxWDO09FRoV5QfI5lvco-dHVs&sid=e4#CL 🇨🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.82.249.35
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmQ2YzI4OS05Yjg5LTRhY2QtYjc5Yi1kYjUyNWI0MDc3MzQ@cl-01.cloxynode.com:35515#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.99.94
-vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?type=ws&security=tls&path=/vless/&sni=pq.chile1.09vpn.com#CL 🇨🇱 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.82.249.42
-trojan://0efff2tq-nnv3-acye-u6xg-rwfz5l0np1ko@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pqzt0jfw-1cu7-4nja-29br-9mv16by476v7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://zrqvacff-xzow-uaqc-ahy9-v3oy927fim3k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l510l48e-n8bm-yi40-fryy-ovwqxnu2myf3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
