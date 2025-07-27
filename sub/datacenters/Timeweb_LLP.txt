@@ -1,13 +1,13 @@
-trojan://0i1f6puw-4pj4-19dh-gm3o-kvqaeqzgcinn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 13:58 ]
-trojan://3g50x7m1-72ij-05lc-o32s-yeymssfd8lh3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://33xgwy4l-1vaz-nsfr-a0yh-qzyg8wo7r403@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://677a8b21-aea4-49af-9017-f3c505218547@147.45.225.188:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 147.45.225.188
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdld2TTBJUDZ3aFVLYU1FdXFlTjZN@147.45.136.147:41095#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Timeweb, LLP ┇ 147.45.136.147
-vless://49dc19c3-e447-4422-9a54-35af28207a6e@195.133.24.206:10086?type=ws&security=tls&path=/?ed=2560&sni=mihu.sorry.ip-ddns.com&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 195.133.24.206
+trojan://orna4f28-d9aa-avb0-z77d-yzd53xn3uc9w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 14:26 ]
+trojan://cem6k5od-38cz-1bim-vgpf-rnat2n167mhd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iy5ki416-suzc-jdoo-8hqy-ej3slatl2l0i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@92.51.44.177:8000?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 92.51.44.177
+vless://49dc19c3-e447-4422-9a54-35af28207a6e@195.133.24.206:10086?type=ws&security=tls&path=/?ed=2560&sni=mihu.sorry.ip-ddns.com&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Timeweb, LLP ┇ 195.133.24.206
+vless://677a8b21-aea4-49af-9017-f3c505218547@147.45.225.188:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 147.45.225.188
 vless://049c2c9b-c3cb-483a-b2f2-7f4d7de31c62@45.91.237.48:443?type=tcp&security=reality&sni=moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=35qsDXTLann5WRm9qOP6S6XMerioabdkAlX8sWsM-kM&sid=73994e611a326176#NL 🇳🇱 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 45.91.237.48
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ@89.19.216.18:8388#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Timeweb, LLP ┇ 89.19.216.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXMm50SWFJanlvaDZiVkZsWHZRcllz@80.242.56.218:50042#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Timeweb, LLP ┇ 80.242.56.218
 vless://9dc73289-89f7-41f1-bc46-fe09b1658bfd@81.31.245.204:443?type=httpupgrade&security=tls&sni=ffm.harfavali.ir.&fp=chrome#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Timeweb, LLP ┇ 81.31.245.204
-trojan://9j7vn3q8-2u5u-0io9-4b49-dsznnlfwfzi2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://egktbxqx-4ber-wdvb-onhq-hq78y5abq30z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdld2TTBJUDZ3aFVLYU1FdXFlTjZN@147.45.136.147:41095#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Timeweb, LLP ┇ 147.45.136.147
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ@89.19.216.18:8388#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Timeweb, LLP ┇ 89.19.216.18
+trojan://eiiwbc22-udng-xdat-g60o-hhpya4z1lqh6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uyzohwao-hleh-7s5r-mt32-9wdt2eozwr32@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
