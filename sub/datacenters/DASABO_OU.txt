@@ -1,7 +1,7 @@
-trojan://fvubd7fi-h64n-6vna-h7hx-gg43zykf861y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 17:10 ]
-trojan://0gz78pc9-hcc8-tlvc-4x28-69vccrae1xje@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://a5bqi6gm-ouqw-glvm-wmno-no3mqdujij3f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c1201f65-7290-4857-b552-08d5add4b362@102.215.228.122:24161?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DASABO OU ┇ 102.215.228.122
+trojan://a64i1gdc-lgjn-38su-lglj-bxmoystkwq0a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 17:30 ]
+trojan://1dap1h0r-ml8q-77tw-ikq6-de6rm4y397ks@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://c46rdihy-kk17-t89g-lqr4-2mcgbh3lwvq3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://aedae871-a4e5-489f-946c-98372f15bee2@31.57.241.25:7008?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=FPH81X-EMwzv4nXgkplSqBAaK81uLuPYqWaYyIWFsnQ&sid=efcbe824#DE 🇩🇪 ┇ VLESS-TCP-RLT - DASABO OU ┇ 31.57.241.25
-trojan://bh8u0lcq-g382-9dk5-pylm-fh5622snl284@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vapo0yhi-n13n-9p74-p336-6w784tclx92t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://c1201f65-7290-4857-b552-08d5add4b362@102.215.228.122:24161?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - DASABO OU ┇ 102.215.228.122
+trojan://bbq0ovzb-9wg4-yd0j-ezzd-d0uzzb8g0b08@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xzpo489s-m9jy-g47w-jk5j-ky45b7ck1g89@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
