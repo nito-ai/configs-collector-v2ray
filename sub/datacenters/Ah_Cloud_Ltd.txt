@@ -1,8 +1,8 @@
-trojan://b89lqpre-a1pa-0iko-uu25-ml7uyds736dy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 20:29 ]
-trojan://4lligkf5-ngfx-cmxk-l2h8-48mn6oe0pzul@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hx6n7a09-c635-m11a-3it4-sicca8bzfvii@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://myk32q90-aubl-a4rv-3re1-autxhowu5mp1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 20:56 ]
+trojan://mkxqbl2y-vzm0-s97a-j3w9-fp0i3qwn6t15@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gax7itaz-piia-kyou-cus0-2r4eqt0lhauj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://870028b4-69aa-45f5-a6fd-5063870ab641@45.154.197.56:17007?type=tcp&security=none&sni=45.154.197.56#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Ah Cloud Ltd ┇ 45.154.197.56
-vless://b22a0538-39c3-4b16-92c9-c81a5b94d4f5@185.139.7.179:7000?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#GB 🇬🇧 ┇ VLESS-WS-TLS - Ah Cloud Ltd ┇ 185.139.7.179
 trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@185.139.7.55:17756?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Ah Cloud Ltd ┇ 185.139.7.55
-trojan://bwai4k2o-r4jc-jvv6-ls8x-h8bul296lxes@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0s4npd5f-koan-480v-w2dw-xnl6f411n4t9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://b22a0538-39c3-4b16-92c9-c81a5b94d4f5@185.139.7.179:7000?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#GB 🇬🇧 ┇ VLESS-WS-TLS - Ah Cloud Ltd ┇ 185.139.7.179
+trojan://y2mg51vl-13xt-u3fa-ap90-p17p2edg2aee@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://x54be0hq-96ng-pavg-otxw-d2nmfpd7xnas@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
