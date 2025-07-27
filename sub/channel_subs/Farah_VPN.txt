@@ -1,10 +1,11 @@
-trojan://gqn541v3-wo6t-0gz8-y4nf-pkqc3s6p93yi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 12:29 ]
-trojan://8r2d4srv-vah3-vkig-oohe-82h9a4aggimp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rxl6k3eq-fmli-g4xn-xmfl-xkmonfwplhq1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://is27co9s-jyuh-65k5-59xf-c8o4fhm1pn94@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 12:59 ]
+trojan://yxqq6pzs-bbmd-iv5t-r7cy-16nlkrb34f0p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6xvdxreq-wfxo-fdwx-4v2x-ya35b1qtvepf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.33:38388#103.186.154.33:38388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#45.87.175.178:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#45.87.175.28:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#45.158.171.60:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#103.104.247.45:8080
 trojan://NISHIKUITAN111@69.48.218.10:443?security=tls#69.48.218.10:443
 trojan://NISHIKUITAN111@104.24.11.154:443?security=tls#104.24.11.154:443
 trojan://NISHIKUITAN111@104.20.8.252:443?security=tls#104.20.8.252:443
@@ -20,6 +21,5 @@ vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?type=xhttp&secu
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?type=grpc&security=none#public15v7.fastipsport.com:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
 vless://6a8eefa3-6916-41c5-a735-707720b96c3d@104.16.157.108:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#104.16.157.108:8080
-vless://81294d12-9b29-438d-8af2-2bfcba7bd450@91.99.115.113:2012?type=tcp&security=reality&sni=www.pcmag.com&fp=firefox&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY#91.99.115.113:2012
-trojan://i4ow2u5e-2hh7-abd5-depl-02pvh3928qaj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://95276s7v-73u5-jv5i-98dz-xobt59j3uoq0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://mvneg4j0-ofcr-0dpo-a2hl-fr6mkp69dt0v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0mlkm9hk-5iqt-wmdw-w7ru-4wnn7xm2dz5g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
