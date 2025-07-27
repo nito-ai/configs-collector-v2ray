@@ -1,10 +1,10 @@
-trojan://l4fvdr3g-5wcw-1ink-0kly-epuwdyd8dwbu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 22:55 ]
-trojan://lfma39lc-w4hp-94xb-fn85-yvuo1h17zs68@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nc7gtebp-6bmx-m23e-t6xo-giyubfzeikal@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OGQ0ODllNmEzYTZjNGIzOTNiMGM4N2VjMWRiNDI5Ng@193.164.4.66:6666#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 193.164.4.66
-vless://543e67bb-15c6-4731-d0c9-7641517783b2@193.164.6.27:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 193.164.6.27
+trojan://nnouif48-mmnw-hnw0-983l-iq0agh3d4v9b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 23:18 ]
+trojan://6xorgux5-wg5x-6xlt-ih5g-g83a3russh5w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jpotqgkb-7ekv-qhbt-3ist-opdugtldaiad@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://dbe17297-3c29-5348-33c6-fae3d706d9e7@94.154.34.112:443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=Sx5gCel0sEdt1jvh7UWiQeff-jkqOAoq6yoWJvi-SSY&sid=2ef4b569e4#TR 🇹🇷 ┇ VLESS-TCP-RLT - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 94.154.34.112
+vless://3315df08-e2a4-4dbd-eccc-fa0cbacf40a9@45.133.36.230:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8#TR 🇹🇷 ┇ VLESS-TCP-RLT - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 45.133.36.230
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEtFWVVCVSBJbnRlcm5ldCB2ZSBCaWxpc2ltIFRpYy4gTHRkLiBTdGkuIFx1MjUwNyAzMS41Ny4zMy4xMDYiLCJhZGQiOiIzMS41Ny4zMy4xMDYiLCJwb3J0Ijo1NDkyOCwiaWQiOiJkZjgzYmNmNC1mYmU2LTQ4ZWMtYmRkNy04YTBhM2I5N2RiNmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://bfff033b-6f6b-4c24-fd6c-5b7d6cf9b3cd@45.133.36.230:443?type=tcp&security=reality&pbk=aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8#TR 🇹🇷 ┇ VLESS-TCP-RLT - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 45.133.36.230
-trojan://z1om5ln8-6po7-vnvy-k62v-4la8ecp9yuif@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://anjq3sel-ec24-7l7p-ns73-twjsnpu96zrb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://543e67bb-15c6-4731-d0c9-7641517783b2@193.164.6.27:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 193.164.6.27
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OGQ0ODllNmEzYTZjNGIzOTNiMGM4N2VjMWRiNDI5Ng@193.164.4.66:6666#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 193.164.4.66
+trojan://dccyedt8-pv3y-08sr-htnh-x95198ldteio@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fqdccawi-fnzf-6ykx-u0ob-beicp3nngtsz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
