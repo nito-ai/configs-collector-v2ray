@@ -1,10 +1,10 @@
-trojan://fqjoqbdr-dyxt-a9iy-cev1-80djoae91j1f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 20:56 ]
-trojan://u1fau6da-085q-qjzc-27g3-3pbw9smb656e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fy3gsr0d-a4x5-i84f-846t-uklr92tnxsd4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://97469164-110c-5924-6d56-1ba7a0f42f6a@85.133.233.206:3670?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahallat Network ┇ 85.133.233.206
+trojan://prt0k8se-abbg-ybm3-93p8-0c2bbqdrrru1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 21:24 ]
+trojan://jidy4duw-yhzi-4dp5-c4hs-8w81ajv5ij0m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4lto2smr-u885-bm7w-3fcd-f8tvapepvf05@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://bf742aa8-0168-4081-b01f-3c3e994b054f@85.133.233.59:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahallat Network ┇ 85.133.233.59
-vless://16b95750-74af-4dec-b526-3d8891ed3b67@85.133.233.175:9999?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mahallat Network ┇ 85.133.233.175
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1haGFsbGF0IE5ldHdvcmsgXHUyNTA3IDg1LjEzMy4yMzMuMTg0IiwiYWRkIjoiODUuMTMzLjIzMy4xODQiLCJwb3J0IjozODkwLCJpZCI6IjAxMzg1NTUwLWFmNjAtNGQ1Ny1hZjg0LWRkZGFjNTIxM2IwYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1haGFsbGF0IE5ldHdvcmsgXHUyNTA3IDg1LjEzMy4yMzMuMTAyIiwiYWRkIjoiY29tcGFueTQucGF5ZGFydGVjLnRvcCIsInBvcnQiOjQ5OTIsImlkIjoiNGZmZTI2NzQtZTdjNS00MThjLWJlM2ItMzUxYjkxM2ZjMDZmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
-trojan://0o9xrom2-ik4y-bt4i-3h0l-kviuknb2out8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vcxi8zql-28s5-n3uv-s8cm-q8c7e76eqz3r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1haGFsbGF0IE5ldHdvcmsgXHUyNTA3IDg1LjEzMy4yMzMuMTg0IiwiYWRkIjoiODUuMTMzLjIzMy4xODQiLCJwb3J0IjozODkwLCJpZCI6IjAxMzg1NTUwLWFmNjAtNGQ1Ny1hZjg0LWRkZGFjNTIxM2IwYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://16b95750-74af-4dec-b526-3d8891ed3b67@85.133.233.175:9999?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mahallat Network ┇ 85.133.233.175
+vless://97469164-110c-5924-6d56-1ba7a0f42f6a@85.133.233.206:3670?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahallat Network ┇ 85.133.233.206
+trojan://mdnn4tbu-cbig-wixe-9nkg-8txnl7xngehp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3kt14i0f-c1vs-g9y5-1z9h-xugtp9smnrqp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

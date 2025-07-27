@@ -1,8 +1,8 @@
-trojan://33rwi7na-9p1g-m44r-k4do-17bv5av1uwwo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 20:56 ]
-trojan://zex3cu8p-8t9y-u62c-ai8w-mawjat8zndpt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://27lpqe4j-wazc-7i1k-w0cp-wayht2uyjlbi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://09dl2nbt-5sey-sk0b-tx4g-gd2jikj4v7z3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 21:24 ]
+trojan://5ixoc6f2-r9yl-4hf6-1v1t-rbnqj44w7f27@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ubpmeko6-10r6-r8rj-az09-pmh94q0s1s8p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://be34d195-0697-44b4-8a3e-07edc2f3abb7@87.247.169.211:8001?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Insightometrics B.V. ┇ 87.247.169.211
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEluc2lnaHRvbWV0cmljcyBCLlYuIFx1MjUwNyA4Ny4yNDcuMTY4LjIzNyIsImFkZCI6Ijg3LjI0Ny4xNjguMjM3IiwicG9ydCI6MjA3MCwiaWQiOiJjNGNhY2I4YS02NGVjLTRkZmMtYTgwZC1kZjNmZDg4NTFmY2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://4c20c859-a872-4659-be2d-86b07a8f329c@87.247.169.69:2101?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Insightometrics B.V. ┇ 87.247.169.69
-trojan://e7p2ftj7-lh5m-g69e-2en8-g36kmppmzyml@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://apkcjod6-2i72-0u07-dwe1-r3d9nlt2wn2y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEluc2lnaHRvbWV0cmljcyBCLlYuIFx1MjUwNyA4Ny4yNDcuMTY4LjIzNyIsImFkZCI6Ijg3LjI0Ny4xNjguMjM3IiwicG9ydCI6MjA3MCwiaWQiOiJjNGNhY2I4YS02NGVjLTRkZmMtYTgwZC1kZjNmZDg4NTFmY2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+trojan://vhuddj6x-kviq-uz4c-m3n2-ffvpbaqpo1bo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wcvcbo4c-rw1h-ow2c-72sa-n8ftx5fydnj0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

@@ -1,9 +1,7 @@
-trojan://psox3ouw-hrsc-e43t-eldk-4dygs6i2lh9e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 20:56 ]
-trojan://tq05bq6m-onqe-xpb4-05jx-6e0yf699wcdl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4i21e16t-g3pa-4kym-x0co-vp4383uwxd7u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2x9dq015-38n5-gwka-9snc-8qr0f09jljcg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 21:24 ]
+trojan://y9ukfyx8-q50p-3duk-xwm7-98lkaaw0eieq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://m54c6rjw-tf87-60or-j16b-iodecxzqxh87@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://defc87a9-1bdd-486f-9e98-a0fbbeef6e39@kafshu.ir:8080?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#kafshu.ir:8080
-vless://0a806f40-bd95-42c3-8457-f520f80bfd61@45.150.33.157:50810?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=zhaket.com&fp=chrome&pbk=J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg&sid=aa60a00122200b76#45.150.33.157:50810
-vless://0a806f40-bd95-42c3-8457-f520f80bfd61@45.150.33.157:50810?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=zhaket.com&fp=chrome&pbk=J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg&sid=aa60a00122200b76#45.150.33.157:50810
 vless://0a806f40-bd95-42c3-8457-f520f80bfd61@45.150.33.157:50810?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=zhaket.com&fp=chrome&pbk=J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg&sid=aa60a00122200b76#45.150.33.157:50810
 vless://0a806f40-bd95-42c3-8457-f520f80bfd61@45.150.33.157:50810?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=zhaket.com&fp=chrome&pbk=J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg&sid=aa60a00122200b76#45.150.33.157:50810
 vless://8611dbb2-fdd5-4ba3-b06f-bc10bb75deeb@138.199.168.187:28153?type=tcp&security=reality&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#138.199.168.187:28153
@@ -22,5 +20,6 @@ vless://71243590-61ff-46b9-816c-ec48ea9ea692@199.247.16.203:17928?type=xhttp&sec
 vless://ec62aa44-b9cd-417f-9adb-3a602922466d@45.150.33.157:50810?type=xhttp&security=reality&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&sni=zhaket.com&fp=chrome&pbk=J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg&sid=aa60a00122200b76#45.150.33.157:50810
 vless://3f21badc-a9ec-4f6e-8239-c61be70748b2@91.98.21.58:18606?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew#91.98.21.58:18606
 vless://3f21badc-a9ec-4f6e-8239-c61be70748b2@91.98.21.58:18606?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew#91.98.21.58:18606
-trojan://z42rv7zs-5948-27cx-2ghu-imk8wpdy1iof@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1nz253pz-n8xz-rvq1-kwrb-jgjvm524xggz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://206a5643-317e-4590-89ea-b2c874633bbf@91.98.21.58:18606?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew#91.98.21.58:18606
+trojan://aqyhguim-j5fm-uqf3-clc7-os5570b9p1ny@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d9lp1k71-zf7k-e9vi-6lkg-zd2zythct7c1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
