@@ -1,12 +1,12 @@
-trojan://gkctzoco-brl6-lsg0-kios-x5br80m78pw7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 00:00 ]
-trojan://95bzxsow-r395-82im-3vnr-k4cg5ur3kuoq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xtr6k4mt-4554-06h0-9r1r-2fu2b9ax4jv3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Trabia SRL ┇ 192.121.87.89
-vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUcmFiaWEgU1JMIFx1MjUwNyAxNzguMTc1LjEzMi44NSIsImFkZCI6IjE3OC4xNzUuMTMyLjg1IiwicG9ydCI6NDQzLCJpZCI6IjdlNDIxOWFlLThiZjEtNGY3OS05MDJiLTRmMjU5YzY0NTMzZCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJkdGxzIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyJ9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.153.124.90:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Trabia SRL ┇ 45.153.124.90
+trojan://miz0ljb0-puju-2nhl-9tpk-cbaxk31y7v80@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 00:24 ]
+trojan://iev3nrs2-alcy-7bt5-j95s-b5bj634yu85p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g1urxo7x-4c35-ndtz-amgh-7wribszs1izo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.147:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Trabia SRL ┇ 192.121.87.147
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.153.124.90:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Trabia SRL ┇ 45.153.124.90
+vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUcmFiaWEgU1JMIFx1MjUwNyAxNzguMTc1LjEzMi44NSIsImFkZCI6IjE3OC4xNzUuMTMyLjg1IiwicG9ydCI6NDQzLCJpZCI6IjdlNDIxOWFlLThiZjEtNGY3OS05MDJiLTRmMjU5YzY0NTMzZCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJkdGxzIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyJ9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@178.175.134.2:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Trabia SRL ┇ 178.175.134.2
-vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUcmFiaWEgU1JMIFx1MjUwNyAxNzguMTc1LjEzMi44NiIsImFkZCI6IjE3OC4xNzUuMTMyLjg2IiwicG9ydCI6NDQzLCJpZCI6IjdlNDIxOWFlLThiZjEtNGY3OS05MDJiLTRmMjU5YzY0NTMzZCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJkdGxzIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUcmFiaWEgU1JMIFx1MjUwNyAxNzguMTc1LjEzNS4xNTQiLCJhZGQiOiIxNzguMTc1LjEzNS4xNTQiLCJwb3J0Ijo0NDMsImlkIjoiN2U0MjE5YWUtOGJmMS00Zjc5LTkwMmItNGYyNTljNjQ1MzNkIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMjQzNTM1MzIyOTA2IiwidGxzIjoidGxzIn0
-trojan://51ii8y8k-5kcz-wyro-n564-e4nhb4253qhe@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8a3nas6s-h69q-bb6j-bssp-xcpxyz4l39g8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiTUQgXHVkODNjXHVkZGYyXHVkODNjXHVkZGU5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBUcmFiaWEgU1JMIFx1MjUwNyAxNzguMTc1LjEzMi44NiIsImFkZCI6IjE3OC4xNzUuMTMyLjg2IiwicG9ydCI6NDQzLCJpZCI6IjdlNDIxOWFlLThiZjEtNGY3OS05MDJiLTRmMjU5YzY0NTMzZCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJkdGxzIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyJ9
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Trabia SRL ┇ 192.121.87.89
+trojan://fu2icdzx-qp9c-8fhx-s04f-mxz9xriwp6im@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vx9f4o5a-mm88-4uyg-7dn9-33x6iab1e4l4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

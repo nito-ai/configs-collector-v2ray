@@ -1,9 +1,9 @@
-trojan://6ovf5c01-hpbf-b1or-6e1f-yv6xwp4dpntb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 00:00 ]
-trojan://gjpgri1c-c98m-71c1-b4ha-2jrw6yoqxd18@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5ziks2nn-m2w2-fj6a-6n9n-glnk01cwo75d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://d43uqwcd-ubuo-ulci-4b82-9per1w8bxkyl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 00:24 ]
+trojan://v31xbj0z-t7b9-oxx1-qzh6-urtmvsz0xb8z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://oyvvybcq-wqu2-qn13-1o91-5ebqo3xkmj95@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d5a35da6-ad01-4d23-89c3-0566134b2051@178.160.211.100:34443?type=tcp&security=reality#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.100
-vless://f752b591-5b70-4d8a-9f12-e55ac20f63d4@178.160.211.142:443?type=tcp&security=reality&sni=app.hubspot.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.142
 vless://32932937-b85f-40be-ae02-997ea5b0b62a@178.160.211.47:443?type=tcp&security=reality&sni=app.hubspot.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.47
 vless://32932937-b85f-40be-ae02-997ea5b0b62a@178.160.211.223:443?type=tcp&security=reality&sni=app.hubspot.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.223
-trojan://gtlqey18-mciz-dqw5-63cj-xvhu98nx7nww@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c09brb5f-qrv4-enuc-v5f2-a2jvvdo3yyrd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://f752b591-5b70-4d8a-9f12-e55ac20f63d4@178.160.211.142:443?type=tcp&security=reality&sni=app.hubspot.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.142
+trojan://ts6pxvax-qq14-3od2-jv9g-ki5l94orjkqh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sn61bg35-npp1-u093-66ps-6dge7e77av9l@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

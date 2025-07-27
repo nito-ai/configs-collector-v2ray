@@ -1,9 +1,9 @@
-trojan://az3l3p0b-g6e1-lg99-5hxx-j29ym8ns51ff@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 00:00 ]
-trojan://47qxhgap-3jhm-ph66-javi-xtlhlbluxvx9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fbn499oj-n7g2-reow-hlr9-v8yjrvo5qw6t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://2d886b86-0b67-42cb-be4a-5d5480422df7@dns.hosseinjadgall.sbs:443?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 193.9.16.47
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERldXRzY2hlIFRlbGVrb20gQUcgXHUyNTA3IDQ2LjgyLjE3NC42OSIsImFkZCI6ImFoaGZiLmZvc2kuaGsiLCJwb3J0IjoyNzE1NCwiaWQiOiIyNjMyODYzYS03NWQ4LTMwMDMtYjlmMS1iYzgxY2E2ZTg1Y2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+trojan://lf865ru9-04f6-0ib9-by5a-m8dprkiti98u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 00:24 ]
+trojan://7ncvluly-5xng-nk4c-yhmb-qsttln0hdnz7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tc6fznuf-gd9u-dy6r-ql0o-9y1ak67n8maq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1earf053-5ff6-4def-b234-d760690355ff@91.19.83.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 91.19.83.138
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRGV1dHNjaGUgVGVsZWtvbSBBRyBcdTI1MDcgNDYuODIuMTc0LjY5IiwiYWRkIjoic2hzaGN1YS5mb3NpLmhrIiwicG9ydCI6NDgwNDAsImlkIjoiMWIwMDhhMmYtMWNmNS00NTUyLWI3Y2EtNTI5ODBkZjRhZjliIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZmx5In0
+vless://2d886b86-0b67-42cb-be4a-5d5480422df7@dns.hosseinjadgall.sbs:443?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 193.9.16.47
 vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?type=tcp&security=reality&sni=Zula.ir&fp=chrome&pbk=GiJD-Fcy7f8Ec0jJ2bfKwjIgVJgdblJ-HUEVt0r8LCM&sid=ce1f64bf8464#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 193.9.16.37
-trojan://e6i9krwl-okaj-430c-fg6n-p68lwl7jvxew@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rgfxtjbr-numu-m8jp-gbjv-l9sx3d7i80by@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://pv9dv2hz-tdor-lvaq-lxnr-yr8narjxfuq9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pmk8x34n-om8w-gi38-st84-mhqntn5jyaze@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
