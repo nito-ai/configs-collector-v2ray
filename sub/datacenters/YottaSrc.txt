@@ -1,10 +1,10 @@
-trojan://b575ouhu-q3o0-b4x3-c2eb-mu3smjt27su5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 11:21 ]
-trojan://b4yudeca-cjcj-s7af-v06a-opqq4m5pu2ga@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0y67rxfk-mpjg-pakk-rt6w-st90l4or8k3q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://nu04nwhm-j7z4-1u1u-naps-ulj1xck1awmb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 12:03 ]
+trojan://lh2qewtx-ctj5-rrmk-i8a1-c89mulo4rrdq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6rgwgb3n-hlqn-43ga-dzfm-qqctkqv7puwj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://94255b48-b47a-4808-a3b8-bdc70ae617a9@45.67.139.72:52673?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=iWLIaumraWdtBKE2FeK96VOx73dnI_FIqH4likU5ylI&sid=0a6891#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.67.139.72
 vless://22436824-b1ea-45ec-bd2c-1936e3785d00@3rdv5.infospeedtest.com:10029?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.92.219.127
 vless://840dc994-d232-4b71-b133-4f36a874c867@45.13.226.18:29570?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=lOuhgB0K7paehmJFBxd0GxSY2Ax00niQGkpH3-8jKz4&sid=37#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.13.226.18
-vless://133fe9ce-3f1f-41a1-a8ca-f74029adbab3@45.13.226.145:443?type=tcp&security=reality&sni=appsnetwork.ir&fp=chrome&pbk=RDRoXr6-GY3rNUvFHEMZJMl-Fm7oYaPz9QQ68638R3Q&sid=ca46c7533eae#DE 🇩🇪 ┇ VLESS-TCP-RLT - YottaSrc ┇ 45.13.226.145
 vless://45e91c56-0dbd-41a5-a654-287a53fc0ea4@185.117.0.180:8448?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.117.0.180
-vless://94255b48-b47a-4808-a3b8-bdc70ae617a9@45.67.139.72:52673?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=iWLIaumraWdtBKE2FeK96VOx73dnI_FIqH4likU5ylI&sid=0a6891#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.67.139.72
-trojan://dyk3qt74-9eb9-zntn-mndu-5jynjyol9bmh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gk687swl-nk40-rjxb-hl7a-x7l5tb3go0jp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://133fe9ce-3f1f-41a1-a8ca-f74029adbab3@45.13.226.145:443?type=tcp&security=reality&sni=appsnetwork.ir&fp=chrome&pbk=RDRoXr6-GY3rNUvFHEMZJMl-Fm7oYaPz9QQ68638R3Q&sid=ca46c7533eae#DE 🇩🇪 ┇ VLESS-TCP-RLT - YottaSrc ┇ 45.13.226.145
+trojan://p7fk8nwr-4cfj-6xwy-j1pv-s60ypr50xt4x@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2cihd0g0-5fc2-buw7-efd4-p2rayt96x47x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

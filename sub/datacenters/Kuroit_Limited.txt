@@ -1,8 +1,8 @@
-trojan://hf9whccq-1spg-yy3v-dy5i-lkx0jhbkc0d6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 11:21 ]
-trojan://g2uka4ve-uck6-cs21-4dac-1re5828et6du@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dsreqfsq-qeew-jypt-r5ae-sztevaexdb2y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-tuic://81ef78ef-721f-443e-aa3f-969072c0b8eb:azadi@46.37.124.122:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 46.37.124.122
-tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
+trojan://oyk7xgzc-cdz8-88lv-w2v2-02uwfuax9twv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 12:03 ]
+trojan://ezqn7g03-cmb5-0wrh-rxn7-ydsxlep8ojay@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://53j58qmw-5myl-vstp-7z41-sgo19wewpuy1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443?sni=wfi.sahnama.com&peer=wfi.sahnama.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Kuroit Limited ┇ 178.239.171.103
-trojan://1q8wkjxh-2vce-ikj5-rx75-wou40calt66i@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4kga7glc-fcfx-pmd3-6y89-5cdm1ev8375z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
+tuic://81ef78ef-721f-443e-aa3f-969072c0b8eb:azadi@46.37.124.122:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 46.37.124.122
+trojan://1b0whpwh-5ayw-uprq-35rf-ecjneywu8hd1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://n7hapw0q-fqvx-loo3-94ap-lj5eeywugei8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
