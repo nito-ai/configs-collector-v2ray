@@ -1,6 +1,6 @@
-trojan://yqdi4k0m-j6k5-k83y-htcg-8qitr9kjr8b7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 17:57 ]
-trojan://266lks7i-xjbr-8t07-k4a3-l7mkibgq91x3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2n76jjk6-ypng-cmu0-qsy7-inaun5bs05xc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://uj81zg5l-7jvt-3nuu-1lcy-lsrks7v1kz5t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 18:24 ]
+trojan://8v0qabjf-miug-sghz-jb90-3uzyo4v7d8gk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gr25iask-8hae-fpkz-9j2l-1p79mjsazi1q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLcHJoUng3alRRdTdhZmNHWTNhbXNE@85.208.139.158:25607#85.208.139.158:25607
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjg2XHUwNjQ2XHUwNjQ0IFx1MDYzOVx1MDYzNlx1MDY0OCBcdTA2MzRcdTA2NDggQHYycmFfY29uZmlnIiwiYWRkIjoiMTUuMjM1LjQxLjIwMCIsInBvcnQiOjgwLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiJ9
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/#104.16.86.73:8880
@@ -25,8 +25,9 @@ vless://33fb7509-1606-4d9c-b506-77ace6016132@77.105.140.246:443?type=tcp&securit
 vless://b397753d-a180-45f0-ade3-0cbbe0d58696@5.181.20.59:443?type=tcp&security=reality&sni=moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=F3OY6HLsBjiLyYzO4rSOlFeXvyCoMtrTX5kZstPl5Qk&sid=a4907807feffe4ba#5.181.20.59:443
 vless://af3dbe1d-970d-490c-9e39-5ac8fdc18ec0@51.75.17.156:443?type=tcp&security=reality&sni=moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=dVOVR2A3yOuVbSl_r0JpSlwoA9bByZ6NcsqDPtD5yH4&sid=59e423c12f613cb4#51.75.17.156:443
 vless://c998140c-f0d4-4579-adfe-c6c611bc1b3a@178.236.254.241:443?type=tcp&security=reality&sni=moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=EugCLBwc_T7aLWQOUhIIut2wRfmT9QpDo4x8x8DUdjs&sid=abce528d2603077c#178.236.254.241:443
+vless://c998140c-f0d4-4579-adfe-c6c611bc1b3a@178.236.254.241:443?type=tcp&security=reality&sni=moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=EugCLBwc_T7aLWQOUhIIut2wRfmT9QpDo4x8x8DUdjs&sid=abce528d2603077c#178.236.254.241:443
 hysteria2://UnYCJJ9AQy@146.19.56.21:28165?insecure=1&obfs=salamander#146.19.56.21:28165
 hysteria2://Jj0FrgSd85@165.140.166.78:50163?insecure=1&obfs=salamander#165.140.166.78:50163
 hysteria2://F6HtMurQGt@185.211.101.15:16666?insecure=1&obfs=salamander#185.211.101.15:16666
-trojan://ymi5ki5o-03kn-h0qr-5vtp-p7s611a5zy5p@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://74az2u3j-2ydy-0o4a-sh6o-4zbiark3dvje@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://kv07en4p-zlij-hi5q-xo1c-mgjwz5rw0l65@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vxau8ojz-hc5m-xjax-nyn3-nh7rk08mbgdv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
