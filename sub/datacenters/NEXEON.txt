@@ -1,10 +1,10 @@
-trojan://rgmpezc6-2f8k-tag1-iejy-ftuwky6kxctk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 03:21 ]
-trojan://ikzw32p9-avmv-qfm6-99f0-devx8bw2csuk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mnx6itlz-w299-kys2-qyv9-lb61c3gc56x9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206d3JDYUd0clViemVScVFMZGM4S21rM05k@172.93.146.210:49126#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NEXEON ┇ 172.93.146.210
-ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@64.44.42.195:50024#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NEXEON ┇ 64.44.42.195
-vless://51633696-7053-499e-add5-d8473eda3440@64.44.158.121:36800?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=NmvXICZbgkr6rRIFHW3btC48PS4WPqI1WMI0zMypRzs&sid=9fd097cb4d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NEXEON ┇ 64.44.158.121
+trojan://f2lsogia-1ekl-cr8y-r14v-p1jrfjklohg7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 05:23 ]
+trojan://gwuc38lx-8jmq-ymuh-8qd7-zhzky1ny80go@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://om4njzgm-1195-c5h0-6qoe-xa3hzvy7xlb4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkVYRU9OIFx1MjUwNyA2NC40NC41Ny4yMTciLCJhZGQiOiI2NC40NC41Ny4yMTciLCJwb3J0Ijo4MCwiaWQiOiIzZGFjYmFhOC03ODRiLTQzMGMtOWMxZS01N2QzMzY0ODk4MWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJ2bWVzcyIsInBhdGgiOiIvZmlsZXN0cmVhbWluZ3NlcnZpY2UvZmlsZXMvMjBmODEzZTItMDM2YS00MmE4LTkyZTItYTNhNTVhMGIyMzliIn0
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@107.175.96.74:1689#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NEXEON ┇ 107.175.96.74
-trojan://t3aaiwct-eyx7-h360-a8ps-1j51m7hutuvn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3h0s6u9k-kbrv-20i1-731i-xl851bmqc8t2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://51633696-7053-499e-add5-d8473eda3440@64.44.158.121:36800?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=NmvXICZbgkr6rRIFHW3btC48PS4WPqI1WMI0zMypRzs&sid=9fd097cb4d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NEXEON ┇ 64.44.158.121
+ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@64.44.42.195:50024#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NEXEON ┇ 64.44.42.195
+ss://YWVzLTI1Ni1nY206d3JDYUd0clViemVScVFMZGM4S21rM05k@172.93.146.210:49126#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NEXEON ┇ 172.93.146.210
+trojan://df0b6lsq-1uv3-xsuc-15ct-tc7pnipxhii2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://afvbc5np-p8xp-rkmd-sp91-tpqa9nuuvgs0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

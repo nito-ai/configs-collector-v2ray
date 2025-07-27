@@ -1,9 +1,9 @@
-trojan://06dil4tg-d0nj-9r1e-dvp5-lq7p7qx2lw21@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 03:21 ]
-trojan://gdubhu9d-dbbg-dwhh-xksz-5vx2yq1pw8ug@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5yk6nym0-ctye-ig2n-mnd5-w957all9wezu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://e657e5fb-c417-4d3f-d84e-a3a8f010f9fa@31.59.111.49:33718?type=tcp&security=tls&sni=icloud.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Alice Networks Ltd ┇ 31.59.111.49
-hysteria2://b24899a2-0e7a-458f-a858-5092bb4ff7aa@91.103.122.52:13301?sni=apple.com&insecure=1&obfs=salamander#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.52
+trojan://ecxesnj4-odua-ysuf-5boy-xjdq6t7kyxk5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 05:23 ]
+trojan://r0bgm8q2-945i-ef6n-mdml-74wres1sqbuq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1opyd4g9-5t0k-9s2z-0w3g-rgndf5bzxb3q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4ae2b728-4411-41d4-bf80-cd7a07fcfd8b@5.102.124.108:25888?type=tcp&security=reality&sni=www.samsung.com&fp=edge&flow=xtls-rprx-vision&pbk=Md6PoLS8ZgYxc-mOoMkLSRMksQzNTTPW0Psmo0y2c3E&sid=9c5b5b672053fc#HK 🇭🇰 ┇ VLESS-TCP-RLT - Alice Networks Ltd ┇ 5.102.124.108
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDEyZjc5ZS0zMjA5LTQ5NzAtODNjZC01ZTFmMzUyNmZmNTE@91.103.122.32:34648#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.32
-trojan://kqu6ds64-8yb3-wkg4-0cs4-2x53krej7njk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oei2dmtu-iqh1-7qn9-c11k-0pz4h8awb39y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://e657e5fb-c417-4d3f-d84e-a3a8f010f9fa@31.59.111.49:33718?type=tcp&security=tls&sni=icloud.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Alice Networks Ltd ┇ 31.59.111.49
+hysteria2://b24899a2-0e7a-458f-a858-5092bb4ff7aa@91.103.122.52:13301?sni=apple.com&insecure=1&obfs=salamander#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.52
+trojan://5tetayxt-vo26-13ko-40wz-qdf787c4hacy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4km9sjw1-t7o5-6c2q-flc1-bk58q5y95koj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
