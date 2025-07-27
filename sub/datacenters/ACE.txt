@@ -1,8 +1,8 @@
-trojan://34es4q7y-b15e-vdac-3cxv-xtjkb711qxmq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 22:04 ]
-trojan://2fdqx3bu-p31a-c071-1drk-guvdqk8jqexo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wdtcjfos-1dsl-r1rg-ht33-cafljxqrlo08@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a05be988-b7fe-4913-82fe-767b3bf1b42e@alexde.hpcdn.info:443?type=ws&security=tls&path=/46200/wsMMad&sni=alexde.hpcdn.info&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.159.99.20
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=cc.ylka.dpdns.org&peer=cc.ylka.dpdns.org&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ACE ┇ 43.159.98.23
+trojan://96wghrd9-fp34-ee0w-14lt-g8n6a10oj7gn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 22:32 ]
+trojan://0uri6f0y-73u8-rt7d-93d9-v4mfdi76bisj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://q20kuac4-0osm-atth-ra01-yc4g7qf4v33h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a242f6a7-8a84-427a-a0fb-cc3b99b95cd3@hpcdn.info:80?type=ws&security=none&path=/59163/wsmmad#SG 🇸🇬 ┇ VLESS-WS-NTLS - ACE ┇ 43.159.98.20
-trojan://qtsq30ve-6itf-ndoy-w0iz-86kdc2iy4x0q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wd9fsicd-c4fy-ujhf-qsxb-ijovuite7yo1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=cc.ylka.dpdns.org&peer=cc.ylka.dpdns.org&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ACE ┇ 43.159.98.23
+vless://a05be988-b7fe-4913-82fe-767b3bf1b42e@alexde.hpcdn.info:443?type=ws&security=tls&path=/46200/wsMMad&sni=alexde.hpcdn.info&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.159.99.20
+trojan://wn00aup7-lr3s-0dk3-maqb-pnpfz6c6f8ig@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://j7orgqr6-sqkl-lucq-q3b7-lzio5nrbwg0d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
