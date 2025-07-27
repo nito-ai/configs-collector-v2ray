@@ -1,8 +1,8 @@
-trojan://vzi1yyxs-xdfx-cfsb-xxpq-hmv21zh3ru88@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 02:26 ]
-trojan://wx6qlkvh-v0g2-xfoj-6yt0-i7ohr71euh9g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://alx7wyvo-e4f8-chyz-w8xn-38ztbc8ynonk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443?sni=wfi.sahnama.com&peer=wfi.sahnama.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Kuroit Limited ┇ 178.239.171.103
-tuic://81ef78ef-721f-443e-aa3f-969072c0b8eb:azadi@46.37.124.122:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 46.37.124.122
+trojan://6apz0920-e0zi-6kx4-66vo-w2m5jppujfzp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 02:58 ]
+trojan://gr08vjav-fha1-fiki-i8vx-7ygwtaiv0gxq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://japhzvdu-80um-iuqm-1ra4-esif7a19v6mx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
-trojan://iqxeawav-8zhu-6qa8-69sw-nk3myeu5w3ub@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a3zzl6gn-t005-hg45-9zdk-7qinmg41rmgu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+tuic://81ef78ef-721f-443e-aa3f-969072c0b8eb:azadi@46.37.124.122:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 46.37.124.122
+trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443?sni=wfi.sahnama.com&peer=wfi.sahnama.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Kuroit Limited ┇ 178.239.171.103
+trojan://6c652ttw-4jxg-j43b-uyq5-0pkf7rqlt8sk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://eamsp761-v4da-fpew-8ras-9h9p456txwk6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

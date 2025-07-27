@@ -1,25 +1,25 @@
-trojan://r19sxorw-ijnf-ae7e-iicr-nx3ea83t08np@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 02:26 ]
-trojan://pjw50pcu-q7te-19ca-27l9-7ntkz0wuu9g9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://otjpidvb-u9lx-kipk-ivoj-rou9f0l6we4y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
-vless://a05367f5-a500-4514-ac99-e73f629229f2@188.114.98.112:8880?type=ws&security=none&path=/ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY?ed=2560#188.114.98.112:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=grpc&security=none#95.164.45.94:8880
+trojan://p9ikfzs4-xd19-c7jk-fmt9-rxt8hatfmvde@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 02:58 ]
+trojan://4ubugz8y-1vev-78la-mjzd-qcssp4pz1evy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vdsgl85l-78m8-lcdh-0dh8-m64gy4ldrl08@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiI5MS4xMDcuMjQzLjE1MCIsInBvcnQiOjMyMDE3LCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://b021db10-ccd6-4ac8-81ba-b03e7b7f24ed@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
 vless://d5f8faae-5176-49a9-880c-d383bfd93b9a@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
-vless://d5f8faae-5176-49a9-880c-d383bfd93b9a@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
-vless://d5f8faae-5176-49a9-880c-d383bfd93b9a@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
-vless://371c3285-f15a-4a64-b8e1-1ad8a5d8f01d@evay_vpn.fast.hosting-ip.com:80?type=xhttp&security=none&path=/FASTSHOVPN?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#evay_vpn.fast.hosting-ip.com:80
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:2052?type=ws&security=none#92.118.233.43:2052
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?type=grpc&security=none#185.231.205.99:8880
-vless://a48ad350-a0b2-40fa-b205-05c75c2d3c5f@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
+vless://d5f8faae-5176-49a9-880c-d383bfd93b9a@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
+vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?type=grpc&security=none#public15v7.fastipsport.com:8880
 vless://a48ad350-a0b2-40fa-b205-05c75c2d3c5f@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
+vless://5b39c247-fee0-4689-b00b-79948b2bdae1@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
 vless://a48ad350-a0b2-40fa-b205-05c75c2d3c5f@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&security=none&path=/xhttp?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#91.99.85.185:8443
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:8710?type=tcp&security=none#159.203.138.123:8710
+vless://a48ad350-a0b2-40fa-b205-05c75c2d3c5f@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
 vless://6760526a-a1ba-4a10-95e2-7b750bb3124e@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:8710?type=tcp&security=none#159.203.138.123:8710
 vless://6760526a-a1ba-4a10-95e2-7b750bb3124e@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.153.233:8443?type=xhttp&security=none&path=/xhttp#91.99.153.233:8443
 vless://6760526a-a1ba-4a10-95e2-7b750bb3124e@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
-vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&sid=788456bc#45.83.20.34:58164
-trojan://s0plnw2e-cbc4-g2j9-evr7-ckejk6w6kkmq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rrbyvd2l-fg8p-fv9o-ro8q-oqwkhxyxestn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://cd307b67-8180-491c-ad97-5dfd74cb38de@de1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#de1.configlinepanel.com:8443
+trojan://gfp37bkx-tjnv-au0g-y0l7-4afmfqr4bvks@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qiewo44m-or8l-4vph-obti-f7vo1lyl2ahg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

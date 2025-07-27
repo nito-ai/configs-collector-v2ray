@@ -1,11 +1,11 @@
-trojan://feaw4zvx-rxn2-plls-tfw6-puog1uwhu38c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 02:26 ]
-trojan://stphfimp-bf02-r3di-kakr-oxjn7r8bq0c7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fm8f7tm4-z8av-i167-e1nf-3pl6wlbnda9d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://prfbfywn-fq97-6o44-pl4r-nkmzjiph62yb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 02:58 ]
+trojan://glc5mubo-d4ea-y1em-c1e5-au99jgwgl380@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ehw1bk1h-kq28-0ctb-2xoe-0p4adqvvnagg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
-vless://n3o4y8vz-07s5-4751-ys70-t8t8q1227t59@xray.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 185.130.50.10
-vless://d1478689-439c-4590-b7ce-36e786a02dc3@youtube-bai-piao-wang-zhe-usa.98848.xyz:443?type=tcp&security=xtls&sni=youtube-bai-piao-wang-zhe-usa.98848.xyz&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
-trojan://3zkhhknn-vfay-4t5a-jhd4-9qlmvcdd9f52@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a5y1kj9q-zxqp-0av4-15zh-vt0hzp670tiq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://n3o4y8vz-07s5-4751-ys70-t8t8q1227t59@xray.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 185.130.50.10
+vless://d1478689-439c-4590-b7ce-36e786a02dc3@youtube-bai-piao-wang-zhe-usa.98848.xyz:443?type=tcp&security=xtls&sni=youtube-bai-piao-wang-zhe-usa.98848.xyz&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
+trojan://stm1iaux-iopi-uq9w-ylix-7klgpyhp2nax@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6s7xlhc4-zdq0-irpd-623k-b8q3p8d4ibd3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
