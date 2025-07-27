@@ -1,10 +1,10 @@
-trojan://grhl2pib-3fqi-me0u-gt1h-0buf5t0pap6p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 22:32 ]
-trojan://u1t6qbtg-ni2b-95lj-vsh6-hxxg9vj0h27b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5djgkv8j-4by6-nopq-hpcv-qoncsnc3d846@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://drayc0sn-x3dr-s75z-lhw8-7nuklf4c4m18@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 22:55 ]
+trojan://1q8ejyf5-p980-jmnj-l4d3-q6p7ov3famzw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://27edok15-en64-ml7f-hm71-f7chjhmvc9m1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://6cf4977-f0e9-48a3-84a9-d976ec947b78@194.180.224.17:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 194.180.224.17
 vless://cbc04565-876a-40ae-95c2-db376f18cd3f@play.vexacloud.sbs:24001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 85.133.205.79
 vless://34fe8b53-d764-420c-a563-9352f52af69f@185.231.113.223:443?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 185.231.113.223
-vless://6cf4977-f0e9-48a3-84a9-d976ec947b78@194.180.224.17:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 194.180.224.17
-vless://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 5.42.223.147
 vless://f189eaf1-55c3-4c21-95a3-ab87c0df06f2@185.231.113.49:28037?type=tcp&security=reality&sni=sourceforge.net&fp=firefox&pbk=RnjzBTN-cQFZbDP3y7UYIwnYJfjDM-QDL3iAWPwOh3Q&sid=2cd5a8d3#IR 🇮🇷 ┇ VLESS-TCP-RLT - Patron Technology Persia Ltd ┇ 185.231.113.49
-trojan://wvz0shqe-vu4p-w41w-khgt-vithsc2nqxeg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ndvf3ko3-7sdy-ivw4-39yc-vq0aoc4k0sb5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://64bb8ea6-f39a-4f9a-bc0e-5a1313540aca@5.42.223.147:15319?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 5.42.223.147
+trojan://0dfoe2a7-57w2-m6na-bqdn-jz1xe4gh0t7n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5pcdbfwi-go0t-3exz-9aqy-d51fncjotx3x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
