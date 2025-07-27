@@ -1,13 +1,13 @@
-trojan://2lykoj3u-lgkg-ebqd-u8jz-vrn8ukgpnv7s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 18:57 ]
-trojan://wnocr3so-565x-94zj-4td8-v89x2zciyh1x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cr0lwgj5-p8yh-nnku-at1a-9ewwb4xkwopg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://15b65eix-ci75-6tgk-tdz3-n7pkbizpnry0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 19:22 ]
+trojan://kq0shp0k-f0cl-jkfe-ivtq-52119x5km8hp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4ql34z6c-iyhi-iylf-4nn6-a1d13ynu5ufg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://bac2e4a6-5d6e-7f8a-9b0c-1d2e3f4a5b6c@103.195.103.94:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.94
+vless://b6c8e0a2-5f6a-7b8c-9d0e-1f2a3b4c5d6e@103.195.103.92:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.92
 vless://b8c0e2a4-0e1f-2a3b-4c5d-6e7f8a9b0c1d@103.195.103.93:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.93
+vless://b2c4e6f8-4d5f-6a7b-9c1d-2e3f4a5b6c7d@103.195.103.90:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.90
 vless://bdc4e6a8-0c1d-2e3f-4a5b-6c7d8e9f0a1b@103.195.103.95:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.95
 hysteria2://sharecentrepro@172.93.103.28:4433?sni=us.scproxy.top&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - RELIABLESITE ┇ 172.93.103.28
 vless://b4c6e8f0-9a1b-2c3d-4e5f-7a6b8c9d0e1f@103.195.103.91:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.91
-vless://b6c8e0a2-5f6a-7b8c-9d0e-1f2a3b4c5d6e@103.195.103.92:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.92
-vless://b2c4e6f8-4d5f-6a7b-9c1d-2e3f4a5b6c7d@103.195.103.90:8443?type=ws&security=tls&path=/ws#US 🇺🇸 ┇ VLESS-WS-TLS - RELIABLESITE ┇ 103.195.103.90
 ss://YWVzLTI1Ni1jZmI6MTE2MjY5YTZlMQ@45.58.126.153:19094#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - RELIABLESITE ┇ 45.58.126.153
-trojan://yi7b76i5-v3ux-4h7a-7rzo-pihhg2d3xm9m@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6jm6cssk-0vyf-lih6-r4dt-t874yqb8335z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://q4rq5y54-6omw-x7de-945b-biaf991a72fk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://clsmx6x5-ync2-tek5-015i-bj1hnj03r7s7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

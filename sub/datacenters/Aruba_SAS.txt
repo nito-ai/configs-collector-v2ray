@@ -1,14 +1,14 @@
-trojan://3sy6sw8g-lpup-z3iq-evti-yqyl4jq6efiv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 18:57 ]
-trojan://8v60km3m-l5hl-de81-mko8-bxbr96egtc43@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://h4dvjazk-tdue-l6dz-34pw-g13bypqmevhj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://ZEDMODEON--joinZEDMODEON@94.177.244.32:40734?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.32
-vless://ec1938c8-acc1-4ded-a85f-9fe573b7730b@94.177.244.182:40378?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.182
-vless://ZEDMODEON--ZEDMODEON@185.8.51.42:36201?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 185.8.51.42
-vless://5739c92e-4e9c-47eb-8c35-15e35b88b9c3@94.177.225.237:53695?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 94.177.225.237
-vless://7ec65d58-6c5a-48d2-8d50-a781d28dbdd3@one.soshon.in:5430?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.27
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgODkuNDAuMTE3LjEzOCIsImFkZCI6InMyLmZyYW5jZS1sZWFybnMuaXIiLCJwb3J0Ijo2NDUzNSwiaWQiOiJlYzYyNGRkMC1hNjYzLTQ4MDMtYmMyNi00MzA5YzJlN2MzODQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://5d7edf75-ec86-4ff0-9b63-5f30b88f1be5@paris.aparat-movies-download.ir:4450?type=tcp&security=reality&sni=zhaket.com&fp=safari&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aruba SAS ┇ 89.38.148.249
+trojan://ij84hxaa-5vv1-w710-xq8c-dmfro7gpwbhl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 19:22 ]
+trojan://pfgs1lv0-wz6v-w8r5-w2cj-064u7cmmg9gy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rqwc1sx2-9y0g-c613-v4cf-a58fib0cm6nj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgODkuNDAuMTE3LjI0NCIsImFkZCI6InN2OTkudHVyYm9vLXNlcnZlci5jb20iLCJwb3J0Ijo0MjkwNywiaWQiOiJ0dXJib28tc2VydmVyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://ec1938c8-acc1-4ded-a85f-9fe573b7730b@94.177.244.182:40378?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.182
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgODkuNDAuMTE3LjEzOCIsImFkZCI6InMyLmZyYW5jZS1sZWFybnMuaXIiLCJwb3J0Ijo2NDUzNSwiaWQiOiJlYzYyNGRkMC1hNjYzLTQ4MDMtYmMyNi00MzA5YzJlN2MzODQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://ZEDMODEON--joinZEDMODEON@94.177.244.32:40734?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.32
+vless://5d7edf75-ec86-4ff0-9b63-5f30b88f1be5@paris.aparat-movies-download.ir:4450?type=tcp&security=reality&sni=zhaket.com&fp=safari&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aruba SAS ┇ 89.38.148.249
+vless://ZEDMODEON--ZEDMODEON@185.8.51.42:36201?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 185.8.51.42
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgOTQuMTc3LjIyNS41IiwiYWRkIjoiOTQuMTc3LjIyNS41IiwicG9ydCI6MzUzNTIsImlkIjoiMGNjOTEyOTgtYTc3ZC00ODNiLWEwNzktMjcxNjExMTM3OWI2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-trojan://3a41fgvl-dy2f-9koe-7cns-t73rc12dfepl@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e070cjq1-p4qb-zjaz-ceco-687tskjo13iw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://7ec65d58-6c5a-48d2-8d50-a781d28dbdd3@one.soshon.in:5430?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.27
+vless://5739c92e-4e9c-47eb-8c35-15e35b88b9c3@94.177.225.237:53695?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 94.177.225.237
+trojan://jep4ey81-kx2e-8aua-tdbl-zr73dvmxmlk1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8yci602g-i66f-j5i1-t4gc-pli3q9684zkz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

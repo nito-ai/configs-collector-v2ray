@@ -1,7 +1,8 @@
-trojan://0wi3m2qn-15v8-savb-9mcx-dh9dilrvtggq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 18:57 ]
-trojan://ku3de5yn-11gm-jdmy-q8ev-vnk1px7vqrke@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pno7prvh-r904-8von-hee7-mu9y5fzd6zi3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a05be988-b7fe-4913-82fe-767b3bf1b42e@alexde.hpcdn.info:443?type=ws&security=tls&path=/46200/wsMMad&sni=alexde.hpcdn.info&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.159.99.20
+trojan://sbhm0hvu-z1km-mn51-7r19-1snkovmdc5fp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 19:22 ]
+trojan://0bzntlp7-hez8-yu4b-thu3-arescjywwo64@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gyy6qq8s-mdj5-i3wx-tlrb-3dvej879f06f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://a242f6a7-8a84-427a-a0fb-cc3b99b95cd3@hpcdn.info:80?type=ws&security=none&path=/59163/wsmmad#SG 🇸🇬 ┇ VLESS-WS-NTLS - ACE ┇ 43.159.99.20
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=cc.ylka.dpdns.org&peer=cc.ylka.dpdns.org&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ACE ┇ 43.159.98.23
-trojan://g2ubsr1r-pkkz-hwl0-vavo-be0bzijz6gsk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1j4upcw8-n8lk-7ss5-puqt-mk1e4oj39qk5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://a05be988-b7fe-4913-82fe-767b3bf1b42e@alexde.hpcdn.info:443?type=ws&security=tls&path=/46200/wsMMad&sni=alexde.hpcdn.info&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ACE ┇ 43.159.98.20
+trojan://1y1cqltb-jlo9-fgl4-vup0-9dudbwgqvgk8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kl41p2kx-9gws-mme4-nea3-we0cfguw6ado@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
