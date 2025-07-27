@@ -1,8 +1,8 @@
-trojan://pk2xzqb2-ht8j-a68b-e1q8-qmfsu5tho5tp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 00:57 ]
-trojan://o75uz6c9-57ga-c325-083e-pghc3ioj8kwr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0zm3zc9q-m1mb-ocel-82cv-s1ump23bgqig@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIExlYXNld2ViIEphcGFuIEsuSy4gXHUyNTA3IDIzLjgxLjQwLjE0MCIsImFkZCI6IjlqcC5uZXR3b3JrbGlua3Byby5uZXQiLCJwb3J0IjoxNTM1NywiaWQiOiI1MDQ1MmYzZS1mOTA0LTQyYjAtYTIxZi1hNjkwNTUyYmI0ZjYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJmYWxzZSJ9
-vless://5419c4db-9964-4461-9a16-5da7579ad8a4@142.91.104.35:443?type=tcp&security=reality&sni=music.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=fdylZcT0rIVg3-NxuFbYaYLqwiSsHVLGjPAqAK5JWSI&sid=346c049d#JP 🇯🇵 ┇ VLESS-TCP-RLT - Leaseweb Japan K.K. ┇ 142.91.104.35
+trojan://l894ziwj-pxrt-zx1p-dbej-9wbrh8s95mn6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 01:21 ]
+trojan://9wd18bu0-s5r2-em0p-1rjl-f4ycie2otp60@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wmwb394w-ze1x-31in-jcs2-1ycrcpl01em3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTEyOC1nY206ZDlmNmIwNzktNmQ3OC00M2JlLWJlZjctNDAwNWQ2ZmU1MmQz@23.81.40.197:45572#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - Leaseweb Japan K.K. ┇ 23.81.40.197
-trojan://c44wrq3k-hfsw-xk32-irri-eanhpsracqix@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jdtyrxyr-l81y-1aex-nthc-vguao073adb9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://5419c4db-9964-4461-9a16-5da7579ad8a4@142.91.104.35:443?type=tcp&security=reality&sni=music.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=fdylZcT0rIVg3-NxuFbYaYLqwiSsHVLGjPAqAK5JWSI&sid=346c049d#JP 🇯🇵 ┇ VLESS-TCP-RLT - Leaseweb Japan K.K. ┇ 142.91.104.35
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIExlYXNld2ViIEphcGFuIEsuSy4gXHUyNTA3IDIzLjgxLjQwLjE0MCIsImFkZCI6IjlqcC5uZXR3b3JrbGlua3Byby5uZXQiLCJwb3J0IjoxNTM1NywiaWQiOiI1MDQ1MmYzZS1mOTA0LTQyYjAtYTIxZi1hNjkwNTUyYmI0ZjYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJmYWxzZSJ9
+trojan://321t2d8h-jkpj-sptk-z0n4-o4nelzey10ob@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lprpdic7-hmgg-s0gr-uak6-mzgpw6babowr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
