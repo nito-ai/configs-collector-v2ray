@@ -1,12 +1,12 @@
-trojan://lyzvuco1-uagm-nmco-ebnt-44dwf56mwxj5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 13:23 ]
-trojan://wj12b5zi-rwsj-gcae-1itc-n6paeek19v5s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b0hlgyng-ko2d-qk5t-16w3-d2npphgsikou@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206Mk1LRFo5WU5RTkJNV0tPWA@223.165.5.107:20023#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 223.165.5.107
+trojan://42oy5ul5-zcbe-etio-0xct-jdu36y2benh1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 13:58 ]
+trojan://y6nik421-achb-gkcp-2mvk-grmkwrjm2jgg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://slljbb3x-xj7r-25lz-v30e-oqa4h0kq2cpy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://3770966768580042752@38.60.217.170:443?sni=fun-louse.treefrog761.one&peer=fun-louse.treefrog761.one&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.60.217.170
-trojan://53784f81-7b1a-468e-8792-756a2d4e744e@38.54.79.138:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.54.79.138
+vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.2
+ss://YWVzLTI1Ni1nY206Mk1LRFo5WU5RTkJNV0tPWA@223.165.5.107:20023#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 223.165.5.107
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 103.175.79.10
 ss://YWVzLTI1Ni1nY206QjJwc1g4TFI@38.60.217.99:27178#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.217.99
+trojan://53784f81-7b1a-468e-8792-756a2d4e744e@38.54.79.138:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.54.79.138
 ss://cmM0LW1kNTphOWJjMjFlZGM4ODkxZTgy@119.159.245.24:26735#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Pakistan Telecommunication Company Limited ┇ 119.159.245.24
-vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.2
-trojan://c112w4o0-jgwg-k4y1-zaex-1l9guvtn53pa@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5qkm39st-7r06-mrfb-vapq-uctu7oc7imbk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://21hzalb2-g284-nyeh-hl0k-gbkgnld6np2d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://odu7ajzz-a026-q5j0-m4gc-leq1rd655tin@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
