@@ -1,9 +1,9 @@
-trojan://ecxesnj4-odua-ysuf-5boy-xjdq6t7kyxk5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 05:23 ]
-trojan://r0bgm8q2-945i-ef6n-mdml-74wres1sqbuq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1opyd4g9-5t0k-9s2z-0w3g-rgndf5bzxb3q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://4ae2b728-4411-41d4-bf80-cd7a07fcfd8b@5.102.124.108:25888?type=tcp&security=reality&sni=www.samsung.com&fp=edge&flow=xtls-rprx-vision&pbk=Md6PoLS8ZgYxc-mOoMkLSRMksQzNTTPW0Psmo0y2c3E&sid=9c5b5b672053fc#HK 🇭🇰 ┇ VLESS-TCP-RLT - Alice Networks Ltd ┇ 5.102.124.108
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDEyZjc5ZS0zMjA5LTQ5NzAtODNjZC01ZTFmMzUyNmZmNTE@91.103.122.32:34648#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.32
+trojan://d42tcp6p-ncc5-h5nd-vmyv-308m1oj57p0b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-27 | 07:26 ]
+trojan://eco2qpkc-9kej-ti8c-2atb-u5ywczyk9x38@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fveuiqc1-zltq-5bjx-giuc-r4q0c46ffpx5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e657e5fb-c417-4d3f-d84e-a3a8f010f9fa@31.59.111.49:33718?type=tcp&security=tls&sni=icloud.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Alice Networks Ltd ┇ 31.59.111.49
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDEyZjc5ZS0zMjA5LTQ5NzAtODNjZC01ZTFmMzUyNmZmNTE@91.103.122.32:34648#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.32
 hysteria2://b24899a2-0e7a-458f-a858-5092bb4ff7aa@91.103.122.52:13301?sni=apple.com&insecure=1&obfs=salamander#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.52
-trojan://5tetayxt-vo26-13ko-40wz-qdf787c4hacy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4km9sjw1-t7o5-6c2q-flc1-bk58q5y95koj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://4ae2b728-4411-41d4-bf80-cd7a07fcfd8b@5.102.124.108:25888?type=tcp&security=reality&sni=www.samsung.com&fp=edge&flow=xtls-rprx-vision&pbk=Md6PoLS8ZgYxc-mOoMkLSRMksQzNTTPW0Psmo0y2c3E&sid=9c5b5b672053fc#HK 🇭🇰 ┇ VLESS-TCP-RLT - Alice Networks Ltd ┇ 5.102.124.108
+trojan://3s0fctsx-t0z4-k2j9-wmw8-qw8mclt6e0fm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v8kxor6r-06i6-1f7e-ft3w-s2gbb1ak7k5r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
