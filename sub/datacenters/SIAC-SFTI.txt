@@ -1,15 +1,15 @@
-trojan://2a7wvakd-jpgs-vybl-bz9b-x7txawr0521v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 10:40 ]
-trojan://nerm9ljd-9ebx-offj-z08i-gnm1fzrm0w6d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://w9lyyzkd-2ohs-82sj-e1nm-zyjmvj0ij83q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@158.224.83.27:443?type=ws&security=none&sni=hl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - SIAC-SFTI ┇ 158.224.83.27
-vless://3b2eb5e5-ec54-4db4-aece-297faf81d926@216.221.222.153:443?type=xhttp&security=tls&path=/?BIA_CHANEL@JOKERRVPN&sni=xuy.cyberkotakbas.ru&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - SIAC-SFTI ┇ 216.221.222.153
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.83.160:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 158.224.83.160
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.210.185:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.210.185
-vless://55520747-311e-4015-83ce-be46e2060ce3@216.221.213.189:443?type=ws&security=none&sni=uu.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - SIAC-SFTI ┇ 216.221.213.189
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.90.158:443?type=ws&security=tls&path=/blue&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 158.224.90.158
+trojan://rs4m5j0l-wyz2-06z6-2cwg-31k79avn94r5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 11:12 ]
+trojan://is3ee2wg-bhjc-j5i7-6ixv-19r4jth8efpe@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ntlbj4t5-fth1-ysql-14p8-484hv9xmf7fu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTSUFDLVNGVEkgXHUyNTA3IDIxNi4yMjEuMjE0LjUwIiwiYWRkIjoiMjE2LjIyMS4yMTQuNTAiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSIsInBhdGgiOiIvb2JkaWkuY2ZkOjQ0My9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSJ9
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.213.149:443?type=ws&security=tls&path=/blue&sni=lg.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.213.149
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.90.158:443?type=ws&security=tls&path=/blue&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 158.224.90.158
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.213.172:443?type=ws&security=tls&path=/blue&sni=ld.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.213.172
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.210.185:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.210.185
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.83.160:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 158.224.83.160
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.90.175:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=jz.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 158.224.90.175
-trojan://na2mcme0-nlq4-abbf-wps4-b7cwkt2rsasr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sjq4eek8-pkj8-y1sz-4lib-sn4ejob4i854@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.213.149:443?type=ws&security=tls&path=/blue&sni=lg.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.213.149
+vless://3b2eb5e5-ec54-4db4-aece-297faf81d926@216.221.222.153:443?type=xhttp&security=tls&path=/?BIA_CHANEL@JOKERRVPN&sni=xuy.cyberkotakbas.ru&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - SIAC-SFTI ┇ 216.221.222.153
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@158.224.83.27:443?type=ws&security=none&sni=hl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - SIAC-SFTI ┇ 158.224.83.27
+vless://55520747-311e-4015-83ce-be46e2060ce3@216.221.213.189:443?type=ws&security=none&sni=uu.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - SIAC-SFTI ┇ 216.221.213.189
+trojan://gaepjlf9-r4sn-u551-gdx7-ocbjbqlza70a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pjysgemv-0r10-ltbu-himx-iz07ljg4nucc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
