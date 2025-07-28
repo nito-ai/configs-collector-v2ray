@@ -1,11 +1,11 @@
-trojan://zqy11b48-qepa-yv2g-wtzf-wzv7bm2kg5r2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 16:20 ]
-trojan://9uqklwf0-nkio-gnl7-y0g1-7bgfn620alrn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ywv5b87q-xh43-zjux-7zyv-4m1v6yw404cs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://q107j5tv-5eah-jv6r-8uae-thowrrdxeykr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 17:18 ]
+trojan://4nct9kil-wk67-9gka-03os-qx97iy1adzr9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://su2t9037-atgi-nx1w-0q34-xymnq3zj7mtz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
-vless://n3o4y8vz-07s5-4751-ys70-t8t8q1227t59@xray.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 185.130.50.10
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
+vless://n3o4y8vz-07s5-4751-ys70-t8t8q1227t59@xray.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 185.130.50.10
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://d1478689-439c-4590-b7ce-36e786a02dc3@youtube-bai-piao-wang-zhe-usa.98848.xyz:443?type=tcp&security=xtls&sni=youtube-bai-piao-wang-zhe-usa.98848.xyz&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
-trojan://hdueczjw-gxgj-2ose-xjan-hf9t8p937j8v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://orsu6ofo-7b32-qcoa-az5d-9xe8rpuiakgn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
+trojan://db7f4smk-z3ik-ycfp-7mfu-x8sk8z956v3t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tfjfn107-1zet-xw1j-t87a-xp9mk9fgphty@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

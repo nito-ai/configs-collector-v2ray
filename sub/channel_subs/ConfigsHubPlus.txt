@@ -1,24 +1,25 @@
-trojan://r0l11nlq-qf5q-4wc0-l1n9-15sqp2x8d1jt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 16:20 ]
-trojan://big3usiq-1qz2-f0ze-cavj-8q9mzzqo464z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://syswtni3-tcaw-9ca1-gnid-tytwtf8trkgt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://38873d57-9b22-4a76-9f63-4f9fc353cb4d@104.21.21.72:443?sni=xssder.003330333.xyz&peer=xssder.003330333.xyz&security=tls#104.21.21.72:443
-trojan://telegram-id-directvpn@13.38.185.244:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#13.38.185.244:22223
-vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGZjMV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiIyMDIuNzkuMTYwLjI0MyIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ3d3cuMzIyNzgxMTcueHl6IiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyIsInNuaSI6Ind3dy4zMjI3ODExNy54eXoifQ
-vless://863b3a17-bb45-493b-ad98-898b490e540c@n0.asmdns.net:2082?type=ws¬e=***Telegram-@NetifyVPN***|***Telegram-@NetifyVPN***|***Telegram-@NetifyVPN***&security=none&path=/?ed=2590#n0.asmdns.net:2082
-vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@speedtest.org:8080?type=ws&security=none&path=/melo#speedtest.org:8080
-vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@tgju.org:8080?type=ws&security=none&path=/melo#tgju.org:8080
-vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@mn.co:8080?type=ws&security=none&path=/melo#mn.co:8080
-vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@www.speedtest.net:8080?type=ws&security=none&path=/melo#www.speedtest.net:8080
-vless://1802b2c1-db7b-4464-9f66-0c1789bb5304@chat.deepseek.com:8080?type=ws&security=none&path=/melo#chat.deepseek.com:8080
-vless://2e17c09d-57f8-42fc-be07-744dd30ae8b0@fz.piko-network.top:443?type=tcp&security=none¬e=***Telegram-@NetifyVPN***|***Telegram-@NetifyVPN***|***Telegram-@NetifyVPN***#fz.piko-network.top:443
-vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?type=ws&security=tls&path=/VrChX4o5oasIm4In?ed=2560&sni=ConFIgmr.PaGeS.dEV&fp=chrome#172.66.44.118:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?type=grpc&security=none#185.231.205.139:8880
-vless://53e30ee0-2552-4078-a7f8-6fb03d721ce9@62.212.79.51:18302?type=tcp&security=none#62.212.79.51:18302
-vless://2e17c09d-57f8-42fc-be07-744dd30ae8b0@fz.piko-network.top:443?type=tcp&security=none¬e=***Telegram-@NetifyVPN***|***Telegram-@NetifyVPN***|***Telegram-@NetifyVPN***#fz.piko-network.top:443
-vless://38200bc2-e4c0-4aa9-aeaf-e85112b285ac@162.159.20.126:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#162.159.20.126:80
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.67:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.67:8880
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.191.195:80
-vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?type=ws¬e=***Telegram-@NetifyVPN***|***Telegram-@NetifyVPN***|***Telegram-@NetifyVPN***|***Telegram-@NetifyVPN***&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:80
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.173.19:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#3.15.173.19:4433
-trojan://cdk7ubmg-x6os-5l7b-zs97-1a179ktqsmm9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l85q34nt-hwvx-cyoq-1r2u-ofhnhkbs8hbj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://04ph5aap-9wqc-ix9c-5upu-th4fr4724oq7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 17:19 ]
+trojan://fax8a32o-o1xb-lb1z-6ufy-p72wo4c3njri@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5as5i46l-rujz-h2ca-1b31-31wzub9mo8ps@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#83.147.216.70:64519
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#45.87.175.157:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#45.87.175.181:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYmdSajRGVlR1WXNLeTRwQm1hcnF3@h110vpnnl.outlinekeys.net:52571#h110vpnnl.outlinekeys.net:52571
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSZWtUWEFSdlVmU29tbUFQUU5jQ0xR@165.22.76.53:1080#165.22.76.53:1080
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8882#54.36.174.181:8882
+ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA@217.30.10.18:9045#217.30.10.18:9045
+vless://Parsashonam-291@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
+vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?type=grpc&security=none#public15v7.fastipsport.com:8880
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6TvG8D6HimXKgdp2?ed=2560#104.16.85.3:8880
+vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10065?type=ws&security=none#92.223.2.119:10065
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.com:443?type=xhttp&security=none&path=/frf#server271816966957306554.tas-bazi.com:443
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.159.110.195:2020?type=tcp&security=none#78.159.110.195:2020
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?type=xhttp&security=none&path=/xhttp#91.99.132.59:8443
+vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&security=none&path=/xhttp#91.99.85.185:8443
+vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?type=ws&security=none&path=/#enthusiastic-century.oneeat.co:80
+vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?type=tcp&security=reality&path=/&sni=www.apple.com.cn&fp=firefox&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&sid=e5caf4654f#ger.afterhav.ir:8880
+vless://6a29f4b8-d1cd-431d-8aba-f1ede9924168@91.99.141.177:443?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=xLkLmCGxG3l9bpYx9bGrc8iFOcckMV3LY2T5d5PMcAQ&sid=9bbaa30279dec5#91.99.141.177:443
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.220.82.133:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#34.220.82.133:4433
+trojan://1lrze8w1-6s25-4fmu-nt7x-x7oj9vue51ko@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fw7cgr33-gx7e-cfmx-ric2-8z8v8qymv7bd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

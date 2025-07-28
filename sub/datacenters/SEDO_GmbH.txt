@@ -1,11 +1,11 @@
-trojan://5y6tp4vp-mi6c-esck-qupn-gdx5woz01kku@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 16:20 ]
-trojan://qzzrqvkr-4yaa-dmi1-laox-xprztou0b1tp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vrt3astx-8rz8-m3a0-smgm-tvr3w7v60ufr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://h7p5p4m7-r0ri-5rqq-32tv-ptxpjetta97r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 17:19 ]
+trojan://bqos4ltp-iz5w-6h5l-pxu3-j5xjsa2k435s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://atwh9tun-v2e1-8l8n-ypz8-h3liubvvrx78@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5eb40b31-6d9b-461d-81c2-53909a01df5b@64.190.63.111:443?type=grpc&security=reality&sni=iranbax.spacex.com&fp=chrome&pbk=skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U&sid=9ff0c049e20b#DE 🇩🇪 ┇ VLESS-GRPC-RLT - SEDO GmbH ┇ 64.190.63.111
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0VETyBHbWJIIFx1MjUwNyA5MS4xOTUuMjQxLjIzMiIsImFkZCI6ImFwaS5jbG91ZGJhemFhci5kZSIsInBvcnQiOjgwLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL0Rhbmh1YW5nL0ppYW5nIn0
 ss://YWVzLTEyOC1nY206NzQwOWNlNTAtYjBkNy00ODg5LWE2MzAtMmYwNDNlYmE0MWVi@1.hublink.media:43303#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - SEDO GmbH ┇ 91.195.240.94
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTRURPIEdtYkggXHUyNTA3IDY0LjE5MC42My4yMjIiLCJhZGQiOiJjdnl3ZmF2YXNkYy5jeW1sci54eXoiLCJwb3J0Ijo0NDMsImlkIjoiMjNmNGJjODAtM2IwYS00YWEzLWNiZTUtYjhiZTRlOGMzMmZjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIva3NlYnVwbyIsInRscyI6InRscyJ9
-vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@91.195.240.13:443?type=grpc&security=tls&sni=deg.iranasanejesh.org#DE 🇩🇪 ┇ VLESS-GRPC-TLS - SEDO GmbH ┇ 91.195.240.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGZkMWRkZS0wY2UyLTNkOWQtYjdlMi0zOTA3NzFkODAwYTk@cm.kapoknode.com:21809#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - SEDO GmbH ┇ 91.195.240.12
-trojan://jpcn033f-w92k-sswd-08ht-oidh6nsl27dq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5m8z8d3w-3v8n-wvjx-i4as-wrfnclfozqvm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@91.195.240.13:443?type=grpc&security=tls&sni=deg.iranasanejesh.org#DE 🇩🇪 ┇ VLESS-GRPC-TLS - SEDO GmbH ┇ 91.195.240.13
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTRURPIEdtYkggXHUyNTA3IDY0LjE5MC42My4yMjIiLCJhZGQiOiJjdnl3ZmF2YXNkYy5jeW1sci54eXoiLCJwb3J0Ijo0NDMsImlkIjoiMjNmNGJjODAtM2IwYS00YWEzLWNiZTUtYjhiZTRlOGMzMmZjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIva3NlYnVwbyIsInRscyI6InRscyJ9
+trojan://0rsfkgde-c642-y5nd-g6qf-wpudjikjuan5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://84lblc16-1b8f-01mi-ehi1-1trkyedpww1t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
