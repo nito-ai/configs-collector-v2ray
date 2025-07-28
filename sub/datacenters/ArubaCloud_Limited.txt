@@ -1,11 +1,11 @@
-trojan://y3twn36s-evxs-usq1-hp5n-jl0hu1lxmvwx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 08:24 ]
-trojan://ld3gu361-ou5f-k9fk-us41-nx4rxdxnecto@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ok3zv8ta-k7oh-zihb-4xmr-6unh0mwpf3rt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://57d127e9-38da-494b-afeb-494de5ff1a91@gb.france-learns.ir:42536?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - ArubaCloud Limited ┇ 94.177.253.183
+trojan://0beh8kvd-3omb-k3tu-t07k-gkc1a18798zl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 09:07 ]
+trojan://8qyovtob-ez7h-5627-ha08-8slk7yjrp3me@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xd012r46-hu8e-7iiw-tf6r-vo4n4qyer2t5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://13f270a4-d367-4ce4-b257-80751a074889@185.43.211.99:42536?type=tcp&security=none&path=/#GB 🇬🇧 ┇ VLESS-TCP-NTLS - ArubaCloud Limited ┇ 185.43.211.99
-vless://cf25a07b-798a-4912-9611-04d906a9189c@217.61.20.71:55443?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.71
-vless://ZEDMODEON--ZEDMODEON@217.61.20.130:16987?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.130
 vless://31c42652-a059-46e1-b7a7-76e9a8682bb4@217.61.20.57:38849?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.57
+vless://ZEDMODEON--ZEDMODEON@217.61.20.130:16987?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.130
+vless://57d127e9-38da-494b-afeb-494de5ff1a91@gb.france-learns.ir:42536?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - ArubaCloud Limited ┇ 94.177.253.183
 vless://ZEDMODEON--joinZEDMODEON@217.61.20.228:55475?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.228
-trojan://jdklt6yn-cfpy-ts2q-ipd3-d2d5hzj290gc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gld33sdn-pvkx-nd4k-kal7-ije4t5cwjzz8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://cf25a07b-798a-4912-9611-04d906a9189c@217.61.20.71:55443?type=grpc&security=none#GB 🇬🇧 ┇ VLESS-GRPC-NTLS - ArubaCloud Limited ┇ 217.61.20.71
+trojan://6yonxoh8-u205-cv5q-x0bg-3d22nu7djt64@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5icgspju-4omr-0c0v-0vdg-y7ye5orsqn5y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
