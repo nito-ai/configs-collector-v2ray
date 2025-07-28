@@ -1,8 +1,8 @@
-trojan://3qfc9yws-rj77-61k7-5tmh-1ag4dzvnnzmm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 20:34 ]
-trojan://5cbhr9y4-htrm-775a-3065-23ffscl9m5zw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://p56ceez9-9wom-kfdg-2kjl-oz974mfqprld@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-tuic://548760e0-2de5-437d-a8ac-2b32b80424a8:548760e0-2de5-437d-a8ac-2b32b80424a8@2602:294:0:f5:1234:4321:dc1e:1:28029?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - FIBERSTATE ┇ 2602:294:0:f5:1234:4321:dc1e:1
+trojan://tgvdmwcy-n4t7-5sle-j3qg-8x8inknsktbv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 21:01 ]
+trojan://oe3whawc-wkpx-7isy-5zh2-1qkhefuqsv59@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yu5be8ht-yoyb-712v-3zmp-uivxm7ub808o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://0667f570-ceea-11ee-9c78-1239d0255272@us1.socifiles.com:443?sni=circles.asia&peer=circles.asia&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FIBERSTATE ┇ 23.158.72.133
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZJQkVSU1RBVEUgXHUyNTA3IDM4LjE0Ny4xMDcuMjE0IiwiYWRkIjoiMzguMTQ3LjEwNy4yMTQiLCJwb3J0IjoyMzc3MCwiaWQiOiI2YzU2NTBjZC1hYWFjLTQxMTAtZmIzNS1iNjVlN2RkNDJiNDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
-trojan://n3crdfkt-ko5c-c2yd-esi4-98qput010dga@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qgzj1ipg-jt58-5uvt-nycx-jlo9m4qcuqi5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+tuic://548760e0-2de5-437d-a8ac-2b32b80424a8:548760e0-2de5-437d-a8ac-2b32b80424a8@2602:294:0:f5:1234:4321:dc1e:1:28029?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - FIBERSTATE ┇ 2602:294:0:f5:1234:4321:dc1e:1
+trojan://l5vl96le-re42-xe6k-uo1d-gsxnoxlcu522@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yih69ec9-9hpv-m3e5-txtj-1878zcly1rb2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
