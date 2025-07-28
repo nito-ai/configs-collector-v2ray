@@ -1,15 +1,15 @@
-trojan://h7ri91vs-g1hu-sc6e-ezmk-wjf8ii6vw5s0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 21:01 ]
-trojan://2vvau4vp-0it8-ygpw-eps4-zl1ng1pd6w1t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zydwmm7s-3c5x-rdxw-o6cc-66vh22mcp774@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d9f79589-723d-4694-9cc1-ef0e84adef50@45.142.189.78:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.78
-vless://e971e939-c844-4209-8720-e93db30210e3@5.202.75.201:443?type=grpc&security=tls&sni=tara1.striside.com&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.201
-vless://d5be095e-4ec4-491a-aeb1-0f25d3cfab03@5.202.75.56:27956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.56
+trojan://1oc3zcso-zuj5-59ot-a74v-ld64ha4l6w23@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 21:25 ]
+trojan://ebvyfvof-72dw-oyvu-emx1-kxt11cncm1i5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://agq514dz-8iwd-7x02-bf2r-gt00kjgp5jqq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVudGVnaGFsIERhZGVoIE1haGFuIENvLiBQSlNDIFx1MjUwNyAyMTMuMTc2LjcuMTQ3IiwiYWRkIjoiMjEzLjE3Ni43LjE0NyIsInBvcnQiOjEyMjgyLCJpZCI6IjVkMjk0YmMzLTljZGMtNGZjYS1mNzk5LTk4ZWIwODc3ZjM5NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://84ff62f7-1bd8-4c9a-9803-f551712c29c7@blog.asantechisho.ir:443?type=grpc&security=reality&sni=blog.asantechisho.ir&fp=chrome&pbk=MBImJsMdWqNoHOt8-bfIaE1pPzCwgcVGeW1wKnZ_gWU&sid=3b67f1fc#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.48
-vless://3543696d-46ed-435e-9df4-d21cfb203572@213.176.127.12:10190?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.12
-vless://21b7ccd3-23e4-49a3-a5f7-dd510c9b06fc@mcc.kangavar20.info:26842?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.49
 vless://2a891f1d-8727-46e2-b7b4-a8f56c43fd4b@213.176.2.16:2099?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.2.16
+vless://3543696d-46ed-435e-9df4-d21cfb203572@213.176.127.12:10190?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.12
+vless://d5be095e-4ec4-491a-aeb1-0f25d3cfab03@5.202.75.56:27956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.56
+vless://d9f79589-723d-4694-9cc1-ef0e84adef50@45.142.189.78:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.78
+vless://21b7ccd3-23e4-49a3-a5f7-dd510c9b06fc@mcc.kangavar20.info:26842?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.49
+vless://e971e939-c844-4209-8720-e93db30210e3@5.202.75.201:443?type=grpc&security=tls&sni=tara1.striside.com&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.201
 vless://7f94f8ce-2b0d-41ae-997b-705b4ecff69b@213.176.127.108:34300?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.108
 vless://1754ab32-20ed-4c5f-9b83-291ac118fbcd@mcc5.ahoeidaramkhoshgeleh.com:45003?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.124
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEVudGVnaGFsIERhZGVoIE1haGFuIENvLiBQSlNDIFx1MjUwNyAyMTMuMTc2LjcuMTQ3IiwiYWRkIjoiMjEzLjE3Ni43LjE0NyIsInBvcnQiOjEyMjgyLCJpZCI6IjVkMjk0YmMzLTljZGMtNGZjYS1mNzk5LTk4ZWIwODc3ZjM5NyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://z0oocr3t-c9tm-tfes-4k33-spvd7nchyjy2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ik5ubzbi-ixol-ngli-x4hm-huhz19qas4fx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://3fio10is-7l8a-1tfl-ffi7-gcn72u921x9r@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://prr8q23n-f7dz-kee7-7mju-emgkryh6toa1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
