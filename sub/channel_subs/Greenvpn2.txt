@@ -1,6 +1,6 @@
-trojan://qnnp0s9w-fh4x-8jol-bxpi-gxp0zm798npx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 14:01 ]
-trojan://1ee9pnh6-amcx-1mmf-z3jr-gww5v1rvfaqn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g4pacc1l-c1t0-lm42-y1le-2ow1cpbnh256@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://x67jubn7-ktd4-2pp0-smqn-jd3aw6frbig2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 14:30 ]
+trojan://0xsg2uvz-cimr-6o8l-xag6-2dwnyg4sg3k9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://07ifx9ot-9kql-srzw-lhph-7s4trhq5u77c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1QEZyZWFrQ29uZmlnIiwiYWRkIjoiMTkzLjE1MS4xNTEuOTMiLCJwb3J0Ijo1MjI2MiwiaWQiOiJhZjVhMGQwYy1jODk4LTRhNTEtYmE2YS00NzE3OWQ0ODNlNDEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIEBWcG5tYWxsQm90IiwiYWRkIjoiZmluMS5uc3BheS50b3AiLCJwb3J0IjozNTYwMCwiaWQiOiI1MDMxN2QyOS03MDVmLTRlZTYtODQ2YS1mYTZlNGYyNjA0YzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEB2cG5tYWxsYm90IiwiYWRkIjoiZ3IxLm5zcGF5LnRvcCIsInBvcnQiOjM1NjAwLCJpZCI6IjUwMzE3ZDI5LTcwNWYtNGVlNi04NDZhLWZhNmU0ZjI2MDRjOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
@@ -27,5 +27,5 @@ vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?type=ws&security=
 vless://f328ff4f-8b6f-4c13-bded-bc1e76076b77@gr1.vpnjantit.com:10002?type=ws&security=tls&path=/#gr1.vpnjantit.com:10002
 vless://0f07e95a-0a71-4f43-bd78-243645440ede@am.vpnfreedom.tech:443?type=tcp&security=reality&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=t4tDMKuUuxVwF1bIjGwheRb8tji-BTpUa3MT7ByswEg&sid=64#am.vpnfreedom.tech:443
 vless://0f07e95a-0a71-4f43-bd78-243645440ede@am.vpnfreedom.tech:443?type=tcp&security=reality&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=t4tDMKuUuxVwF1bIjGwheRb8tji-BTpUa3MT7ByswEg&sid=64#am.vpnfreedom.tech:443
-trojan://8eqnus0m-3ybt-p8sx-2qp7-bdxjjwl7iqj3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://opizt40a-u9fr-9za8-cw4f-96trd39pyzok@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://wt4b0pwv-ywgr-jwfw-683f-320i3o147088@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://w93r9neu-hla8-vp8i-x61d-k3e1pfnxott5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
