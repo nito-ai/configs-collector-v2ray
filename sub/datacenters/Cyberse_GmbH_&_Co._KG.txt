@@ -1,8 +1,8 @@
-trojan://g4bwl3fg-yjmi-eqdd-7o07-2574rp9y924x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 23:20 ]
-trojan://enr3l4cc-t7ev-gfx3-viml-walmt4d6nhc2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yuq9zl6d-8z5n-qky4-uxyi-g1f1etcetopw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://5b101fa9-9711-4fdf-8512-43490edee4ac@185.230.162.53:39704?type=tcp&security=tls&sni=aa.com&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Cyberse GmbH & Co. KG ┇ 185.230.162.53
+trojan://tt61eoee-amuq-i5d8-mflu-o5g3ztqnr703@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 00:01 ]
+trojan://dxa39xjt-5gde-2vra-1j3a-i5b6jiux0z6m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cxb9agw8-ikes-3c7y-1jtj-qnfrbhsu24iz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmRhZ2Jzc2ZuaGQ@de-2-sst.medicaldream.ir:8444#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cyberse GmbH & Co. KG ┇ 69.42.220.193
 vless://mahsa-amini2@185.230.163.62:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - Cyberse GmbH & Co. KG ┇ 185.230.163.62
-trojan://d6wy8to4-25gq-i3hi-jn8u-mkaf7sx3i7i6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://muspr1ur-nm21-uafa-9j7z-ernqrvmsk4gn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://5b101fa9-9711-4fdf-8512-43490edee4ac@185.230.162.53:39704?type=tcp&security=tls&sni=aa.com&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Cyberse GmbH & Co. KG ┇ 185.230.162.53
+trojan://dk4wen1o-j7l6-4aad-yiih-hl76zb76ehlt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cdomjio1-7dee-kl86-7uov-dmhk1nark7d9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
