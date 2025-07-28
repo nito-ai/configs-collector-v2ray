@@ -1,9 +1,9 @@
-trojan://u1gisglr-jgcb-rvov-pgr5-2ahvn3yyv8p0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 13:06 ]
-trojan://9cb82qk0-z29m-njkr-3ofn-xxgwrche85u1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5l6lfhwc-5yml-gzy7-6sqv-tbxup19dg3vl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://b202af66-c6e8-4b50-b509-d9fbec42f295@161.129.34.142:9443?type=ws&security=tls&path=/?ed=2560&sni=mot.gike.dpdns.org&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - Ju Link Tech Limited ┇ 161.129.34.142
+trojan://wy590909-bxde-zx00-xh4j-uah0ivq56hkg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 13:30 ]
+trojan://9o1upa03-0yxi-o7w3-293r-39mk180w30bv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7fx3el5q-nenl-rapf-wyya-5tqn2grn7y38@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBKdSBMaW5rIFRlY2ggTGltaXRlZCBcdTI1MDcgMTYxLjEyOS4zNC4xMDIiLCJhZGQiOiIxNjEuMTI5LjM0LjEwMiIsInBvcnQiOjQ0MywiaWQiOiJlYzczNjQ4Mi0xNzNlLTNlZmYtOTExNC1iNDlkZjgwNTZlN2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBKdSBMaW5rIFRlY2ggTGltaXRlZCBcdTI1MDcgMTYxLjEyOS4zNC4xMjYiLCJhZGQiOiIxNjEuMTI5LjM0LjEyNiIsInBvcnQiOjQ0MywiaWQiOiJhMGIxZmI2Ni1lZDQxLTQwNzctODZhOS1hNjFjMTQzZDM3NzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InBpY3MucXVpY2tseWZhc3QueHl6IiwicGF0aCI6Ii9hMGIxZmI2Ni1lZDQxLTQwNzctODZhOS1hNjFjMTQzZDM3NzciLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwaWNzLnF1aWNrbHlmYXN0Lnh5eiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1GQUxTRSAtIEp1IExpbmsgVGVjaCBMaW1pdGVkIFx1MjUwNyAxNjEuMTI5LjM0LjE1MiIsImFkZCI6IjE2MS4xMjkuMzQuMTUyIiwicG9ydCI6NDExMTIsImlkIjoiZjJlMDE5M2ItM2E3Yi00OGQzLTkwZGMtZTQ5YjAxOTg3NmRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIiwidGxzIjoiZmFsc2UifQ
-trojan://npwefho7-pk4r-xa9b-pikt-twx51r1fcf48@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tuj456w0-5ad4-5lm2-fiiy-heg31t87pk5y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBKdSBMaW5rIFRlY2ggTGltaXRlZCBcdTI1MDcgMTYxLjEyOS4zNC4xMjYiLCJhZGQiOiIxNjEuMTI5LjM0LjEyNiIsInBvcnQiOjQ0MywiaWQiOiJhMGIxZmI2Ni1lZDQxLTQwNzctODZhOS1hNjFjMTQzZDM3NzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InBpY3MucXVpY2tseWZhc3QueHl6IiwicGF0aCI6Ii9hMGIxZmI2Ni1lZDQxLTQwNzctODZhOS1hNjFjMTQzZDM3NzciLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwaWNzLnF1aWNrbHlmYXN0Lnh5eiJ9
+vless://b202af66-c6e8-4b50-b509-d9fbec42f295@161.129.34.142:9443?type=ws&security=tls&path=/?ed=2560&sni=mot.gike.dpdns.org&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - Ju Link Tech Limited ┇ 161.129.34.142
+trojan://yi0v607v-602e-2fvx-q4sv-f540wlnhz9j2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pqe19k0o-fd2y-dc04-y3ug-a1frguw0wpkg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

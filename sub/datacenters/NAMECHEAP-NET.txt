@@ -1,8 +1,8 @@
-trojan://vmo9i4qf-mv3v-0cq2-cio6-xsv2mh7b060c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 13:06 ]
-trojan://c380qzjl-nguj-lipz-n2w8-x0k58i9x9pes@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://didqiaj2-ca28-3hwt-0gwh-2ckd3zzoermg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f8hn5vhe-k7sk-l383-ao8i-2gsskntaqhf4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 13:30 ]
+trojan://qthcjn6f-dvpa-nafj-ev3f-itg94ouvz2j6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rbbietp0-l524-eg15-9xvi-6omldwj49q5g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://66816f2a-4a3e-4697-e24a-9d219589b9e8@203.161.47.109:21901?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NAMECHEAP-NET ┇ 203.161.47.109
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkFNRUNIRUFQLU5FVCBcdTI1MDcgMTkyLjY0LjExOS4xMjAiLCJhZGQiOiJ3ZWFyZXN0YW5kLmNvbSIsInBvcnQiOjgwLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsImFpZCI6MTYsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtd2VhcmVzdGFuZDEifQ
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@jalurtepat.com:443?type=ws&security=tls&path=/&sni=carlotta.shorekeeper.cloudns.org&fp=randomized#US 🇺🇸 ┇ VLESS-WS-TLS - NAMECHEAP-NET ┇ 162.0.232.190
-trojan://8pl8iodm-l4cv-hj76-jo4r-fee0zu9ms32n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z1rkjrlr-8qj9-m376-4mer-rsc047m2egqs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@jalurtepat.com:443?type=tcp&security=none&path=/proxyip=zani.yaemiko.ggff.net#US 🇺🇸 ┇ VLESS-TCP-NTLS - NAMECHEAP-NET ┇ 162.0.232.190
+trojan://wtbpo6a1-lhgr-2q6x-t9u2-iw60n87mi0aj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m7bxxo24-p4ly-m60n-gaeg-v5trhkcr7d9v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

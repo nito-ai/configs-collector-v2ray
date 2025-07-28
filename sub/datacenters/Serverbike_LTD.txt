@@ -1,9 +1,9 @@
-trojan://z7gjvq2e-q1j3-ao4d-3zp6-2or63ldv97hp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 13:06 ]
-trojan://l9gkjenp-5zaj-bh5x-vzh0-r8hz1mwz75sb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://a9mdipen-h9xt-1upi-37mp-pkub2w4agqdv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d038293f-e9ca-4d2c-83a1-5a172407aa02@tservice.teampluss.ir:2155?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Serverbike LTD ┇ 194.87.129.183
-vless://05d83460-c34e-4d1a-9bae-40f60e77cd95@104.156.151.82:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#FR 🇫🇷 ┇ VLESS-TCP-RLT - Serverbike LTD ┇ 104.156.151.82
-vless://2bf79887-6392-4af3-91a7-9115067bf06e@194.87.129.222:2053?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Serverbike LTD ┇ 194.87.129.222
+trojan://v940bz6r-46wx-y7k0-b16d-96ral5aen6b6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 13:30 ]
+trojan://eqmomk05-syi7-v36x-zgq9-ycuafj6ykl53@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lrck3fyp-dbvo-9fu3-we8w-4nsux29wf9uz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206STFoVG1hMEJvTA@92.119.199.33:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Serverbike LTD ┇ 92.119.199.33
-trojan://g7l0ledu-ilhf-oxof-3lw6-rucoxxlzwemb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c9hjdtkt-fjhp-1us2-iepp-5xnsjtr1r724@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://99e7663b-3c55-46a3-8b84-f174d814cc93@104.156.151.82:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#FR 🇫🇷 ┇ VLESS-TCP-RLT - Serverbike LTD ┇ 104.156.151.82
+vless://2bf79887-6392-4af3-91a7-9115067bf06e@194.87.129.222:2053?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - Serverbike LTD ┇ 194.87.129.222
+vless://d038293f-e9ca-4d2c-83a1-5a172407aa02@tservice.teampluss.ir:2155?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Serverbike LTD ┇ 194.87.129.183
+trojan://c399pu4j-7h3r-qv7e-j8h8-cy3iyf6rvtm6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yqw420op-j6o1-7n1g-rf1s-0nu9g5ata427@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
