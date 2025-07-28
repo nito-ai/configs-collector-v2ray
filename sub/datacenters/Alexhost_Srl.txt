@@ -1,9 +1,9 @@
-trojan://dxd3z2vq-5oy3-jddb-zazs-23iznuqqbs1g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 14:30 ]
-trojan://37orolmd-g1r9-51t5-8b0k-1x6v02rqizs8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://p2lu7b3q-1ivw-oqy0-xxqx-1dihzb4t0lab@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cd6lsdmb-zn9i-9ghj-vm1c-x76s5vo8vow4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 14:57 ]
+trojan://i98oycyw-yaak-q7q1-6wge-lcwyuq3jh5fx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://v1pqpbdd-ulip-7df1-2x16-6zye6qxl41y2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3af682f1-3e13-4216-9a4a-49953d4009c3@78.40.117.69:8880?type=grpc&security=none#SE 🇸🇪 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 78.40.117.69
 vless://a0e3ae8d-c37f-4970-8754-3a978d084fd6@185.113.8.229:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 185.113.8.229
-vless://f7fdf2c2-a98a-4e8f-b06a-29f1b3c8122f@46.253.4.31:443?type=tcp&security=reality&sni=www.dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=r-Sryx8MT35Vu5eHeRr-nfVXkGw1pQCkkwL0MFIkeEw&sid=321dd18a#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 46.253.4.31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
-trojan://v1k39ydz-b6p4-jf8o-z682-5o6ltmh0g4f3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wpcl437l-ftom-ll7d-khby-slg8r4001bax@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://f7fdf2c2-a98a-4e8f-b06a-29f1b3c8122f@46.253.4.31:443?type=tcp&security=reality&sni=www.dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=r-Sryx8MT35Vu5eHeRr-nfVXkGw1pQCkkwL0MFIkeEw&sid=321dd18a#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 46.253.4.31
+trojan://8n49zvcg-5imm-jd0a-9zm5-avqzaix2bs9i@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y24orhnh-kdfb-edjc-6t28-30tu8g6khxna@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
