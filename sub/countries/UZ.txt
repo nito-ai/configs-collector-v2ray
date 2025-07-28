@@ -1,12 +1,12 @@
-trojan://fekiw7do-rzrc-8fq3-0dnj-o63ncbw8ic47@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 12:08 ]
-trojan://ep14eq5e-13k0-2krp-x95q-wmbadx2ad6cx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://73ejy2st-0jk8-5u7b-ddic-il9s70khm56t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVogXHVkODNjXHVkZGZhXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVU5JVEVMIExMQyBcdTI1MDcgMzcuMTEwLjIwOS4yMjgiLCJhZGQiOiIzNy4xMTAuMjA5LjIyOCIsInBvcnQiOjgwLCJpZCI6ImVjYmE1YjMzLWY3NjgtNGQ4YS1iMDA0LWIyOWU4ZTVjNjc2ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL0Bmb3J3YXJkdjJyYXkifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnN0V2T1JKS0s4cU1yR3Ry@45.138.158.75:20005#UZ 🇺🇿 ┇ SHADOWSOCKS-TCP-NTLS - Best Internet Solution Xk ┇ 45.138.158.75
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@92.223.44.129:8080#UZ 🇺🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.44.129
-ss://YWVzLTI1Ni1nY206TjVBb2t3Nlk@93.174.164.178:4871#UZ 🇺🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 93.174.164.178
-trojan://3828095943467868160@93.174.164.49:443?sni=concrete-lion.dolphin109.quest&peer=concrete-lion.dolphin109.quest&security=tls#UZ 🇺🇿 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 93.174.164.49
+trojan://n0npu874-xwld-7n04-psso-50qqmc0vwh67@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 12:35 ]
+trojan://2z1yughm-9fep-nknp-5qkc-p2nhp4niqjfg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xvzr3ijn-4eto-vs3m-wbsn-n4553o4xf4wp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@92.223.44.180:8080#UZ 🇺🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.44.180
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@92.223.44.129:8080#UZ 🇺🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 92.223.44.129
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnN0V2T1JKS0s4cU1yR3Ry@45.138.158.75:20005#UZ 🇺🇿 ┇ SHADOWSOCKS-TCP-NTLS - Best Internet Solution Xk ┇ 45.138.158.75
+trojan://3828095943467868160@93.174.164.49:443?sni=concrete-lion.dolphin109.quest&peer=concrete-lion.dolphin109.quest&security=tls#UZ 🇺🇿 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 93.174.164.49
+vmess://eyJ2IjoiMiIsInBzIjoiVVogXHVkODNjXHVkZGZhXHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVU5JVEVMIExMQyBcdTI1MDcgMzcuMTEwLjIwOS4yMjgiLCJhZGQiOiIzNy4xMTAuMjA5LjIyOCIsInBvcnQiOjgwLCJpZCI6ImVjYmE1YjMzLWY3NjgtNGQ4YS1iMDA0LWIyOWU4ZTVjNjc2ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL0Bmb3J3YXJkdjJyYXkifQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnN0V2T1JKS0s4cU1yR3Ry@45.138.158.74:20004#UZ 🇺🇿 ┇ SHADOWSOCKS-TCP-NTLS - Best Internet Solution Xk ┇ 45.138.158.74
-trojan://437y4zl7-n6b6-skuj-6241-2qbdv2vrfrf0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ryf4oh1w-1vo4-0boj-r0je-ow26f63tuv3z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://YWVzLTI1Ni1nY206TjVBb2t3Nlk@93.174.164.178:4871#UZ 🇺🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 93.174.164.178
+trojan://r0rbhv6k-0x6v-4tpa-00vu-mkd7luregttv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7dotg377-lwie-ivd6-ijyk-y8uhmqn0sygg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

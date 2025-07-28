@@ -1,8 +1,7 @@
-trojan://f7xw1k4o-4unp-qwy0-tb4q-59cnw9r2shj5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 12:08 ]
-trojan://24r48fzf-24an-abfp-wuu5-xvhvv7siiaxy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pjnjkd53-hpbg-y72u-73wp-czzh4tkun2af@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0bxwn1b7-9e20-k9zw-qe7i-tjzzr7xcmueh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 12:35 ]
+trojan://8uc9r2tg-j1cn-5gn8-i9sf-wluzlj6vb4nm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ykkz5mzl-rctq-tywb-vt0r-56mir3remo02@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#series-a2-me.varzesh360.co:443
-trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.224:2052?security=none#198.41.214.224:2052
 trojan://blue2024@104.17.142.12:443?sni=tb.promote.icu&peer=tb.promote.icu&security=tls#104.17.142.12:443
 trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@18.167.172.191:45051?sni=us1.bilibili.com&peer=us1.bilibili.com&security=tls#18.167.172.191:45051
 trojan://bpb-trojan@198.41.202.175:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#198.41.202.175:443
@@ -21,5 +20,6 @@ vless://f43a5e74-3d87-4bd2-a1a0-058bd25c9d03@91.107.166.105:44781?type=httpupgra
 vless://af3dbe1d-970d-490c-9e39-5ac8fdc18ec0@51.75.17.156:443?type=tcp&security=reality&sni=moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=dVOVR2A3yOuVbSl_r0JpSlwoA9bByZ6NcsqDPtD5yH4&sid=59e423c12f613cb4#51.75.17.156:443
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#5.182.38.91:17267
 vless://81294d12-9b29-438d-8af2-2bfcba7bd450@91.99.115.113:2012?type=tcp&security=reality&sni=www.pcmag.com&fp=firefox&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY#91.99.115.113:2012
-trojan://32g81fmq-l0cz-r8ko-k40i-w1xld4umq4eo@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ssy8fxaq-ov5i-yakn-v2xr-m0nxi0mqwkqo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://9cffbdcf-e54c-4e5c-8af8-a98756edce13@context.lonup.org:55500?type=tcp&security=reality&sni=refersion.com&fp=edge&flow=xtls-rprx-vision&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#context.lonup.org:55500
+trojan://wpdru9f8-s2u0-3jnb-eydj-zs8d223woj01@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qmt5rpj5-fvy8-ouov-ffcp-nhfvql19af2m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
