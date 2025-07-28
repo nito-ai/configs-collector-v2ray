@@ -1,10 +1,10 @@
-trojan://d0lhqhtx-431b-cwy4-cw32-4lpqhrsu4axt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 19:01 ]
-trojan://wdd406yp-t3q3-wh9l-5qpy-3lgttn5hemhp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yh8z12uw-1hpd-3yal-a4g4-ide4fj82wths@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@185.126.255.78:58944?sni=dxobg4azmk.gafnode.sbs&insecure=1#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
+trojan://dpnrjp3x-l370-iglt-nhtz-2207ob5k262k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 19:27 ]
+trojan://nm2934ic-h2k2-bd2u-w1zn-y6v1d57fkr4v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xu0tzx5v-guz5-43ji-5pju-5imnznzmfk6h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://542d6d26-e374-432a-a1d4-f20d62eae00f@141.105.130.118:21109?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.118
-vless://chanel-v2rayfree1-com@91.231.182.187:20977?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.187
 vless://ItsLegendaryking@141.105.130.162:443?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-RLT - South Park Networks LLC ┇ 141.105.130.162
 vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNvdXRoIFBhcmsgTmV0d29ya3MgTExDIFx1MjUwNyA5MS4yMzEuMTgyLjE5MyIsImFkZCI6IjkxLjIzMS4xODIuMTkzIiwicG9ydCI6MjQ0MjQsImlkIjoiNjUyZThlYzQtYjY4My00NzcwLWJhYTYtYzcxMDIyZTA2ZDhiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-trojan://3ykyjbs8-i6wi-b4vd-mskh-n33h2ulmke9z@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://efb291yk-t2o6-xxdq-xmq4-kdxis63h39rb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://chanel-v2rayfree1-com@91.231.182.187:20977?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.187
+hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@185.126.255.78:58944?sni=dxobg4azmk.gafnode.sbs&insecure=1#UA 🇺🇦 ┇ HYSTERIA2-TCP-NTLS - South Park Networks LLC ┇ 185.126.255.78
+trojan://eo290mcc-9w35-xz04-ck89-7lyk0od2cxdm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gh4cs9eg-l6ad-zcar-joyn-3t6nzdu83cor@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

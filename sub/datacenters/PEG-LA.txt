@@ -1,13 +1,13 @@
-trojan://kg9k6ma1-wajw-ake2-sg84-lsm8f5tmmn86@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 19:01 ]
-trojan://pzdziitt-p8qc-hxmk-8kl2-mtguwkt3na6r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://obpw856n-wfia-g11i-p2ch-qaqceuhksebp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@154.212.46.70:443?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PEG-LA ┇ 154.212.46.70
-vless://0f8b0f9e-fb84-443e-8a0d-41a789378989@38.28.194.88:443?type=ws&security=tls&path=/?ed&sni=vless.caoni.nyc.mn&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - PEG-LA ┇ 38.28.194.88
-hysteria2://196d331c-9a7d-4a8a-990e-f8babff27412@us10.s2fjeyeeyafe.bond:35789?sni=us10.s2fjeyeeyafe.bond&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - PEG-LA ┇ 104.219.214.52
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctTEEgXHUyNTA3IDEwNy4xNDguODYuMTUwIiwiYWRkIjoiMTA3LjE0OC44Ni4xNTAiLCJwb3J0Ijo0MDAwMCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcGF0aC8xNzA0MTg4MjcwNTMxIiwidGxzIjoidGxzIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctTEEgXHUyNTA3IDM4LjQ4LjIyNy4yMzEiLCJhZGQiOiIzOC40OC4yMjcuMjMxIiwicG9ydCI6NDc3NzgsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoid3d3LjQyMjY2NDUxLnh5eiIsInBhdGgiOiIvcGF0aC8yNDA4MTEwNjI4MTMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuNDIyNjY0NTEueHl6In0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctTEEgXHUyNTA3IDEwNy4xNDguMjUuMTI5IiwiYWRkIjoiMTA3LjE0OC4yNS4xMjkiLCJwb3J0Ijo0MDAwMCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcGF0aC8xNzA0MTg4MjcwNTMxIiwidGxzIjoidGxzIn0
+trojan://x1id0rkn-axmy-55kd-3u2o-b8kv8ewhl5q2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 19:27 ]
+trojan://fkchi2m3-s624-9myb-4xp5-wu9yu6eng92a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7b36mw5r-nwaj-t0u6-p49j-2n1d2mufofjn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@38.28.194.67:443?sni=agepy.aimercc.filegear-sg.me&peer=agepy.aimercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PEG-LA ┇ 38.28.194.67
+hysteria2://196d331c-9a7d-4a8a-990e-f8babff27412@us10.s2fjeyeeyafe.bond:35789?sni=us10.s2fjeyeeyafe.bond&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - PEG-LA ┇ 104.219.214.52
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctTEEgXHUyNTA3IDM4LjQ4LjIyNy4yMzEiLCJhZGQiOiIzOC40OC4yMjcuMjMxIiwicG9ydCI6NDc3NzgsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoid3d3LjQyMjY2NDUxLnh5eiIsInBhdGgiOiIvcGF0aC8yNDA4MTEwNjI4MTMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cuNDIyNjY0NTEueHl6In0
 trojan://Aimer@38.28.197.130:443?sni=ageph.ambercc.filegear-sg.me&peer=ageph.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PEG-LA ┇ 38.28.197.130
-trojan://bbx0r1w1-58cb-nodk-902y-accr58jgg4oc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jq742gxb-bbcp-pifl-sssx-9d8rd29z2sai@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctTEEgXHUyNTA3IDEwNy4xNDguODYuMTUwIiwiYWRkIjoiMTA3LjE0OC44Ni4xNTAiLCJwb3J0Ijo0MDAwMCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcGF0aC8xNzA0MTg4MjcwNTMxIiwidGxzIjoidGxzIn0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctTEEgXHUyNTA3IDEwNy4xNDguMjUuMTI5IiwiYWRkIjoiMTA3LjE0OC4yNS4xMjkiLCJwb3J0Ijo0MDAwMCwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcGF0aC8xNzA0MTg4MjcwNTMxIiwidGxzIjoidGxzIn0
+vless://0f8b0f9e-fb84-443e-8a0d-41a789378989@38.28.194.88:443?type=ws&security=tls&path=/?ed&sni=vless.caoni.nyc.mn&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - PEG-LA ┇ 38.28.194.88
+trojan://Aimer@154.212.46.70:443?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PEG-LA ┇ 154.212.46.70
+trojan://dqrj9a4h-li50-20c1-u117-3iqbvqrnbg7k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://67bz4h4u-jdb2-qenn-qcky-dk3cyfqdfjcs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
