@@ -1,9 +1,9 @@
-trojan://qqv9vnct-0zqs-cfk5-v39m-8dricb5uchnq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 09:07 ]
-trojan://9okwnnv2-vl6y-nwxa-8dz7-i1uafh9e9gns@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://m3ybdbw7-fcw1-h5hi-z4zm-gskhn03owoch@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-hysteria2://b24899a2-0e7a-458f-a858-5092bb4ff7aa@91.103.122.52:13301?sni=apple.com&insecure=1&obfs=salamander#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.52
+trojan://ck93bq6e-q3wp-owp7-xw2v-8bdx8qnnai0c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 09:32 ]
+trojan://f3hxc4ig-hq4i-f75m-n0c8-uuuhe4fsnbos@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://075o88e1-0a7f-hl3x-od33-6tdzs49mws2d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4ae2b728-4411-41d4-bf80-cd7a07fcfd8b@5.102.124.108:25888?type=tcp&security=reality&sni=www.samsung.com&fp=edge&flow=xtls-rprx-vision&pbk=Md6PoLS8ZgYxc-mOoMkLSRMksQzNTTPW0Psmo0y2c3E&sid=9c5b5b672053fc#HK 🇭🇰 ┇ VLESS-TCP-RLT - Alice Networks Ltd ┇ 5.102.124.108
 vless://e657e5fb-c417-4d3f-d84e-a3a8f010f9fa@31.59.111.49:33718?type=tcp&security=tls&sni=icloud.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Alice Networks Ltd ┇ 31.59.111.49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDEyZjc5ZS0zMjA5LTQ5NzAtODNjZC01ZTFmMzUyNmZmNTE@91.103.122.32:34648#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.32
-trojan://m0cqttcg-8dw1-vtvr-4wku-qyy97jqxlt7h@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mk85s3q8-dj5a-9d7l-98ku-zzuxv9cmv985@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+hysteria2://b24899a2-0e7a-458f-a858-5092bb4ff7aa@91.103.122.52:13301?sni=apple.com&insecure=1&obfs=salamander#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - Alice Networks Ltd ┇ 91.103.122.52
+trojan://y4n2o91i-kqex-lv94-4s5c-r3r4erzdnleg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://da3h2f9j-825y-hjg9-t8d7-81ch01fp0r6o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
