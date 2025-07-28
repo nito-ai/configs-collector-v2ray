@@ -1,11 +1,11 @@
-trojan://zf5l98e2-aiez-l9yo-x98r-o46bl7y9r03n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 14:57 ]
-trojan://qmdywqv7-4l9f-d98b-3vub-qwet2yr406d4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s455yolm-31lr-xc07-hf92-uwbane7ipmeu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://41tfvkcf-1k03-wqeb-mf9q-cnqb0unhh8g0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 15:21 ]
+trojan://uo577lon-rdcp-fy3b-cmoo-kjozfuiobxrl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kyznj5fp-rlf0-i8ar-h9ox-377xp6193chw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b9c495ac-f63d-409f-8423-111fbff0aba4@154.94.226.83:58511?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - MOEDOVE-N2 ┇ 154.94.226.83
-vless://18476b6e-7a07-4b35-a0f4-2e5cf9408f37@45.207.223.248:33844?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-RLT - MOEDOVE-N2 ┇ 45.207.223.248
-vless://ee317e25-4c44-4b3f-81fd-93420678bd34@45.87.102.244:21851?type=tcp&security=reality#HK 🇭🇰 ┇ VLESS-TCP-RLT - MOEDOVE-N2 ┇ 45.87.102.244
-hysteria2://nfsn666@45.207.222.138:8888?sni=hk.nfsn666.gq&insecure=1#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - MOEDOVE-N2 ┇ 45.207.222.138
 trojan://Aimer@45.87.103.154:52001?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MOEDOVE-N2 ┇ 45.87.103.154
+vless://ee317e25-4c44-4b3f-81fd-93420678bd34@45.87.102.244:21851?type=tcp&security=reality&sni=one-piece.com&fp=chrome&flow=xtls-rprx-vision&pbk=EcToF-48rTWeedF6qD5yUrJ3AC_Y3FrzGUE5UP5bg2A&sid=6ba85179e30d4fc2#HK 🇭🇰 ┇ VLESS-TCP-RLT - MOEDOVE-N2 ┇ 45.87.102.244
+hysteria2://nfsn666@45.207.222.138:8888?sni=hk.nfsn666.gq&insecure=1#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - MOEDOVE-N2 ┇ 45.207.222.138
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.207.218.84:443?type=ws&security=tls&path=telegram @wangcai2 /?ed=2560&sni=jp.laoyoutiao.link#HK 🇭🇰 ┇ VLESS-WS-TLS - MOEDOVE-N2 ┇ 45.207.218.84
-trojan://xx35ytj7-zacw-ca6a-ytvn-je48n0en5u6a@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://j58hlb5f-if6r-sisl-18r9-lyxl7hg5dtnb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://18476b6e-7a07-4b35-a0f4-2e5cf9408f37@45.207.223.248:33844?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-RLT - MOEDOVE-N2 ┇ 45.207.223.248
+trojan://9eeydo4l-u9d2-qqm5-lbrx-4repmyu4a426@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sspw0ueg-mpi8-xdve-hvak-57oraq43da2y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
