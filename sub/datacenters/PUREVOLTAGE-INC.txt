@@ -1,9 +1,9 @@
-trojan://6oi79u9i-f42t-35jw-6xgl-b7ul2on5uu1y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 03:23 ]
-trojan://wlckjmvt-3s6x-fmhs-nefs-pxk6beob0i5a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xwd0x9ef-2af5-71hh-wohb-bnd7k4wq6sqi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1txiw0rd-dae7-5mo5-ncwb-madfzkiz076t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 05:21 ]
+trojan://855a9lwc-kga1-nnkd-1wvj-iomvru95uglp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dxkvqy9o-oe92-0u7t-umjp-brdc8zs14wb3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@103.175.79.2:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.2
-vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443#SC 🇸🇨 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 146.19.90.10
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.10
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#SC 🇸🇨 ┇ VLESS-TCP-RLT - PUREVOLTAGE-INC ┇ 146.19.90.2
-trojan://l7gtpecn-xg8u-vto4-je9z-1nduc58fy59c@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4ab5s2kc-14ze-ksrj-jaeb-vfone79edvsl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://a0de1607-5b63-fab8-a759-9f98706b6125@146.19.90.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443#SC 🇸🇨 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 146.19.90.10
+trojan://m5caaowm-lpoc-8vw1-df2j-bmgmbz2mfiat@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dadlo8q1-xsqq-17ot-5ayk-x0fy4n4fp9lp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

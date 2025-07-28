@@ -1,9 +1,9 @@
-trojan://j931au7m-3gte-u2f6-cflh-uj3a3g0ebusw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 03:23 ]
-trojan://f0zzrd64-ls8i-fgys-i7lh-3aad7ozgt4st@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kcnni282-nh5e-i0es-kebs-jkzut4gytsav@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-hysteria2://bde0cf51-5bce-473a-8c7d-68949e7e5cfd@77.90.50.171:11401?sni=nl.youxuan.wiki&insecure=0#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - Nerdscave ┇ 77.90.50.171
+trojan://7fpvchx3-r3xk-fbx9-z0ik-koadoyb6mh86@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 05:21 ]
+trojan://r5g5vws1-99xc-evu0-9b4u-v29u12vnu6lt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cjmu5mwa-3nk1-87qm-dh07-b3l4ude4vx9e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://685214a5-d9a2-40a5-ae75-a10bbc4334f0@77.90.11.28:443?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=ampnaChEHEYr1TDX5A17QMBa_l0LnK3jWNDxVw31Kls&sid=cb#DE 🇩🇪 ┇ VLESS-TCP-RLT - Nerdscave ┇ 77.90.11.28
-vless://08aa33d0-a8af-460b-807a-39791019015c@77.90.10.16:58666?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=bGCJWIH3EHCAGMeI-qgvjGZlL5tkY_HIqQEtsOqEVlw&sid=a6a18a6e0259#DE 🇩🇪 ┇ VLESS-TCP-RLT - Nerdscave ┇ 77.90.10.16
 vless://ecb449a4-f3cb-4471-984f-035c44f2a21e@77.90.11.193:28622?type=tcp&security=none&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Nerdscave ┇ 77.90.11.193
-trojan://9kjorzpc-2u2q-lcnk-5xpx-um1baalduuq4@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sfydoiop-tyt3-0hzg-19js-i0tuk0extaej@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://08aa33d0-a8af-460b-807a-39791019015c@77.90.10.16:58666?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=bGCJWIH3EHCAGMeI-qgvjGZlL5tkY_HIqQEtsOqEVlw&sid=a6a18a6e0259#DE 🇩🇪 ┇ VLESS-TCP-RLT - Nerdscave ┇ 77.90.10.16
+hysteria2://bde0cf51-5bce-473a-8c7d-68949e7e5cfd@77.90.50.171:11401?sni=nl.youxuan.wiki&insecure=0#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - Nerdscave ┇ 77.90.50.171
+trojan://pfc20dn1-vf2u-ft25-iujg-kqbwt9rsrbx7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://oc49qqzq-sf38-iwdd-thss-xuu4tsnblh00@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

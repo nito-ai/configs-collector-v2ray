@@ -1,14 +1,14 @@
-trojan://23mk14wg-8fh3-677r-ztlg-vmc787h8nj4f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 03:23 ]
-trojan://r2u8fe3m-7i2w-g11w-efpb-cw9jq9gf2ltw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://r8d65zat-5cdv-fa8p-v3my-olqaqwrsfbzw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f7d9727e-d619-43d9-b61d-7f987214e86c@185.226.93.25:16865?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.25
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBCaWcgQ29yZSBMTEMgXHUyNTA3IDE4NS4yMjYuOTIuMTMwIiwiYWRkIjoiMTg1LjIyNi45Mi4xMzAiLCJwb3J0Ijo4NDQzLCJpZCI6ImM1ZmM0MDA1LTY0ZjctNDVlNS05ODVkLTVjZTlhMDdhZDkwZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoibm9uZSJ9
-vless://22a9e9a1-2978-4ef4-95e9-908f466ae265@185.226.93.24:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.24
-vless://61c32475-c39c-4baa-9881-c3df814d9151@185.226.93.93:19543?type=ws&security=none#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.93
+trojan://ops6ntv4-ysv5-cvsh-52mh-91phua0mt63m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 05:21 ]
+trojan://zbztjmf0-q3t1-v446-6oam-b8jnwipp6n2h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ktpto77t-5gh8-3e29-qpqu-hetge5z4x4k7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCaWcgQ29yZSBMTEMgXHUyNTA3IDE4NS4yMjYuOTIuMTA2IiwiYWRkIjoibW9vbmwucXVlcmVuY2lhdmliLnh5eiIsInBvcnQiOjk4NTUsImlkIjoiMzM4NTA3NjYtNWRhNi00MjgzLWJjNjQtNGIyMjFhMTEyYjdjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im1vb25sLnF1ZXJlbmNpYXZpYi54eXoiLCJwYXRoIjoiL01PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZTU9PTkxWMlJBWU1PT05MVjJSQVlNT09OTFYyUkFZdiIsInRscyI6InRscyIsInNuaSI6Im1vb25sLnF1ZXJlbmNpYXZpYi54eXoifQ
+vless://61c32475-c39c-4baa-9881-c3df814d9151@185.226.93.93:19543?type=ws&security=none#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.93
+vless://22a9e9a1-2978-4ef4-95e9-908f466ae265@185.226.93.24:8080?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.24
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBCaWcgQ29yZSBMTEMgXHUyNTA3IDE4NS4yMjYuOTIuMTMwIiwiYWRkIjoiMTg1LjIyNi45Mi4xMzAiLCJwb3J0Ijo4NDQzLCJpZCI6ImM1ZmM0MDA1LTY0ZjctNDVlNS05ODVkLTVjZTlhMDdhZDkwZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6ImdycGMiLCJ0eXBlIjoibm9uZSJ9
+vless://f7d9727e-d619-43d9-b61d-7f987214e86c@185.226.93.25:16865?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.93.25
 trojan://fsoOufuTGmSKzRDaAwAbww@185.226.93.9:443?security=none#TR 🇹🇷 ┇ TROJAN-TCP-NTLS - Big Core LLC ┇ 185.226.93.9
+vless://44afbf4a-29cc-4dbb-8817-61d4cad861b5@185.226.92.168:10460?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.92.168
 vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEJpZyBDb3JlIExMQyBcdTI1MDcgMTg1LjIyNi45My4zMCIsImFkZCI6IjE4NS4yMjYuOTMuMzAiLCJwb3J0Ijo0NDMsImlkIjoiMDFlODkzZGEtMTIyNi00ZjEyLWIzZTQtNzI0ZDI0YzFmNTNmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@185.226.92.172:3528?type=ws&security=none&path=/path#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.92.172
-vless://44afbf4a-29cc-4dbb-8817-61d4cad861b5@185.226.92.168:10460?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.92.168
-trojan://n39rd32p-yqvz-ii19-vo2g-ru068qqebchq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pvuif6mf-ly5d-dzna-66u5-fvtojk39es0d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://oc419c51-tqwo-94e5-50jv-08pjxwdfmbev@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://30u8kdaf-4cte-zmov-0pbh-wtphqigovxe7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
