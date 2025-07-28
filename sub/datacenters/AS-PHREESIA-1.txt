@@ -1,9 +1,8 @@
-trojan://z3rvp0x7-w747-qs17-jpey-8zufxvtqg216@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 22:36 ]
-trojan://uxeugvz9-luz8-xh93-1atz-10zj3cfaa8sg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://iukk6e5h-i54q-2fn0-43oi-8jx5cnp1nevr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://6c7a6a6a-6a6a-4000-8000-000000000002@66.179.48.80:443?type=ws&security=none&sni=eu1-woiden.lzj520hxw.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-PHREESIA-1 ┇ 66.179.48.80
-trojan://dns68@66.179.48.88:443?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-PHREESIA-1 ┇ 66.179.48.88
+trojan://r1tjhj4i-b5z8-42ld-1t88-v9hj5q0l9t2s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 22:59 ]
+trojan://k407w4jg-x33j-cpgk-rvcg-bjlj8dscm7jj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8kzd3ikp-7j96-hhto-lpsl-d1a8grmgtul4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a3c075ab-51cd-4947-e8a4-aad55e19bec2@66.179.48.46:443?type=ws&security=tls&path=/lzjjj&sni=hy2.xiaozi.cc.ua&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AS-PHREESIA-1 ┇ 66.179.48.46
-vless://dee6e497-bf07-45bb-82a4-a988ac8c1403@cf-node-hk-1.kcjb.org:443?type=ws&security=tls&path=/&sni=node-new-us-1.clashr.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - AS-PHREESIA-1 ┇ 66.179.48.101
-trojan://c6srm22w-toq8-3ol7-xj9q-xep58ai6kequ@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ob59toen-oq1z-tu15-jrrk-7uckufunihko@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://dns68@66.179.48.88:443?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AS-PHREESIA-1 ┇ 66.179.48.88
+vless://6c7a6a6a-6a6a-4000-8000-000000000002@66.179.48.80:443?type=ws&security=none&sni=eu1-woiden.lzj520hxw.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - AS-PHREESIA-1 ┇ 66.179.48.80
+trojan://2l14w3db-82li-fx9t-ipxg-io8ca009mnq1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hwcm4lho-hii9-5tbc-y3pn-70oq6qpf1qff@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
