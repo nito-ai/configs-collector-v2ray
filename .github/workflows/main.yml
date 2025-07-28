@@ -35,7 +35,7 @@ jobs:
           git config --global user.email "action@github.com"
           git add -A
           if ! git diff --staged --quiet; then
-            git commit -m "chore: 🔄 Update V2Ray configs on $(TZ='Asia/Tehran' date)"
+            git commit -m "🔄 Update V2Ray configs on $(TZ='Asia/Tehran' date)"
             git push --force
           else
             echo "No changes to commit."
