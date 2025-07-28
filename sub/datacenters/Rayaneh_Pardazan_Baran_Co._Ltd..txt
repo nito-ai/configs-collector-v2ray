@@ -1,7 +1,7 @@
-trojan://qu6vsid7-vufv-skip-586q-dlrb4k3u5gd7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 10:10 ]
-trojan://3g2wpu1r-4dh9-urbp-xxdm-gahv4rvey56n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1z7dlu7o-3jpt-lzh9-x0nx-thvtne4ghc5l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://s75748lm-ylj6-hu57-l5pm-oc5da2zay8i9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 10:40 ]
+trojan://5nmarpn9-95xh-w5bp-kt16-4jxr5l8c5d2i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://c8znv94g-2uao-ff7q-joa1-nckcl7tntiwx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3ce3df55-74e5-4adf-b958-d25987e62ae8@ch3.onfident2.top:2087?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Rayaneh Pardazan Baran Co. Ltd. ┇ 37.32.126.114
-vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:80?type=httpupgrade&security=none&path=/XRAYVPNHTTPUPGRADE#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Rayaneh Pardazan Baran Co. Ltd. ┇ 37.32.126.240
-trojan://q4ytj25n-ts81-qu2f-y464-p1kl6esuc9sc@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rinsrxqd-6jhi-gkzy-x4h7-zr461oh46u12@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://ce02ef89-4a22-40d3-a962-9a8e12c252fe@ht1.xservers.ir:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=de1.blackismyfavorite.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-TLS - Rayaneh Pardazan Baran Co. Ltd. ┇ 37.32.126.236
+trojan://jhjvh4q1-s3dr-nfpi-m00d-uye2sma0mo4t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://h8g0f24d-00t9-52q1-kb8s-lt13uof6h649@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

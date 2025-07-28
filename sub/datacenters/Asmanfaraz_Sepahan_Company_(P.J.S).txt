@@ -1,10 +1,10 @@
-trojan://y9zkn5xd-mepo-tcbn-1w73-lusvnc53eoj0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 10:10 ]
-trojan://2vry13uc-9dl7-dwpn-t939-ugj2y1qs4uaq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b2oxmmwp-mfqy-sf3m-mrjo-g6liwuhawzcq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://ea145545-2d51-4eca-814a-e125976c9938@93.126.18.79:8085?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.79
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQXNtYW5mYXJheiBTZXBhaGFuIENvbXBhbnkgKFAuSi5TKSBcdTI1MDcgOTMuMTI2LjE4LjY3IiwiYWRkIjoiOTMuMTI2LjE4LjY3IiwicG9ydCI6MTEwLCJpZCI6IjE0ZTAyNWU0LTdlNWEtNGIzNC1hZTJhLWUyODM5OTE2Yzg0OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InAzbS5mYXN0djIuY29tIiwidGxzIjoidGxzIiwic25pIjoicDNtLmZhc3R2Mi5jb20ifQ
-vless://5214cf54-b6e4-4379-8953-a4b9923d5f62@pars3.parsnetwork.com.tr:20803?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.19.156
-vless://57516354-6eaf-43ec-d725-de5b530c17ff@93.126.18.29:43388?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.29
+trojan://0u03e9de-043b-vl0g-m4vx-sauuf5zdpl2l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 10:40 ]
+trojan://m1acfi5t-tl27-9tdr-qs81-5x2s7mjyyer6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kdnfw96h-pf2u-wv5l-4pg8-lpn1bslpb7wg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXNtYW5mYXJheiBTZXBhaGFuIENvbXBhbnkgKFAuSi5TKSBcdTI1MDcgOTMuMTI2LjE4Ljc1IiwiYWRkIjoiOTMuMTI2LjE4Ljc1IiwicG9ydCI6ODAsImlkIjoiMWEyMmRkYTMtYWZmZS00NGQ4LWFkZGEtMWM5NmQwNzc5ZmQxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
-trojan://x9pk6rjn-myok-dx2n-qczc-e0jile47rfl0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pdnzhc49-3jmj-0kcx-ttmo-o8ek1k50i426@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://5214cf54-b6e4-4379-8953-a4b9923d5f62@pars3.parsnetwork.com.tr:20803?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.19.156
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQXNtYW5mYXJheiBTZXBhaGFuIENvbXBhbnkgKFAuSi5TKSBcdTI1MDcgOTMuMTI2LjE4LjY3IiwiYWRkIjoiOTMuMTI2LjE4LjY3IiwicG9ydCI6MTEwLCJpZCI6IjE0ZTAyNWU0LTdlNWEtNGIzNC1hZTJhLWUyODM5OTE2Yzg0OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InAzbS5mYXN0djIuY29tIiwidGxzIjoidGxzIiwic25pIjoicDNtLmZhc3R2Mi5jb20ifQ
+vless://ea145545-2d51-4eca-814a-e125976c9938@93.126.18.79:8085?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.79
+vless://57516354-6eaf-43ec-d725-de5b530c17ff@93.126.18.29:43388?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.29
+trojan://quk2xvit-vzpj-y8o4-cdm0-w3ao7fo2sl1k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://r5muc3nl-00qv-09vq-3a8h-3nkvv2rrkq4z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
