@@ -1,8 +1,8 @@
-trojan://k6pivm2c-tbem-d6zv-t4ts-6d5ixwtqofz6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 02:42 ]
-trojan://931mwj05-fhj8-x10z-uqkl-pdq2y25u0sfu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://045fgrgd-bsnw-6jut-4lci-954tsbfz3ydx@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-vless://4c20c859-a872-4659-be2d-86b07a8f329c@87.247.169.69:2101?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Insightometrics B.V. ┇ 87.247.169.69
-vless://be34d195-0697-44b4-8a3e-07edc2f3abb7@87.247.169.211:8001?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Insightometrics B.V. ┇ 87.247.169.211
+trojan://wzovfwat-3f7r-dewm-1764-bmwn22fjabsj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 02:59 ]
+trojan://2p1z8apr-3qhs-89t0-8gf5-oiacx5j7u8sq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://qy75kibi-tdxq-qisc-j615-5qvoqhm00e39@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEluc2lnaHRvbWV0cmljcyBCLlYuIFx1MjUwNyA4Ny4yNDcuMTY4LjIzNyIsImFkZCI6Ijg3LjI0Ny4xNjguMjM3IiwicG9ydCI6MjA3MCwiaWQiOiJjNGNhY2I4YS02NGVjLTRkZmMtYTgwZC1kZjNmZDg4NTFmY2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-trojan://89rooum7-w3gh-5gfv-80v1-l6llgxdguwfw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://odj4l02b-vaxi-ss90-2hj1-9actiikcw1pw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://be34d195-0697-44b4-8a3e-07edc2f3abb7@87.247.169.211:8001?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Insightometrics B.V. ┇ 87.247.169.211
+vless://4c20c859-a872-4659-be2d-86b07a8f329c@87.247.169.69:2101?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Insightometrics B.V. ┇ 87.247.169.69
+trojan://bdfhrmln-wewr-ld93-vp2f-3yh3t3imoaay@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://qtanm14v-fy3d-pfu1-74io-ljxlsthqbsuz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
