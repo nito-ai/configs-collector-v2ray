@@ -1,6 +1,6 @@
-trojan://c5x84h3j-5c5g-60rs-psrf-4zh4ts9a2y5w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 01:59 ]
-trojan://bu7531ue-pzg1-e8y1-bt5a-pt6n0eeutuej@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://32dgmmpi-mykb-jqi3-s3vy-344ccyev1sd0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://h5wuz2sm-6m9z-764t-nw9p-d1sdcz2m83b0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 02:42 ]
+trojan://xk0txgsu-wy64-o6x6-jcr5-surl4v3qbyws@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://1zbjoyr8-7unr-xm55-kpec-oqnhjwkquih2@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
@@ -61,5 +61,5 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&securit
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&security=tls&path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet1-706.pages.dev&fp=randomized#162.159.129.67:8443
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
-trojan://cti1q735-ucq8-uh0u-r32m-2z8vrkbpnmwp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lij2wnuy-63jl-zs80-y6rm-6i9973vsa1sp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://mbryctql-rk7y-nf09-1pis-24fru3umwrzx@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://6o4krc77-9yty-w0l6-68qx-ej9ya8oubsgd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

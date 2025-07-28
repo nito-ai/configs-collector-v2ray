@@ -1,8 +1,8 @@
-trojan://8q1npbwn-n5pj-qgm2-owo4-9lsnshh9rgfj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 01:59 ]
-trojan://h8rms5ds-ir5c-63z8-sb3a-u020v7vnrt5d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://leuom408-le0z-e9k1-w1za-z2mxxab46dbm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodzQwNHhSa3JkMXlSNUVDZGc3RkFY@178.209.40.92:8443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Nine Internet Solutions AG ┇ 178.209.40.92
+trojan://trfnwkxk-qf24-oqpe-nrji-x2cuifr7vdkk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 02:42 ]
+trojan://ni2kn8kn-3zxc-6fyo-dmx6-aft25zhl4xwu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://q1j0plp2-gane-49cv-ftom-av0g1yb6jztm@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@178.209.51.115:444?type=tcp&security=tls&sni=opensuse.org&fp=chrome&flow=xtls-rprx-vision-udp443#CH 🇨🇭 ┇ VLESS-TCP-TLS - Nine Internet Solutions AG ┇ 178.209.51.115
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpId2NLQzZQT2hmV3BlbFgxRXBQdkdq@178.209.40.88:8443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Nine Internet Solutions AG ┇ 178.209.40.88
-trojan://ph6rqrsq-fvr6-r7tb-85jx-oyz2ur7a5h6t@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://35fotj11-jom7-kd4l-mqb0-qcat8ot4a0hn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodzQwNHhSa3JkMXlSNUVDZGc3RkFY@178.209.40.92:8443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Nine Internet Solutions AG ┇ 178.209.40.92
+trojan://0k9zqecf-bb28-u97x-ib8q-usa5rhi6p1u1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://zoabrriu-17e9-7yej-3k23-scxqviu5cmq5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

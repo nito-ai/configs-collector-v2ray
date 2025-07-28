@@ -1,10 +1,10 @@
-trojan://ofrs72b8-1ehd-ri1m-m8ob-44rhzcjrwihn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 01:59 ]
-trojan://iu7cec9m-2drk-3vgg-f8tq-nlyyvuebqt5p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qwg7xtt1-qp51-q3wk-1rdq-qgpd83x743vm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@38.180.44.28:1080#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 38.180.44.28
-vless://cdaf9409-936e-4056-94d5-e68e9bf0d306@37.252.4.81:24773?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 37.252.4.81
+trojan://l7sscxxe-6gcg-pvz2-378y-r48hkie410e2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 02:42 ]
+trojan://yp8qce4z-3lud-je6g-282w-7wlnxzp9rii9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://w8pct4us-81pp-wxj9-xk31-8b3sl7zb1924@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
-trojan://bpb-trojan@37.252.5.75:443?sni=skwygx.top&peer=skwygx.top&security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - Aktsiaselts WaveCom ┇ 37.252.5.75
+vless://cdaf9409-936e-4056-94d5-e68e9bf0d306@37.252.4.81:24773?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 37.252.4.81
 vless://c775021c-c5a5-476e-8f0d-d78116f506c0@38.180.230.17:36654?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=96e9a9a656a3cc83#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 38.180.230.17
-trojan://bobje75p-xahu-qbp4-fjz9-m6jw5sw1znhz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wxoqvf8p-g5s6-qmtx-q2i8-twqhoz889ecz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://bpb-trojan@37.252.5.75:443?sni=skwygx.top&peer=skwygx.top&security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - Aktsiaselts WaveCom ┇ 37.252.5.75
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcFVSdVRVZi1sRmdnNXFXZzhldUZB@38.180.44.28:1080#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 38.180.44.28
+trojan://3c7qi2qo-4jzy-hsd0-rxfz-xdb1k00ay4g8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://i789oqc3-8tyr-beg9-6vth-ykqs0s9wq5jv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

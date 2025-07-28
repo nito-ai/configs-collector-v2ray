@@ -1,6 +1,6 @@
-trojan://n9jx1j5k-cyj0-mm43-d6mu-c8mpo2uz0ktr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 01:59 ]
-trojan://oxwhnhri-pqlz-18d5-s6pe-9dbwotjm88ka@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wbo4yzv4-3yez-edr2-obcg-yaryqsf70a83@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://m43mj507-fqg5-p4lq-1tiu-y8nv2lfcti6j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 02:42 ]
+trojan://hb7zllzm-w1cf-pyq2-gfri-tsqxvhc7z3zs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://an9cty5r-l0hg-vfsw-41zu-arebm9d21y9p@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://----telegram--ISVvpn----@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=eDg.IsVcLoD.cOm&fp=firefox#172.66.40.99:443
 vless://----telegram--ISVvpn----1@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=eDg.IsVcLoD.cOm&fp=firefox#172.66.40.99:443
 vless://----telegram--ISVvpn----@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=eDg.IsVcLoD.cOm&fp=firefox#172.66.40.99:443
@@ -8,5 +8,5 @@ vless://telegram,ISVvpn@172.66.40.99:443?type=ws&security=tls&path=/telegram-@IS
 vless://----telegram--ISVvpn----@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=eDg.IsVcLoD.cOm&fp=firefox#172.66.40.99:443
 vless://----telegram--ISVvpn----@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=dEv.IsVcLoD.cOm&fp=firefox#172.66.40.99:443
 vless://telegram,ISVvpn@172.66.40.99:443?type=ws&security=tls&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&sni=dEv.IsVcLoD.cOm&fp=firefox#172.66.40.99:443
-trojan://gdn0b53t-ijja-a9lt-rs49-ed9hwkdpzl2f@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wdx7khiy-6nw4-rqp2-2ek5-6k1jzvrelm6t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://jlfsup9k-hgi8-53vy-irgk-h83ahlqasuxj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://yol48qg0-0nae-1997-5x6x-qf9vge5fda9w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
