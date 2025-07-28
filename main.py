@@ -87,10 +87,10 @@ class AppConfig:
     MAX_CONNECTIVITY_TESTS = 250
 
     ADD_SIGNATURES = True
-    ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
-    DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v7.0.4"
-    CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
+    ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @DailyV2Config"
+    DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @DailyV2Config"
+    DEV_SIGNATURE = "</> Collector v4.0"
+    CUSTOM_SIGNATURE = "「 eQnz ☕ 」"
 
 CONFIG = AppConfig()
 console = Console()
