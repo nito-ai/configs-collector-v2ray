@@ -1,9 +1,10 @@
-trojan://zp99vgav-0vfl-2mea-5jor-ohxq11o13l1q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 18:01 ]
-trojan://k7m7vshm-a4x5-3quo-qs0c-ywoftllvpjrr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ek1kd3t0-4lhn-7ua5-gkol-uhnxnrpsx9wj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://5cf90cec-7303-409e-8772-b1478defb56f@99.199.73.57:23877?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.57
-vless://b1867b10-e968-44d1-9182-a674ef81ecb7@142.179.77.40:56565?type=tcp&security=tls&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision-udp443#CA 🇨🇦 ┇ VLESS-TCP-TLS - TELUS Communications ┇ 142.179.77.40
+trojan://sg5rswl6-obyt-axw8-d1nf-ijq377kr2dew@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 18:30 ]
+trojan://jwietlem-7dpp-tcx3-qwly-top8ksl1m60d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://87k86hjb-1c3b-halg-hq1i-a8zjhovxnmat@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuODMuNDgiLCJhZGQiOiI5OS4xOTkuODMuNDgiLCJwb3J0IjozMzY3OCwiaWQiOiJmZDgzZDYzYy1lOTdlLTRhOTQtODdkYi0yNzEwN2RjYmUyOTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://b1867b10-e968-44d1-9182-a674ef81ecb7@142.179.77.40:56565?type=tcp&security=tls&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision-udp443#CA 🇨🇦 ┇ VLESS-TCP-TLS - TELUS Communications ┇ 142.179.77.40
 trojan://p5T9x5WrfZ@99.199.73.53:46780?security=none#CA 🇨🇦 ┇ TROJAN-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
-trojan://9awio324-ysg6-g23v-j4jf-duogvce2rjqh@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0n3u0xyt-d03r-2cfh-ow65-hqw23fssyzht@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://5cf90cec-7303-409e-8772-b1478defb56f@99.199.73.57:23877?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.57
+vless://cfa392db-7445-4aa6-964f-2a3e20103936@www.vanboss.work:56565?type=tcp&security=reality&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&pbk=59iI-5g0yQ3r6ZaoBOQSWOCnMw6_t_q0oS4gXngXhW0&sid=2e3b0488#CA 🇨🇦 ┇ VLESS-TCP-RLT - TELUS Communications ┇ 99.199.60.164
+trojan://qqmypyur-thox-wuha-57mx-mmbyp3v7jprp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://osqnobvn-tt6f-h65g-e73h-18qpk7f0bfdi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
