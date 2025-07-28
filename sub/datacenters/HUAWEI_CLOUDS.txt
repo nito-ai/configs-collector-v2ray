@@ -1,9 +1,9 @@
-trojan://3o1vb37f-ovld-jeev-l6nq-npe1khkjpptn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 20:04 ]
-trojan://7uoi0jbn-11ws-zap9-hwok-ornrwoi3o4ew@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u5u8178s-gqnr-gnqk-5vlm-gegenq73t32d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@159.138.131.240:443?type=ws&security=tls&path=/proxyip=proxyip.tw.fxxk.dedyn.io&sni=xin033.ylks.link#HK 🇭🇰 ┇ VLESS-WS-TLS - HUAWEI CLOUDS ┇ 159.138.131.240
-vless://3145e274-fb50-45f8-bad0-e0561bbed05d@166.108.235.1:2321?type=raw&security=none#SG 🇸🇬 ┇ VLESS-RAW-NTLS - HUAWEI CLOUDS ┇ 166.108.235.1
+trojan://pda0gchw-bkyo-2rhv-vwd4-2vo74431h6yw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 20:34 ]
+trojan://euk52wmz-6p47-s6mu-kjo5-xk3v28igdvtc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ocsqlat5-2hvd-zv2x-b8cw-0azr73eg5t84@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIVUFXRUkgQ0xPVURTIFx1MjUwNyAxODIuMTYwLjE0LjE0NSIsImFkZCI6IjE4Mi4xNjAuMTQuMTQ1IiwicG9ydCI6MTMwODAsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0dy5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoidHcuYXBwbGVpZC5iZiJ9
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@159.138.131.240:443?type=ws&security=tls&path=/proxyip=proxyip.tw.fxxk.dedyn.io&sni=xin033.ylks.link#HK 🇭🇰 ┇ VLESS-WS-TLS - HUAWEI CLOUDS ┇ 159.138.131.240
 vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhVQVdFSSBDTE9VRFMgXHUyNTA3IDE1OS4xMzguMjQwLjM4IiwiYWRkIjoiMTU5LjEzOC4yNDAuMzgiLCJwb3J0Ijo0MTE5MSwiaWQiOiI3M2JiMWNlNy1hYjgyLTRhMDgtYTRkMy03N2M1ODVkNjU3YmYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-trojan://dqw5tfuu-o9un-2t74-zc9a-kx18g70dk4r2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://og3ewlw9-aiui-kab8-9cxs-v7b27bgs10ld@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+vless://3145e274-fb50-45f8-bad0-e0561bbed05d@166.108.235.1:2321?type=raw&security=none#SG 🇸🇬 ┇ VLESS-RAW-NTLS - HUAWEI CLOUDS ┇ 166.108.235.1
+trojan://ra3umkqr-nxj4-7txd-tblq-5p4capvfy7nm@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8lg7g0fn-hh63-ydg3-qiqs-s3vqhvvx2uv3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4

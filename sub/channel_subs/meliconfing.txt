@@ -1,6 +1,7 @@
-trojan://n8akwu0n-qqqb-sanm-ich3-bfh2mavraeyn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 20:04 ]
-trojan://ml71tvrx-cduz-fhy7-6juc-q4o2jxdkbaob@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ecx6ily5-jifu-5vtg-eswi-ndu6w6jqaow7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hnsh75ye-6oit-l9ol-fjmj-gd05h6meica8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 20:34 ]
+trojan://clmmjabz-ntg3-uzwu-pcg9-s4gbsrqtkyob@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mujvo92e-fona-qscg-ygst-984si9uzeqj3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s2.1dnt.k-l.cloud:80?type=xhttp&security=none&path=/123#s2.1dnt.k-l.cloud:80
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&security=tls&path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet1-706.pages.dev&fp=randomized#162.159.129.67:8443
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&security=none&path=/Barayeiranmahsang/----@-?ed=2560&sni=barayeiran-mahsang.gerald81.dpdns.org&fp=random#91.206.71.162:8880
@@ -37,5 +38,5 @@ vless://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?type=t
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#in1.configlinepanel.com:8443
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@uk1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#uk1.configlinepanel.com:8443
 vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=firefox&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&sid=e5caf4654f#ger.afterhav.ir:8880
-trojan://8785vhyo-bw7n-4blr-lt4z-zakkn88b47bk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6wcxmxlz-p7cv-gkxu-6zdq-7emmq393tx4c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://hq3rt6y1-dygs-v6os-ag0q-voibtwhzbiza@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gdsa4f3k-ey9v-wbtz-wx4h-40mqeze36xpp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
