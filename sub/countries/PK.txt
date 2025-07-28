@@ -1,12 +1,12 @@
-trojan://2v1r6bbf-17ny-6e48-4lox-v519umg1eod3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 09:32 ]
-trojan://ijrgfwwu-fenh-awku-dml1-l2j52y4py95p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wkijmuvf-liau-lk1y-uihx-7ywasbs5snnu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://53784f81-7b1a-468e-8792-756a2d4e744e@38.54.79.138:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.54.79.138
-ss://YWVzLTI1Ni1nY206QjJwc1g4TFI@38.60.217.99:27178#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.217.99
-trojan://3770966768580042752@38.60.217.170:443?sni=fun-louse.treefrog761.one&peer=fun-louse.treefrog761.one&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.60.217.170
-vless://8e6acce9-8b56-7190-d491-7d84f8189e26@103.175.79.2:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.2
+trojan://e4262vx2-up8t-6ep2-q7rf-or9dzq4fg6yj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-28 | 10:10 ]
+trojan://1uukfsuo-1jme-h93t-cy2n-5kfm9h3bbkmn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://px0q831d-5cm8-am41-qfcq-nqhw13awea6y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://cmM0LW1kNTphOWJjMjFlZGM4ODkxZTgy@119.159.245.24:26735#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Pakistan Telecommunication Company Limited ┇ 119.159.245.24
+ss://YWVzLTI1Ni1nY206QjJwc1g4TFI@38.60.217.99:27178#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.217.99
 ss://YWVzLTI1Ni1nY206Mk1LRFo5WU5RTkJNV0tPWA@223.165.5.107:20023#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 223.165.5.107
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.10
-trojan://0rfi27pc-rxbm-n4ey-ky29-gyd672n4zkyi@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uesd1f2a-3gnn-h2sn-oao2-02ne4aq1tb02@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://53784f81-7b1a-468e-8792-756a2d4e744e@38.54.79.138:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.54.79.138
+vless://8e6acce9-8b56-7190-d491-7d84f8189e26@103.175.79.2:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.2
+trojan://3770966768580042752@38.60.217.170:443?sni=fun-louse.treefrog761.one&peer=fun-louse.treefrog761.one&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.60.217.170
+trojan://vafzjmm6-x2gr-gv1m-wzh0-8vjtnoxf8wwz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://x8uwrhcl-aydd-fwwg-ooq4-t5jz1yr1jmxv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
