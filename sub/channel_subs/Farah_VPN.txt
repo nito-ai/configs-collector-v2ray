@@ -1,13 +1,12 @@
-trojan://6aedl55s-we3x-wuxa-bsy7-s2e26em3sbv6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 00:58 ]
-trojan://y6zg9geu-ypli-au2f-8l4e-psd10gxwmelj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wlt04qco-5new-91a6-m5mb-30fyht65r2oh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://on073zr7-crly-bwkc-6a7n-1t1wzmgg35g0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 01:21 ]
+trojan://968kcypw-ucv6-okv5-6nol-n1u6tskyq8nu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h5ctn7j1-3lyd-f6hl-gtyp-g53441ku6it9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.113:6679#23.157.40.113:6679
 trojan://NISHIKUITAN111@103.169.142.224:443?sni=zb.ylks.xyz&peer=zb.ylks.xyz&security=tls#103.169.142.224:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjQ1Ljg1LjExOS4xOTAiLCJwb3J0Ijo0NDMsImlkIjoiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImZhcmlkLjEuYmVyb3poYS5pciIsInBhdGgiOiIvdXMua2twLm1lLmV1Lm9yZy9hYSIsInRscyI6InRscyIsInNuaSI6ImZhcmlkLjEuYmVyb3poYS5pciJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjYyLjE0Ni4yMzUuMTkzIiwicG9ydCI6MjgwMTEsImlkIjoiY2ZjNWE4N2YtM2MxMy00ZTI1LWI1NTYtMTc2Y2RkNmI1YzZhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjkxLjIyOC4xMC4xMjUiLCJwb3J0Ijo0NzY4MiwiaWQiOiI2YjgzN2RkZC03ZGZiLTQ1MjAtZGQ5Yy02NWQ2MWQ2NDA4OTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjEwNC4yNi4wLjc3IiwicG9ydCI6ODg4MCwiaWQiOiI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5In0
-vless://62357561-a129-4b9e-9614-ce2578020866@198.41.220.127:443?type=ws&security=none&path=/Telegram&sni=edg.comorg.us.kg#198.41.220.127:443
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&security=none&path=/xhttp#91.99.85.185:8443
 vless://6ee7db8b-31f1-4caa-8bb5-3b8c6b290f4f@00074.mutee.com.tr:4471?type=tcp&security=none#00074.mutee.com.tr:4471
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?type=xhttp&security=none&path=/xhttp#91.99.181.47:8443
@@ -19,6 +18,7 @@ vless://c865eac6-c48c-4c47-b709-b2fa4c2426ee@91.107.166.105:47199?type=tcp&secur
 vless://e4f859b4-82ae-40aa-8d30-26b258e13100@172.67.211.227:2082?type=httpupgrade&security=none&path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048#172.67.211.227:2082
 vless://5976bf50-52f8-4dc4-a803-0f868b2a3789@151.101.2.228:80?type=ws&security=none#151.101.2.228:80
 vless://07f1493c-46dd-44ea-82e1-bb9c4a24aed0@rat5002.amrgpt.sbs:5002?type=tcp&security=none#rat5002.amrgpt.sbs:5002
+vless://cbf5530d-4a92-4179-913e-1d9b8b5e05da@91.107.130.24:32401?type=tcp&security=none&path=/shop?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#91.107.130.24:32401
 vless://9cffbdcf-e54c-4e5c-8af8-a98756edce13@context.lonup.org:55500?type=tcp&security=reality&sni=refersion.com&fp=edge&flow=xtls-rprx-vision&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#context.lonup.org:55500
-trojan://8i48mtan-7hk3-z001-axfv-v69q787rugl0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://28l7djyd-5fst-j4l9-ziov-6rb6u9hqxlbx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
+trojan://n2q43pfa-wu84-vxtz-pu6j-gc6clup528mp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5dzaf4xy-il2r-q0qv-056b-p1po9x601ldj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v7.0.4
