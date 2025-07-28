@@ -1,11 +1,11 @@
-trojan://p908sb2d-ndq9-1cls-6p66-cavx8nvvnzd9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 02:59 ]
-trojan://71hzl8rk-hvdq-hxta-stx3-90wy5arog9xe@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://zublzfhq-qm3e-9jg0-nvhy-amh3wh0crjjx@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 77.73.238.191
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 37.233.82.140
-vless://41a70c71-ebe0-41a5-b61b-d3137ba11446@83.222.20.45:8443?type=ws&security=none#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 83.222.20.45
+trojan://92im8pyw-gxnd-axr0-vq9x-824pcxg0hlmy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 03:24 ]
+trojan://1x2vzu23-nx8d-5dn1-gik3-zsyk7winm942@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://5tywip5h-uhn1-1kdv-4jne-p3zupucpspfv@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 90.156.254.164
-vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 45.130.214.192
 vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 83.222.20.64
-trojan://losw13ne-h7wb-yjsy-qxd1-6i9z55tq7fpu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://ieclrww4-6dwt-fc6b-fsb2-bkcgx0z4x5gc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - RETN Limited ┇ 45.130.214.192
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#LV 🇱🇻 ┇ VLESS-TCP-RLT - RETN Limited ┇ 37.233.82.140
+vless://41a70c71-ebe0-41a5-b61b-d3137ba11446@83.222.20.45:8443?type=ws&security=none#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 83.222.20.45
+vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?type=ws&security=none&path=/#LV 🇱🇻 ┇ VLESS-WS-NTLS - RETN Limited ┇ 77.73.238.191
+trojan://x65kb2yk-e1u3-hd1x-9ze6-zszgrsvklfc3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://mtpdpo4x-o6z8-00re-pk22-ib126zrglvre@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
