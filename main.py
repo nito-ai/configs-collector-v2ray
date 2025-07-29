@@ -90,7 +90,7 @@ class AppConfig:
     ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @DailyV2Config"
     DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @DailyV2Config"
     DEV_SIGNATURE = "</> Collector v4.0"
-    CUSTOM_SIGNATURE = "「 eQnz ☕ 」"
+    CUSTOM_SIGNATURE = "「 Telegram @eQnz_github ☕ 」"
 
 CONFIG = AppConfig()
 console = Console()
@@ -723,7 +723,7 @@ class FileManager:
     def _add_signatures(self, configs: List[BaseConfig]) -> List[str]:
         uris = [c.to_uri() for c in configs]
         now = datetime.now(get_iran_timezone())
-        update_str = f"[ LAST UPDATE: {now.strftime('%Y-%m-%d | %H:%M')} ]"
+        update_str = f"🕒 LAST UPDATE: {now.strftime('%Y/%m/%d | %H:%M')}"
 
         final_list = uris[:]
         final_list.insert(0, self._create_title_config(update_str, 1080))
