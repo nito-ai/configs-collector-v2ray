@@ -1,12 +1,12 @@
-trojan://h3fcjzj2-k9pd-6jds-4fiw-riph7y06v3mh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:09
-trojan://7c6cnqwh-64qf-rqjs-q95g-vq771h93h92v@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://bjvqgj7v-mjzw-8x34-gs12-gul5o8srnoec@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-trojan://53784f81-7b1a-468e-8792-756a2d4e744e@38.54.79.138:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.54.79.138
-ss://cmM0LW1kNTphOWJjMjFlZGM4ODkxZTgy@119.159.245.24:26735#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Pakistan Telecommunication Company Limited ┇ 119.159.245.24
+trojan://nduvhmfy-3q1o-3xmf-a4te-bttmkeh9pssn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:43
+trojan://p9owqjlk-o0g4-k0w2-o51k-4wfa9g3xogjw@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://0b739vao-gr5b-64a2-1hg9-4nwnhm1u2f7s@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@103.175.79.2:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.2
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.10
-ss://YWVzLTI1Ni1nY206Mk1LRFo5WU5RTkJNV0tPWA@223.165.5.107:20023#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 223.165.5.107
-trojan://3770966768580042752@38.60.217.170:443?sni=fun-louse.treefrog761.one&peer=fun-louse.treefrog761.one&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.60.217.170
+ss://cmM0LW1kNTphOWJjMjFlZGM4ODkxZTgy@119.159.245.24:26735#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Pakistan Telecommunication Company Limited ┇ 119.159.245.24
 ss://YWVzLTI1Ni1nY206QjJwc1g4TFI@38.60.217.99:27178#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 38.60.217.99
-trojan://ydo7mh3s-xu7l-wtyq-r1d3-jkdhjqe3l1z8@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://eapi7yj7-11p9-stn0-969v-qnn3i2l3jkbh@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?type=tcp&security=tls&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#PK 🇵🇰 ┇ VLESS-TCP-TLS - PUREVOLTAGE-INC ┇ 103.175.79.10
+trojan://53784f81-7b1a-468e-8792-756a2d4e744e@38.54.79.138:443?sni=data.amazon-azure.com&peer=data.amazon-azure.com&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.54.79.138
+trojan://3770966768580042752@38.60.217.170:443?sni=fun-louse.treefrog761.one&peer=fun-louse.treefrog761.one&security=tls#PK 🇵🇰 ┇ TROJAN-TCP-TLS - Kaopu Cloud HK Limited ┇ 38.60.217.170
+ss://YWVzLTI1Ni1nY206Mk1LRFo5WU5RTkJNV0tPWA@223.165.5.107:20023#PK 🇵🇰 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 223.165.5.107
+trojan://6ck86dii-8ydl-3q37-ihv5-8cxsr62wgj4a@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://djr689rn-wi88-tzjm-l8qs-q2d10fsm01k5@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

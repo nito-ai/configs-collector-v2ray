@@ -1,6 +1,8 @@
-trojan://km3br7t8-97bx-w69s-pw6e-3hr97n2wksrq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:09
-trojan://hltmh83q-g3kr-bk59-ir3i-aukv8n9gz81l@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://nrec2zfe-rnl9-lke2-4o4j-72almfff7omq@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://pgcodtkn-yyaj-4s6d-q9o9-e0ksmyoi2ltu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:43
+trojan://5uzy20ln-f62u-2gnx-9441-5lie9njdatsm@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://4a07caxm-o75d-c2sp-6f79-rxu7gp85hk0p@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
+tuic://81ef78ef-721f-443e-aa3f-969072c0b8eb:azadi@46.37.124.122:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 46.37.124.122
 trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443?sni=wfi.sahnama.com&peer=wfi.sahnama.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Kuroit Limited ┇ 178.239.171.103
-trojan://ryqhkuau-6mzl-hgbs-66oy-p238otm5xuur@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://yfvd9x0v-jdj2-5srm-xoou-6f5rsqhti3mc@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://muh4qmij-p07z-7lk0-5n3i-gmz00k7v12q7@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://m0bpgrbf-s1xo-9bm1-rjbd-30xh31rn3rtt@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

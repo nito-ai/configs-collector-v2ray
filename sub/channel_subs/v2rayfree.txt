@@ -1,8 +1,6 @@
-trojan://ag0fg97m-giiw-dh8j-k6lf-54xlu5z6irjs@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:09
-trojan://7bnqs1nd-df9t-pzmy-12yp-rf3yj42hlg61@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://7irbv8r4-xqhr-5c0p-c0ka-zefjphl72bv0@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@5.10.214.123:8080?type=xhttp&security=none&path=/dashboard?ed=2560#5.10.214.123:8080
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@141.193.213.10:8080?type=xhttp&security=none&path=/dashboard?ed=2560#141.193.213.10:8080
+trojan://koahs655-v7gb-32u4-v4d8-bsespi1d864i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:43
+trojan://qz7y3p9c-ojc8-ippc-e5dg-wtjnd6h3a8sm@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://3ufje6su-zvw4-3hmh-n8nw-7312r7ilk9fi@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@45.131.4.147:8080?type=xhttp&security=none&path=/dashboard?ed=2560#45.131.4.147:8080
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@141.101.121.108:8080?type=xhttp&security=none&path=/dashboard?ed=2560#141.101.121.108:8080
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@151.101.3.8:80?type=xhttp&security=none#151.101.3.8:80
@@ -19,5 +17,6 @@ vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.one:2027?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#backup.core.keys.eaglezone.gt-ovov.one:2027
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.one:2028?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#backup.core.keys.eaglezone.gt-ovov.one:2028
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@api.node.snap.com.digi-gamingzone.koalavault.ae.zeparo-love.ir:2029?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#api.node.snap.com.digi-gamingzone.koalavault.ae.zeparo-love.ir:2029
-trojan://jb0bxros-6w04-6mvi-4ibt-dnnx78649syp@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://21r8f2ct-7c94-3v1l-pbi7-myhs3pdssnjd@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://b47cb428-097a-4987-b195-c9d983253be2@ecohopetamiz2.ivy-net.ir:1616?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=BySjBybAQUJzCP66kzVrN5fRYorgUGnY4TuCO8mRFjA&sid=150210e2e45b002e#ecohopetamiz2.ivy-net.ir:1616
+trojan://vammg766-bqi2-w9pt-fgdt-lc4uoj6b0dvo@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://8xojd652-p0g7-22xg-mqqi-pxhah26rl9pj@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

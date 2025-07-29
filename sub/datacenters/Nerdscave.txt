@@ -1,8 +1,9 @@
-trojan://finme3ff-65bz-l0qt-h0fe-vudevsx8wjao@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:09
-trojan://omz4zg7d-vebx-ol3m-z3kv-j8rlqklzwg8n@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://fdyjcnbh-q2mz-oq9i-6sxa-rmu9bgm98uv5@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://jbgcbzc8-kxph-zlex-ta9q-itr5eq16bdq6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:43
+trojan://5p1gwpnu-ph4g-li73-hdzd-t7gz3tn71w53@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://9dd68f8j-h66i-869w-7qnk-r33zjvkh8hrq@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://08aa33d0-a8af-460b-807a-39791019015c@77.90.10.16:58666?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=bGCJWIH3EHCAGMeI-qgvjGZlL5tkY_HIqQEtsOqEVlw&sid=a6a18a6e0259#DE 🇩🇪 ┇ VLESS-TCP-RLT - Nerdscave ┇ 77.90.10.16
-vless://ecb449a4-f3cb-4471-984f-035c44f2a21e@77.90.11.193:28622?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Nerdscave ┇ 77.90.11.193
+hysteria2://bde0cf51-5bce-473a-8c7d-68949e7e5cfd@77.90.50.171:11401?sni=nl.youxuan.wiki&insecure=0#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - Nerdscave ┇ 77.90.50.171
+vless://ecb449a4-f3cb-4471-984f-035c44f2a21e@77.90.11.193:28622?type=tcp&security=none&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Nerdscave ┇ 77.90.11.193
 vless://685214a5-d9a2-40a5-ae75-a10bbc4334f0@77.90.11.28:443?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=ampnaChEHEYr1TDX5A17QMBa_l0LnK3jWNDxVw31Kls&sid=cb#DE 🇩🇪 ┇ VLESS-TCP-RLT - Nerdscave ┇ 77.90.11.28
-trojan://52g609eu-hd2r-3oje-fqm4-i6lp3u8ybq0p@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://ugftg72h-hz99-431p-fwy4-ow2u62xuqtpk@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://ihqo8gmw-wzcu-jntb-vrtz-qhnvb95ficao@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://z684veqv-xsx8-rik7-5c6q-4fawmx4pm0c9@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

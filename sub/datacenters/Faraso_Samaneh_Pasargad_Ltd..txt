@@ -1,11 +1,11 @@
-trojan://8efq0hhd-sft1-qgne-q91e-kyndwu9z09ma@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:09
-trojan://782dkoph-hjn8-5evz-tyix-4ku4qris8gnb@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://xt03mz4c-ul9i-cazc-h67u-cfx1rcwzwwao@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://fwx5oxyl-7gv5-85uu-bw5z-czg8tpqcy3o2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:43
+trojan://btvfctyc-vuzs-khjl-x0x9-gyc3g34m04qd@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://k24ilp45-r7qh-ezfi-ajim-u7xf95731zx8@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRmFyYXNvIFNhbWFuZWggUGFzYXJnYWQgTHRkLiBcdTI1MDcgMTU4LjU4LjE4OC4yMSIsImFkZCI6IjE1OC41OC4xODguMjEiLCJwb3J0Ijo0OTk4NiwiaWQiOiJkYWZkYTE5ZS1hZTYyLTRjYjQtYWU1Ni0yZjViMzQzZmViMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vless://8d77300a-0a55-44de-8be8-5c52be2ee905@185.2.15.238:8443?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 185.2.15.238
 vless://d1182cea-8c20-4ce2-98ca-92547ac9646e@as6.irantls.com:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 185.2.15.232
-vless://0e9c05b6-084d-46b0-af03-edb970a93476@sv24.farsdataagent.top:5325?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 45.89.236.148
+vless://8d77300a-0a55-44de-8be8-5c52be2ee905@185.2.15.238:8443?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 185.2.15.238
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhcmFzbyBTYW1hbmVoIFBhc2FyZ2FkIEx0ZC4gXHUyNTA3IDE1OC41OC4xOTAuMTcwIiwiYWRkIjoiMTU4LjU4LjE5MC4xNzAiLCJwb3J0Ijo2MDAwLCJpZCI6IjU0MjE2ZWFjLTZjZWYtNGI4ZC1jZTQwLTIxNGFhZTM5NWNhMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://8d77300a-0a55-44de-8be8-5c52be2ee905@185.2.15.139:8443?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 185.2.15.139
-trojan://plqp2nn7-mhnn-j4sv-qgrw-73as69b2691c@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://pn6owcxy-h2ov-havm-xnfg-copv6l2cazw2@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://0e9c05b6-084d-46b0-af03-edb970a93476@sv24.farsdataagent.top:5325?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 45.89.236.148
+trojan://a51r6fu6-18r3-a6q4-2s6w-4o8uv6jjbtte@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://hekuh8ly-19ht-pzmu-x2uk-w8ui80hq7v0u@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
