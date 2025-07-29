@@ -1,9 +1,9 @@
-trojan://a0g7xyqh-5cs9-vpnf-35ha-45adp9dq0qz6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 09:33 ]
-trojan://6wa376b8-yy1f-np8y-u1t9-xbi7d297ll71@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://86ys347a-rwnn-ucge-zqaj-jrdjmdqko1xu@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-trojan://ttfang@160.22.79.179:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.179
+trojan://ebe2cljo-zg3e-zlo4-oob5-gldha7nmj57d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:09 ]
+trojan://nwqv85cj-6j3u-r7l1-jynb-3zp6ll8cudfy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://4dmj4k93-kxw4-jisu-t5kc-p874crru6kq7@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 trojan://ttfang@160.22.79.191:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.191
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.22.79.155:443?type=ws&security=none&path=/telegramU0001F1E8U0001F1F3@pgkj666security=tls&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-NTLS - Onidel Pty Ltd ┇ 160.22.79.155
+trojan://ttfang@160.22.79.179:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.179
 trojan://ttfang@160.22.79.166:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - Onidel Pty Ltd ┇ 160.22.79.166
-trojan://rn113qg9-e7ex-4w0b-2qkj-48l42fyzb2lr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://cxu49q7i-h4l1-ewvf-02er-urivrs5gtz8x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.22.79.155:443?type=ws&security=none&path=/telegramU0001F1E8U0001F1F3@pgkj666security=tls&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-NTLS - Onidel Pty Ltd ┇ 160.22.79.155
+trojan://axlm0tbz-jrk2-atw3-bute-kmbamoesqibq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://ayknhlkr-bzz3-qpz9-f69c-kb9yajwkv2k0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

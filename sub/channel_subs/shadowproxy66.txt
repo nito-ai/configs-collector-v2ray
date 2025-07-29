@@ -1,6 +1,6 @@
-trojan://i99qz4mh-grqs-nuad-scei-v5bwkcs4i5xc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 09:33 ]
-trojan://q6iw5f2k-rw7m-5nb7-envk-1jsecld8o52n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://3zcuiy62-b9sf-ubbx-uraj-tlfjcmpiohqo@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://s22tlztx-n058-9qip-41t6-x0w2wxua0ayf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:09 ]
+trojan://iktce275-k9rf-y4x7-cs19-cwak5vzht033@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://i30s06d7-imt6-mzhx-2f1y-tom6worbure0@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.17.148.22:8443?sni=inVinciBLe.fafa20.sHop&peer=inVinciBLe.fafa20.sHop&security=tls#104.17.148.22:8443
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@185.148.104.141:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#185.148.104.141:8880
@@ -41,5 +41,5 @@ hysteria2://8284b6a6-01dc-488c-a860-ee4a70306b52@2a0b:4e07:8:1::93b:34502?sni=ww
 hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@107.167.18.102:8443?sni=0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net&insecure=0#107.167.18.102:8443
 hysteria2://04d1fa77-25ee-4f14-9325-2a3d1a2e929e@156.229.160.130:443?insecure=1#156.229.160.130:443
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1#51.159.111.32:31180
-trojan://jzxv3baa-pi8y-89jc-572x-7sq9i405nhgs@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://muryw04m-0aol-bx1e-w5ra-mmh0dkeaveoo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://wini0x2e-x4hf-n5r1-9d6x-bnufdoaryuhq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://3rb9amug-g9g1-8rql-l8fd-kaj1p7oto19v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
