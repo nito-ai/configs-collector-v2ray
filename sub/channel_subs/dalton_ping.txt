@@ -1,6 +1,6 @@
-trojan://7ilfm2op-8x28-etg3-smfx-z3ejvdcm7rwm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 05:26 ]
-trojan://leato0yv-oqrj-es30-nt0r-e6m9hpf17v5p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://hrgeizo2-ko4r-omyx-0byf-uzlall50caej@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://fo2c4r3x-ra3k-55zk-3kd2-4mxpknsl7akw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 07:29 ]
+trojan://9jn11l5s-7hqv-mdkv-otpb-428fs3ijmbch@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://363mkqcv-1ttm-g1a3-hlsg-rzmlx1plc85k@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
 vless://6cd35205-ccd3-426b-bfd7-677957aea695@cb4.connectbaash.info:4404?type=tcp&security=none#cb4.connectbaash.info:4404
 vless://c5faf134-bade-4e16-96de-a33a24c51cce@sn.lunarmc.ir:8082?type=grpc&security=none#sn.lunarmc.ir:8082
@@ -12,5 +12,5 @@ vless://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?type=grpc&secur
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&sni=miro.com&fp=firefox&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&sid=f74c827840#159.69.181.251:2087
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&sni=miro.com&fp=firefox&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&sid=f74c827840#159.69.181.251:2087
 hysteria2://flwhi%3AkcWlduqyvTDhaah8r1IIX7VnjB5r0SVl@tr-parsapt.hyper-ping.com:3105?sni=bts.com&insecure=1&obfs=salamander#tr-parsapt.hyper-ping.com:3105
-trojan://p6jkpvm9-52kd-811o-kxj6-ahtqfhla06yf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://4zdva33i-ik9m-tvi0-1vym-f72ckq86qoz4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://mzjq6z87-tq0n-a7a3-o486-oltp9qi4xw84@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://hz4t16bb-rx2u-8m0g-0tdx-lnmmxkbwjgro@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

@@ -1,7 +1,7 @@
-trojan://w2ocaxst-pvib-hfzu-7bd0-vj28y6bf6kyz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 05:26 ]
-trojan://n3m59bhx-7w6g-51xk-aevr-5btww89by7mh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://uvpccyrt-5c5q-83nn-arbk-se1prf34gg25@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://51m8pcy4-y6ot-opva-378v-yfxmdr2t9npp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 07:29 ]
+trojan://8ayji9xq-8sau-go6a-var0-t6d5btd5xgi6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://h3leh47n-19bv-astz-phjd-642gpknb45cu@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=cc.ylka.dpdns.org&peer=cc.ylka.dpdns.org&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ACE ┇ 43.159.98.23
-vless://c06343b1-2249-4651-ab58-8d03c4a37e56@alexde.hpcdn.info:80?type=ws&security=none&path=/24390/wsMMad#SG 🇸🇬 ┇ VLESS-WS-NTLS - ACE ┇ 43.159.99.20
-trojan://yw8xq4zp-lpsl-v73e-x4hp-4bidjsdyo44e@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://bpy119vg-phxf-m5as-lq5q-alodl3w7ui1v@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://a4fd6b14-5c2d-4c5a-8bd6-319da73dd50d@alexde.hpcdn.info:80?type=tcp&security=none&path=/13225/hMMad#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.159.99.20
+trojan://ocvpvigm-vrxx-0cf1-8xbd-1ay3zdlctdiy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://4ivree5b-gczt-lqoj-5wxm-llejlqfhr3qt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

@@ -1,10 +1,10 @@
-trojan://n7c69qzk-ajrj-ghr6-8f15-hv0xzow6v1ue@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 05:26 ]
-trojan://k4ljeel6-6omi-679j-xb14-mijaf2a4zll8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://yjb8t3b7-khyl-itzs-136h-4tzkfu1wfuok@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://qswpwoed-ybmw-f1p9-ncno-bd3gqhmnvt0j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 07:29 ]
+trojan://gwru3b4r-08l1-m9g3-20j1-m9bbd8gv1wyk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://787k03po-4bi9-uczk-4vlv-dcyfn6nyhhmt@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODUzMzIxNi02NWE4LTRkMzAtOWQ0MC03ZTk1MjZjZGQxZjE@shadow-de01.gproxy.gratis:8388#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.114
+trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@146.19.215.165:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.165
 trojan://769c2da7-add3-42e8-a03c-07be9fcf483c@146.19.215.81:443?sni=zaelot.cc&peer=zaelot.cc&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.81
 vless://99cd771c-0bc5-4f41-879e-925b973a3186@usreal.tsmoe.com:9003?type=tcp&security=reality&sni=cd2.tsmoe.com&fp=edge&flow=xtls-rprx-vision&pbk=SwtFfm3eCWmppdc8fXIrX26XT8OMp9qrAQoHfgLJLS8&sid=09ba19fa#US 🇺🇸 ┇ VLESS-TCP-RLT - Advin Services LLC ┇ 45.8.22.65
 vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision-udp443-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODUzMzIxNi02NWE4LTRkMzAtOWQ0MC03ZTk1MjZjZGQxZjE@shadow-de01.gproxy.gratis:8388#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.114
-trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@146.19.215.165:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.165
-trojan://f2om2226-hz34-3uf8-28vr-f2p5hfu8gzj2@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://652viota-qglq-ysad-d5s5-qvnth3v3k9mo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://bsp2vzz4-scr6-e4c5-he7v-18m398n42s9q@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://xv3vsy5n-cyb3-x5sw-z66l-5sasdvpuudoj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

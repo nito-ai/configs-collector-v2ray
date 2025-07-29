@@ -1,11 +1,11 @@
-trojan://3yl07ot2-wl5f-8npn-xi1c-ch4h0iaifa9c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 05:26 ]
-trojan://4g6wm42c-s24u-iqwf-1tvu-rhm7mylo4c1b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://dxzkbg4f-hn6a-3hr5-k6qd-c0vdcbprgctv@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://nzaf3hnc-gqh3-of5i-o1t5-b2cuzpoynmpa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 07:29 ]
+trojan://tc8duqkb-1zqw-8ngy-tlco-lausrmuds4k7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://ezfbb71n-8i13-cfew-2lu0-8w9543e7916g@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@104.152.210.36:25536?type=tcp&security=reality&sni=apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=t4dzgL6Q-l6Y8d-Z0FSEvtAygZFDQqg0FPHn7Qxg90M&sid=c40fa703ffa3d3b8#CA 🇨🇦 ┇ VLESS-TCP-RLT - RICAWEBSERVICES ┇ 104.152.210.36
 trojan://2add6241-8fe8-3922-8347-da25e8ced601@209.209.11.112:4586?sni=ca1.aaaa.gay&peer=ca1.aaaa.gay&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - RICAWEBSERVICES ┇ 209.209.11.112
 ss://YWVzLTEyOC1nY206S2V2aW5aYTIwNjA@185.141.216.98:8080#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - RICAWEBSERVICES ┇ 185.141.216.98
-vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@104.152.210.36:25536?type=tcp&security=reality&sni=apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=t4dzgL6Q-l6Y8d-Z0FSEvtAygZFDQqg0FPHn7Qxg90M&sid=c40fa703ffa3d3b8#CA 🇨🇦 ┇ VLESS-TCP-RLT - RICAWEBSERVICES ┇ 104.152.210.36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZXZpblphMjA0NA@185.141.216.99:443#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - RICAWEBSERVICES ┇ 185.141.216.99
-trojan://2add6241-8fe8-3922-8347-da25e8ced601@209.209.10.231:44445?sni=flb.aaaa.gay&peer=flb.aaaa.gay&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - RICAWEBSERVICES ┇ 209.209.10.231
 vless://302cec7a-87fb-4037-9281-e1d8d4e22254@canada.aparat-movies-download.ir:4450?type=tcp&security=reality&sni=zhaket.com&fp=firefox&flow=xtls-rprx-vision&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#CA 🇨🇦 ┇ VLESS-TCP-RLT - RICAWEBSERVICES ┇ 38.143.58.75
-trojan://cl8u9j9w-4886-811g-lbro-wa05fj18afyj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://vp8ouz62-06hi-rcw6-x5jg-1gb9fqvybd0a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://2add6241-8fe8-3922-8347-da25e8ced601@209.209.10.231:44445?sni=flb.aaaa.gay&peer=flb.aaaa.gay&security=tls#CA 🇨🇦 ┇ TROJAN-TCP-TLS - RICAWEBSERVICES ┇ 209.209.10.231
+trojan://uwf3y3uk-70bl-ljcj-miz6-qtwobg9qra62@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://qa8j7u50-2mpc-2et4-zr62-i3c6zkajh6kz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
