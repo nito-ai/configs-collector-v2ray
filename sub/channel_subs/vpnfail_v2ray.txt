@@ -1,7 +1,6 @@
-trojan://0amquz34-wud9-xpjk-qlxd-juypxqcakwq6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:43
-trojan://aokznp5g-fwo8-g1df-ydkh-zmu9wxezqwxv@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://cnrbk5dt-jbuh-5zuk-aw5l-acadd9pbl3qg@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vmess://eyJ2IjoiMiIsInBzIjoiQFYycmF5MV9OZyIsImFkZCI6IjE1LjIwNC4yMzQuMjAwIiwicG9ydCI6NDExMDAsImlkIjoiYzdmMTY5YTMtMmU5YS00ODk0LWJhNTMtN2IyZmE2ZmQwOGI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+trojan://xucknza7-qah6-7x9b-jkn8-lzjvtokg4r3i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 21:08
+trojan://phmi6wlp-3o1n-5hos-55dm-1g3qp7qrqeg7@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://8t8d2sbn-ekef-mgs1-qog7-k9fgu62j3c2m@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhREUtNTcuMTI5LjI1LjIwLTEyNzEiLCJhZGQiOiI1Ny4xMjkuMjUuMjAiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1OTk5OVx1NmUyZjZ8QHJpcGFvamllZGlhbiIsImFkZCI6IjEwMy4xODEuMTY1LjI2IiwicG9ydCI6NDk1OTcsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHU3ZjhlXHU1NmZkIHYycmF5ZnJlZS5ldS5vcmciLCJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
@@ -21,5 +20,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjZcdWQ4M2NcdWRkZWVc
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMtNzcuODMuMTQxLjE3MS0xMTMxIiwiYWRkIjoidmMuZmx5LmRldiIsInBvcnQiOjQ0MywiaWQiOiIzNTM3OTIxOS02NTM1LTRmMmUtYTRmZS0zZTQ0ZjYxZTBlZWUiLCJhaWQiOjMyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ2Yy5mbHkuZGV2IiwicGF0aCI6Ii92YyIsInRscyI6InRscyIsInNuaSI6InZjLmZseS5kZXYifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjZcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiI1MS43OS44Ni4xODIiLCJwb3J0Ijo0MjYxMCwiaWQiOiJlMDk1N2NhNi1mNjEzLTQwMTctZmYzYy1lZmZkMWRhODg3MWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjZcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsInBvcnQiOjI4MjEzLCJpZCI6IjgxODUyNzcxLTc2ZmItNGU5NC1lNGYxLTRlMzdhNjk4YTQ5YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://l3y4q1h5-vfx2-vu7e-yptw-qdqo1v6qnqv3@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://8w0bqvlg-ddhb-uiuj-ouxi-socwkd2rwenn@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vmess://eyJ2IjoiMiIsInBzIjoiXHU3ZjhlXHU1NmZkIHYycmF5ZnJlZS5ldS5vcmciLCJhZGQiOiIyMy4xNjIuMjAwLjIyNyIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
+trojan://uv8tmyt5-s1os-4leq-bwct-sul2ozxazwh7@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://7u4kbf69-iwuy-6o13-3o0q-lfvvjh8v3msx@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
