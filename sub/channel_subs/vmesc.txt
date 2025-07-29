@@ -1,13 +1,12 @@
-trojan://f051pjfe-e19k-5zqd-x45z-0101r7d90xvm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:28
-trojan://ls2qpfuw-wyrl-tlun-8bgb-ixo4wfjes4ck@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://p98o7dyy-8n2d-iu3f-m5vm-uuwo5egynqfb@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://651cp85f-7uwv-bs2z-6h5p-8ml3gntjdz6n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:27
+trojan://vscxi1a8-3tny-lazc-8kbc-v6dwustv72g0@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://5fgkn1tn-05i8-aje7-6bnd-unqmykusail6@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#92.112.126.90:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#45.87.175.166:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#193.29.139.177:8080
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIFx1MDY3ZVx1MDYzMVx1MDYzM1x1MDYzMVx1MDYzOVx1MDYyYSBcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2NcdWRmMGJAdm1lc2MiLCJhZGQiOiIxMDkuMTIzLjIzOS45OCIsInBvcnQiOjgwODAsImlkIjoiOTMyMmQwZTYtNDI3NS01MmJiLTgyNmMtNzMwOTAzMDZmMGJjIiwiYWlkIjowLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.145.167:8443?type=xhttp&security=none&path=/xhttp#91.99.145.167:8443
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?type=ws&security=none&path=/?ed=2560#104.16.51.36:80
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?type=xhttp&security=none&path=/sc#server581122609014369419.tas-bazi.com:443
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#moody-lock.seotoolsforyou.co.uk:80
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?type=ws&security=none&path=/#51.75.246.193:2052
@@ -19,5 +18,6 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880?type=ws&securit
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880?type=ws&security=none&path=/LGTE4FBhMm0wY9yE?ed=2560#172.67.211.214:8880
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
 vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
-trojan://ysaqpnm2-g6kl-z0cy-df52-zr67odv0ac65@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://p1s26nft-iktw-8pxp-xdse-8e4wb8zq60j0@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#brainy-party.seotoolsforyou.co.uk:80
+trojan://k9fwov22-e487-r27m-taru-ocebcx1pgr3j@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://7rzu5kca-axjo-6dt7-5jix-cq2zku5hruf8@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

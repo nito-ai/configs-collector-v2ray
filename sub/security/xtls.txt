@@ -1,11 +1,11 @@
-trojan://6jc6o4m3-i3c1-izaw-n2dr-b6ozuoykkyh2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:28
-trojan://iat0hntr-wvdu-p0z9-btce-0eonkhwlqvym@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://yunrv07b-2gbb-4xv3-vwh6-m6ws1mdfyy4m@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://2i307f0b-37yf-am98-d0ll-0yhkkqlzf85j@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:27
+trojan://wi09yfry-7m9l-9slc-6fmx-rnh9ivvjy8ly@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://107ekxdz-sjx9-1ae1-4ohw-jdbny0f1qz7e@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://n3o4y8vz-07s5-4751-ys70-t8t8q1227t59@xray.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 185.130.50.10
-vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://d1478689-439c-4590-b7ce-36e786a02dc3@youtube-bai-piao-wang-zhe-usa.98848.xyz:443?type=tcp&security=xtls&sni=youtube-bai-piao-wang-zhe-usa.98848.xyz&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
-trojan://z9wg4fmh-ot7o-h7cx-hvjq-x32r0zm7h8rl@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://abuw6dkd-ma3s-6h5o-3u29-vm9ylenw2nqs@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
+trojan://lqbwz53k-iiiv-uxwf-9bja-37s6wlhme76n@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://demepypz-ljyx-8evt-g4to-ahy4h7ktk3vh@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

@@ -1,10 +1,10 @@
-trojan://m438wu5j-yzjh-60v9-lzt1-7zjup1d97up5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:28
-trojan://3dyqy17x-oiec-yjxe-4scn-dul0v4kyttfv@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://drwytqj2-gl9n-m3s6-46sp-zztg2fhan0zw@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://94255b48-b47a-4808-a3b8-bdc70ae617a9@45.67.139.72:52673?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=iWLIaumraWdtBKE2FeK96VOx73dnI_FIqH4likU5ylI&sid=0a6891#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.67.139.72
-vless://133fe9ce-3f1f-41a1-a8ca-f74029adbab3@45.13.226.145:443?type=tcp&security=reality&sni=appsnetwork.ir&fp=chrome&pbk=RDRoXr6-GY3rNUvFHEMZJMl-Fm7oYaPz9QQ68638R3Q&sid=ca46c7533eae#DE 🇩🇪 ┇ VLESS-TCP-RLT - YottaSrc ┇ 45.13.226.145
-vless://45e91c56-0dbd-41a5-a654-287a53fc0ea4@185.117.0.180:8448?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.117.0.180
-vless://22436824-b1ea-45ec-bd2c-1936e3785d00@3rdv5.infospeedtest.com:10029?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.92.219.127
+trojan://1npgdbuo-l7ga-6fpp-ra5t-z75gdg4a1tzo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:27
+trojan://748tt2jn-7fgv-wsro-31xm-860en2rjknyn@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://1jzanikt-oe63-lx1r-ldh7-m0rsrtempujf@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://840dc994-d232-4b71-b133-4f36a874c867@45.13.226.18:29570?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=lOuhgB0K7paehmJFBxd0GxSY2Ax00niQGkpH3-8jKz4&sid=37#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.13.226.18
-trojan://zrc1d2aw-w3pw-7lkb-4oah-zg0qp19nmeyf@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://rfk5rr6g-1voa-sbt0-xa5l-gkpnb5672e6p@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://22436824-b1ea-45ec-bd2c-1936e3785d00@3rdv5.infospeedtest.com:10029?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 45.92.219.127
+vless://94255b48-b47a-4808-a3b8-bdc70ae617a9@45.67.139.72:52673?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=iWLIaumraWdtBKE2FeK96VOx73dnI_FIqH4likU5ylI&sid=0a6891#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.67.139.72
+vless://45e91c56-0dbd-41a5-a654-287a53fc0ea4@185.117.0.180:8448?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.117.0.180
+vless://133fe9ce-3f1f-41a1-a8ca-f74029adbab3@45.13.226.145:443?type=tcp&security=reality&sni=appsnetwork.ir&fp=chrome&pbk=RDRoXr6-GY3rNUvFHEMZJMl-Fm7oYaPz9QQ68638R3Q&sid=ca46c7533eae#DE 🇩🇪 ┇ VLESS-TCP-RLT - YottaSrc ┇ 45.13.226.145
+trojan://prdy4qw5-j3jb-gzo9-ocyw-jt4houykut9w@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://7o4hndgr-95u7-rvsg-5ytj-k74uheeaz92w@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

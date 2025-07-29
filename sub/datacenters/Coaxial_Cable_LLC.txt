@@ -1,13 +1,13 @@
-trojan://97300qpr-6ktl-s9vp-t7de-alpwgqsntpi3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:28
-trojan://00kadndz-23k6-lmfs-ogcc-0pjx66cughph@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://75y55yws-bnfq-zsnq-k5c0-t2e2nc6z2lmw@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://c5cd9845-55c5-4c0d-8709-d62211d61536@143.14.220.111:25888?type=tcp&security=tls&sni=www.samsung.com&fp=qq&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Coaxial Cable LLC ┇ 143.14.220.111
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206eTZDcU41L2h2Y0xUVmsyTGpxdXFjUHhhZ09HM09vWTd6MmJTOGZDcWd4bz06K25OL3FvVHdHc3creTdmcENkOXpTdnlGZVZPWnhrVWN1bkZZdTRMTUVYRT0@77.93.91.53:31145#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Coaxial Cable LLC ┇ 77.93.91.53
-vless://78956f2a-5650-4ac1-b5e5-c86491768443@92.112.22.115:10649?type=tcp&security=reality&sni=www.iij.ad.jp&fp=chrome&flow=xtls-rprx-vision&pbk=N3OhMYHjw0MGH7X93-6lec9iOMQHRUr-Uz-cGzQ32jQ#SG 🇸🇬 ┇ VLESS-TCP-RLT - Coaxial Cable LLC ┇ 92.112.22.115
+trojan://86vd4xft-zq82-a556-kapy-72vquqrcluxb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:27
+trojan://p2nv8qdo-zshu-werg-tmpn-2uormv3bzcb4@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://c7242dqi-74de-szs7-wqzl-7ybdx8waby22@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 hysteria2://9FmazX8AAPpM8TQcNyI2zvBDF5o@92.112.23.216:28264?insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - Coaxial Cable LLC ┇ 92.112.23.216
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206eTZDcU41L2h2Y0xUVmsyTGpxdXFjUHhhZ09HM09vWTd6MmJTOGZDcWd4bz06K25OL3FvVHdHc3creTdmcENkOXpTdnlGZVZPWnhrVWN1bkZZdTRMTUVYRT0@77.93.91.53:31145#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Coaxial Cable LLC ┇ 77.93.91.53
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlUNXlESDhyZHM0UXhaQkhjV21tSjRHQVY0c0lEemlUdXBzcFVDQk01Yz06WktmY3M1cUVvckY2YUNITTVzRVRYK2hxL0J3WDhRcWJUL1A4cnYwQ3NJMD0@92.112.20.50:25361#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Coaxial Cable LLC ┇ 92.112.20.50
+vless://78956f2a-5650-4ac1-b5e5-c86491768443@92.112.22.115:10649?type=tcp&security=reality&sni=www.iij.ad.jp&fp=chrome&flow=xtls-rprx-vision&pbk=N3OhMYHjw0MGH7X93-6lec9iOMQHRUr-Uz-cGzQ32jQ#SG 🇸🇬 ┇ VLESS-TCP-RLT - Coaxial Cable LLC ┇ 92.112.22.115
 vless://4ae2b728-4411-41d4-bf80-cd7a07fcfd8b@143.14.220.122:25888?type=tcp&security=reality&sni=www.samsung.com&fp=safari&flow=xtls-rprx-vision&pbk=zBmyQcuUZiHENPtX8XGvFXuN3UD74o2YQ7WpD-VUARs&sid=8631f9#US 🇺🇸 ┇ VLESS-TCP-RLT - Coaxial Cable LLC ┇ 143.14.220.122
+vless://c5cd9845-55c5-4c0d-8709-d62211d61536@143.14.220.111:25888?type=tcp&security=tls&sni=www.samsung.com&fp=qq&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - Coaxial Cable LLC ┇ 143.14.220.111
 vless://021423af-85fc-4bb6-b32e-deeed97581e1@143.14.220.136:46430?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=kQoMZ1G4jwT9yTlF-NtZwhG22j3NQhzlvGsiiLxrLzI&sid=e27f3a#US 🇺🇸 ┇ VLESS-TCP-RLT - Coaxial Cable LLC ┇ 143.14.220.136
 hysteria2://5Cp8lmFEQN41CDIWuJhpPzH1U@143.14.221.98:9641?sni=bing.com&insecure=1#US 🇺🇸 ┇ HYSTERIA2-TCP-NTLS - Coaxial Cable LLC ┇ 143.14.221.98
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlUNXlESDhyZHM0UXhaQkhjV21tSjRHQVY0c0lEemlUdXBzcFVDQk01Yz06WktmY3M1cUVvckY2YUNITTVzRVRYK2hxL0J3WDhRcWJUL1A4cnYwQ3NJMD0@92.112.20.50:25361#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - Coaxial Cable LLC ┇ 92.112.20.50
-trojan://h4s4jba5-0swv-jer7-bvu0-oxj9bglbe00w@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://bholtjth-1s8f-corx-r6td-a2vwpkl9abs0@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://iif2mra0-6pi1-9ugn-mhbp-yvnji54g7v3s@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://y2nuor68-wp5l-q9hg-jo4v-jypp1wjt2f9q@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

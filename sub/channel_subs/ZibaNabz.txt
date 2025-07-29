@@ -1,6 +1,12 @@
-trojan://an7cp5os-gg0h-kcmu-y0s8-xnm3sqvl1tje@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:28
-trojan://oh8ucdgy-m6zw-4nwx-1s17-sx53ze8u8buy@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://6qezda9r-93ze-2sjk-sr4v-pbbz7wtxq63c@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://92seq9be-swdc-g3yk-h1vg-3xpmb8ksupcx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:27
+trojan://r1m3w1rr-z36l-z4d3-qt8c-5ocdm0flxrrs@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://l9d0mgk5-5ows-lu4h-r2bu-qogwg1eh0cc6@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#admin.c1.webramz.co:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
@@ -58,5 +64,7 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&securit
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&security=tls&path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet1-706.pages.dev&fp=randomized#162.159.129.67:8443
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
-trojan://tmw3gscu-idwu-8juh-9nje-4zucdym9cag2@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://zfjsmwah-lqni-dzkd-ey7i-d3gah5rsva19@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&security=tls&path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet1-706.pages.dev&fp=randomized#162.159.129.67:8443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
+trojan://9k0myjm3-8jdb-3frj-wpeb-6q683i4ss3rq@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://oqoks6j6-1vmn-pe0d-rzyo-u5wmgbc8m3bp@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

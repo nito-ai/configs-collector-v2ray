@@ -1,6 +1,6 @@
-trojan://ba7pguhh-ee7s-kf94-kvk7-eq4k76uy9on2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 16:28
-trojan://bqebpf5g-a62k-gfpl-cbcm-ncmctp24ra2v@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://df41kzft-kx7g-lnbi-ehvw-2k1amfuojfp7@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://1rfjy79i-h9ku-r1hy-stlp-tkw432oax0sx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:27
+trojan://uws30ql5-6q14-t2mv-ch0o-a0omssv6i0cc@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://xv1kz5vg-unc8-owyt-ebvo-3sir8180k0ok@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@beedoost.org:8080#beedoost.org:8080
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@216.246.25.159:16899#216.246.25.159:16899
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.162.200.77:5499#23.162.200.77:5499
@@ -28,5 +28,5 @@ vless://19c08c07-a3b7-4c26-bcee-d7270f6d3422@188.114.98.224:8080?type=grpc&secur
 vless://%50a%72sa%73%68%6fna%6d-89@188.114.96.3:8080?type=grpc&security=none#188.114.96.3:8080
 vless://4825edb4-0fde-4d48-892d-ddac2e1e13bb@www.parspack.com:8880?type=httpupgrade&security=none&path=/SHHPROXY?ed=2048=Telegram#www.parspack.com:8880
 vless://08cca313-4f8b-4389-8fab-63684675d52b@www.parspack.com:8080?type=httpupgrade&security=none&path=/MdVpnSec?ed=2048=Telegram#www.parspack.com:8080
-trojan://ty3b8opk-a8al-j419-aksq-fpqy1gv364ph@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://dxjql1de-qwzd-5wf3-txd7-m52261yai762@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://ngyfspsl-kz92-5w4g-qe04-i6prchcl7otv@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://deo9b5mo-5yv2-4itq-pe40-wmko5k14z664@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
