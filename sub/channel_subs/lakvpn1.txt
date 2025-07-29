@@ -1,6 +1,6 @@
-trojan://vysr7zg9-cacr-ji3f-hz60-vq3yqjegiz18@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 17:27
-trojan://t0b2t2pl-fa5a-etgb-98cr-5155ewbx3zmy@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://0ext89bg-lh0t-5ts9-tred-8kz4gd45i902@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://a69gfnv5-xli0-fncs-13cp-holgf5wmiyu4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:10
+trojan://t5dyi5ld-vi21-le5l-6a8o-vgu9x2da2jl9@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://qdrayzrx-3ozq-ovwm-doym-oxnbh57jokn2@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://c78067fe-4e53-4dd5-8346-b9b11f42581d@all.funlifea.shop:8443?type=grpc&security=tls&sni=t5.funlifea.shop#all.funlifea.shop:8443
 vless://5e3527b9-e220-4049-8caf-ebb2dca593f4@all.funlifea.shop:8443?type=grpc&security=tls&sni=t5.funlifea.shop#all.funlifea.shop:8443
 vless://12c39772-94bd-49f5-b0ae-ca7b45eeb583@all.funlifea.shop:2053?type=grpc&security=tls&sni=t5.funlifea.shop&fp=chrome#all.funlifea.shop:2053
@@ -9,5 +9,5 @@ vless://1089c9ea-330f-4896-abaf-70c160cee6c8@all.funlifea.shop:2053?type=grpc&se
 vless://5ba34c00-22be-4362-844c-389d608c2fc8@bn1.iranman.shop:33375?type=tcp&security=none&path=/#bn1.iranman.shop:33375
 vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100?type=tcp&security=none#31.14.118.226:24100
 vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500?type=tcp&security=none#all.yasharteam.com:500
-trojan://9zhqenhl-yw5m-q1zo-5uef-dg85c9qmp68r@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://9uwqohkv-m8sc-jamo-seps-1atzv64m7kjq@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://52k9ik5s-if7f-jc97-gsrh-qgogvqbcrhpk@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://cjpw71sm-av3c-1zj0-snrk-4i3xkne4s8yw@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
