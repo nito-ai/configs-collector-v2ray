@@ -1,7 +1,7 @@
-trojan://6w9w3gc3-oxou-az5d-ghuj-97bnzil34mvn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:07
-trojan://kl0wec69-v41s-mqpf-br58-srft85botabg@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://09nxttxr-c11o-rmlm-qe8s-dm6zekxfq38o@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://et29lslj-cwdg-8dj8-s9qq-fd60pw01bnyb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:37
+trojan://68r9ywj7-4jmj-3weg-s2vg-ev3oobrpy8ro@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://ob2mgwuo-36t8-69pl-mcdd-9h69rvxg4nlx@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://a07827b5-4b27-4910-8333-f78949562fc9@138.128.225.100:443?type=ws&security=tls&path=/telegram-mitivpn-telegram-mitivpn-telegram-mitivpn?ed=2048&sni=design-mobo.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - NetConnect Innovations LLC ┇ 138.128.225.100
-vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - NetConnect Innovations LLC ┇ 138.128.224.100
-trojan://03mp3ehb-bqdw-0hra-obpl-tlbyfqozhofv@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://epyiu2yr-hf8v-1bes-j2c4-ylwmro5g2wd1@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=ws&security=none&path=/telegram-mitivpn#AE 🇦🇪 ┇ VLESS-WS-NTLS - NetConnect Innovations LLC ┇ 138.128.224.100
+trojan://3cp69ur0-bqg7-t979-i1ov-7t406e7msoot@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://x1wp46wh-4rc7-qpvb-bo8p-xizvbl72s30a@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

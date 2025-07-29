@@ -1,6 +1,6 @@
-trojan://0iyq4e6a-pq50-tp6h-b729-dmtjitulvhqr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:07
-trojan://ip849pb0-f6wv-yyf8-q1ju-fy44j5q4c38w@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://8di7zt5u-vuu0-xll8-gcpb-3esfcegna90g@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://4aez7b3h-1twt-nkdk-evf9-k6ckoyzt0qkc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:37
+trojan://1ysrd8kw-06i9-l8v8-j9rf-nuot7a0kvp5x@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://7bflb1lw-857m-00q1-d9lb-cql24xlzagf8@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?type=grpc&security=none#public15v7.fastipsport.com:8880
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?type=ws&security=none&path=/#communal-loss.oneeat.co:80
 vless://756faf87-c6b2-404f-851f-91de98186531@tgju.org:80?type=ws&security=none&path=/?ed=2048#tgju.org:80
@@ -19,5 +19,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?typ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?type=grpc&security=none#public15v7.fastipsport.com:8880
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?type=ws&security=none&path=/#communal-loss.oneeat.co:80
 vless://f0050c31-06b1-4ebd-a10c-fe1e73632067@v05.vxlimir.com:1370?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#v05.vxlimir.com:1370
-trojan://3qybyz7v-y34w-jm7b-w9xn-77rppm5ug426@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://djw3r5zt-vzye-ih1b-4ivt-c7a17gcrvmnx@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://1tinxxl0-r7yc-2wt2-jffl-8hbm24z8wgxe@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://h05nou0d-al0f-hw1p-r8f5-sngv7cgyo51z@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

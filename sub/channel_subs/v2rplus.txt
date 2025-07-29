@@ -1,6 +1,6 @@
-trojan://yn10uwm4-fk8r-eepu-xs88-puvcj7vxoqq8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:07
-trojan://dsnc5lgg-qut3-fwio-oatk-mhoaoeu665le@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://rrcdckhv-j8wp-sl3q-i0w8-k8e5zj6u5hyl@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://5u020vmj-ls10-fzkj-9rfb-jybc4v7u9yp4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:37
+trojan://dyvpgu6f-67yh-suv6-k8j4-z1ga2qdg5b9f@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://9vb4hj0x-vmwe-tjxw-j84c-rzxzj8b1cr6c@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://601e8081-5473-4111-86c8-d8787acc126d@derby.howareu.xyz:8443?type=ws&security=tls&path=/&sni=melody.howareu.xyz#derby.howareu.xyz:8443
 vless://a2772b84-e7e2-41a7-8979-0c60a08bf5d6@derby.howareu.xyz:8443?type=ws&security=tls&path=/&sni=melody.howareu.xyz#derby.howareu.xyz:8443
 vless://75d2a40c-dfa5-45ea-9e67-357a1fbca120@derby.howareu.xyz:8443?type=ws&security=tls&path=/&sni=melody.howareu.xyz#derby.howareu.xyz:8443
@@ -12,5 +12,5 @@ vless://114b0b37-8867-4657-9567-a98aeab84486@derby.howareu.xyz:8443?type=ws&secu
 vless://114b0b37-8867-4657-9567-a98aeab84486@derby.howareu.xyz:8443?type=ws&security=tls&path=/&sni=Melody.howareu.xyz#derby.howareu.xyz:8443
 vless://92505265-b1d6-40ac-ad3a-ac031970d5af@derby.howareu.xyz:2087?type=grpc&security=tls&sni=melody.howareu.xyz#derby.howareu.xyz:2087
 vless://92505265-b1d6-40ac-ad3a-ac031970d5af@derby.howareu.xyz:2087?type=grpc&security=tls&sni=melody.howareu.xyz#derby.howareu.xyz:2087
-trojan://mbd37jlk-oon0-av0k-hl0t-5kocw2kpf20s@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://taa7h4ka-ux38-jqc4-qz9n-os1eth4xez2a@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://bx4hezid-od6m-4woj-7ste-wte3vmo5xa2f@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://ks3sq1re-w46p-6u2r-vdid-8xnzbj71wofb@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
