@@ -1,15 +1,15 @@
-trojan://0it1noub-8tuq-zfqh-d3kj-0gn6mvhgoh8q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 07:29 ]
-trojan://on6czset-m5z7-fgm3-mpgw-yk5cq93sms6z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://efvxtauu-pjee-kybz-urkt-3fwo9zk1cfg8@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://50y0ymee-nvdy-jsjr-7hzx-hdy3ngbwpadm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 08:25 ]
+trojan://igb154ct-ghaw-0g46-f8jc-g7epw4m33wto@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://a1y608xq-n50o-hrzk-roex-1y8y5jf6u01w@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+vless://ec1938c8-acc1-4ded-a85f-9fe573b7730b@94.177.244.182:40378?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.182
+vless://5739c92e-4e9c-47eb-8c35-15e35b88b9c3@94.177.225.237:53695?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 94.177.225.237
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgODkuNDAuMTE3LjEzOCIsImFkZCI6InMyLmZyYW5jZS1sZWFybnMuaXIiLCJwb3J0Ijo2NDUzNSwiaWQiOiJlYzYyNGRkMC1hNjYzLTQ4MDMtYmMyNi00MzA5YzJlN2MzODQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgODkuNDAuMTE3LjI0NCIsImFkZCI6InN2OTkudHVyYm9vLXNlcnZlci5jb20iLCJwb3J0Ijo0MjkwNywiaWQiOiJ0dXJib28tc2VydmVyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://5d7edf75-ec86-4ff0-9b63-5f30b88f1be5@paris.aparat-movies-download.ir:4450?type=tcp&security=reality&sni=zhaket.com&fp=safari&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aruba SAS ┇ 89.38.148.249
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgMjE3LjYxLjk3LjU3IiwiYWRkIjoiYWZpbmxhbmRzaS5hcmNhbnBheWVyLmNvbSIsInBvcnQiOjgwODEsImlkIjoiMjk4ZTVjN2EtZDFkZS00OWM0LThlNjYtY2ZkNDdjNmQ1YjRlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://5739c92e-4e9c-47eb-8c35-15e35b88b9c3@94.177.225.237:53695?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 94.177.225.237
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgOTQuMTc3LjIyNS41IiwiYWRkIjoiOTQuMTc3LjIyNS41IiwicG9ydCI6MzUzNTIsImlkIjoiMGNjOTEyOTgtYTc3ZC00ODNiLWEwNzktMjcxNjExMTM3OWI2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://ZEDMODEON--ZEDMODEON@185.8.51.42:36201?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 185.8.51.42
-vless://ec1938c8-acc1-4ded-a85f-9fe573b7730b@94.177.244.182:40378?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.182
-vless://ZEDMODEON--joinZEDMODEON@94.177.244.32:40734?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.32
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgOTQuMTc3LjIyNS41IiwiYWRkIjoiOTQuMTc3LjIyNS41IiwicG9ydCI6MzUzNTIsImlkIjoiMGNjOTEyOTgtYTc3ZC00ODNiLWEwNzktMjcxNjExMTM3OWI2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgMjE3LjYxLjk3LjU3IiwiYWRkIjoiYWZpbmxhbmRzaS5hcmNhbnBheWVyLmNvbSIsInBvcnQiOjgwODEsImlkIjoiMjk4ZTVjN2EtZDFkZS00OWM0LThlNjYtY2ZkNDdjNmQ1YjRlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://7ec65d58-6c5a-48d2-8d50-a781d28dbdd3@one.soshon.in:5430?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.27
-trojan://zzzc5og6-9nm9-6n60-utwa-cxnv1k2knljf@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://lo3q8lt5-yuvn-lz5z-mtc7-i9ozktyayo72@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://ZEDMODEON--joinZEDMODEON@94.177.244.32:40734?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.32
+trojan://xc3y8emm-kq3c-mrop-oolc-doch1m8d1huy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://s64y79rl-risd-dpzs-fdcr-3284bfpxnuxi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

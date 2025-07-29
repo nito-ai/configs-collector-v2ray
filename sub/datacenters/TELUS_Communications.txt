@@ -1,9 +1,9 @@
-trojan://ydsuvac3-h6k2-inj4-eo2n-zfdvol4kb3iw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 07:29 ]
-trojan://2bnkxlkk-jmei-lg35-50be-qmfs3medy3ej@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://2vgohof1-70c1-u6ed-3vxr-nm44ele4hrit@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-trojan://p5T9x5WrfZ@99.199.73.53:46780?security=none#CA 🇨🇦 ┇ TROJAN-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+trojan://c6jb4bwc-vh20-kzvm-7y6f-dasi2e63c59h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 08:25 ]
+trojan://ln0a0bt1-6nvj-aaid-zl4q-axqvrevwkmo1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://jxm4qr0v-dl5n-35lp-kzng-wyf7wbzsmqkw@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://b1867b10-e968-44d1-9182-a674ef81ecb7@142.179.77.40:56565?type=tcp&security=tls&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision-udp443#CA 🇨🇦 ┇ VLESS-TCP-TLS - TELUS Communications ┇ 142.179.77.40
-vless://5cf90cec-7303-409e-8772-b1478defb56f@99.199.73.57:23877?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.57
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuODMuNDgiLCJhZGQiOiI5OS4xOTkuODMuNDgiLCJwb3J0IjozMzY3OCwiaWQiOiJmZDgzZDYzYy1lOTdlLTRhOTQtODdkYi0yNzEwN2RjYmUyOTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-trojan://tnck7ttf-bb8a-ziln-bq5j-c44117mt2zqj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://w7nigtap-ykam-0801-3ip2-895rrwzt9mws@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://5cf90cec-7303-409e-8772-b1478defb56f@99.199.73.57:23877?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.57
+trojan://p5T9x5WrfZ@99.199.73.53:46780?security=none#CA 🇨🇦 ┇ TROJAN-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+trojan://u7kt18sg-k8ky-w9u3-csn0-jkem194a5rbs@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://yfbkdo8j-7xtg-xrb8-1azw-rksxti4ctv1n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
