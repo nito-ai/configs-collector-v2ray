@@ -1,9 +1,9 @@
-trojan://so082zlr-c4p7-rkvs-ptr5-c3zlfgvvy6fw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:09
-trojan://signehxn-lh1h-1xil-22d5-bkhejilteppl@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://lpdqpn1m-rfps-xc6j-a933-ohhr2j6f0o4k@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-trojan://ttfang@164.52.2.98:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - CDSC-AS1 ┇ 164.52.2.98
+trojan://6ibvfj3f-9pl2-aokv-nrng-wqcxjpfaiy8n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:36
+trojan://fkkuujws-yzhy-v53e-kpzh-e6fc64i6rbh3@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://6sd1wt58-i02u-sp2o-d1xi-62za0gk4my49@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@148.153.234.37:443?type=ws&security=tls&path=/current_time&sni=ahmedquran19.xyz&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - CDSC-AS1 ┇ 148.153.234.37
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@164.52.2.100:443?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.100
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@164.52.2.99:443?type=ws&security=none&sni=0926.qiang2000.link#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.99
-trojan://dhepe8nr-xjnl-1c92-q2p3-ftajv6ed5gmj@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://0l119ml3-sgjb-uf5m-z9h2-ozw0bw1b090s@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@164.52.2.100:443?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.100
+trojan://ttfang@164.52.2.98:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - CDSC-AS1 ┇ 164.52.2.98
+trojan://6zz13snv-if6d-ukzs-n1qb-ewflqb1rdmcm@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://pcgzq2mn-fuaf-77lo-eowh-78mzchz99wth@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

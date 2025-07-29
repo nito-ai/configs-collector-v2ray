@@ -1,9 +1,6 @@
-trojan://y4jdy4up-c94j-mr3s-kdsh-tq5vxykglx2a@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:09
-trojan://esgcdzc6-v9wh-mshi-z1x1-5a7myx8u8ns2@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://l1ys76pu-djh9-zy7j-24sj-kw1kzi623nzt@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.11.189:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.36.11.189:22224
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.84.247:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.37.84.247:22224
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.93.49.62:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#54.93.49.62:22224
+trojan://257pdafb-yipy-999t-hifp-pktclyg7bjly@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:36
+trojan://n2289zr9-1ufc-9x7h-2qxq-8ejp5nl0f3cw@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://lpdjtvmo-lsvq-9sxy-jbwu-9q5jlwefnnqn@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.125.101:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#63.178.125.101:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.225.112:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#51.44.225.112:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.102.158:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.36.102.158:22224
@@ -19,5 +16,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.185.232:22224?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.208.147:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#63.177.208.147:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.54.217:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#51.44.54.217:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.134.157:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.37.134.157:22224
-trojan://w36htzm9-5gsz-sm98-31my-3zwqm5xiwf1b@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://w7i7vesm-0tlw-3xx9-1i1e-pjp89dxn2li2@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.144.90:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#18.153.144.90:22224
+trojan://dt0r472n-5gsh-hmb3-88eo-msklx26c7a7i@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://fapkdchw-orzc-d5w3-efu0-h4g26t2nhfne@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
