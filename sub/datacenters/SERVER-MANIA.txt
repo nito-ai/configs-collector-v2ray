@@ -1,11 +1,12 @@
-trojan://lxjkr34a-uj1r-r4xj-vm97-vgu3o8dig84i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:58
-trojan://3aryrd8j-t0jw-or7n-bdpp-l7342ru3p970@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://5iye1o6p-nc8v-fa8m-f7c5-2zqv1mz1f7aw@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://9kvgxn3w-859m-1ku7-d1d2-pju6fne6mna1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 02:26
+trojan://5zjy8vch-8a0v-lm7t-ts9b-q5vtf8kfakod@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://rpdgiic0-4ahl-6gsr-2q3w-lgw9agkpbybm@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?type=tcp&security=reality&sni=www.pottermore.com&fp=chrome&flow=xtls-rprx-vision&pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&sid=75#US 🇺🇸 ┇ VLESS-TCP-RLT - SERVER-MANIA ┇ 166.1.227.184
-vless://8b3f5838-7129-4b8e-9ced-35c2940ca8bc@209.127.253.154:28957?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - SERVER-MANIA ┇ 209.127.253.154
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.139:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - SERVER-MANIA ┇ 192.157.56.139
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTRVJWRVItTUFOSUEgXHUyNTA3IDE5Mi4xODYuMTI5LjY2IiwiYWRkIjoiMTkyLjE4Ni4xMjkuNjYiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ1c2EtYnVmZmFsby5sdnVmdC5jb20iLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoidXNhLWJ1ZmZhbG8ubHZ1ZnQuY29tIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU0VSVkVSLU1BTklBIFx1MjUwNyAxOTIuMTU3LjU2LjE0MiIsImFkZCI6InF2MjUuc2hlbnNldmVuLnh5eiIsInBvcnQiOjQ0MywiaWQiOiI1NzAxZmIxNi0xYzM1LTQwYjItODRmOS05Yjk1MzQwNGNiY2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.139:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - SERVER-MANIA ┇ 192.157.56.139
+ss://YWVzLTI1Ni1nY206NjZjZGEyZDQtYWQxYi00OTg4LWIyMTktNjZiYTU4ZGNmY2Iz@sg.xsus.link:10009#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - SERVER-MANIA ┇ 192.157.56.140
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@192.157.56.141:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - SERVER-MANIA ┇ 192.157.56.141
-trojan://1p2h5syg-l99p-hear-eb1j-dmi37idaun2a@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://lmbc806t-cy60-ge9g-w234-8i04xejfr8nz@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTRVJWRVItTUFOSUEgXHUyNTA3IDE5Mi4xNTcuNTYuMTQyIiwiYWRkIjoiY2xvdWRmbGFyZS54cmVuYmxvZy5jb20iLCJwb3J0Ijo0NDMsImlkIjoiNmMxNzVkMWEtYTU3Zi00ODgxLWE0NzEtMTczZWIxMzk2OTRiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIveHJlbmJsb2cvIiwidGxzIjoidGxzIn0
+vless://8b3f5838-7129-4b8e-9ced-35c2940ca8bc@209.127.253.154:28957?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - SERVER-MANIA ┇ 209.127.253.154
+trojan://f9x8f8vc-xcvl-oo91-jy1v-5mwttlf4190d@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://vilxjel4-isdh-e4t9-7n4d-3hcuhoscwos0@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

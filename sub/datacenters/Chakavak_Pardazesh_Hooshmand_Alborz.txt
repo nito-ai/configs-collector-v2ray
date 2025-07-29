@@ -1,12 +1,12 @@
-trojan://zf8zyc47-yyqu-mq1o-d15q-ed3p3boxjkf1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:58
-trojan://0grbz7u1-yyqt-fz4t-y85n-nriju70p77q3@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://193ck4nf-oqbh-9vlu-3rlp-3cxrujndhqmo@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://f0hdttxd-fiuu-vczr-yibf-n7hty7tkvg0m@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 02:26
+trojan://4bn7flfj-fa69-j491-y6tu-kmf6jcd161kf@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://3g4paqn4-zkbx-xn0b-5we0-r4rha99pifk4@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+vless://dbc5c95a-6285-4454-9a0f-86433da1e9ad@193.107.48.76:26575?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.76
 vless://26744895-9930-4ab3-8405-197d19ee9953@193.107.48.116:11564?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.116
-vless://fcdea945-f87c-4b34-9241-a33adc22af97@193.107.48.105:10750?type=tcp&security=tls&sni=netflow.yoooka.lol&fp=safari#IR 🇮🇷 ┇ VLESS-TCP-TLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.105
-vless://348cd64e-a551-422b-93f2-55e34fdb1601@193.107.48.54:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.54
 vless://9deec183-c239-448b-ac49-a1df69bcf314@193.107.48.63:2222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.63
 vless://dae7d6e9-b2f9-5ee5-9433-b77865ef607c@193.107.48.99:80?type=ws&security=none&path=/vless#IR 🇮🇷 ┇ VLESS-WS-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.99
-vless://dbc5c95a-6285-4454-9a0f-86433da1e9ad@193.107.48.76:26575?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.76
+vless://348cd64e-a551-422b-93f2-55e34fdb1601@193.107.48.54:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.54
+vless://fcdea945-f87c-4b34-9241-a33adc22af97@193.107.48.105:10750?type=tcp&security=tls&sni=netflow.yoooka.lol&fp=safari#IR 🇮🇷 ┇ VLESS-TCP-TLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.105
 vless://d3c44d08-7657-4bb2-b661-0f57fd2572dd@shida.ntbz.xyz:15040?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.136
-trojan://5bzsgaqu-s4uv-izyj-bsd8-v2i0o6x2qqxz@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://hzo9eact-hmy0-9dat-hs62-feq0z5aa1t8v@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://27fbunmx-amjv-4bjc-5a0x-h1c3i8edbgmk@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://pz2040k4-w7ke-lve5-lox0-sh2mkht9q13z@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

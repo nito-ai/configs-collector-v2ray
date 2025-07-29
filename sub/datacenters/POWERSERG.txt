@@ -1,7 +1,7 @@
-trojan://0sv75ex6-52xz-28eb-d5kr-8hhebhi6xvrx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:58
-trojan://yon00a3g-dzwz-u6ey-accb-p1lf5kjz0qz5@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://mg9s0ba5-pbf3-5j82-kdu7-khseu9a7uf5s@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@23.134.82.1:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - POWERSERG ┇ 23.134.82.1
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@23.134.82.2:80?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - POWERSERG ┇ 23.134.82.2
-trojan://hakmlwrv-wyt8-elfh-jriu-fyv012suh6jg@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://vywoov2a-r1y1-1nfe-3kux-n2yo3v0whjej@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://99ohxh5s-n42y-uncx-u0sc-f9vvls6mhixu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 02:26
+trojan://4l9eukbp-1by3-xsd9-iusk-8uigcdfog5l9@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://pdr1lb85-ylyv-ebmv-97xk-gd62fxzuqnx7@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@23.134.82.2:80?type=tcp&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - POWERSERG ┇ 23.134.82.2
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@23.134.82.1:80?type=tcp&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - POWERSERG ┇ 23.134.82.1
+trojan://z4xod0gr-wya1-k0bu-liey-k8ouh2s7csnn@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://uxximcvj-l6zk-xyag-xora-m9g8yhsidpy5@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
