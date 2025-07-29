@@ -1,6 +1,6 @@
-trojan://8a878ccv-6dbw-4kxn-rr5p-9fin3ugafimm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 03:24 ]
-trojan://bboxj4o0-sgz4-1bl7-qw3e-vo4ph3m2z3xh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://el2ke6kr-k5xy-1tse-9lpe-9bl44v1xs2tf@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://5xiqf0nf-aalg-fsso-7ov6-2spfrwajoyjl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 05:26 ]
+trojan://3z9phffk-vhml-xltp-thon-oz1uw4vbtveh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://s2c6s9kj-cvjs-j5qm-oucy-b33q6b4vlq19@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://TELEGRAM-CONFiGLiNE@151.101.67.8:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#151.101.67.8:80
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8880?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8880#172.66.40.99:8880
 vless://1e42bb69-5306-40ee-98b7-61a38f7a8c1c@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#172.66.40.99:8080
@@ -10,5 +10,5 @@ vless://4e1f6df7-b7ee-401a-8550-9cc630bbc698@172.66.40.99:80?type=ws&security=no
 vless://78a43d4d-4ca4-4bc0-97b2-6cca7608d437@configline.fast.hosting-ip.com:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#configline.fast.hosting-ip.com:80
 vless://bb04c8c0-4892-49f5-b6cb-6bf599bb508b@172.66.40.99:80?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8880#172.66.40.99:80
 vless://8db05692-d11d-4bce-840a-1f262e5c1dde@95.211.63.241:443?type=grpc&security=reality&sni=stackoverflow.com&fp=chrome&pbk=eni8YmZ7mEZucyXJI_emXL11Fhf92wn4yAWI2-GFr2E&sid=1eaa7734be14#95.211.63.241:443
-trojan://386428ua-ycj9-vzxe-5ly3-kz5pqjuun4r1@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://2wpwybmw-nxqp-f3bz-9ume-yqesjslbhw9t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://hl6wmjf7-r3u9-ydu7-ltxo-a4twl3ecr436@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://shbp3qzn-5hlp-f9qg-8ei0-r7jzrf1k2nkd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

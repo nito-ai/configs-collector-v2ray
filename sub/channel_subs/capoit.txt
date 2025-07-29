@@ -1,6 +1,6 @@
-trojan://92aa95bu-ie6m-miij-c1yg-nrybis6uk1cf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 03:24 ]
-trojan://12soc4al-fdmj-97o5-8ji2-u9smgrtaakwu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://ctofjfx7-1v12-2e2f-yub9-3hix7w09vdxk@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://qxekif0h-98zs-xpxl-tr9o-es5jcohem7fy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 05:26 ]
+trojan://6897i91c-op1o-fcm0-s31c-5t3m5lp0ieu9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://346djlwe-9zwk-zfr2-7fij-dsib96q9ac5x@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@151.101.242.172:80?type=xhttp&security=none&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&sni=global.ssl.fastly.net&fp=chrome#151.101.242.172:80
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
 vless://2b6f8f8c-4e7f-40f6-95b0-b57e88e8137a@www.speedtest.net:2095?type=httpupgrade&security=none&path=/@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02#www.speedtest.net:2095
@@ -30,5 +30,5 @@ vless://f0050c31-06b1-4ebd-a10c-fe1e73632067@v05.vxlimir.com:1370?type=tcp&secur
 vless://f0050c31-06b1-4ebd-a10c-fe1e73632067@v05.vxlimir.com:1370?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#v05.vxlimir.com:1370
 vless://d5f63b9e-780a-472a-9d1b-e2088087a037@194.182.79.252:37814?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=rk5UKshtrRPf3achXqaxQgA-7EryZABGx6fSXv35D14&sid=10a5#194.182.79.252:37814
 vless://e40a9ae6-872f-4452-a19b-a63fbd759d54@194.182.79.235:28257?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=1mkQipIydK3Je5xGCdYUhuEmnsqMvdEGyheJxtBKwlY&sid=c9497c0ea7a8ce1e#194.182.79.235:28257
-trojan://cujbwghs-4wny-2d0a-ove4-1suicmfk67bz@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://ipsvx191-v4y3-tut6-27s1-8bh42lzc5ad3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://fnjux9cm-cjot-5mk5-h9rx-9dvuxhqbvxe7@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://yrkfkrji-jnb7-ssqp-b93h-j479wnsnrtpl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

@@ -1,13 +1,13 @@
-trojan://ma0dtbg2-zh0z-afnn-48nk-4vzm7cgzg0i4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 03:24 ]
-trojan://433nitw5-i7px-kwmw-vp9o-5jbjc28s3wcf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://oj8r2nfp-u0bn-e09h-16rb-pnx7x2bjyxin@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiTU8gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb21wYW5oaWEgZGUgVGVsZWNvbXVuaWNhY29lcyBkZSBNYWNhdSBTQVJMIFx1MjUwNyA0NS42NC4yMi41MyIsImFkZCI6IjQ1LjY0LjIyLjUzIiwicG9ydCI6NDQzLCJpZCI6ImIyZTgzYTU1LWYxYjktNGEyOC1iZGJkLWMwN2YzYTI3ZGQ5OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLzIiLCJ0bHMiOiJ0bHMifQ
+trojan://hst7qwx3-g86n-uqcr-6vjd-h93jgiqa8zum@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 05:26 ]
+trojan://h7404pbp-34hk-sdw7-0anz-8w135bm2gjat@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://j6hto7jz-a9c4-2b9l-37wh-mftsrm9sv2sw@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@45.64.22.41:443?sni=jgw2.gaox.ml&peer=jgw2.gaox.ml&security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.41
 vmess://eyJ2IjoiMiIsInBzIjoiTU8gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb21wYW5oaWEgZGUgVGVsZWNvbXVuaWNhY29lcyBkZSBNYWNhdSBTQVJMIFx1MjUwNyA0NS42NC4yMi4yMiIsImFkZCI6IjQ1LjY0LjIyLjIyIiwicG9ydCI6NDQzLCJpZCI6ImU1NWVkN2IyLWVkNGYtNDgwYy04Yjk5LTA4NDgyZGExZTRjNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiaGtibi5wZ3lwZ3lrbW9samtsai54eXoiLCJwYXRoIjoiL09CN2pUTTVjVFRyTCIsInRscyI6InRscyIsInNuaSI6ImhrYm4ucGd5cGd5a21vbGprbGoueHl6In0
-trojan://!str123456@45.64.22.56:443?security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.56
+vmess://eyJ2IjoiMiIsInBzIjoiTU8gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb21wYW5oaWEgZGUgVGVsZWNvbXVuaWNhY29lcyBkZSBNYWNhdSBTQVJMIFx1MjUwNyA0NS42NC4yMi41MyIsImFkZCI6IjQ1LjY0LjIyLjUzIiwicG9ydCI6NDQzLCJpZCI6ImIyZTgzYTU1LWYxYjktNGEyOC1iZGJkLWMwN2YzYTI3ZGQ5OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLzIiLCJ0bHMiOiJ0bHMifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTU8gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDb21wYW5oaWEgZGUgVGVsZWNvbXVuaWNhY29lcyBkZSBNYWNhdSBTQVJMIFx1MjUwNyA0NS42NC4yMi42IiwiYWRkIjoiNDUuNjQuMjIuNiIsInBvcnQiOjQ0MywiaWQiOiJmZmZmZmZmZi1mZmZmLWZmZmYtZmZmZi1mZmZmZmZmZmZmZmYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InAzLmNoaWd1YS50ayIsInBhdGgiOiIvdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwMy5jaGlndWEudGsifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTU8gXHVkODNjXHVkZGYyXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1OL0EtTlRMUyAtIENOU0VSVkVSUyBcdTI1MDcgMTYzLjUzLjI0Ni4yMzkiLCJhZGQiOiIxNjMuNTMuMjQ2LjIzOSIsInBvcnQiOjEwMDY1LCJpZCI6IjFmMzA4OTk2LTdmYTYtNDZhYy04NzAwLTdkNzY2ZWFlMDg0YiIsImFpZCI6MCwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIn0
+trojan://!str123456@45.64.22.56:443?security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.56
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5d3M5RjRNS05zTHhwTWpiVFYzag@45.64.22.55:443#MO 🇲🇴 ┇ SHADOWSOCKS-TCP-NTLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.55
 trojan://Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS@45.64.22.23:443?sni=reooec.freetrade.link&peer=reooec.freetrade.link&security=tls#MO 🇲🇴 ┇ TROJAN-TCP-TLS - Companhia de Telecomunicacoes de Macau SARL ┇ 45.64.22.23
-trojan://gjn89uvd-fb9b-jxo0-hkvt-nmogbq3f03pg@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://7xgnc973-cyf1-8oz4-110t-amn1ijwfg4vt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://lvz926s0-k2h5-r8ov-j8wg-cvb40bfs8o2n@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://4wspclxt-zqp8-sgrc-ngcz-gz0dqxe4ze5j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

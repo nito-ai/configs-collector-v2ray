@@ -1,6 +1,6 @@
-trojan://p97aobb2-moih-7wfa-59bi-357j9ysu7urm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 03:24 ]
-trojan://hiqlz1cb-e2oz-typ8-mgbx-5eu46qp615mh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://ifpqzy0c-2xe8-drmr-5iy7-3ph0pgqc0syh@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://a4whyncx-rx55-p9jb-pnus-ft1objjsqko7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 05:26 ]
+trojan://3s7798gd-cgbi-g3jp-vn6v-1e38z9lor9js@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://dc0wn6fr-r1lv-i9jh-bcjc-mmu09vhehkjl@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s2.1dnt.k-l.cloud:80?type=xhttp&security=none&path=/123#s2.1dnt.k-l.cloud:80
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&security=tls&path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet1-706.pages.dev&fp=randomized#162.159.129.67:8443
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
@@ -38,5 +38,5 @@ vless://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?type=t
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#in1.configlinepanel.com:8443
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@uk1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#uk1.configlinepanel.com:8443
 vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=firefox&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&sid=e5caf4654f#ger.afterhav.ir:8880
-trojan://o7vldl6u-1a8u-h4iq-78zi-la2k8wwcc7zj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://yqjzahvl-ol4r-r2gn-w4uc-ab1uxbq2tmsc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://g1wehwyi-i1l3-qrke-y4k9-wg945ip0bxat@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://pabtewqu-y0jg-hbio-b8ah-c1wwbrcain3r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

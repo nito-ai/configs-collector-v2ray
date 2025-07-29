@@ -1,15 +1,12 @@
-trojan://yvnueyax-d29a-3b0s-47of-7cugt91ts08p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 03:24 ]
-trojan://oar4dmb8-74zr-xifa-kbkn-x8yzqkykyoaf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://57qr1a0c-ykn7-a3vx-xd03-5fqwcng4bdip@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://6vh72r0a-ipf2-iima-5t86-9ahv2gmstpvl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 05:26 ]
+trojan://268gkcym-6r3l-9y9s-q8d1-y97g87wucdnj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://bk5h8nuf-d8tl-0fts-db73-cishvru7v6la@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.113:6679#23.157.40.113:6679
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.142.4:989#138.186.142.4:989
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#38.114.114.69:7002
 trojan://NISHIKUITAN111@103.169.142.224:443?sni=zb.ylks.xyz&peer=zb.ylks.xyz&security=tls#103.169.142.224:443
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjQ1Ljg1LjExOS4xOTAiLCJwb3J0Ijo0NDMsImlkIjoiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImZhcmlkLjEuYmVyb3poYS5pciIsInBhdGgiOiIvdXMua2twLm1lLmV1Lm9yZy9hYSIsInRscyI6InRscyIsInNuaSI6ImZhcmlkLjEuYmVyb3poYS5pciJ9
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjYyLjE0Ni4yMzUuMTkzIiwicG9ydCI6MjgwMTEsImlkIjoiY2ZjNWE4N2YtM2MxMy00ZTI1LWI1NTYtMTc2Y2RkNmI1YzZhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjkxLjIyOC4xMC4xMjUiLCJwb3J0Ijo0NzY4MiwiaWQiOiI2YjgzN2RkZC03ZGZiLTQ1MjAtZGQ5Yy02NWQ2MWQ2NDA4OTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjEwNC4yNi4wLjc3IiwicG9ydCI6ODg4MCwiaWQiOiI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5In0
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.16.69.162:8880
-vless://f43a5e74-3d87-4bd2-a1a0-058bd25c9d03@91.107.166.105:44781?type=httpupgrade&security=none&path=/#91.107.166.105:44781
 vless://b1900e78-75d0-4a0f-9292-92691b35258c@dl.yndl.ir:2083?type=grpc&security=tls&sni=dl.yndl.ir&fp=chrome#dl.yndl.ir:2083
 vless://154fbdaf-49d6-4290-9892-f30ff9e6b570@91.107.166.105:45688?type=xhttp&security=none&path=/#91.107.166.105:45688
 vless://c865eac6-c48c-4c47-b709-b2fa4c2426ee@91.107.166.105:47199?type=tcp&security=none#91.107.166.105:47199
@@ -19,6 +16,9 @@ vless://07f1493c-46dd-44ea-82e1-bb9c4a24aed0@rat5002.amrgpt.sbs:5002?type=tcp&se
 vless://cbf5530d-4a92-4179-913e-1d9b8b5e05da@91.107.130.24:32401?type=tcp&security=none&path=/shop?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#91.107.130.24:32401
 vless://39c36199-7277-4c3b-8170-f57698c9daee@104.16.157.108:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#104.16.157.108:8080
 vless://ae1980f1-ff66-4761-bb2f-12dd54c57c48@91.107.166.105:26929?type=tcp&security=none#91.107.166.105:26929
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://fd9eb6e9-bc83-4ff3-afb5-f923600e65f6@catherinede.hpcdn.info:80?type=httpupgrade&security=none&path=/37263/hMMad#catherinede.hpcdn.info:80
 vless://9cffbdcf-e54c-4e5c-8af8-a98756edce13@context.lonup.org:55500?type=tcp&security=reality&sni=refersion.com&fp=edge&flow=xtls-rprx-vision&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#context.lonup.org:55500
-trojan://g0x6yoa5-v5zj-0q5g-ep5h-qkgo2is4n86g@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://tkxrzba4-jftr-x2wy-67r0-z0cwv3efyhsw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#russiatest-tap2.servers807.ir:2025
+trojan://v69yt2pi-s9i7-3hay-dt62-jv72lse7hgtk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://vfzert7m-kgfc-vd1i-q8af-yna0n5u1u4qy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

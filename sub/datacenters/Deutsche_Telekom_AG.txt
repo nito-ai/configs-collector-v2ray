@@ -1,9 +1,9 @@
-trojan://ot3wwwhe-jxw8-rv31-qg5p-4nvobgm2wzm3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 03:24 ]
-trojan://b2td9pn1-s90m-dz94-fhz3-2ry3bh6k20l6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://v98d0urf-e5qb-ac9e-eb3y-hsi30wsdf75e@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRGV1dHNjaGUgVGVsZWtvbSBBRyBcdTI1MDcgNDYuODIuMTc0LjY5IiwiYWRkIjoidXMuaGUuMDcubmVrb2Nsb3VkLmNuIiwicG9ydCI6MTAwMDIsImlkIjoiOWMyYjY0ZWItMDNkOC0zY2M3LTliYTYtMmUyNTAwMmY1OWI1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvY2F0bmV0In0
+trojan://za1yx6n6-ekyb-kfak-vg3c-3iokz7ct9lyh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 05:26 ]
+trojan://6y7gym3d-njvv-gpsf-738l-0zqq2wfrwlea@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://75ge6qb1-n690-xsg3-39k7-ktyvzhmj6uph@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://1earf053-5ff6-4def-b234-d760690355ff@91.19.83.138:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Deutsche Telekom AG ┇ 91.19.83.138
 vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?type=tcp&security=reality&sni=Zula.ir&fp=chrome&pbk=GiJD-Fcy7f8Ec0jJ2bfKwjIgVJgdblJ-HUEVt0r8LCM&sid=ce1f64bf8464#DE 🇩🇪 ┇ VLESS-TCP-RLT - Deutsche Telekom AG ┇ 193.9.16.37
 vless://2d886b86-0b67-42cb-be4a-5d5480422df7@dns.hosseinjadgall.sbs:443?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - Deutsche Telekom AG ┇ 193.9.16.47
-trojan://lskfw8ro-d5jx-owrb-jj2o-djyq8rjwzdtw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://mkpf526h-itco-0vqp-d5pq-9s8qgnqnwvde@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN2RlNmZlMi02MDZkLTQ2ODMtYWEyMi1jMWE1MGEzOTQ5Y2I@dx.ktmwan.top:10713#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Deutsche Telekom AG ┇ 46.82.174.69
+trojan://5nt4tkp7-t7i3-x0j5-kx95-uaht9owu332v@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://v4ssk2ft-dgmp-l4nq-bkl4-clr2xw7w2tze@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
