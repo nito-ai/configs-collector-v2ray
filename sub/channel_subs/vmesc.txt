@@ -1,10 +1,9 @@
-trojan://8x5n3hjc-8uh9-ir09-kk03-qnmzrp3ffx6o@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
-trojan://p58sxrdp-irsa-mpni-kbwf-yuigl7jlmush@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://go9c53aw-ra6b-625y-mz1r-81ge6fblw221@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://ftw906fr-f6t4-yy2n-yqlk-mj0o6eeuneww@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:11
+trojan://9vpdrlsa-6440-vjmv-yl82-0x8xl95c4boi@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://q71krmxa-q7y6-qd3q-j52b-3wjoid3wwtgu@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#92.112.126.90:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIFx1MDY3ZVx1MDYzMVx1MDYzM1x1MDYzMVx1MDYzOVx1MDYyYSBcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2NcdWRmMGJAdm1lc2MiLCJhZGQiOiIxMDkuMTIzLjIzOS45OCIsInBvcnQiOjgwODAsImlkIjoiOTMyMmQwZTYtNDI3NS01MmJiLTgyNmMtNzMwOTAzMDZmMGJjIiwiYWlkIjowLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?type=tcp&security=none#193.238.153.85:13305
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?type=xhttp&security=none&path=/xhttp#91.99.183.30:8443
 vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?type=ws&security=tls&path=/KvNugxSUpljMOjgF/NzguNDcuMTU3LjY=?ed=2560&sni=InviNCIble.FAfA20.shOP&fp=randomized#160.153.0.153:8443
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#198.62.62.175:8880
@@ -19,5 +18,6 @@ vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?type=ws&security=tls&path=/proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm?ed=2560&sni=vl.hongkong6.qzz.io&fp=random#www.visa.com.sg:2087
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?type=ws&security=tls&path=/?ed=2560&sni=vl.hongkong6.qzz.io&fp=random#www.visa.com.sg:2087
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880?type=ws&security=none&path=/LGTE4FBhMm0wY9yE?ed=#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560#172.67.211.214:8880
-trojan://an0559ip-84ww-j5gf-mlt8-eemaodz3q42i@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://34j1xmn0-hr4t-6y19-p4sj-kzc3lbac01xn@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880?type=ws&security=none&path=/LGTE4FBhMm0wY9yE?ed=2560#172.67.211.214:8880
+trojan://qprng1kz-daec-9fai-42m7-tokbqnr1h6sk@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://31n3u8zj-ygcn-3h15-ltf6-k2pkclbnv9ej@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
