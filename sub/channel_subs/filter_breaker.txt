@@ -1,6 +1,6 @@
-trojan://e955a9wg-txwe-9foy-5pbp-qz2uvxh76m0k@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 21:08
-trojan://y4i00idj-r19y-xcoa-fiaz-raflfpbdrniq@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://haem8i8x-vqem-yya3-ikc3-u4kgzufssux8@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://sht227c8-sr1g-io7p-gyqo-wu755tjnlbcw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 21:36
+trojan://5h1ohdsl-v9sx-d3zj-fgcp-o9v19gsb834g@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://bpu1upol-qvne-icbm-asy0-mei64vmup48s@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#45.87.175.165:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#45.87.175.157:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#216.173.70.187:57456
@@ -60,6 +60,17 @@ vless://376a6939-9876-4e54-84f7-02376b4c510c@em-5.web-manage.com.tr:3789?type=tc
 vless://376a6939-9876-4e54-84f7-02376b4c510c@em-2.web-manage.com.tr:3799?type=tcp&security=none&path=/#em-2.web-manage.com.tr:3799
 vless://376a6939-9876-4e54-84f7-02376b4c510c@em-3.web-manage.com.tr:3799?type=tcp&security=none&path=/#em-3.web-manage.com.tr:3799
 vless://376a6939-9876-4e54-84f7-02376b4c510c@em-4.web-manage.com.tr:1429?type=tcp&security=none&path=/#em-4.web-manage.com.tr:1429
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@127.0.0.1:443?type=tcp&security=none#127.0.0.1:443
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@127.0.0.1:443?type=tcp&security=none#127.0.0.1:443
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@tunell-rezidental.az9x99.ir:2070?type=tcp&security=none#tunell-rezidental.az9x99.ir:2070
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@rezidental.az9x99.ir:2053?type=tcp&security=none#rezidental.az9x99.ir:2053
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@tunell-star.fastsoft98.ir:2010?type=tcp&security=none#tunell-star.fastsoft98.ir:2010
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@tunell-rezidental.az9x99.ir:2080?type=tcp&security=none&path=/#tunell-rezidental.az9x99.ir:2080
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@mw.soft98speedtest.ir:2087?type=ws&security=none&path=/scer#mw.soft98speedtest.ir:2087
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@mx.soft98speedtest.ir:2053?type=ws&security=none&path=/scer#mx.soft98speedtest.ir:2053
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@tunell.star.soft98speedtest.ir:443?type=tcp&security=none#tunell.star.soft98speedtest.ir:443
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@msx.soft98speedtest.ir:2087?type=ws&security=none&path=/scer#msx.soft98speedtest.ir:2087
+vless://82a7096c-f8c1-4087-9afd-5bac562438e2@www.tunell-star.soft98speedtest.ir:2087?type=tcp&security=none&path=/#www.tunell-star.soft98speedtest.ir:2087
 vless://168ff749-f14d-4092-a456-cdaf25afc290@irancell2.sbarshia.ir:2095?type=tcp&security=reality&sni=snap.ir&fp=firefox&pbk=c7S104FqE1TNyQ39PoMoCxYpJkyKpC-gdOuwlzGOphg&sid=14bae9cf136fce37#irancell2.sbarshia.ir:2095
 vless://168ff749-f14d-4092-a456-cdaf25afc290@irancell2.sbarshia.ir:8443?type=tcp&security=reality&sni=miare.ir&fp=chrome&pbk=GkCxlHoVtlBNunDhQfYrz9QunYg3NhMRsKOscdrG83E&sid=14bae9cf136fce37#irancell2.sbarshia.ir:8443
 vless://c97efd65-10e4-4014-8725-19e4e3014574@geteway.nub-shop.ir:443?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=sqPEvDuHhNvglx0mxSX1tUharYmm-rb-0yGXEvIrbhA&sid=83b0fe5e2e457b59#geteway.nub-shop.ir:443
@@ -88,5 +99,5 @@ hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyjnd.flylink.cyou:35280?sni=f
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyxg.flylink.cyou:35290?sni=flyxg.flylink.cyou&insecure=1&obfs=salamander#flyxg.flylink.cyou:35290
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyrb.flylink.cyou:35300?sni=flyxg.flylink.cyou&insecure=1&obfs=salamander#flyrb.flylink.cyou:35300
 hysteria2://e283d4e4-cbee-45e1-ab19-8eb0c9927891@flyhg.flylink.cyou:35310?sni=flyhg.flylink.cyou&insecure=1&obfs=salamander#flyhg.flylink.cyou:35310
-trojan://40tvkxtd-7ptb-aruc-bxbh-enmgt9fba76z@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://e3vfyp10-v9z9-z4g9-p74v-q71mab38lo0d@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://pmen9qw3-qeac-jbdu-u1dc-5zeofpgooomd@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://0drgarxe-1tjl-ooqk-rwd6-t9zxtjmrl03j@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
