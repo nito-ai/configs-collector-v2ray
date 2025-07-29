@@ -1,6 +1,6 @@
-trojan://4ojr95fb-56iu-ex8l-sskm-mmygkjr82fri@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 22:46
-trojan://c1vebh5q-8x2a-zrk4-ki78-xmvrqtrbsc3j@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://c80nlqmh-qyfh-fsfh-qf8o-2vuh65ptqq28@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://ton054ib-av4s-dai1-79b4-6en3f7dutdpf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 23:28
+trojan://g0loqsmg-uipt-bzqm-ggz1-nr1kel5igirr@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://oaq3vz41-3xud-jygd-mrdp-r0fqs2csaqev@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.51:8118#23.154.136.51:8118
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.132:6697#23.154.136.132:6697
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkY2UyQEhvc2hNYXNub2l5RmFyc2kiLCJhZGQiOiI1MS43OS4xMDIuMjUzIiwicG9ydCI6ODAsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIn0
@@ -14,5 +14,5 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?type=ws&security
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?type=ws&security=none&path=/#62.72.166.20:8880
 vless://8b017de8-d24a-46f6-b994-5d2ed4c005ff@188.121.118.57:20753?type=tcp&security=none#188.121.118.57:20753
 vless://TELEGRAM-NUFiLTER@195.201.223.212:3070?type=grpc&security=reality&sni=maps.google.com&fp=firefox&pbk=K-AgP2OLm7ClQGPg0wQFsrFDDVmXMrJvHZnOxv55_mI&sid=80#195.201.223.212:3070
-trojan://0fvjb6tm-upb3-3z6k-pnhx-zc43tf2fo6me@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://7fqu5hf4-79gn-gosr-0vqm-rnl0yyeh9gzn@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://2dbf6zuv-2a4g-to14-04qe-wcvhaachadst@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://v8dshivh-kxlc-1qkk-ruf4-f83qf9rjo15c@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

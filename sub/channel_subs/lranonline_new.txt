@@ -1,12 +1,10 @@
-trojan://936ulp8k-qnck-k0ob-55zv-k8pbjs8xdn04@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 22:46
-trojan://twprjqmq-zacf-j3i5-oacs-7bhlqxapwj28@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://mctg18ht-s3su-cu43-g2et-m55km3t2a15h@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://gvwybunb-f1kt-cfws-h5dr-65dqin4g6f95@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 23:28
+trojan://hay3xru4-r6gc-b346-zn38-qcgta7reo3qv@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://i3690gq7-y8gz-2yio-95sf-spbcny1p2uov@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#104.167.197.25:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#45.87.175.65:8080
-vless://6b124f24-c45a-4e5f-8c45-bb5d2cdc7fbd@www.speedtest.net:2086?type=httpupgrade&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086#www.speedtest.net:2086
-vless://362870a8-70e8-4a1b-c4a7-27c8a6c14797@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
 vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@104.21.112.1:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
 vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@opening-hours.nz:80?type=ws&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#opening-hours.nz:80
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
@@ -22,5 +20,5 @@ vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegra
 vless://48cd341c-6bb8-4e18-a59d-e2813bf02993@45.91.237.48:443?type=tcp&security=reality&sni=moktana.digital&fp=chrome&flow=xtls-rprx-vision&pbk=35qsDXTLann5WRm9qOP6S6XMerioabdkAlX8sWsM-kM&sid=e14b4583c7162e6e#45.91.237.48:443
 vless://Telegram-SRCVPN-@91.107.129.66:3080?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3080
 vless://Telegram-SRCVPN-@91.107.129.66:3090?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3090
-trojan://i3msfz1w-n6dk-nf7j-t8la-o74ltb2x1q5q@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://s0lwgx54-vtj0-mm9x-xsks-j94i5bszdack@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://p5vt2np1-21gi-6ibz-ugsd-9o8o0q16xe6m@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://7frh4kvl-130u-k7tw-c715-6rm3qutx17um@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

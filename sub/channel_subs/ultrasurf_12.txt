@@ -1,6 +1,6 @@
-trojan://trl4au84-b00q-j5q2-imuf-58a6h24lvnv3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 22:46
-trojan://7mn53b6b-5j7h-jd4n-89ju-7jgo4s1fiudr@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://8q2kk0gr-yu4c-ejzq-2kir-nxcen746hazj@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://vmmadsne-9iim-d70r-lmx9-11i7x3wnmxi9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 23:28
+trojan://5n9cxjfx-23y8-rnf4-qv2i-35ls5xr1ha4i@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://6izqv3v2-vn1q-xd1k-0i0q-sxqt1nvvkunc@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&security=none#45.82.251.78:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?type=ws&security=none&path=/34COh9NCiin5SJMk?ed=2560#172.67.207.54:8880
@@ -19,6 +19,11 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.191.195:80
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?type=ws&security=none&path=/@HiByeVPNN?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.228.91:80
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.191.195:80
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?type=ws&security=none&path=/@HiByeVPNN?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.228.91:80
 vless://57a5d042-6618-4042-a2de-1a2169c4ce9d@165.227.244.151:1419?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=0L-XvEVE4KLbDk-evkkxEWK3y-Nkz0E181t0PD_o4h4&sid=ae439107157c97#165.227.244.151:1419
-trojan://dxxglex0-3hc5-pqfh-7i3z-fwee9ww7jlbd@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://ru7yo1hs-vnex-uw4o-o3s9-zifxofwo76an@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://57a5d042-6618-4042-a2de-1a2169c4ce9d@165.227.244.151:1419?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=0L-XvEVE4KLbDk-evkkxEWK3y-Nkz0E181t0PD_o4h4&sid=ae439107157c97#165.227.244.151:1419
+trojan://bdlwmlbg-769z-ydqi-v7f2-n474ki3useu3@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://6p7jdrkg-c4id-2xvi-e6ap-ddhpboerqrqb@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
