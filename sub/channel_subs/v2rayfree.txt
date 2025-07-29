@@ -1,8 +1,10 @@
-trojan://ldqxms3j-x8aw-svpu-fpqc-v09lmdjmcpux@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 00:03
-trojan://nvanauhx-9h5e-dro6-fz4a-3n8h2kdq4lnw@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://jmyjaj0p-pz79-v9dh-zram-aglswhmukj7i@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VXp1dWxoTWNiZWVEdGFYbVdpUFdM@45.95.232.236:4248#45.95.232.236:4248
+trojan://usgr9sx7-wplj-0ixw-10qd-jbt46j0xc9hv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 00:32
+trojan://ircws6i0-7yqq-9l8h-b325-u9jfxxqomdji@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://jdfv5i9h-rsj3-eaba-wu4t-ngo4upfc9lh8@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://c791bcdc-b9b3-4ca2-8110-fa705f4a9d32@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
+vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?type=tcp&security=none#15.204.236.64:24820
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.17.1.197:8880
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@5am.postpapet.ir:13136?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#5am.postpapet.ir:13136
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@goat.postpapet.ir:13136?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#goat.postpapet.ir:13136
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@luna.postpapet.ir:13136?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#luna.postpapet.ir:13136
@@ -14,5 +16,5 @@ vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@luna.postpapet.ir:8443?type=xhttp&s
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@luna.postpapet.ir:443?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#luna.postpapet.ir:443
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-02.saitsazs.ir:13113?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#dl-02.saitsazs.ir:13113
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@meow.postpapet.ir:443?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#meow.postpapet.ir:443
-trojan://oola38wm-98dw-vsde-gw26-0go84ct24wsl@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://2x3no0le-agua-nmi0-m83p-08dbrdb0f9i3@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://2wc190r9-h6wu-uf9r-oofo-yp50azg3t774@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://y853e9qg-ski0-p76g-3oxg-9bj0i8gasm1g@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
