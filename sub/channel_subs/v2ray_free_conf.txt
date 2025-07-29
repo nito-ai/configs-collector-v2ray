@@ -1,13 +1,11 @@
-trojan://t0x64d4a-ahqx-whqu-wgep-kmz6m12gz7fg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 02:26
-trojan://ipf2q2jj-sdvr-3gnf-awj7-e5zu12f2s97a@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://jybkrhfe-snyq-fpgi-48ei-l5zg5qy9kb7a@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#beesyar.org:8080
+trojan://dy48szt5-na6z-zxgt-jhb5-rnys44f4y0rm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 02:58
+trojan://dug8m0sx-9bvt-0v1q-v6oc-nhif8bi79usv@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://bex9tump-e704-5caq-yc6b-qir3ntvy79g8@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.18:9020#217.30.10.18:9020
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5a1ZjYVduYmJFZHFuOWk3RXVOUkY3@94.159.96.245:11902#94.159.96.245:11902
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFE5S0pWeUVDWWY@62.60.232.20:443#62.60.232.20:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#45.87.175.171:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#45.87.175.190:8080
-trojan://telegram-id-privatevpns@18.185.164.56:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#18.185.164.56:22222
 trojan://telegram-id-directvpn@13.39.179.147:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#13.39.179.147:22223
 trojan://telegram-id-directvpn@51.44.54.217:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#51.44.54.217:22223
 trojan://telegram-id-privatevpns@51.44.54.217:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#51.44.54.217:22222
@@ -19,7 +17,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ29uZmlnJUYwJTlGJTg3JUE5JUYwJTlGJTg3JUFBJTQwRG9faXRm
 vmess://eyJ2IjoiMiIsInBzIjoiQERhcmtIdWJfVlBOIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NCBcdTA2MmFcdTA2NDRcdTA2YWZcdTA2MzFcdTA2MjdcdTA2NDUgIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsImFkZCI6IjE3NTAxNTg3NDEudGVuY2VudGFwcC5jbiIsInBvcnQiOjQ0MywiaWQiOiI4N2I5OTJlNC00MmM5LTQzNDItYTlhYS00ODZjNDE0NGE4ODIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZnJlZTUubG9vcHljbG91ZGNmamlhc3VjZG4udXMua2ciLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6ImZyZWU1Lmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjIyXHUwNjQ0XHUwNjQ1XHUwNjI3XHUwNjQ2IFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBAVjJ4YXkiLCJhZGQiOiI2Mi42MC4xODYuMjgiLCJwb3J0Ijo0NSwiaWQiOiIwZGMwZDIyYy02OGU1LTQ0MGEtOTQ2NS05N2NhZDhkMWNmMzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiUmF5YW4gLSBTU1QgLSBTRyAtIElJSSAtIFx1ZDgzZFx1ZGNhZSB0Lm1lL1JheWFuX0NvbmZpZyIsImFkZCI6Ind3dy5zcGVlZHRlc3QubmV0IiwicG9ydCI6ODQ0MywiaWQiOiIzOTM4MjAzMS0zMDMxLTQwMzQtYjgyMC0zMTMwMzAyMDM1MzEiLCJhaWQiOjAsInNjeSI6Im5vbmUiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InNnLTMtc3N0Lm1lZGljYWxkcmVhbS5pciIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZy0zLXNzdC5tZWRpY2FsZHJlYW0uaXIifQ
+vmess://eyJ2IjoiMiIsInBzIjoiUmF5YW4gLSBTU1QgLSBERSAtIEkgLSBcdWQ4M2RcdWRjYWUgdC5tZS9SYXlhbl9Db25maWciLCJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInBvcnQiOjg0NDMsImlkIjoiMzkzOTIwMzUtMzUyMC00NDM4LWEwMzUtMzcyMDMxMzAzMjIwIiwiYWlkIjowLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkZS0xLXNzdC5tZWRpY2FsZHJlYW0uaXIiLCJwYXRoIjoiL3dzIiwidGxzIjoidGxzIiwic25pIjoiZGUtMS1zc3QubWVkaWNhbGRyZWFtLmlyIn0
+vmess://eyJ2IjoiMiIsInBzIjoiVEdcdTk4OTFcdTkwNTNAc3R5bWVpMVx1NGUyODE5IiwiYWRkIjoidjM3LmhlZHVpYW4ubGluayIsInBvcnQiOjMwODM3LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL29vb28ifQ
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.182.90:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#15.236.182.90:22224
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&security=none#185.231.205.234:8880
-trojan://dfbjnusd-4tnw-zei5-7huk-20irj6mjkekc@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://2iqdwn21-2e4l-h6td-tdkx-ncmnm04e7s90@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://xz8qvpcw-4sdt-vhb4-3ix1-ihpnesxtt286@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://lu84n66b-c15p-q1yw-o8ub-2xor9jcalro5@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
