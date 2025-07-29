@@ -1,8 +1,8 @@
-trojan://t5wlqamd-1umg-t0ei-trt8-9erypyjm3kxr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 11:26 ]
-trojan://e2swhq6j-d2ow-va33-zkqx-pbmp204z45ty@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://sdmscyce-g6t4-zlx9-rguo-cjyxf71fkbjz@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmRhZ2Jzc2ZuaGQ@de-2-sst.medicaldream.ir:8444#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cyberse GmbH & Co. KG ┇ 69.42.220.193
+trojan://gls4s2rw-r8il-a7l6-tx7g-l6haiabmnnrh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
+trojan://ocddu9zp-h4nk-x93w-orb2-bo6kfxcsmyv4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://thb7h5w6-tro1-en6o-8gzi-v40xncwckwak@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+vless://mahsa-amini2@185.230.163.62:80?type=grpc&security=reality&sni=account.zula.ir&fp=chrome&pbk=Q_KxtcfORnJxFfa70ylJb0BDMwLyecYkQaVktvnatlM#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Cyberse GmbH & Co. KG ┇ 185.230.163.62
 vless://5b101fa9-9711-4fdf-8512-43490edee4ac@185.230.162.53:39704?type=tcp&security=tls&sni=aa.com&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Cyberse GmbH & Co. KG ┇ 185.230.162.53
-vless://mahsa-amini2@185.230.163.62:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - Cyberse GmbH & Co. KG ┇ 185.230.163.62
-trojan://a8jvcnnc-yuna-phvu-co1i-gi6hncij5yz8@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://k4gkr4a2-ugjl-f89t-yba8-2esqdhiaffq8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtZmRhZ2Jzc2ZuaGQ@de-2-sst.medicaldream.ir:8444#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Cyberse GmbH & Co. KG ┇ 69.42.220.193
+trojan://c457v3n1-b71t-a5dy-eotd-y0qjyocr4rik@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://br3l7vlx-7sxv-uts1-qc73-muv8wqf82tg0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

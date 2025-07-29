@@ -1,8 +1,8 @@
-trojan://zly88cin-fo93-3sd6-757m-njuz94gzizgg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 11:26 ]
-trojan://huhz81xi-ifzr-f1kf-vld1-952kdub64n0l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://egu0plil-z5gb-mw6u-75ih-t8xgxu2djvk8@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://hblhjjgr-d9v3-xfpk-hcfj-qxxnl7fi0jtb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
+trojan://wsx8ook9-g0am-itd0-tfis-3a8p0vuy6064@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://rhl2kpvd-n0ge-kbik-wg5x-taa0yuygf7cs@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://66816f2a-4a3e-4697-e24a-9d219589b9e8@203.161.47.109:21901?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - NAMECHEAP-NET ┇ 203.161.47.109
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkFNRUNIRUFQLU5FVCBcdTI1MDcgMTkyLjY0LjExOS4xMjAiLCJhZGQiOiJ3ZWFyZXN0YW5kLmNvbSIsInBvcnQiOjgwLCJpZCI6ImE0MGQzNGM2LWI3N2MtNDY0OC05MjEwLTNlOGQyZjQyMjZiNSIsImFpZCI6MTYsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9vcGVudHVubmVsP3VzZXI9b3BlbnR1bm5lbC5uZXQtd2VhcmVzdGFuZDEifQ
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@jalurtepat.com:443?type=tcp&security=none&path=/proxyip=zani.yaemiko.ggff.net#US 🇺🇸 ┇ VLESS-TCP-NTLS - NAMECHEAP-NET ┇ 162.0.232.190
-trojan://7sodo74k-ce5e-wrqs-pmqn-00iinx9xsad0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://d0fxdtyd-aysh-f3rj-ogqh-qlsjpyg6kge3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@jalurtepat.com:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shorekeeper.cloudns.org&fp=randomized#US 🇺🇸 ┇ VLESS-WS-TLS - NAMECHEAP-NET ┇ 162.0.232.190
+trojan://h9o2r9xi-8jvl-uoh3-r5xw-5eiwxncpncv3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://j8kklfz1-z985-kbcn-k5l3-iuymjm2tc2n8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

@@ -1,9 +1,9 @@
-trojan://1mas4gld-1bb4-54h5-2i47-4quim066rmeo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 11:26 ]
-trojan://9gluxjwz-5efo-gd19-0o3s-y7b65hcx5sya@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://mjjifdmi-ooxh-4s7a-7owq-7ow3aoz4q1l0@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://92j65bib-whc3-8hjr-w4yj-hxygqd9uy2qk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
+trojan://9pgz1n9z-dmyy-dhbw-h47l-fm9ineeqd8gl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://i7j69qnb-djc9-gjm4-f46t-3jx6drz3ungo@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://f73d8952-81f2-4bac-b6c4-d81348f282ef@45.80.229.254:58258?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk&sid=a3#RU 🇷🇺 ┇ VLESS-TCP-RLT - WS Telecom Inc ┇ 45.80.229.254
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwaEljMGIydUpmZEVnZGZnMFdtNUFL@gurvpn-bot.outlinekeys.net:4443#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - WS Telecom Inc ┇ 45.80.230.235
+vless://814514d0-7fb5-41c9-ba9d-e4eff68c1311@45.80.230.190:65047?type=tcp&security=reality&sni=stackoverflow.com&fp=firefox&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&sid=f481#RU 🇷🇺 ┇ VLESS-TCP-RLT - WS Telecom Inc ┇ 45.80.230.190
 vless://56ee7135-0ca8-4166-89c0-d90f72ebc8a0@45.80.228.35:53623?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - WS Telecom Inc ┇ 45.80.228.35
-vless://655a6618-4d41-46e8-a8e1-9e9f47798985@45.80.230.190:65076?type=tcp&security=reality&sni=stackoverflow.com&fp=randomized&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&sid=f481#RU 🇷🇺 ┇ VLESS-TCP-RLT - WS Telecom Inc ┇ 45.80.230.190
-trojan://hyemi7zh-ttqd-5pso-f1yn-8iu9j1l2ivfk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://qdc7webt-vwqb-pz96-u2rz-qh40z6yydvbr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwaEljMGIydUpmZEVnZGZnMFdtNUFL@gurvpn-bot.outlinekeys.net:4443#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - WS Telecom Inc ┇ 45.80.230.235
+trojan://1gv9a1k6-sff1-xbgv-0et8-has84msnkvhw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://yxu04lov-8ucu-gm9q-p5tp-qqmxlbbmyyfn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

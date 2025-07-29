@@ -1,9 +1,9 @@
-trojan://jtm5nf6u-qvlf-ca78-awk0-emb8jin3tzh8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 11:26 ]
-trojan://g6fgv8vg-49sj-1rz0-4var-t4s80opa09b1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://g46nuqr8-unfr-1eiy-rolj-v9grs8ecltds@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://y49926gl-ptmz-cb5h-0flv-chx6feb47cwb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
+trojan://0i0h3rxr-vycc-eu5m-ostq-za58094vxvws@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://8s4lt1il-tjos-mgib-bi3g-jrb48vvia39y@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhVQVdFSSBDTE9VRFMgXHUyNTA3IDE1OS4xMzguMjQwLjM4IiwiYWRkIjoiMTU5LjEzOC4yNDAuMzgiLCJwb3J0Ijo0MTE5MSwiaWQiOiI3M2JiMWNlNy1hYjgyLTRhMDgtYTRkMy03N2M1ODVkNjU3YmYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://3145e274-fb50-45f8-bad0-e0561bbed05d@166.108.235.1:2321?type=raw&security=none#SG 🇸🇬 ┇ VLESS-RAW-NTLS - HUAWEI CLOUDS ┇ 166.108.235.1
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@159.138.131.240:443?type=ws&security=tls&path=/proxyip=proxyip.tw.fxxk.dedyn.io&sni=xin033.ylks.link#HK 🇭🇰 ┇ VLESS-WS-TLS - HUAWEI CLOUDS ┇ 159.138.131.240
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIVUFXRUkgQ0xPVURTIFx1MjUwNyAxODIuMTYwLjE0LjE0NSIsImFkZCI6IjE4Mi4xNjAuMTQuMTQ1IiwicG9ydCI6MTMwODAsImlkIjoiMzk2MGYxMjgtMTE2My00MGEzLThkZDctN2M5MTE3NmUxNGE1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ0dy5hcHBsZWlkLmJmIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwidGxzIjoidGxzIiwic25pIjoidHcuYXBwbGVpZC5iZiJ9
-trojan://dl7v8nqc-wsvw-1tr3-vv3y-8j4x2kb2rcjj@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://g6gwnioa-g0dh-tm45-o6no-j304fo2dcimm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://3145e274-fb50-45f8-bad0-e0561bbed05d@166.108.235.1:2321?type=raw&security=none#SG 🇸🇬 ┇ VLESS-RAW-NTLS - HUAWEI CLOUDS ┇ 166.108.235.1
+trojan://535xq9to-q8mw-v0pt-m44r-xwwcwokfl60o@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://13b3cfhh-47sz-3cvq-1efh-tew4uxzlndq4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
