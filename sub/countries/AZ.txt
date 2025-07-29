@@ -1,14 +1,14 @@
-trojan://kxqnd87q-fhoa-u3ef-n9eg-640gux5az8m4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:09 ]
-trojan://d0crxrc2-e5t2-bnbt-8r5o-bx2u3ebzu7zt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://ox8vizsz-6o13-pfef-vber-19n2i3fnibtr@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.67:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.67
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.43
-ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@94.20.154.38:50006#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.38
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@180.149.44.120:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.120
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.26
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.53:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.53
-tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.45:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.45
+trojan://gfmev6ej-cbo1-tbj8-qmag-h5sl5p9k4a8i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:39 ]
+trojan://t2pkxmwt-cb46-xsgl-q348-53h1hrl0r2f5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://fc2d8dta-hvvo-wl18-q5vs-fffzhxw7azaw@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@62.212.239.44:33992#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.44
-trojan://f06qissl-fr2z-bpm8-0q3m-wthec98ghrxe@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://vv5lt22f-537o-v952-olu9-x8vlni7xax3d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+ss://YWVzLTI1Ni1jZmI6OTM0NDY2NTA3Nw@94.20.154.38:50006#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.38
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.43
+tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.67:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.67
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.53:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.53
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@180.149.44.120:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.120
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.45:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.45
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.26
+trojan://fmv00mra-px7j-2am7-clqq-4re1fpnr4gis@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://ekdqj3oy-ht8b-de0u-zx2g-7dcomfcvajg1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

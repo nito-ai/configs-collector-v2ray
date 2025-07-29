@@ -1,11 +1,11 @@
-trojan://bxaz9par-ehzw-9r8h-htim-38bhbzp57lmz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:09 ]
-trojan://z6m07hhm-0eya-e0hp-8ner-zc9stpg8pkoy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://47881k9o-hjaz-3eq7-atal-84oer4riumrm@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://cej97f9u-yjv3-9scw-ldoy-g3j0vcdavkhx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:39 ]
+trojan://b13fxj5a-5l0r-32r7-nxpf-leawzczt258p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://fx44wrsy-4qpm-fots-aw5c-4ymhfwr4d271@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIaWdoIEZhbWlseSBUZWNobm9sb2d5IENvLiwgTGltaXRlZCBcdTI1MDcgNDMuMjQyLjIwMC4xNTkiLCJhZGQiOiJuMTY3NDg2Mjk1NS5qZnpsYXNpLmNuIiwicG9ydCI6NDQzLCJpZCI6IjAyMmM0MmJhLWM2NjItNDliZC1iZDhjLWY4NDI4ZTZhYTkxYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMifQ
 hysteria2://e37be73b-4347-439b-a0c9-aa22f8a85226@154.12.81.133:8453?sni=xg10.441122.xyz&insecure=1#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - High Family Technology Co., Limited ┇ 154.12.81.133
 vless://59170576-12c1-480c-a8d9-3a1046b7b701@149.88.95.42:443?type=ws&security=tls&path=/http://156.238.227.203:40000&sni=test.enkelte.ggff.net&fp=randomized#US 🇺🇸 ┇ VLESS-WS-TLS - High Family Technology Co., Limited ┇ 149.88.95.42
+vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIaWdoIEZhbWlseSBUZWNobm9sb2d5IENvLiwgTGltaXRlZCBcdTI1MDcgMTU0LjIwMS44Ny43OCIsImFkZCI6ImhrLWNuLTAxLnl1bWVpZmFuZy5jbiIsInBvcnQiOjEwODEsImlkIjoiZGY5Yjc4OGYtOTI5YS00MzQ5LTk3MGEtOGNiYmUxMmQ2YWU4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJoay1jbi0wMS55dW1laWZhbmcuY24iLCJwYXRoIjoiL2FzZGQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoay1jbi0wMS55dW1laWZhbmcuY24ifQ
 ss://YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - High Family Technology Co., Limited ┇ 156.225.22.213
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@103.106.190.208:34045#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - High Family Technology Co., Limited ┇ 103.106.190.208
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIaWdoIEZhbWlseSBUZWNobm9sb2d5IENvLiwgTGltaXRlZCBcdTI1MDcgMTU0LjIwMS44Ny43OCIsImFkZCI6ImhrLWNuLTAxLnl1bWVpZmFuZy5jbiIsInBvcnQiOjEwODEsImlkIjoiZGY5Yjc4OGYtOTI5YS00MzQ5LTk3MGEtOGNiYmUxMmQ2YWU4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJoay1jbi0wMS55dW1laWZhbmcuY24iLCJwYXRoIjoiL2FzZGQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoay1jbi0wMS55dW1laWZhbmcuY24ifQ
-trojan://9eh8sonx-uqeq-c818-2ok7-zytfkbts3swr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://jmi0bmxz-fxbd-su08-nu39-hetxgvcfahzv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://et2o1w4c-q4io-ctlx-l9yq-avhaffkom4zt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://7e58t9fz-6946-54n4-kh6a-1005jskgngql@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

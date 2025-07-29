@@ -1,6 +1,6 @@
-trojan://xm7oucmt-xv9s-c8nx-5tny-wc1uot6ug3cm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:09 ]
-trojan://3d796czm-qf81-ekyu-a645-21jlrlgw1xf0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://q6ik94vi-pnhv-vio4-25ea-b6gcxs1vpx57@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://ly0ew9ai-ztrs-11qn-dzmm-6cb8e8ud6zaf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:39 ]
+trojan://6ke8yy6q-ksff-f74f-lt4f-kr9g4wwpbll9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://gvd4bs8l-4cxk-pvzo-u5cd-ypge8ce6qvn2@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?type=ws&security=tls&sni=my.ski1plag.ir&fp=random#104.16.53.11:8443
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&security=none#62.60.163.77:3333
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?type=ws&security=none&path=/download#104.16.53.11:8080
@@ -8,5 +8,5 @@ vless://ecafd9fc-f592-46b7-a45a-36d188bbbb61@ios30.vaslepine.com:80?type=xhttp&s
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?type=ws&security=none&path=/upload#add.ski1plag.ir:80
 vless://7ed5bedd-c593-42e9-89a5-5e1e61930b3b@tunel.smartpanel.com.tr:80?type=xhttp&security=none&path=/#tunel.smartpanel.com.tr:80
 vless://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?type=tcp&security=reality&sni=call1.tgju.org&fp=firefox&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&sid=b7ac#ka.pilebaghala.top:1237
-trojan://nw33l8eg-wz8z-ces2-14pt-88rtl6pxkhas@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://mtgojozs-iksw-ag67-0ukz-vw37rnbaepz2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://czi5jpap-lqzp-9i63-h01f-7thqt8n5k4xv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://y71wx0vg-66t9-p3jm-01ul-i3rz44lepwks@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

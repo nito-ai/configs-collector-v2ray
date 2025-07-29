@@ -1,7 +1,7 @@
-trojan://4zw3j6m5-l4bu-0j2p-w56i-0yj5c43rlpqa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:09 ]
-trojan://i29a85vy-n04v-aeew-wtmz-sefkk3qxlhef@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://2r7kaq17-0fg1-q7p4-bwsn-jwl5bryfzy55@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-vless://e6b6f680-797c-4354-b2d8-bad9adbe89ae@us02.528965.xyz:31158?type=tcp&security=none&sni=www.hkust.edu.hk&flow=xtls-rprx-vision#AT 🇦🇹 ┇ VLESS-TCP-NTLS - ANEXIA Internetdienstleistungs GmbH ┇ 152.53.192.96
+trojan://u3e43upp-b9mt-d10r-11ep-2qi61v7bz8l8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:39 ]
+trojan://6x4yrhuo-81dc-5cn0-0cnp-kji3td3cz1sb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://gvy9l88u-ies9-2hph-wtry-47thlbengxgr@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 ss://YWVzLTEyOC1nY206MDI2ZjExMWQtYzUxZi00NmY3LWExZWYtMzA0YWU4ZjllYmE0@us04.dns-node.top:46319#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - ANEXIA Internetdienstleistungs GmbH ┇ 152.53.194.173
-trojan://fnqv3v5t-ixqg-a0mn-yax5-qvqgkrwk68ei@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://vqb8i21h-pl3i-11q5-lx57-3x45l9h373v5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://e6b6f680-797c-4354-b2d8-bad9adbe89ae@us02.528965.xyz:31158?type=tcp&security=none&sni=www.hkust.edu.hk&flow=xtls-rprx-vision#AT 🇦🇹 ┇ VLESS-TCP-NTLS - ANEXIA Internetdienstleistungs GmbH ┇ 152.53.192.96
+trojan://w11v48bs-ox1f-tt8f-yjye-88nniwzjrume@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://cejou7jd-a5er-b3zi-8smm-zsqkptgsyaen@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

@@ -1,16 +1,16 @@
-trojan://9leg9aru-5u1p-8paa-803b-5tpal9e3stt7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:09 ]
-trojan://itsdw0dk-zcqf-36ih-1upe-w2nqc5qcqkmd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://h83aus9b-4w8a-fp2q-xzav-17k9k7cq4pu7@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://hulp8bso-0ssw-kaj5-23h5-nkxyh5vxlsha@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:39 ]
+trojan://4fvoqwql-aqs2-9rgu-wew7-wdh9m3i78yue@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://c7wgfmm1-jn6k-06bi-u89c-8snqz2ak1p13@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.72.4:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.72.4
-vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.73.220:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.73.220
-vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.75.227:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.75.227
-vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.75.153:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.75.153
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.72.158:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.72.158
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.59.16.146:989#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Data Miners S.A. Racknation.cr ┇ 138.59.16.146
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@176.227.241.22:33992#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Cyberzone S.A. ┇ 176.227.241.22
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Data Miners S.A. Racknation.cr ┇ 145.14.131.37
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.74.16:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.74.16
-vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.74.189:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.74.189
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@176.227.241.22:33992#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Cyberzone S.A. ┇ 176.227.241.22
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.59.16.146:989#CR 🇨🇷 ┇ SHADOWSOCKS-TCP-NTLS - Data Miners S.A. Racknation.cr ┇ 138.59.16.146
+vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.75.153:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.75.153
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.72.181:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.72.181
-trojan://mwlqmplm-u2sf-ts1m-ndow-jplrg8q3q5u6@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://93fba665-5fwl-hid1-fq25-jymybg6oj7bn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.75.227:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.75.227
+vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.74.189:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.74.189
+vless://7585f059-2c89-4a02-9dff-394bb7913ef5@131.0.73.220:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CR 🇨🇷 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 131.0.73.220
+trojan://8p2kc8f7-829z-a8yn-xz2k-8b08oaucmp2u@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://6vyis9wu-pih7-48jg-0xn2-v9kz8m6zamer@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
