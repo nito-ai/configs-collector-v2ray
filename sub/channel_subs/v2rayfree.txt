@@ -1,11 +1,23 @@
-trojan://8ok5l0pq-62o4-mxpa-lj3i-fh18awvuowxg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:36
-trojan://kd3psojh-cn20-sehh-jztb-yn2szxy40xpx@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://qdl9bs70-tc6s-441z-nc9q-a2r28rhvxkac@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vmess://eyJ2IjoiMiIsInBzIjoiMzAwXHUwNmFmXHUwNmNjXHUwNmFmIDM5XHUwNjJhXHUwNjQ4XHUwNjQ1XHUwNjI3XHUwNjQ2ISBcdTA2MmFcdTA2MzNcdTA2MmFcdTIwMGNcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2VcdWRkMjlUaWNrVjJib3RAIiwiYWRkIjoiNDUuNjcuMjMwLjc5IiwicG9ydCI6MTEwNTIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://ccb34fdc-f3d6-413e-b334-a9fb84be1734@185.143.233.120:443?type=ws&security=tls&path=/?ed=443&sni=baromovie.ir&fp=randomized#185.143.233.120:443
-vless://ccb34fdc-f3d6-413e-b334-a9fb84be1734@185.143.234.5:443?type=ws&security=tls&path=/?ed=443&sni=taxibisimtehran.com&fp=randomized#185.143.234.5:443
-vless://ccb34fdc-f3d6-413e-b334-a9fb84be1734@185.143.234.200:443?type=ws&security=tls&path=/?ed=443&sni=novinpixel.ir&fp=randomized#185.143.234.200:443
-vless://ccb34fdc-f3d6-413e-b334-a9fb84be1734@185.143.233.120:443?type=ws&security=tls&path=/?ed=443&sni=ikco.ir&fp=randomized#185.143.233.120:443
-vless://db38758e-5ecb-4b07-bb19-4226a96f7e84@uk.shokolatroshd.xyz:18907?type=tcp&security=none#uk.shokolatroshd.xyz:18907
-trojan://vsndt3ev-2vy6-nza3-2j8y-vx1njlk3z3lj@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://pi0ufpxb-m3f8-h9i6-t0sw-ndb4g8woa1od@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://ag0fg97m-giiw-dh8j-k6lf-54xlu5z6irjs@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:09
+trojan://7bnqs1nd-df9t-pzmy-12yp-rf3yj42hlg61@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://7irbv8r4-xqhr-5c0p-c0ka-zefjphl72bv0@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@5.10.214.123:8080?type=xhttp&security=none&path=/dashboard?ed=2560#5.10.214.123:8080
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@141.193.213.10:8080?type=xhttp&security=none&path=/dashboard?ed=2560#141.193.213.10:8080
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@45.131.4.147:8080?type=xhttp&security=none&path=/dashboard?ed=2560#45.131.4.147:8080
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@141.101.121.108:8080?type=xhttp&security=none&path=/dashboard?ed=2560#141.101.121.108:8080
+vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@151.101.3.8:80?type=xhttp&security=none#151.101.3.8:80
+vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@151.101.3.8:80?type=xhttp&security=none#151.101.3.8:80
+vless://0f319d4e-8234-424a-ad59-49c99ef0c3fe@victor2.nepton5050.tech:16109?type=ws&security=none#victor2.nepton5050.tech:16109
+vless://b47cb428-097a-4987-b195-c9d983253be2@mtn.ivy-net.ir:8080?type=httpupgrade&security=none&path=/#mtn.ivy-net.ir:8080
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-15.saitsazs.ir:12108?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#dl-15.saitsazs.ir:12108
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-13.saitsazs.ir:12106?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#dl-13.saitsazs.ir:12106
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-13.saitsazs.ir:12126?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#dl-13.saitsazs.ir:12126
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-04.saitsazs.ir:12127?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#dl-04.saitsazs.ir:12127
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@meow.postpapet.ir:13136?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#meow.postpapet.ir:13136
+vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.one:2025?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#backup.core.keys.eaglezone.gt-ovov.one:2025
+vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.one:2026?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#backup.core.keys.eaglezone.gt-ovov.one:2026
+vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.one:2027?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#backup.core.keys.eaglezone.gt-ovov.one:2027
+vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.one:2028?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#backup.core.keys.eaglezone.gt-ovov.one:2028
+vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@api.node.snap.com.digi-gamingzone.koalavault.ae.zeparo-love.ir:2029?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#api.node.snap.com.digi-gamingzone.koalavault.ae.zeparo-love.ir:2029
+trojan://jb0bxros-6w04-6mvi-4ibt-dnnx78649syp@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://21r8f2ct-7c94-3v1l-pbi7-myhs3pdssnjd@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

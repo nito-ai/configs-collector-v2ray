@@ -1,6 +1,6 @@
-trojan://yrpd06o9-s3ts-ii5b-e73j-qgegb98qgtz7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:36
-trojan://lbb3f31w-9kgh-qb2q-yfxe-mp2lz0cl3tvo@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://ogwtze72-4cxa-ntbi-x1m2-d8zy3av4ziqk@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://t2nyezmi-0q3f-rt7v-xjpd-r445vcz6b3h7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:09
+trojan://oo7wx0u5-mrkv-08kj-jaw8-w183jr3bv8bm@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://9ubpzaf7-529v-mrg6-yviw-lep2vmeoiv0x@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=0XmVfUlK85.vPbEtHoRvP002.iNfO#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=NpFzCqA01g.V2pLuSmLm.OrG#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
 vless://72b92605-410a-4643-b30d-14dc9441a609@91.107.170.231:34471?type=grpc&security=none#91.107.170.231:34471
@@ -10,5 +10,5 @@ vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@3.72.15.184:443?type=tcp&security=r
 vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@35.180.50.206:443?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&sid=d0c43a7737#35.180.50.206:443
 vless://cd953572-9127-4887-894a-4a6a6601fd60@91.107.163.43:42370?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&sid=479f4834#91.107.163.43:42370
 vless://752806a6-f83f-4cc8-b1f0-7d3c541f9d09@91.107.136.146:24070?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&sid=93#91.107.136.146:24070
-trojan://6ov99hhs-raay-gnx4-0cal-c7tu5ebckln2@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://tjbl9ek3-2vlt-qus8-cpaj-5r1w6afbpws8@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://p23ye04d-04j7-eq0r-e91c-f5p8h3h2ac09@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://2j44o8s5-djlq-6tyx-816y-y24as4mmt34v@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
