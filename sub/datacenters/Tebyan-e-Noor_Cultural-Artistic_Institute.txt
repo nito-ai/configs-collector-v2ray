@@ -1,19 +1,19 @@
-trojan://g6udtfxr-848x-xojn-rb7j-uqlkit6111ra@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 09:08 ]
-trojan://tzp17cba-0u1u-2vgh-eprl-pk2pmfwxxkj4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://3xbgmc1m-hjts-2adw-vg3m-10q2u83tsvl6@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://fcug4k4e-uxo6-psi2-xgxi-z2sw4sm24rhw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 09:33 ]
+trojan://yzj2o719-4gw3-h6gi-enu7-g7k9kknrjoh2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://frm5ei6r-d8te-1nmm-d77q-9ag385jw0wxb@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlYnlhbi1lLU5vb3IgQ3VsdHVyYWwtQXJ0aXN0aWMgSW5zdGl0dXRlIFx1MjUwNyAxODUuMjMyLjE1NC4xMjEiLCJhZGQiOiIxODUuMjMyLjE1NC4xMjEiLCJwb3J0IjoxMDA3LCJpZCI6IjBlY2Q5ZmM0LWEyMjktNDk0Mi1hY2FhLWZjOWVkYTI5OGI2NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://875ec245-7366-48dc-8756-e8889fec8816@185.78.20.20:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.78.20.20
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlYnlhbi1lLU5vb3IgQ3VsdHVyYWwtQXJ0aXN0aWMgSW5zdGl0dXRlIFx1MjUwNyA5NC4yMzIuMTcwLjEzOCIsImFkZCI6Ijk0LjIzMi4xNzAuMTM4IiwicG9ydCI6MTAwNywiaWQiOiIwZWNkOWZjNC1hMjI5LTQ5NDItYWNhYS1mYzllZGEyOThiNjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://b756ab67-8181-4bbc-83fd-1edca44c211a@sv8.takdataco.top:8416?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=eNl9igWK4DQud2xfrMVpJy6VHI8JzvTN6dwckwko-HM&sid=502a76d3e038#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.219
-vless://3b4fd68e-3215-459c-aa06-fbb1a0e95138@185.232.154.120:42082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.120
+vless://b2cf54dc-ff5f-427c-858a-662b9d6d5a43@tbsrvr1.godsrvr12.xyz:37856?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.168.52
+vless://6d0d60b2-998d-469b-8c10-99007e08d9ab@185.232.152.185:443?type=tcp&security=reality&sni=anandtech.com&fp=firefox&pbk=DwwSsUZGePMbNna9afczKRWGRjZ-p3qnQC2S4z_FbmU#IR 🇮🇷 ┇ VLESS-TCP-RLT - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.185
+vless://a2380166-e44b-4054-a3fe-2efde8f92b02@185.232.154.161:62443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.161
 vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@185.232.152.148:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.148
 vless://793d47a9-6fd3-40f9-aa4c-90bba00be6c1@185.232.152.211:37605?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.211
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlYnlhbi1lLU5vb3IgQ3VsdHVyYWwtQXJ0aXN0aWMgSW5zdGl0dXRlIFx1MjUwNyA5NC4yMzIuMTcwLjEzOCIsImFkZCI6Ijk0LjIzMi4xNzAuMTM4IiwicG9ydCI6MTAwNywiaWQiOiIwZWNkOWZjNC1hMjI5LTQ5NDItYWNhYS1mYzllZGEyOThiNjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://6d0d60b2-998d-469b-8c10-99007e08d9ab@185.232.152.185:443?type=tcp&security=reality&sni=anandtech.com&fp=firefox&pbk=DwwSsUZGePMbNna9afczKRWGRjZ-p3qnQC2S4z_FbmU#IR 🇮🇷 ┇ VLESS-TCP-RLT - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.152.185
-vless://9a7ac68e-d1c1-4544-8d85-f8a9f95e6060@94.232.168.16:30501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.168.16
-vless://a2380166-e44b-4054-a3fe-2efde8f92b02@185.232.154.161:62443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.161
+vless://3b4fd68e-3215-459c-aa06-fbb1a0e95138@185.232.154.120:42082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.120
 vless://793d47a9-6fd3-40f9-aa4c-90bba00be6c1@185.232.154.106:37605?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.106
 vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@94.232.170.141:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.170.141
 vless://a2380166-e44b-4054-a3fe-2efde8f92b02@185.232.154.14:8415?type=grpc&security=reality&sni=www.speedtest.net&fp=chrome&pbk=eNl9igWK4DQud2xfrMVpJy6VHI8JzvTN6dwckwko-HM&sid=502a76d3e038#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.232.154.14
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRlYnlhbi1lLU5vb3IgQ3VsdHVyYWwtQXJ0aXN0aWMgSW5zdGl0dXRlIFx1MjUwNyAxODUuMjMyLjE1NC4xMjEiLCJhZGQiOiIxODUuMjMyLjE1NC4xMjEiLCJwb3J0IjoxMDA3LCJpZCI6IjBlY2Q5ZmM0LWEyMjktNDk0Mi1hY2FhLWZjOWVkYTI5OGI2NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://b2cf54dc-ff5f-427c-858a-662b9d6d5a43@tbsrvr1.godsrvr12.xyz:37856?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.168.52
-vless://875ec245-7366-48dc-8756-e8889fec8816@185.78.20.20:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 185.78.20.20
-trojan://f105pzrc-1u2g-5bxm-cvtj-oh80o4hw35u9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://9xu38w9a-dm30-mz7v-olnh-of6baf2n7dsw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://9a7ac68e-d1c1-4544-8d85-f8a9f95e6060@94.232.168.16:30501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tebyan-e-Noor Cultural-Artistic Institute ┇ 94.232.168.16
+trojan://96rco8v5-ollh-rxgs-8ku1-1usplpffijpa@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://sfm4a1pz-pg7u-0dk3-flzf-oyruvgu2iarq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

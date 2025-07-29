@@ -1,11 +1,11 @@
-trojan://7x30a8f0-e60t-ztw0-dynh-cd2dlm00cp9t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 09:08 ]
-trojan://e75j3nx8-qerm-r6aq-7hei-vjii18xmpbsm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://fi27c6pl-xte3-kj1m-oinc-vim8us6o7rf0@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@45.43.19.68:50695#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.19.68
-ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@154.16.168.186:50024#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 154.16.168.186
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@154.16.171.215:47121#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 154.16.171.215
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE@45.43.14.75:39772#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.14.75
-ss://YWVzLTI1Ni1nY206Q01kdWFGWGRkY1Fid05BQXM3eEZEbmM4@45.43.19.82:33148#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.19.82
+trojan://nuzq7yh3-l5er-jnca-wbjs-eh7pkd5n5y7k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 09:33 ]
+trojan://933pg7ue-nnnj-le6c-v2b2-n5s74iv7kg95@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://ppr297fc-45bw-huch-hn0q-7gocditp67t4@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVElFUi1ORVQgXHUyNTA3IDg4LjIxNC41OS4xOTciLCJhZGQiOiI4OC4yMTQuNTkuMTk3IiwicG9ydCI6ODAsImlkIjoiMGY4MmJlZmYtZDU1YS00ZDI2LTgwMDAtNjc0NzAxMmFkMWI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIn0
-trojan://sm3lic59-r99n-ubde-sdas-0q9d5j2kwzg3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://tb6phew6-65fw-vzz5-0242-dfi7v490gxfy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE@45.43.14.75:39772#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.14.75
+ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@154.16.171.215:47121#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 154.16.171.215
+ss://YWVzLTI1Ni1nY206Z3F0d0d1OWJWcmVKcUwzRlRIU1ZLR3p5@45.43.19.68:50695#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.19.68
+ss://YWVzLTI1Ni1nY206Q01kdWFGWGRkY1Fid05BQXM3eEZEbmM4@45.43.19.82:33148#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 45.43.19.82
+ss://YWVzLTI1Ni1nY206YjJqRFBIVVF4Q05hMkttR0haank3QzRC@154.16.168.186:50024#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - TIER-NET ┇ 154.16.168.186
+trojan://3dh3xtvl-2pd5-ax8g-ph66-tz73rqi1aes9@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://ngv8k69n-q723-s7cp-iyl1-j281do14v6yb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
