@@ -1,6 +1,6 @@
-trojan://0kpk03ur-i5zs-vegk-gz1d-j7p9x07rpwqr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:11
-trojan://attye1ia-zpvd-c29z-hg2k-1bka0483ewbg@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://f8id1q8k-0vqj-yukh-e904-lddes98ueuib@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://3l7awxsh-4pn2-y1wx-xv2g-zykcxohy8cp2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 13:36
+trojan://c732ln9i-55m6-oogb-ouif-g3xf6zoktkip@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://kkhyqnjy-0fsd-1qv6-2xnu-7ic1yri904bg@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:8443?type=ws&security=tls&path=/#45.15.127.184:8443
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.188:8443?type=ws&security=tls&path=/#45.15.127.188:8443
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:8443?type=ws&security=tls&path=/#92.118.233.43:8443
@@ -184,5 +184,5 @@ vless://a24d9ff5-8247-45e5-803d-177e3352a405@92.112.125.164:59330?type=tcp&secur
 vless://0c4a9085-2207-4ba5-93e0-7edfedfbc7d3@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@de1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#de1.configlinepanel.com:8443
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#in1.configlinepanel.com:8443
-trojan://slo9fpmm-z3ha-28dt-rhc1-6482mfhhjrk8@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://489bnran-bqt1-79d7-tkx9-lhzg57307ysy@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://ng3yzmzp-jbbl-g33l-i6np-ae7nf2iyrxjf@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://39pi460a-etp3-3ltw-e51b-9iqaccvp23zx@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
