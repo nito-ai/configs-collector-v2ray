@@ -1,10 +1,7 @@
-trojan://48rhhl6w-mk5c-338f-fh2b-higylzmct20u@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:10
-trojan://a7i1ayuv-sxrv-1ap3-sy95-rx5ietieoxcj@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://aon49ah0-pplc-ahzz-pvxe-e4of9ii7gkw3@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://47600kz7-ne9j-rco4-gxsk-6khpojn2pt4p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:40
+trojan://iv25zi64-fir1-oo22-hctg-kbym6aewi5pi@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://7f5grp03-aj1i-25r2-i29a-9d2bvj1vwy1l@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5aW5nIiwiYWRkIjoicGFuZWwzLmlweWFyLm9yZyIsInBvcnQiOjMyMDE3LCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://7da899e8-58f1-41ac-b1f3-2c8b5f347662@37.32.6.8:35021?type=tcp&security=none&path=/#37.32.6.8:35021
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.85:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560#91.193.58.85:8880
-vless://1766531f-fe70-474a-970a-653af127ef2c@91.107.166.105:42095?type=tcp&security=none#91.107.166.105:42095
 vless://78a2abda-566a-4259-b47d-1a486d7353f3@add.fxgoldensignals.com:8443?type=tcp&security=none#add.fxgoldensignals.com:8443
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?type=ws&security=tls&path=/eJ5JZ3A1HxfU0bPO?ed=2560/?ALPHANET_BIA_CHANEL@ALPHANET&sni=vNgSUppLy.IP-dDnS.COm#104.24.171.107:443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&path=/&sni=carlotta.shoorekeeper.cloudns.org#172.64.151.232:443
@@ -20,6 +17,9 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?type=ws&security=t
 vless://d626ea85-ab8b-410f-9d9b-6cc3a03a7c28@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?type=tcp&security=none#78.47.44.60:2020
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&security=none#185.231.205.234:8880
+vless://8c8ed317-0ed0-4bd4-991c-7c5135089483@94.131.111.200:8775?type=tcp&security=none#94.131.111.200:8775
+vless://ccbda652-0f5d-4f19-a0fd-485def22d815@tun.grizzzlyyyy.ir:2020?type=tcp&security=none#tun.grizzzlyyyy.ir:2020
+vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#brainy-party.seotoolsforyou.co.uk:80
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33#5.181.20.219:17422
-trojan://wl1mdmtt-fr0g-h8xz-tu4k-gbt9z4elfhuw@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://apcl896t-pv87-0ybt-ei8f-qwnh1nr00eg7@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://54tim5ha-rdzw-4l7s-5nso-xhy86hcb471n@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://gkk9i1zn-5ifk-cuzk-g3gx-jfy94l9baw2b@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
