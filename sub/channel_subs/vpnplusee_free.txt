@@ -1,6 +1,6 @@
-trojan://257d9lwh-jfph-31vg-hs2j-nzukxss1wvor@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 18:40
-trojan://koceo2v0-5i48-153i-f7eu-qkhpffl47r64@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://x5w1qnqg-mvrp-r3cm-5b4q-nen9f287a9ms@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://n9lnzyrj-r6i2-9su2-do9o-4w99t1i63rh9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 19:09
+trojan://8pjsldjx-zr6s-3brl-rl6z-z4uknv4c9lvq@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://tgxncrfi-nocu-uje2-loj3-12tn3r110w6h@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.217.61:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.36.217.61:22224
 vless://ca19edaf-7c3c-e025-fb66-2e62fb9055d4@185.93.88.155:880?type=tcp&security=none#185.93.88.155:880
 vless://ca19edaf-7c3c-e025-fb66-2e62fb9055d4@nim1.abrarvan.io:9090?type=tcp&security=none#nim1.abrarvan.io:9090
@@ -19,5 +19,5 @@ vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&secur
 vless://c714b70f-43c4-4970-90b8-fca089009f64@151.101.242.172:80?type=xhttp&security=none&path=/download#151.101.242.172:80
 vless://ccb34fdc-f3d6-413e-b334-a9fb84be1734@185.143.233.120:443?type=ws&security=tls&path=/?ed=443&sni=ikco.ir&fp=randomized#185.143.233.120:443
 vless://db38758e-5ecb-4b07-bb19-4226a96f7e84@uk.shokolatroshd.xyz:18907?type=tcp&security=none#uk.shokolatroshd.xyz:18907
-trojan://1sketfti-csmu-4be5-ml8r-4mq07wljyj17@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://g2i151tr-5hpx-ig2o-kwp5-co3rmv0m9gvr@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://tntpp4sv-2f4v-wqsw-6ouf-24ttro4zv2ee@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://bk1lm08h-mcn3-8hob-vl1x-gqwgy3ej2tw1@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
