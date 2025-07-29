@@ -1,6 +1,6 @@
-trojan://vgdtgxby-bntq-01cr-std0-20i3ovux7d9b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 11:07 ]
-trojan://g5totewx-rxu6-otq2-uq2o-r02bvnxrjgzy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://1nu6odp2-yifz-2id8-jvet-fqujk0evkqrm@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://q4zyvclw-a5kw-89zs-w9yq-81m3drkszlv4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 11:26 ]
+trojan://l6hzkzpy-mthx-8o9l-27dt-4ctjyjrr6nsp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://xv82imk8-3xb1-o4it-bx15-pqi57ynonssk@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.113:6679#23.157.40.113:6679
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.142.4:989#138.186.142.4:989
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#38.114.114.69:7002
@@ -21,5 +21,5 @@ vless://38200bc2-e4c0-4aa9-aeaf-e85112b285ac@162.159.20.126:80?type=httpupgrade&
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?type=tcp&security=none#162.19.250.162:24209
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?type=tcp&security=none#162.19.250.162:24209
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#russiatest-tap2.servers807.ir:2025
-trojan://zu10jyyk-h73i-91s0-zhz9-pdu63ym9oxet@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://a2hxddeo-ta39-u5c4-d471-m85816nru5d6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://z61704vw-4n23-3dbf-7jdp-4seunwx82thr@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://phvila02-hrdg-gzv4-w3qf-8a7z7qlmebyg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
