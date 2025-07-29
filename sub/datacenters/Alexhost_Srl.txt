@@ -1,10 +1,10 @@
-trojan://tb662t4y-vjqm-zzx1-tdhr-vb6zpn7qvk4i@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 00:57
-trojan://3vz83j3y-7g5b-7m86-q9ir-e9gf0avsubym@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://a2jg2rg4-u8md-6gr5-zeag-rsp02qxf3ey2@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
-vless://3af682f1-3e13-4216-9a4a-49953d4009c3@78.40.117.69:8880?type=grpc&security=none#SE 🇸🇪 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 78.40.117.69
-vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsZXhob3N0IFNybCBcdTI1MDcgNDYuMjUzLjQuMjE0IiwiYWRkIjoiNDYuMjUzLjQuMjE0IiwicG9ydCI6ODA4MCwiaWQiOiI3ZmQ1OWMwNC0wMjA3LTQ1ZTYtYTlkZS1iOGU3ZDk1NGJkMzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://a0e3ae8d-c37f-4970-8754-3a978d084fd6@185.113.8.229:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 185.113.8.229
+trojan://bl9hmm2d-fwmi-skco-ixo2-t6eimb2zvn8l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:22
+trojan://qh5ee5s0-naf2-czw7-e5qx-m1g4jze74oue@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://ld8yza2x-nwbm-jpb8-ky0q-urf49r5x3yo3@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://f7fdf2c2-a98a-4e8f-b06a-29f1b3c8122f@46.253.4.31:443?type=tcp&security=reality&sni=www.dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=r-Sryx8MT35Vu5eHeRr-nfVXkGw1pQCkkwL0MFIkeEw&sid=321dd18a#SE 🇸🇪 ┇ VLESS-TCP-RLT - Alexhost Srl ┇ 46.253.4.31
-trojan://avvrah0h-fs2z-lin9-uf9z-d9ryoptdrcjq@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://mx3qos4p-y53f-dw2g-pda3-48f5g7ucrcfb@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
+vless://a0e3ae8d-c37f-4970-8754-3a978d084fd6@185.113.8.229:8880?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 185.113.8.229
+vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFsZXhob3N0IFNybCBcdTI1MDcgNDYuMjUzLjQuMjE0IiwiYWRkIjoiNDYuMjUzLjQuMjE0IiwicG9ydCI6ODA4MCwiaWQiOiI3ZmQ1OWMwNC0wMjA3LTQ1ZTYtYTlkZS1iOGU3ZDk1NGJkMzciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://3af682f1-3e13-4216-9a4a-49953d4009c3@78.40.117.69:8880?type=grpc&security=none#SE 🇸🇪 ┇ VLESS-GRPC-NTLS - Alexhost Srl ┇ 78.40.117.69
+trojan://svw0sxdv-pduz-nyii-jffo-j2qvsf6teymn@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://06p0ouds-0zpj-x64r-vzor-uyyi2v0w1fgz@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

@@ -1,10 +1,10 @@
-trojan://4iyebedf-skwx-df1h-9nn6-v00dl31jdc9o@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 00:57
-trojan://6s9md5z8-mzg2-dpt8-ac5i-7v405cznfi7a@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://7f9qhdlm-b1xa-60k0-opz5-bu38ryv53jy0@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-tuic://c12fd04c-2099-4016-a97c-26c0ae2c7d0b:c12fd04c-2099-4016-a97c-26c0ae2c7d0b@38.6.227.43:54009?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#HK 🇭🇰 ┇ TUIC-TCP-NTLS - PEG-HK ┇ 38.6.227.43
+trojan://i98a9fns-ohuk-k8vf-rk18-vk7g4vky71zq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:22
+trojan://0rq23wys-arv1-9bgu-3m3w-f41hyi08wy7n@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://l6mdwxxr-hh7u-iawr-ef6k-6h3p90fys3tk@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1OL0EtTlRMUyAtIFBFRy1ISyBcdTI1MDcgMzguNi4yMjcuMzEiLCJhZGQiOiIzOC42LjIyNy4zMSIsInBvcnQiOjEwMzY1LCJpZCI6IjNhMTUwZjQ3LTQyODQtNDQ3Mi1iYjE3LTkwOGJlYzU4ZTAxYSIsImFpZCI6MCwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIn0
-trojan://f6f037b8-d6f5-4892-9bb5-0f915cac5b3b@107.149.254.26:158?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - PEG-HK ┇ 107.149.254.26
+tuic://c12fd04c-2099-4016-a97c-26c0ae2c7d0b:c12fd04c-2099-4016-a97c-26c0ae2c7d0b@38.6.227.43:54009?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#HK 🇭🇰 ┇ TUIC-TCP-NTLS - PEG-HK ┇ 38.6.227.43
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUEVHLUhLIFx1MjUwNyAzOC4xNzMuMjI3LjEwNSIsImFkZCI6Im4xNjc4MDA1OTA5LmVkcG12Z2EuY24iLCJwb3J0Ijo0NDMsImlkIjoiNGVjMjcyYWItOGZhYy00N2Q2LWEzODYtMjZhY2IyODdiZTdlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1OL0EtTlRMUyAtIFBFRy1ISyBcdTI1MDcgMzguNi4yMjQuMjA0IiwiYWRkIjoiMzguNi4yMjQuMjA0IiwicG9ydCI6NjUwNTUsImlkIjoiM2EwOTQwYjktZGUzNC00OTk0LWEwN2UtMmY3ZmM3ZjZiMTk3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUifQ
-trojan://9ax74g4u-kg7e-uhut-rc7l-ksum5mdy7wmc@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://nox8n4dq-e48v-qqae-fyog-c0kgkj4vf325@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://f6f037b8-d6f5-4892-9bb5-0f915cac5b3b@107.149.254.26:158?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - PEG-HK ┇ 107.149.254.26
+trojan://q6qvr95n-5n7y-bkfk-rtp2-opf4l26c4aqx@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://ykdz74sh-to4u-yepk-wdaz-7afyja11xpbv@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

@@ -1,6 +1,6 @@
-trojan://6j38uh2c-wbip-cnwo-4pev-mdlnkw4zmzgr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 00:57
-trojan://jxt8boha-7jn4-5emz-qynx-tt0tocldkbjw@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://2q5djs2e-xzjd-xac3-nvr5-3fve6oaqhyom@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://9g6223m5-dajf-fg49-74ky-lsfal12m3u6n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:22
+trojan://96vjfe97-hf65-1rgk-f59m-pc9q2xt318lr@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://wjivo76y-ua63-r1n0-c6q2-x9l5mh50q4at@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@151.101.3.8:80?type=xhttp&security=none#151.101.3.8:80
 vless://0f319d4e-8234-424a-ad59-49c99ef0c3fe@victor2.nepton5050.tech:16109?type=ws&security=none#victor2.nepton5050.tech:16109
 vless://b47cb428-097a-4987-b195-c9d983253be2@mtn.ivy-net.ir:8080?type=httpupgrade&security=none&path=/#mtn.ivy-net.ir:8080
@@ -15,10 +15,10 @@ vless://785e05fc-66e4-4141-8587-72c4ee8ce65e@evay_vpn.fast.hosting-ip.com:80?typ
 vless://c791bcdc-b9b3-4ca2-8110-fa705f4a9d32@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=eDi.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.17.1.197:8880
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-15.saitsazs.ir:12108?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#dl-15.saitsazs.ir:12108
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@meow.postpapet.ir:13136?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#meow.postpapet.ir:13136
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&security=none#185.231.205.239:8880
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.182.90:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#15.236.182.90:22224
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.one:2028?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#backup.core.keys.eaglezone.gt-ovov.one:2028
 vless://b47cb428-097a-4987-b195-c9d983253be2@ecohopetamiz2.ivy-net.ir:1616?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=BySjBybAQUJzCP66kzVrN5fRYorgUGnY4TuCO8mRFjA&sid=150210e2e45b002e#ecohopetamiz2.ivy-net.ir:1616
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@meow.postpapet.ir:443?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#meow.postpapet.ir:443
-trojan://egdevtgb-wmbg-706q-99zf-bm8zdmayb7pz@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://nzl0ubzz-gen2-4scp-r79t-yrh4iseo6s58@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://onqq7rgf-dgdd-nssp-1wum-7aqbz7oqhqge@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://6mjeg6ps-0t1i-baw7-xgb7-4f15lir07uwu@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
