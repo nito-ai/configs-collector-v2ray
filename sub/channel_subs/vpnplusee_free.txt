@@ -1,7 +1,6 @@
-trojan://65so78cm-sj37-2151-zw7f-sue2t2tmouwj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 22:16
-trojan://f2jmi6z9-37hn-rto7-bd0g-v74ggor5bg63@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://2vlq2xrz-impw-9gu9-yqrz-knss0c9m7d3s@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://b01537ce-8cab-43c1-80e6-4ef9319f6e6d@victor2.nepton5050.tech:32950?type=ws&security=none#victor2.nepton5050.tech:32950
+trojan://1gypkbwq-45ty-9bz6-tb04-5455t4463az3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 22:46
+trojan://fp9oc76s-nwe8-9mzq-9yen-kxq5uzpvztsy@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://gdugtisi-kfeq-jvjf-zgo5-hgc9kkifvy6b@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
 vless://c714b70f-43c4-4970-90b8-fca089009f64@151.101.242.172:80?type=xhttp&security=none&path=/download#151.101.242.172:80
 vless://ccb34fdc-f3d6-413e-b334-a9fb84be1734@185.143.233.120:443?type=ws&security=tls&path=/?ed=443&sni=ikco.ir&fp=randomized#185.143.233.120:443
@@ -17,9 +16,10 @@ vless://376a6939-9876-4e54-84f7-02376b4c510c@em-1.web-manage.com.tr:4928?type=tc
 vless://785e05fc-66e4-4141-8587-72c4ee8ce65e@evay_vpn.fast.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#evay_vpn.fast.hosting-ip.com:80
 vless://785e05fc-66e4-4141-8587-72c4ee8ce65e@evay_vpn.fast.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#evay_vpn.fast.hosting-ip.com:80
 vless://785e05fc-66e4-4141-8587-72c4ee8ce65e@evay_vpn.fast.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#evay_vpn.fast.hosting-ip.com:80
+vless://c791bcdc-b9b3-4ca2-8110-fa705f4a9d32@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-15.saitsazs.ir:12108?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#dl-15.saitsazs.ir:12108
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@meow.postpapet.ir:13136?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#meow.postpapet.ir:13136
 vless://8a848c5f-2441-442f-91fe-a9a1df67c34b@backup.core.keys.eaglezone.gt-ovov.one:2028?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI#backup.core.keys.eaglezone.gt-ovov.one:2028
 vless://b47cb428-097a-4987-b195-c9d983253be2@ecohopetamiz2.ivy-net.ir:1616?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=BySjBybAQUJzCP66kzVrN5fRYorgUGnY4TuCO8mRFjA&sid=150210e2e45b002e#ecohopetamiz2.ivy-net.ir:1616
-trojan://l80wfib0-kixe-9thx-8ue7-uyybpc4q5enh@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://1hddlon0-t080-f6kk-21e1-4f56fdotvcac@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://zt0hqjny-k2bs-rubj-jni0-p3jwe3fyz4mm@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://dqs6v0b4-fuvg-skgx-zqzm-kdncbflk72v5@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
