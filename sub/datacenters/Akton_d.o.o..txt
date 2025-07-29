@@ -1,13 +1,13 @@
-trojan://6jplq4nr-uefc-mf70-r9qa-0sp3gp635fj2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 08:25 ]
-trojan://awf1izss-z8ts-kkwe-8mco-dfubtq9i15cc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://is74nq1h-d2fx-ayrw-fp29-ojl9h2w0miea@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSFIgXHVkODNjXHVkZGVkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWt0b24gZC5vLm8uIFx1MjUwNyA0Ni4xODMuMTg0LjExMCIsImFkZCI6IjQ2LjE4My4xODQuMTEwIiwicG9ydCI6NDQzLCJpZCI6IjE1ZTUyOWUzLWU1ZGEtNDk1YS1hZjg1LTU3ZGYwNjU3ZDIxNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ
+trojan://6qhlfs0o-vhtn-4ly9-q16r-k9dev2vewl27@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 09:08 ]
+trojan://dj1hhbaq-jf0y-dpc2-6un1-eeyysmz540qi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://omrahkv6-n6w3-f85i-41ci-smvbljoiv0cj@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.37
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.61:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.61
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.64:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.64
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.15
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmekZ5YU15Tk1zY245OGRvdHZDNlFq@46.183.185.67:8443#MK 🇲🇰 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.185.67
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.60:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.60
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.64:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.64
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdEFYa3NwS0tnOWJvd290WUc3NFh5@45.153.126.14:8443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 45.153.126.14
-trojan://k2nf1b0n-y0lw-z702-f2zf-xuvl7gowq7dy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://hcxwh5re-v7o6-so30-d3wx-p1gsqezsr0s8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.61:989#HR 🇭🇷 ┇ SHADOWSOCKS-TCP-NTLS - Akton d.o.o. ┇ 46.183.184.61
+vmess://eyJ2IjoiMiIsInBzIjoiSFIgXHVkODNjXHVkZGVkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQWt0b24gZC5vLm8uIFx1MjUwNyA0Ni4xODMuMTg0LjExMCIsImFkZCI6IjQ2LjE4My4xODQuMTEwIiwicG9ydCI6NDQzLCJpZCI6IjE1ZTUyOWUzLWU1ZGEtNDk1YS1hZjg1LTU3ZGYwNjU3ZDIxNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ
+trojan://ewmpqth9-yogf-qpe9-ley2-v217nwc4kaem@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://2r293ovl-8rhk-9v5b-kc16-6i859i9r96ft@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

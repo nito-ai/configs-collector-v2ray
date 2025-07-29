@@ -1,8 +1,8 @@
-trojan://x9iqtoi2-i7jz-vo7c-o5nq-mcd33fmt4lb3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 08:25 ]
-trojan://pxny6z37-0zff-9t26-xerk-s24guefgg08f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://pkibh9mb-c9pl-4izo-gm1g-5yb0udskfonf@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZJQkVSU1RBVEUgXHUyNTA3IDM4LjE0Ny4xMDcuMjE0IiwiYWRkIjoiMzguMTQ3LjEwNy4yMTQiLCJwb3J0IjoyMzc3MCwiaWQiOiI2YzU2NTBjZC1hYWFjLTQxMTAtZmIzNS1iNjVlN2RkNDJiNDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
-tuic://548760e0-2de5-437d-a8ac-2b32b80424a8:548760e0-2de5-437d-a8ac-2b32b80424a8@2602:294:0:f5:1234:4321:dc1e:1:28029?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - FIBERSTATE ┇ 2602:294:0:f5:1234:4321:dc1e:1
+trojan://rvw5usyd-fhq9-76wm-x3rq-2mdxbovxdg5f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 09:08 ]
+trojan://tea1pmj6-br8e-4uq3-um1e-qhj3mu506wqn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://o0zpjjst-6gow-arhu-fj9k-4lrt1qdiknrc@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 trojan://0667f570-ceea-11ee-9c78-1239d0255272@us1.socifiles.com:443?sni=circles.asia&peer=circles.asia&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FIBERSTATE ┇ 23.158.72.133
-trojan://p48xwvi4-lr8g-cfhb-rbjc-n86xi2lcaxre@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://31o88ac3-uvt4-swpx-go8d-6qqcgxb870ng@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+tuic://548760e0-2de5-437d-a8ac-2b32b80424a8:548760e0-2de5-437d-a8ac-2b32b80424a8@2602:294:0:f5:1234:4321:dc1e:1:28029?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - FIBERSTATE ┇ 2602:294:0:f5:1234:4321:dc1e:1
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZJQkVSU1RBVEUgXHUyNTA3IDM4LjE0Ny4xMDcuMjE0IiwiYWRkIjoiMzguMTQ3LjEwNy4yMTQiLCJwb3J0IjoyMzc3MCwiaWQiOiI2YzU2NTBjZC1hYWFjLTQxMTAtZmIzNS1iNjVlN2RkNDJiNDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
+trojan://zvk6twd3-jc73-m8yd-9y0o-4dj3ccm2c8vk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://3tvbn95u-m6jx-zjeb-vwla-309zva41jf19@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

@@ -1,10 +1,10 @@
-trojan://fvf4qnbk-x6xk-mupi-ysng-586859cc8pbk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 08:25 ]
-trojan://9pz0fh0q-gwix-348j-4w8b-jh0wgizc34at@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://xy0s83hm-8yec-zh1j-h3cp-90uu2dtd3i3a@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@94.183.233.38:16520?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.38
-vless://bc55ee1f-c1d4-4d03-b36b-1482ba586141@94.183.233.98:3801?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.98
+trojan://5zsogiwp-11u7-wkgr-hgm3-kvz47g7ozay5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 09:08 ]
+trojan://dkc7x1ee-yl1s-pj7y-xyps-c54365q37zo1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://wptkuygu-oyaf-d2wz-cw0q-rvap5luewk24@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRhaGxpbCBEYWRlaCBOb3ZpbiBGYWRhayBMTEMgXHUyNTA3IDk0LjE4My4yMzMuMTE2IiwiYWRkIjoiOTQuMTgzLjIzMy4xMTYiLCJwb3J0IjozOTExLCJpZCI6IjRlNTFmYjU4LWVmNjktNDJiZC04NTM2LWFjZmQ1MmQyOGFmZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://0431b590-7548-22ac-0bc5-a8bc23f43075@94.183.233.58:443?type=tcp&security=tls&sni=x3x.b0174578.com#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.58
+vless://bc55ee1f-c1d4-4d03-b36b-1482ba586141@94.183.233.98:3801?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.98
 vless://9e53942c-aa73-4b57-ba37-0ddc6fa53038@94.183.233.125:3801?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.125
-trojan://tf7tantd-pheo-iai0-m05w-051hsgf3qw5d@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://8q76opll-ea02-9qw5-ycqk-r70dgp3a27e7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://0431b590-7548-22ac-0bc5-a8bc23f43075@94.183.233.58:443?type=tcp&security=tls&sni=x3x.b0174578.com#IR 🇮🇷 ┇ VLESS-TCP-TLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.58
+vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@94.183.233.38:16520?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.38
+trojan://m6i5oq61-el36-4by5-0ghm-dyelgqb2wyqt@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://wsmwd8eu-hiva-qf0n-dmj9-j2zdttac0tbo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

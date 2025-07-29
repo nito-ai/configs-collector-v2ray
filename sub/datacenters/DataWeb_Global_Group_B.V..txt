@@ -1,10 +1,10 @@
-trojan://enjt5hcj-s0up-gbf8-vkn3-kg6td4xb8i48@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 08:25 ]
-trojan://srd9gonh-nagw-jw0l-xcka-36i69f3fqbdr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://shd73zau-stto-d24c-kb09-kw0p8yjw0wta@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://p403it3x-6uc4-ogo4-bwb5-mv3kigfcvbf8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 09:08 ]
+trojan://8av13zts-su2a-rczj-2uqj-jgk77fntg7sn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://vrso3e21-pl5q-ob0r-4m5u-ww6qyw1m4c49@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.158.181:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.158.181
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.159.247:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.159.247
-vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@2.59.38.46:443?type=ws&security=tls&sni=vkk.wxgqlfx.cn#NL 🇳🇱 ┇ VLESS-WS-TLS - DataWeb Global Group B.V. ┇ 2.59.38.46
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.129.4:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.129.4
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@2.59.38.185:8443?type=ws&security=tls&path=Telegram@V2ray_Alpha/?ed&sni=gozargah.validbv7996.ir#NL 🇳🇱 ┇ VLESS-WS-TLS - DataWeb Global Group B.V. ┇ 2.59.38.185
-trojan://to96i5ev-g1gq-wvs6-4dwb-v240q4qa2r2k@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://g1sy442j-60o3-ipvl-z8il-ntffhbq68htc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.129.4:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.129.4
+vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@2.59.38.46:443?type=ws&security=tls&sni=vkk.wxgqlfx.cn#NL 🇳🇱 ┇ VLESS-WS-TLS - DataWeb Global Group B.V. ┇ 2.59.38.46
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.159.247:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.159.247
+trojan://6tk5aoab-zimi-4tsr-58c7-1zz4ze1uq46x@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://1ui6k26j-u64y-ngnu-hobx-janlwkjl2ojd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
