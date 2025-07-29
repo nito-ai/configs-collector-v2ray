@@ -1,6 +1,6 @@
-trojan://pzdee8k7-uhnc-70us-dm2g-2r46llpv470n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://q6ll70hq-fuct-1ing-cktn-1x4wa0at5rum@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://ow4ufjxw-532t-xjl3-nxra-22xu0rrj3nhm@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://r0jcfn8y-mvou-ev21-avmn-3qz0w11dkgnd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://3jd8u1mm-6iqa-2zwr-vcgs-be1rtzq289sh@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://33abec4h-hldr-dox8-u9r9-m6jg1r7q498w@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiLUNoYW5uZWw6OiBAVlBOTGltZSIsImFkZCI6IjE2OC4xMTkuMTA3LjE2MiIsInBvcnQiOjMxNDg0LCJpZCI6Ijk0Mzk2MWI4LTRlMjctNGJkZi1hMDQ4LWMyZjcyNGY1NDJmYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://788c24fa-af91-4b0d-a589-48381b07101a@168.119.107.162:35448?type=tcp&security=none#168.119.107.162:35448
 vless://788c24fa-af91-4b0d-a589-48381b07101a@168.119.107.162:35448?type=tcp&security=none#168.119.107.162:35448
@@ -12,5 +12,5 @@ vless://cbe7aa50-5755-4971-f1ac-a5d3bfc0f363@95.38.153.33:33269?type=ws&security
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@168.119.48.210:8080?type=ws&security=none&path=/@VPNLime#168.119.48.210:8080
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@49.13.74.174:8080?type=ws&security=none&path=/@VPNLime#49.13.74.174:8080
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@49.13.74.174:8080?type=ws&security=none&path=/@VPNLime#49.13.74.174:8080
-trojan://2c7i1c42-qfpf-ln85-cbj9-o3x0b472gfu3@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://swk3abig-l7lp-c466-axbf-qbm0w8j2vpyr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://rssptfvb-nqzd-190c-3tb0-0iykm8hgl6kw@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://n1invfvs-h0b5-hpl4-ulrl-sqbrihcsqla5@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

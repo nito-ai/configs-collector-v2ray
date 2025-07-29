@@ -1,13 +1,13 @@
-trojan://bxyd5muk-6diz-k0hb-5o5s-yi7b9iafg3hq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://ckx7ot7t-sua2-40ep-vye0-c64t9rcg4grz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://a5lm3xfh-lgqv-qkrv-4gxd-p8ul9yku4gcf@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://mjpqfka4-qfjd-zr8y-mie6-kla7v4ho7q5q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://knl7ac6x-493i-y8oh-vmiz-x05p251ba7bv@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://a5ub5140-pbbi-1myh-36tx-1xjrvejzyv8f@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.79.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ip.langmanshanxi.top#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-TOR-AS ┇ 135.84.79.177
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.79.168:8880?type=ws&security=tls&path=telegram @wangcai2 /?ed=2560&sni=kjgx.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-TLS - USG-TOR-AS ┇ 135.84.79.168
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@135.84.79.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-TOR-AS ┇ 135.84.79.77
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.79.186:8880?type=ws&security=tls&path=/telegram🇨🇳 @wangcai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-TLS - USG-TOR-AS ┇ 135.84.79.186
+trojan://dns68@135.84.79.80:443?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - USG-TOR-AS ┇ 135.84.79.80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.79.156:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-TOR-AS ┇ 135.84.79.156
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@135.84.79.35:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-TOR-AS ┇ 135.84.79.35
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@135.84.79.78:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-TOR-AS ┇ 135.84.79.78
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.79.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ip.langmanshanxi.top#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-TOR-AS ┇ 135.84.79.177
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.79.186:8880?type=ws&security=tls&path=/telegram🇨🇳 @wangcai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-TLS - USG-TOR-AS ┇ 135.84.79.186
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@135.84.79.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-TOR-AS ┇ 135.84.79.77
-trojan://dns68@135.84.79.80:443?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - USG-TOR-AS ┇ 135.84.79.80
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.79.168:8880?type=ws&security=tls&path=telegram @wangcai2 /?ed=2560&sni=kjgx.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-TLS - USG-TOR-AS ┇ 135.84.79.168
-trojan://lwg1rmoc-71xw-vjdq-i944-dhdne6ljozro@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://hm21azky-onyc-wc03-gcvs-tyq6pqbkabrv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://51wy553f-q256-o4c8-8pmq-2rvpjk01luao@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://zrye389g-ohp2-2jyn-e1xw-c8d11huq46uv@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

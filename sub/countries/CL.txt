@@ -1,14 +1,14 @@
-trojan://yv2w7srh-c5e1-j5tf-wcd7-uvbpebodgams@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://oi1bua0y-4u3j-cau2-rv9n-bd6gcgft8r1a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://u87thope-0d14-0t8u-d6sq-ob8sil2h8bau@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@64.176.17.53:8313#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 64.176.17.53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmQ2YzI4OS05Yjg5LTRhY2QtYjc5Yi1kYjUyNWI0MDc3MzQ@129.151.99.94:35515#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.99.94
-vless://7585f059-2c89-4a02-9dff-394bb7913ef5@162.158.99.161:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-TLS ┇ 162.158.99.161
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.230.9:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.230.9
+trojan://qip8age1-ebr7-zr1i-rxaq-fikdq1tbmq5l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://kh41zfp3-wlp0-oybw-3qtn-mrqq7bvhi55i@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://eo4v92av-6bjz-eocv-fj95-uo0el7r4bny1@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://32fe54d2-1605-41bf-aff4-8e24957a988d@cl.accesspoints.cloakify.app:35112?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=cl14G6KdRkNxGFpDGssxWDO09FRoV5QfI5lvco-dHVs&sid=e4#CL 🇨🇱 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.82.249.35
 vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?type=ws&security=tls&path=/vless/&sni=pq.chile1.09vpn.com#CL 🇨🇱 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 45.82.249.42
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.128.195:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.195
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@64.176.17.53:8313#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 64.176.17.53
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.230.9:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.120.230.9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YmQ2YzI4OS05Yjg5LTRhY2QtYjc5Yi1kYjUyNWI0MDc3MzQ@129.151.99.94:35515#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.151.99.94
 ss://YWVzLTI1Ni1nY206MkI2RTZJU0xWQlFDMlRGVg@37.143.128.125:20012#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.125
+vless://7585f059-2c89-4a02-9dff-394bb7913ef5@162.158.99.161:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#CL 🇨🇱 ┇ VLESS-WS-TLS ┇ 162.158.99.161
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.128.195:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 37.143.128.195
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989#CL 🇨🇱 ┇ SHADOWSOCKS-TCP-NTLS - iHosting Servicios Internet Ltda. ┇ 37.235.52.112
-trojan://l4bhykbt-7n0m-9wj6-s5yn-qyo7f3cr67y0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://ias1totw-wtca-d73l-7q71-psmwchfww3st@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://cdmgnjxa-l9dr-uygl-0ifw-tb8av8rqiyqr@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://80aec768-qmlr-708r-vlw5-556z0wycfctj@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

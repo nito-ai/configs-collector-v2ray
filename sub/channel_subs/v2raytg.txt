@@ -1,6 +1,6 @@
-trojan://0utpvzb3-826l-f690-jp1n-xnn2ldvazl9p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://fxa7xkbh-funn-asn7-c0kc-qig04je3ljv3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://ewjh00z7-r9ja-r28y-il40-j33qzvbgkgze@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://bl13fc4z-mfb6-fbku-zw0p-uloj0sdm13zm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://kbbwhscx-0po2-9ern-ivg9-brqsjj1isizb@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://urkkwzhv-p9xx-djdg-88ux-0o1nnawn2hgb@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#4.223.106.151:48172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#45.87.175.28:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#45.87.175.164:8080
@@ -69,5 +69,5 @@ vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f9@188.114.97.1:443?type=ws&security=t
 vless://5d71b518-9f52-414a-abf2-b806684233be@157.180.82.171:2087?type=grpc&security=tls&sni=pic2.zarashop0.ir&fp=chrome#157.180.82.171:2087
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f9@2a06:98c1:3120::1:443?type=ws&security=tls&path=/PSZPkYG71g6bn84o/MTQxLjE0OC4yMDMuNg==?ed=2560&sni=MypHOtomoments.iR&fp=randomized#2a06:98c1:3120::1:443
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f9@www.speedtest.net:443?type=ws&security=tls&path=/CY6EnyeHmgNASXJI/MTU5LjY5LjE0LjEzOA?ed=8080&sni=MypHOtomoments.iR.&fp=randomized#www.speedtest.net:443
-trojan://0otodqks-des8-16c0-ilth-qvi4ltilo3gv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://tya34mzq-07us-jead-85de-tspc29k3vuwg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://qn2yqcd1-jo3w-sy5y-cdvv-1cphqirisqm0@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://iw1dipcf-7qop-thl6-biu5-e3jexly2ek5i@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

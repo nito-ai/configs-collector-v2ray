@@ -1,6 +1,6 @@
-trojan://c8vrswni-wtd7-lq2a-wo67-6hexcfb5h7wv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://h8cg44x0-c1ul-mzsf-0q97-nfsmv901dvtl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://pjd60z7c-zvya-wnjt-mj08-v730i7931nlq@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://uqf9buom-l5xb-vh7q-kwqt-9a1v3plhq8ia@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://h8xs3vhr-0w5d-d0xi-zj13-uia34blvuwyi@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://4cgqhtyh-qzva-furq-jm29-40ur4c7zkzf8@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://f8e2ad01-4558-4207-87db-5991d64ca794@cf1.privacypath.org.tr:443?type=httpupgrade&security=tls&path=/tinyvpn?ed=2560&sni=tiny1.privacypath.org.tr&fp=firefox#cf1.privacypath.org.tr:443
 vless://f8e2ad01-4558-4207-87db-5991d64ca794@cf2.privacypath.org.tr:443?type=httpupgrade&security=tls&path=/tinyvpn?ed=2560&sni=tiny2.privacypath.org.tr&fp=firefox#cf2.privacypath.org.tr:443
 vless://f8e2ad01-4558-4207-87db-5991d64ca794@ping.pe:443?type=httpupgrade&security=tls&path=/tinyvpn?ed=2560&sni=tiny1.privacypath.org.tr&fp=firefox#ping.pe:443
@@ -16,5 +16,5 @@ vless://5e7be0f8-af63-45ff-8339-511a47a8243d@ping.pe:443?type=httpupgrade&securi
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@srv5.privacypath.org.tr:80?type=xhttp&security=none#srv5.privacypath.org.tr:80
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:830?type=tcp&security=none&path=/#tiny-srv1.privacypath.org.tr:830
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:443?type=tcp&security=tls&sni=tiny-srv1.privacypath.org.tr&fp=firefox#tiny-srv1.privacypath.org.tr:443
-trojan://8c15nseu-nxsk-ncqo-zjra-c68rwr39m8y5@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://eq9cmql0-irah-dnb7-ejfq-hucyty6yrvpi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://8texu1z8-1pjv-81dk-e3vp-3np2hl0eizy6@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://lw6b6d96-qs14-my2m-i1ux-90hd6mu2wdrv@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

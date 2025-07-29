@@ -1,11 +1,11 @@
-trojan://s8zns7dq-rjj0-1ekl-f23j-5u7k2251bi1x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://c1qlekzp-afsz-b0z1-gakg-nmoxt8p38u2h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://34tw78cn-z3gq-nfra-3hgu-y8epawt375nd@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://4ghrwvq8-kn6u-xd8d-b4hh-qotnh91d5xi9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://audt6ecl-kdfs-cp21-yqud-im73vgulyuje@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://4cxpa95z-pw4j-9d8c-xg6k-sc9s82484izm@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyOWtBb3FRVUVrUVVBUlAwQkJZakhl@178.208.91.118:19805#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Iron Hosting Centre LTD ┇ 178.208.91.118
-tuic://cc4a36f7-fee8-4c66-9e9c-1c59ad25bd85:5412d410@46.30.41.138:38551?congestion_control=bbr&udp_relay_mode=native&alpn=h3#NL 🇳🇱 ┇ TUIC-TCP-NTLS - Iron Hosting Centre LTD ┇ 46.30.41.138
+tuic://eb26c87a-bbb2-4e61-9ff8-7859d6899228:3ac3ab5f@46.30.41.144:54681?congestion_control=bbr&udp_relay_mode=native&alpn=h3#NL 🇳🇱 ┇ TUIC-TCP-NTLS - Iron Hosting Centre LTD ┇ 46.30.41.144
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcjB1OXVJbHJOUENTSnZlWTRIOTla@178.208.78.170:23822#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Iron Hosting Centre LTD ┇ 178.208.78.170
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.30.42.248:2501?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Iron Hosting Centre LTD ┇ 46.30.42.248
-tuic://eb26c87a-bbb2-4e61-9ff8-7859d6899228:3ac3ab5f@46.30.41.144:54681?congestion_control=bbr&udp_relay_mode=native&alpn=h3#NL 🇳🇱 ┇ TUIC-TCP-NTLS - Iron Hosting Centre LTD ┇ 46.30.41.144
 vless://b9329e36-c96b-4278-8cdf-8056cad9b2ab@46.30.47.7:25543?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Iron Hosting Centre LTD ┇ 46.30.47.7
-trojan://u864lpl9-n0tv-zz8v-wa1o-xvi1uczs45yv@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://aw5dg155-2ifb-llq7-ao2c-b8jlo4grzxyf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+tuic://cc4a36f7-fee8-4c66-9e9c-1c59ad25bd85:5412d410@46.30.41.138:38551?congestion_control=bbr&udp_relay_mode=native&alpn=h3#NL 🇳🇱 ┇ TUIC-TCP-NTLS - Iron Hosting Centre LTD ┇ 46.30.41.138
+trojan://rmbmz8fu-5fcn-87kw-x2pk-whphq21gkcrj@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://6c4y1tzw-v4x0-yb2e-oisd-vg45q9xx6p25@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

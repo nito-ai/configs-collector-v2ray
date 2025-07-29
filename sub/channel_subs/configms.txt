@@ -1,6 +1,6 @@
-trojan://gz0itpd1-rsya-mmno-d5n2-btyitn5t6gdo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://yv5q8ict-yrgu-b0ki-gwdt-2echqjngwf8q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://g5mnr8v2-mr1v-446h-xwxr-ws03sb3uuxo2@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://qggxr7rv-al5e-9snp-x99v-65w73zmjecrq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://bf4bhpgm-fmky-piu7-m36v-z71ga7ywmum4@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://6hw431f3-u4q2-v777-yhg6-8vgyg7ixm642@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiJTQwY29uZmlnTXMiLCJhZGQiOiI2Mi42MC4yNDYuODYiLCJwb3J0IjoxNjYzNCwiaWQiOiI1MDI2YTRjZi0yN2Y1LTRhMzctYjY4Mi1kMmMxYTRkMTFhNGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.137.129:2096?type=ws&security=tls&path=/vRpve4WyyyBMiVSu/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560&sni=FReedOM.pANoToSu.StorE&fp=randomized#172.67.137.129:2096
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?type=ws&security=tls&path=/&sni=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO#www.speedtest.net:2096
@@ -17,5 +17,5 @@ vless://204569c4-b51b-4c57-a875-7d9897fc170e@www.speedtest.net:80?type=ws&securi
 vless://5b76aea5-851b-4c51-b28d-0234927b3f7f@www.speedtest.net:80?type=ws&security=none&path=/Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80#www.speedtest.net:80
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#185.33.24.229:28495
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#5.181.171.10:443
-trojan://ceoijbhy-h093-88y5-pv4f-dnxj5tkn79c0@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://bxvqn16r-fdpb-q0e1-aug8-0it8vu1l60mf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://co314ha4-4snp-2uh9-1xu2-9v5pzc55tskp@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://5mhu5a1r-7isd-y77v-7nu8-xpxc1803n6b8@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

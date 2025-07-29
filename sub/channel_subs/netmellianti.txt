@@ -1,8 +1,7 @@
-trojan://1zregmjk-4zqb-p0jb-u1ra-rgbqvxl932zp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://hohyoyzx-rm71-35ke-v8yr-eu6km4k5tmor@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://gc4y27v1-ct4j-hri0-akm3-itd313hiz9nu@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://gtabohbq-6y7v-q0lm-v3xk-w2opiv82hkyc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://j691fwwn-6eaj-ut43-36f7-st7zekx8ri6j@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://ipa7e8xc-6032-l6sr-8ope-q4hpybldlkex@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiQE5FVE1lbGxpQW50aSIsImFkZCI6InNoLnNydi50ZTE0NTAuaXIiLCJwb3J0Ijo0MDMxLCJpZCI6ImM0MDI5ZDJiLTE2NjEtNGIxMC1iMDUxLWQ4NzY1NjRkNTE5ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://cd307b67-8180-491c-ad97-5dfd74cb38de@172.66.40.99:8880?type=httpupgrade&security=none#172.66.40.99:8880
 vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?type=xhttp&security=none&path=/123#s5.1dnt.k-l.cloud:80
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@91.99.229.238:2095?type=tcp&security=none#91.99.229.238:2095
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@89.34.230.152:2095?type=tcp&security=none#89.34.230.152:2095
@@ -18,5 +17,6 @@ vless://cd307b67-8180-491c-ad97-5dfd74cb38de@de1.configlinepanel.com:8443?type=t
 vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=firefox&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&sid=e5caf4654f#ger.afterhav.ir:8880
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ind01-vlr01.tcp-reset-club.net:443
 vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=firefox&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&sid=e5caf4654f#ger.afterhav.ir:8880
-trojan://z7c0tyru-wxel-jcn1-46iu-56q6dlms3pqk@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://6jzle83v-sfvg-jt1t-8fg8-4og48h8h2rc9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ind01-vlr01.tcp-reset-club.net:443
+trojan://ptqikv2w-rku4-2d6g-15s2-4r3xm0xd5mhq@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://hhj1xsis-5608-hxk3-5uum-8cqggfz3qqxs@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

@@ -1,6 +1,6 @@
-trojan://11oz9a14-g28d-y8ms-wbbh-k8yc109d87pu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://w0nwz294-v3mk-0ge0-ckoi-tj2er0jz8zpa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://k23og24d-lk0z-atfk-0q0z-n7rqmctqrpbu@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://x2bgn78m-j8ty-bknj-brz0-qflfprnle70l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://f2c75cy8-zczy-wctc-djhn-zfvy3aiti8p7@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://pu1wzjrb-tf6a-ozsf-1lno-zgwlr4klx2an@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://VPNCUSTOMIZE@customizev2ray.v2ray.motorcycles:2095?type=ws&security=none&path=/V2rayCUSTOMIZE?ed=1024#customizev2ray.v2ray.motorcycles:2095
 vless://VPNCUSTOMIZE@188.114.98.224:2095?type=ws&security=none&path=/V2rayCUSTOMIZE?ed=1024#188.114.98.224:2095
 vless://VPNCUSTOMiZE@channel-vpncustomize.v2ray.motorcycles:2095?type=ws&security=none&path=/V2rayCUSTOMIZE?ed=1024#channel-vpncustomize.v2ray.motorcycles:2095
@@ -27,5 +27,5 @@ vless://09d91bde-2292-462c-ba15-14f3b1b46bf8@join--vpncustomize.v2ray.re:8080?ty
 vless://09d91bde-2292-462c-ba15-14f3b1b46bf8@188.114.98.224:8080?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#188.114.98.224:8080
 vless://channel-VPNCUSTOMIZE@join--vpncustomize.v2ray.re:8080?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#join--vpncustomize.v2ray.re:8080
 vless://channel-VPNCUSTOMIZE@188.114.98.224:8080?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#188.114.98.224:8080
-trojan://3waudiga-s46n-duss-x332-f4mok8m1liht@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://clc4kkhw-hy5d-nt5o-zu1j-v5nlzu9pwmjo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://f29fjyn0-ll2y-iibh-ohxe-25u1004qn4yk@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://s9sb63hr-fe3u-alkr-3gtj-o2qdsak2aulh@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

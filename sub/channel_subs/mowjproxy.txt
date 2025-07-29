@@ -1,6 +1,6 @@
-trojan://8jye5wm4-c4ik-imti-tc51-14d1eznjo51x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://1znloj2d-di24-w7y2-lb9k-bh5955t4rvai@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://tgpt80xu-r10o-bxgr-fde9-26dh8l5ko0ud@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://lln9crrj-jg61-2rcq-ugfr-ex516rqu9fbz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://cbfyce69-irs2-3ylh-t9i8-fu2at8r9q660@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://qt4e2uib-3rbs-8k5o-40rj-nbytq9h756r3@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGlfcHJveHl5XHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxXHUwNjI3XHUwNmNjXHUyMDBjXHUwNjI4XHUwNmNjXHUwNjM0XHUwNjJhXHUwNjMxIiwiYWRkIjoiMTA0LjE3LjE0OC4yMiIsInBvcnQiOjIwODMsImlkIjoiOGFlNjU2NjQtODRlOC00MGUxLTk3MDgtOTIzNmYwODA4ZGZkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImFwaTMud2FsdG9ud2ViLmlyIiwicGF0aCI6Ii9wYW5lbD9lZD0yNTYwIiwidGxzIjoidGxzIiwic25pIjoiYXBpMy53YWx0b253ZWIuaXIifQ
@@ -29,5 +29,9 @@ vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&secu
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?type=ws&security=tls&path=/hajmi?ed=2050&sni=nb-en.nitter.ir&fp=chrome#104.26.6.89:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
-trojan://rcc9ka06-qwew-b33y-boys-mculfm6coicu@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://p316ab1z-mp50-ie3z-cw07-fli51vpn95c8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?type=ws&security=tls&path=/hajmi?ed=2050&sni=nb-en.nitter.ir&fp=chrome#104.26.6.89:443
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
+trojan://5a67rcnx-0uvj-jwf4-cdi6-p7d0g91nz7dp@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://wmy4nstp-6jpo-u1av-a3wl-n89rei84u0u9@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

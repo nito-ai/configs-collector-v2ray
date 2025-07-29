@@ -1,6 +1,6 @@
-trojan://0y1jtpch-ium7-w9lb-i4mc-elkppkoffe7l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://7kjbusiy-dps9-j2xi-qdp1-g6fws53ye9pa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://o32xrjuj-ye0s-g9lq-v13a-5zy6nvvqt7yq@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
+trojan://bf3pjnqv-5j59-hd8p-ivd2-7tu6jr7kz7gt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://oiwfb900-gx06-cg5j-yibf-45bzssdw88n8@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://x0aht55z-tkxk-e04d-dhk7-t2lthsaq00le@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
 vless://6cd35205-ccd3-426b-bfd7-677957aea695@cb4.connectbaash.info:4404?type=tcp&security=none#cb4.connectbaash.info:4404
 vless://c5faf134-bade-4e16-96de-a33a24c51cce@sn.lunarmc.ir:8082?type=grpc&security=none#sn.lunarmc.ir:8082
@@ -11,5 +11,5 @@ vless://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?type=grpc&secur
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&sni=miro.com&fp=firefox&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&sid=f74c827840#159.69.181.251:2087
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&sni=miro.com&fp=firefox&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&sid=f74c827840#159.69.181.251:2087
 hysteria2://flwhi%3AkcWlduqyvTDhaah8r1IIX7VnjB5r0SVl@tr-parsapt.hyper-ping.com:3105?sni=bts.com&insecure=1&obfs=salamander#tr-parsapt.hyper-ping.com:3105
-trojan://ipcyezfa-7a7g-dho3-frko-nw6zb46pszwq@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://buj8ol99-k9cr-dxui-t251-n9a97yi4md07@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://2tte1738-gd0b-iy9k-l5a1-bs50k5pcc5lo@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://6966op5p-2qrx-exho-6mn3-6ffg28obfpv2@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

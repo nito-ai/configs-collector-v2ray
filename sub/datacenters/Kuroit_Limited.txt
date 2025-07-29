@@ -1,8 +1,8 @@
-trojan://ucqx7slw-bshg-m5d9-ls0w-p1xswvhikuja@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 12:13 ]
-trojan://a8md5ln4-883g-s3tw-seyn-czleyx3yew90@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://g3jl1s6r-t9nx-jxx3-yzii-o1ejm7a1kr16@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443?sni=wfi.sahnama.com&peer=wfi.sahnama.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Kuroit Limited ┇ 178.239.171.103
-tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
+trojan://zikcmr5t-zbz5-kk06-cqs6-vio7drfhdmyk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 12:41
+trojan://mhhaog16-2a7u-hjc2-1ota-tnzp6czsm365@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://tm1yqzjd-rj1g-8svz-5lj8-459m1dczar16@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 tuic://81ef78ef-721f-443e-aa3f-969072c0b8eb:azadi@46.37.124.122:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 46.37.124.122
-trojan://5n8nr8kt-880x-0hh5-jo0u-80zffqeu81zs@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://8z8cn3re-1i3j-mal6-p5q6-7sbl8i3xfnt8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
+trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443?sni=wfi.sahnama.com&peer=wfi.sahnama.com&security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Kuroit Limited ┇ 178.239.171.103
+trojan://lzrk3xq7-5j1t-xhvg-poi0-8l8xqyhi5iwj@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://g2bf03pg-3ede-2dwe-mymx-isjvwoh1bm1s@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
