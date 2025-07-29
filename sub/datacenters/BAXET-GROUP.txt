@@ -1,12 +1,12 @@
-trojan://7dfvdrgy-o35s-g1sd-hkh5-i3l8clq7umck@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:22
-trojan://2a1wu2jf-ysw9-zq0o-ci8i-2j3s3y3oykka@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://f99q89cp-ooda-vzqe-ysln-2gsj5a8uwa2z@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@104.166.125.210:443?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - BAXET-GROUP ┇ 104.166.125.210
+trojan://o46gtmzg-vqzs-qqk3-a87n-a4qmkj45pvik@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:58
+trojan://xnzoykcx-vc4t-4x4e-tdtc-wh5ii2qmk36r@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://86vh3365-h8aj-pep3-6zhh-n2mvttj0jmav@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCQVhFVC1HUk9VUCBcdTI1MDcgMTkzLjIzMy4yMDcuMTA1IiwiYWRkIjoiMTkzLjIzMy4yMDcuMTA1IiwicG9ydCI6NDQzLCJpZCI6IjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6InZtZXNzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQkFYRVQtR1JPVVAgXHUyNTA3IDEzNC4xOTUuOTYuMTc4IiwiYWRkIjoiMTM0LjE5NS45Ni4xNzgiLCJwb3J0Ijo2NjYsImlkIjoiNGViYzYyMTQtMzNhYi0zN2NjLWEwMWEtZmY5NzAyOWRiMGY1IiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCQVhFVC1HUk9VUCBcdTI1MDcgMjA5LjIwOS4xMTIuMjciLCJhZGQiOiIyMDkuMjA5LjExMi4yNyIsInBvcnQiOjQ0MywiaWQiOiJjOGJlYzg5OS01NDM1LTRmNTktYTQwNi05ODM3MDkwZWZlY2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvc2R4LnVzIiwidGxzIjoidGxzIn0
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@104.166.125.210:443?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - BAXET-GROUP ┇ 104.166.125.210
 trojan://270685c6-f4fb-4b15-bca6-dd6c622e8f44@das.802039.xyz:443?sni=das.802039.xyz&peer=das.802039.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - BAXET-GROUP ┇ 194.135.104.179
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQkFYRVQtR1JPVVAgXHUyNTA3IDEzNC4xOTUuOTYuMTc4IiwiYWRkIjoiMTM0LjE5NS45Ni4xNzgiLCJwb3J0Ijo2NjYsImlkIjoiNGViYzYyMTQtMzNhYi0zN2NjLWEwMWEtZmY5NzAyOWRiMGY1IiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0Ynh3c1lTM24weXB0YlcwZmZKZWtu@193.233.207.191:16381#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BAXET-GROUP ┇ 193.233.207.191
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQkFYRVQtR1JPVVAgXHUyNTA3IDEwNC4xNjYuMTI0LjgyIiwiYWRkIjoiMTA0LjE2Ni4xMjQuODIiLCJwb3J0Ijo0MDAwMCwiaWQiOiIxYTc4ZTE2ZC05MWFmLTQzYWQtOWE0ZS03YWU1MGVkOWE3ZjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-trojan://gddx2ysc-blsn-uwtr-23i0-0gfua29w7inl@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://xv8ta7mu-cafm-lzve-sal9-8yemqgbuwniu@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCQVhFVC1HUk9VUCBcdTI1MDcgMjA5LjIwOS4xMTIuMjciLCJhZGQiOiIyMDkuMjA5LjExMi4yNyIsInBvcnQiOjQ0MywiaWQiOiJjOGJlYzg5OS01NDM1LTRmNTktYTQwNi05ODM3MDkwZWZlY2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvc2R4LnVzIiwidGxzIjoidGxzIn0
+trojan://sis1vq0k-x4xt-v7ot-jxnc-lqfr5cn3dqav@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://zkh18niy-wyno-q9b3-ccai-kgd92lr62ekr@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

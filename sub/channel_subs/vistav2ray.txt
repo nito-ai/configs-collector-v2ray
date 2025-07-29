@@ -1,6 +1,6 @@
-trojan://lpkiepdd-c9hf-8lnd-ot1u-a08vqd4hs6ej@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:22
-trojan://nblbwaz2-nn2d-uo3y-hgcq-gmlbzvknqa2p@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://cc91stx2-ru26-d55b-2vx6-hv5hfcq6z0xx@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://y4y5l9so-8c12-2ipq-ap81-xz626zvyl2x7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 01:58
+trojan://0oj4jvv5-vb7x-jcqn-zu62-5yga7dr7zqtz@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://qokyrnyq-6lqi-6gw6-rs7j-ijp4etxo4hj6@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1IEB2aXN0YXYycmF5ICBcdWQ4M2RcdWRjNDhcdWQ4M2RcdWRjNDhcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjQ1XHUwNjI3IiwiYWRkIjoiMjE2LjE3My42OS4yNTAiLCJwb3J0Ijo4NDQzLCJpZCI6IjkxMzgyMDkyLTIzMzAtNDU1Yi04YTFjLTljMTI5Y2ZlNjYxYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1IEB2aXN0YXYycmF5ICBcdWQ4M2RcdWRjNDhcdWQ4M2RcdWRjNDhcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjQ1XHUwNjI3IiwiYWRkIjoiMzcuMjAyLjIyNS43NCIsInBvcnQiOjQwNTIxLCJpZCI6ImIzNjhhODZlLTZmYmMtNDMxYy05ZjA1LTZlMWZhYjg5Njg1OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
@@ -20,5 +20,5 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=t
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#5.182.38.91:17267
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@nl01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420#nl01-vlr01.tcp-reset-club.net:443
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?type=xhttp&security=reality&sni=smtp.zoho.com&fp=firefox&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#206.71.158.75:465
-trojan://25rg1qv4-15yh-2ahd-llkl-oqeg0fahg4kq@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://16s343yv-bjnj-xoqk-z30y-fb43fqmunf29@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://lzpgh6q2-ilaq-77jg-7s99-31me9e9k9477@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://moz15qsd-69ey-t200-bfwi-v0t1d4xwbzzk@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
