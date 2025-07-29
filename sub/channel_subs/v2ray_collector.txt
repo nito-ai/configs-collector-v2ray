@@ -1,6 +1,6 @@
-trojan://v9ws48zu-q9bs-ss56-8674-q9fqe2rdd0rt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 21:36
-trojan://7hs3u9v8-b8ci-rfoa-ipfx-klhen3mm73eu@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://xdhizdn4-8b33-b8p0-nhgi-8jplljzthc8i@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://e8zj4pr4-w6rh-jhw2-ut49-ekd5t7fp3eke@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 22:16
+trojan://28h4d06u-tta6-rbph-mr3v-z9ey1qd3jc40@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://u28zoqp8-r9zz-xjk0-gep4-ekx5ymrom82f@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 trojan://bpb-trojan@172.67.70.92:443?sni=zamim340.ggff.net&peer=zamim340.ggff.net&security=tls#172.67.70.92:443
 trojan://installshield@38.180.249.177:8443?security=tls#38.180.249.177:8443
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop#185.59.218.168:443
@@ -39,5 +39,5 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.245.70:443?type=grpc&security=
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.167.253:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#104.129.167.253:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#141.11.202.193:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@86.38.214.158:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#86.38.214.158:443
-trojan://30ur4s87-xh7z-vbrr-5y60-q003fkj1vxnx@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://k9pax49l-d7t4-ub1k-78vu-unluu1le2bqo@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://nmzne9gk-6y74-kjt4-xbkv-2140p5npiehz@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://cwwvbyvl-zipz-iflf-d28z-yl13108cix8y@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
