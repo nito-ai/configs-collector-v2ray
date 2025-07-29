@@ -1,7 +1,6 @@
-trojan://35e80dek-wcd1-6em1-6bs9-02g25fq5lh0m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:39 ]
-trojan://5sshhgby-rdku-kcpa-j8sx-gomfkr7qo45o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://elrzocdi-vc8k-y9np-d6r9-i1oure7c51ns@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s2.1dnt.k-l.cloud:80?type=xhttp&security=none&path=/123#s2.1dnt.k-l.cloud:80
+trojan://exhkeahg-ds0m-gp5r-0znj-4sz0xwfdom70@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 11:07 ]
+trojan://pq9lh4v0-y48p-fmlt-bnu6-wd3ys4re27it@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://l69l1vpe-m2wq-lraa-3jis-ssr8843k9nim@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&security=tls&path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet1-706.pages.dev&fp=randomized#162.159.129.67:8443
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&security=none&path=/Barayeiranmahsang/----@-?ed=2560&sni=barayeiran-mahsang.gerald81.dpdns.org&fp=random#91.206.71.162:8880
@@ -38,5 +37,5 @@ vless://cd307b67-8180-491c-ad97-5dfd74cb38de@ca1.configlinepanel.com:8443?type=t
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#in1.configlinepanel.com:8443
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@uk1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#uk1.configlinepanel.com:8443
 vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=firefox&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&sid=e5caf4654f#ger.afterhav.ir:8880
-trojan://0mtvpbfy-plsm-kxb4-lbud-9cou0mntbkle@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://xeu4r388-rwdc-ywms-3ny4-n5pmhprlw14g@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://ch9epw9p-ilnx-0y3d-t4rk-91nnubi1bm81@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://g1vkcxdb-r6s3-6ryw-e1lf-xuyrbh748gk0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

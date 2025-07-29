@@ -1,8 +1,8 @@
-trojan://4y3kvl83-hmd5-njri-xd8h-aci53y7ltmdb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:39 ]
-trojan://scvqprqf-1u00-gp15-4kig-3ye7t65mvc7z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://f09zhs1y-nnyv-urse-xwt7-jvbso4fpe31g@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-vless://88210b4d-b356-4eaf-f7d7-edeacbd63a11@185.45.194.29:32108?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-RLT - Host Sailor Ltd ┇ 185.45.194.29
-hysteria2://15R8i80exo@185.45.193.163:11001?insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - Host Sailor Ltd ┇ 185.45.193.163
+trojan://6r7i3713-sase-4kvg-j9sv-ugz7q43y4fay@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 11:07 ]
+trojan://jo94mf7r-o6rq-t5di-4d9l-onvd4030bi57@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://qurp3p5p-mv8z-pv8b-5tf2-a9ypokmy3mzr@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 hysteria2://15R8i80exo@185.45.193.164:8443?insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - Host Sailor Ltd ┇ 185.45.193.164
-trojan://clxzuhe3-pznw-qvcc-lgio-ttg6q40eblsp@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://rkfln401-m2wk-hm3t-3wxq-n0nm16eyfunc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+hysteria2://15R8i80exo@185.45.193.163:11001?insecure=1&obfs=salamander#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - Host Sailor Ltd ┇ 185.45.193.163
+vless://88210b4d-b356-4eaf-f7d7-edeacbd63a11@185.45.194.29:32108?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-RLT - Host Sailor Ltd ┇ 185.45.194.29
+trojan://5q0ebnr1-s8ac-jymo-9acp-2br75w0vhgsy@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://z25gbu0q-b1n2-5die-1ee4-bxglkzqvp4k5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

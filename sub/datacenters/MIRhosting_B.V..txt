@@ -1,7 +1,7 @@
-trojan://4pt39xeq-9shw-po5e-sr5u-p355ezcsz3l5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:39 ]
-trojan://33p8ypm0-xao3-3rgu-j42n-40g7i3h4b1z7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://8w0vlm05-catz-k4iy-w3r3-fts1bt7g8rid@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-trojan://juzi@194.87.148.148:8443?sni=juzi8186-sr1.pages.dev&peer=juzi8186-sr1.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - MIRhosting B.V. ┇ 194.87.148.148
+trojan://mutgzu6q-fhzk-dxb5-1cqp-2dkca9jsjbzv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 11:07 ]
+trojan://esw4vg9t-5gm0-6534-p7zo-uk24l6ehs1dj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://6s1zd5aq-2sha-dl4u-l7hy-g6v7gku0a1n0@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://46e8ae7b-07cb-4c89-b95d-5ce04299b303@194.87.148.104:34920?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - MIRhosting B.V. ┇ 194.87.148.104
-trojan://488xyoox-3m9n-08fd-rre0-8swxnuowigdw@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://3i1swnl6-oljm-72gc-hy35-zewg5nhdwkrw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+trojan://juzi@194.87.148.148:8443?sni=juzi8186-sr1.pages.dev&peer=juzi8186-sr1.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - MIRhosting B.V. ┇ 194.87.148.148
+trojan://eivfnzjb-1ut9-nzpv-ozzv-0b7ys9neqmtb@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://q2hhharb-wcs2-0b8j-4pv1-zq4i4vjc0r3e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0

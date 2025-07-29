@@ -1,8 +1,9 @@
-trojan://iytp1mkm-1n4n-vrs6-xlbt-7d1w147i093e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 10:39 ]
-trojan://4l9nj2jr-p7y1-1mb0-rm6c-s25727e3dvhg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
-trojan://x741vzcz-pgt7-9rfb-gqij-mnvnzc0s3uyz@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@164.52.2.99:443?type=ws&security=none&sni=0926.qiang2000.link#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.99
-trojan://ttfang@164.52.2.98:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - CDSC-AS1 ┇ 164.52.2.98
+trojan://1bsq6g3t-qi1t-3ks7-55oh-3fa0irbcfnwg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-29 | 11:07 ]
+trojan://mvbz5d56-xr8x-ngx6-vr8e-w8djdgihj863@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @DailyV2Config
+trojan://sy434yrk-ts06-io4g-xrkv-dkznsdvtnn0l@127.0.0.1:4080?security=tls&type=tcp#「 eQnz ☕ 」
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@164.52.2.100:443?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.100
-trojan://65i9jhef-tv0o-1baw-yqfx-12lm2r24jpax@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
-trojan://d9hhd877-dxr3-ekgh-4231-uayd4lzjr0vr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@148.153.234.37:443?type=ws&security=tls&path=/current_time&sni=ahmedquran19.xyz&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - CDSC-AS1 ┇ 148.153.234.37
+trojan://ttfang@164.52.2.98:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - CDSC-AS1 ┇ 164.52.2.98
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@164.52.2.99:443?type=ws&security=none&sni=0926.qiang2000.link#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.99
+trojan://dls49lp0-6t2e-3i7e-ywrd-lqxchmt64zbn@127.0.0.1:8080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @DailyV2Config
+trojan://q7yqj2p2-g9sh-a1kl-qus9-rlrfsed4b9jd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v4.0
