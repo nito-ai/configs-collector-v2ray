@@ -1,6 +1,6 @@
-trojan://ct7ls9bz-04o3-867x-k1tw-ggl1qlthpfjq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:37
-trojan://e654yowr-itjv-4sou-166u-7i04rr0xsh33@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://eqlnx454-jigf-qco4-5fng-9quqiom1gnrg@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://u90h0zvu-xft7-rige-0tib-h1nbjuft0skc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 15:04
+trojan://zcwi902j-wnka-u5ae-f5zo-bves7a5wl2gz@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://xrskekfg-hnv3-hlwc-6f9t-wim6pr2zh2n3@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiQHZtZXNza2hvZGFtKVx1MDYyYVx1MDY0NFx1MDZhZlx1MDYzMVx1MDYyN1x1MDY0NVx1MDY0NVx1MDY0OFx1MDY0NiIsImFkZCI6InBhbmVsMS5pcHlhci5vcmciLCJwb3J0Ijo0MjY4NCwiaWQiOiJjNGJkOWViYS04YWVhLTRkNWUtYTJlZS1iNWRlNjVhYzE0ZTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://dfe016f3-2ff9-401a-a373-75422528f681@t2.vipfastconnect.top:2299?type=tcp&security=none#t2.vipfastconnect.top:2299
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&security=none#62.60.163.77:3333
@@ -25,5 +25,5 @@ vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:8710?type=tcp&secur
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?type=ws&security=none#165.22.76.53:9387
 vless://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng&sid=11648b03a5acc7#freenet.mygoldiran.com:25079
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ru01-vlr01.tcp-reset-club.net:443
-trojan://gt0xvhxg-opna-ya24-k4kn-z22swg7g7z1p@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://roqkemcc-p83f-6kub-os9k-jprr33przgja@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://2iuw63zw-oi39-gz49-ee6y-76ddti1q72l2@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://anx104ip-dr7e-d1u3-g9wt-lroa6znhwto7@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

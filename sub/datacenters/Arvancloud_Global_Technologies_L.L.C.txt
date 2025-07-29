@@ -1,17 +1,17 @@
-trojan://s6pcc266-t01q-etjc-9afw-nqg1nu9smqsr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 14:37
-trojan://rxlleb40-useh-y4on-2u74-dd0ehvvun209@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://u0rvawr7-c8xm-8vlw-1mau-ktjx9wscsoo6@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://7c0e47c4-d131-413a-8f67-1c1cc9f5e734@194.5.206.53:3000?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.206.53
-vless://4498752f-277a-4426-aea1-7cfc1c9b9113@185.204.168.191:2020?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.168.191
+trojan://2pr28bk9-9j7o-opww-vy1h-13l3w3ze9nsv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 15:04
+trojan://bmnrcrl6-vy6z-ncux-1nj1-qk2q77pm24tq@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://xvcbw542-ydn0-isox-xhhk-5i65rkcdqy6d@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+vless://4b41943d-f4bf-4341-8acc-042e6a9ee17e@185.204.169.242:80?type=ws&security=none&path=/@custom_config#DE 🇩🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.242
 vless://f8729660-82eb-47e0-9f45-2984113316ca@ping.srvice.shop:1030?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.171.31
-vless://36f540c5-0e77-4801-8633-de11645737e4@185.204.169.242:80?type=ws&security=none&path=/@custom_config#DE 🇩🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.242
-vless://3cf9d970-6b52-4c72-b8f5-cb4e52e5f389@185.204.169.20:47138?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.20
-trojan://X98ViOdiRw@xs.srvice.shop:14127?security=none#DE 🇩🇪 ┇ TROJAN-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.193.185
+vless://7c0e47c4-d131-413a-8f67-1c1cc9f5e734@194.5.206.53:3000?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.206.53
 vless://60274f38-25c2-4df8-80f4-fb8e68f60804@194.5.193.73:26469?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.193.73
 vless://7e52bf72-f723-44fe-a8cc-7e637a5aefac@iaas-images.s3.ir-thr-at1.arvanstorage.ir.dejban1401.s3.ir-thr-at1.arvanstorage.ir.error-tracking.arvancloud.ir.napi.arvancloud.ir.archcloud.ir:80?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=le06gsefbfVgRVL7txBDq40JVvbWszdjVlFfmyETfGE&sid=6ba85179e30d4fc2#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arvancloud Global Technologies L.L.C ┇ 194.5.193.121
-vless://f67b1db2-8eab-429a-a95b-a611c1bd24a6@thumbnails.torplay.ir:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.170.13
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydmFuY2xvdWQgR2xvYmFsIFRlY2hub2xvZ2llcyBMLkwuQyBcdTI1MDcgMTg1LjIwNC4xNzAuMTY4IiwiYWRkIjoiZ2guc2hhaG1hZ2ljLm9ubGluZSIsInBvcnQiOjgwODEsImlkIjoiNjZjNzZhNzMtZTg2YS00MzI4LTgzMTAtMmY4N2U3NGJiZGVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXJ2YW5jbG91ZCBHbG9iYWwgVGVjaG5vbG9naWVzIEwuTC5DIFx1MjUwNyAxODUuMjE1LjIzNC4yMSIsImFkZCI6IjE4NS4yMTUuMjM0LjIxIiwicG9ydCI6ODAsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjowLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQUUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXJ2YW5jbG91ZCBHbG9iYWwgVGVjaG5vbG9naWVzIEwuTC5DIFx1MjUwNyAxODUuMjE1LjIzNS4yMSIsImFkZCI6IjE4NS4yMTUuMjM1LjIxIiwicG9ydCI6ODAsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZ3JhcGhxbCJ9
-trojan://9wg0h46x-ur9t-obtd-4j3h-981g2dz63a06@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://xoji75fv-vlrz-2ulo-zx22-b3thyw8h8fdw@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://f67b1db2-8eab-429a-a95b-a611c1bd24a6@thumbnails.torplay.ir:8443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.170.13
+trojan://X98ViOdiRw@xs.srvice.shop:14127?security=none#DE 🇩🇪 ┇ TROJAN-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.193.185
+vless://3cf9d970-6b52-4c72-b8f5-cb4e52e5f389@185.204.169.20:47138?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.169.20
+vless://4498752f-277a-4426-aea1-7cfc1c9b9113@185.204.168.191:2020?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.168.191
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydmFuY2xvdWQgR2xvYmFsIFRlY2hub2xvZ2llcyBMLkwuQyBcdTI1MDcgMTg1LjIwNC4xNzAuMTY4IiwiYWRkIjoiZ2guc2hhaG1hZ2ljLm9ubGluZSIsInBvcnQiOjgwODEsImlkIjoiNjZjNzZhNzMtZTg2YS00MzI4LTgzMTAtMmY4N2U3NGJiZGVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+trojan://chus5md6-7uxg-3kd7-hs20-go2le5ea7gv9@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://mqthmrm6-263p-otee-eq92-a1pcakdve9mz@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
