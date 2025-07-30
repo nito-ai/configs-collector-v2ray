@@ -1,11 +1,11 @@
-trojan://60ars9sc-yjzz-nnzy-0bbr-kfbgcsv0cjop@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 11:13
-trojan://v9r148g1-n7v3-mr2k-m1rb-15gz9gcq14sz@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://1xl0hora-t7f6-ksua-j03k-88olrey7nass@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://5214cf54-b6e4-4379-8953-a4b9923d5f62@pars3.parsnetwork.com.tr:20803?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.19.156
-vless://ea145545-2d51-4eca-814a-e125976c9938@93.126.18.79:8085?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.79
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQXNtYW5mYXJheiBTZXBhaGFuIENvbXBhbnkgKFAuSi5TKSBcdTI1MDcgOTMuMTI2LjE4LjY3IiwiYWRkIjoiOTMuMTI2LjE4LjY3IiwicG9ydCI6MTEwLCJpZCI6IjE0ZTAyNWU0LTdlNWEtNGIzNC1hZTJhLWUyODM5OTE2Yzg0OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InAzbS5mYXN0djIuY29tIiwidGxzIjoidGxzIiwic25pIjoicDNtLmZhc3R2Mi5jb20ifQ
-vless://57516354-6eaf-43ec-d725-de5b530c17ff@93.126.18.29:43388?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.29
-vless://24c0a6e8-f9bc-4602-b611-205ef0ce7f75@play.gexar.top:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.204
+trojan://e702dzsh-mzoe-xmcv-nxym-dycwm5mevtgu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 12:06
+trojan://vf09bi6e-ihnw-0k4p-enld-is13mbmbu16q@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://6lsn63j9-x04j-jp0n-bg9f-8ttz2ileaj0o@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXNtYW5mYXJheiBTZXBhaGFuIENvbXBhbnkgKFAuSi5TKSBcdTI1MDcgOTMuMTI2LjE4Ljc1IiwiYWRkIjoiOTMuMTI2LjE4Ljc1IiwicG9ydCI6ODAsImlkIjoiMWEyMmRkYTMtYWZmZS00NGQ4LWFkZGEtMWM5NmQwNzc5ZmQxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
-trojan://a3fqj8br-wtv1-1koo-m57i-w5pkg9xdyqz1@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://b7c6pmfc-ybe6-y2d9-djhh-29xa8syf23f5@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://5214cf54-b6e4-4379-8953-a4b9923d5f62@pars3.parsnetwork.com.tr:20803?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.19.156
+vless://24c0a6e8-f9bc-4602-b611-205ef0ce7f75@play.gexar.top:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.204
+vless://57516354-6eaf-43ec-d725-de5b530c17ff@93.126.18.29:43388?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.29
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQXNtYW5mYXJheiBTZXBhaGFuIENvbXBhbnkgKFAuSi5TKSBcdTI1MDcgOTMuMTI2LjE4LjY3IiwiYWRkIjoiOTMuMTI2LjE4LjY3IiwicG9ydCI6MTEwLCJpZCI6IjE0ZTAyNWU0LTdlNWEtNGIzNC1hZTJhLWUyODM5OTE2Yzg0OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InAzbS5mYXN0djIuY29tIiwidGxzIjoidGxzIiwic25pIjoicDNtLmZhc3R2Mi5jb20ifQ
+vless://ea145545-2d51-4eca-814a-e125976c9938@93.126.18.79:8085?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.79
+trojan://59xr2o99-3569-9rf9-unkr-743gz54avpau@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://7g9swrcl-oo8x-60yx-a30j-4222vbtkg669@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

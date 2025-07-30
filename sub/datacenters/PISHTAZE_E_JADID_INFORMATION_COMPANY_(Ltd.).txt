@@ -1,8 +1,8 @@
-trojan://px05v2rn-a0jv-9vnu-i31k-52eze06es1zk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 11:13
-trojan://uxsiy6j3-agu7-fs0s-vusj-vfo3qiagkuzn@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://yd8bjujn-d1rf-rzrh-k1b3-umer3y3i1rzg@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://0c647e08-e84f-4627-98ab-cef89c19fcf1@impala.khorosshekan.ir:12112?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.46
-vless://e0b79077-43fc-4ed8-afbc-13fe2c4f2be6@178.21.161.25:5000?type=grpc&security=tls&sni=servers.xvon.in&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.25
+trojan://xsy3md0r-vmzh-lc6x-cjyb-ylzl7opfevys@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 12:06
+trojan://gdkvufuh-4o5x-159r-amfn-ifcgmvbv2xxj@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://kyfa89qn-lnet-vlfi-4ibg-plek123benot@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?type=grpc&security=tls&sni=servers.xvon.in#IR 🇮🇷 ┇ VLESS-GRPC-TLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.105
-trojan://u8fn16xf-0x8p-f1m6-dk0u-q32ztgzmz4l0@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://gil8d8hy-b34q-xim5-tzcy-q23o40lhuy60@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://e0b79077-43fc-4ed8-afbc-13fe2c4f2be6@178.21.161.25:5000?type=grpc&security=tls&sni=servers.xvon.in&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.25
+vless://0c647e08-e84f-4627-98ab-cef89c19fcf1@impala.khorosshekan.ir:12112?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.46
+trojan://vmrt28ox-zd9t-bbwo-w0hq-ss2qx2knogkr@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://jhh4zl8d-0729-dh2p-hdt7-eyamwxj19o1r@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
