@@ -1,11 +1,11 @@
-trojan://cfy6v9bs-w3y8-5x9s-ugq7-lx0pnmk25e8b@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 12:06
-trojan://qqnladm0-zhlu-8gyw-ipbc-mde9wtcftvlo@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://dfoaf4xi-4l3u-35aa-0huo-h224jobks2m9@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
-vless://n3o4y8vz-07s5-4751-ys70-t8t8q1227t59@xray.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 185.130.50.10
+trojan://fvsqf41z-39uy-dmq5-5zti-39hgrsqhj2t8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 12:33
+trojan://qq84rj21-tgxi-xrsx-cyka-01keykujk6x5@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://ag03zcgm-06ab-lgxt-xi8m-5yjyo7umzob0@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://d1478689-439c-4590-b7ce-36e786a02dc3@youtube-bai-piao-wang-zhe-usa.98848.xyz:443?type=tcp&security=xtls&sni=youtube-bai-piao-wang-zhe-usa.98848.xyz&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
-trojan://pdwuekvu-5cor-dz35-2jjg-9f51amcyb4vq@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://4mtaq1jj-w4s0-1an4-y54n-r6qq6f6vlds1@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://n3o4y8vz-07s5-4751-ys70-t8t8q1227t59@xray.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 185.130.50.10
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
+trojan://vhkrw5l1-icda-ivs5-f3ap-t5mwngl8063b@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://ego288ua-q4ew-fb29-0uho-6u19rsrx0qsb@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

@@ -1,11 +1,12 @@
-trojan://t0pven9e-8qfo-jydn-2ung-q6mpdowg3mdf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 12:06
-trojan://j4y97570-bgw7-t3l2-yebu-spz1d0r7djfg@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://pd1j8r4y-c0u4-y4mg-z4zs-mx950kas6mo5@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-hysteria2://0f737d73b058c8cf@161.123.69.19:1602?insecure=1&obfs=salamander#OM 🇴🇲 ┇ HYSTERIA2-TCP-NTLS - Edgoo Networks Unipessoal Lda ┇ 161.123.69.19
-vless://8405b505-709f-4066-8f24-5337212d47d4@154.205.147.238:443?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mu0LLDgqLrI_QQwD3Dhd_sAldyWylaspLVS5lXDEeCU&sid=e0796eb9b80f7a#OM 🇴🇲 ┇ VLESS-GRPC-RLT - Kaopu Cloud HK Limited ┇ 154.205.147.238
+trojan://42zptfxx-d89z-glhv-umxg-1dxdeig6hh9j@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 12:33
+trojan://m7vleicj-k438-kjdo-t0sl-gsa9rtslj9rw@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://4p993xwz-6kci-s5cj-ukrc-r49cmo9yz9p7@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFSlFmRkZMMnJtMXNHMDVmUlIxN0ZN@154.205.147.68:8443#OM 🇴🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.68
+vless://accc0d7e-759d-4f00-97a0-ed30e7780a32@154.205.147.214:443?type=xhttp&security=none&path=/wd#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.214
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@162.158.28.121:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#OM 🇴🇲 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 162.158.28.121
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@154.205.147.24:8080#OM 🇴🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.24
-vless://accc0d7e-759d-4f00-97a0-ed30e7780a32@154.205.147.214:443?type=xhttp&security=none&path=/wd#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.214
-trojan://1urk6f3v-k61d-0e94-7l29-6b0rcwmu0ppe@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://jmhuycum-4cv7-lzlz-muus-et4sgapzgp2l@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://8405b505-709f-4066-8f24-5337212d47d4@154.205.147.238:443?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mu0LLDgqLrI_QQwD3Dhd_sAldyWylaspLVS5lXDEeCU&sid=e0796eb9b80f7a#OM 🇴🇲 ┇ VLESS-GRPC-RLT - Kaopu Cloud HK Limited ┇ 154.205.147.238
+vless://d4f8c277-8b45-45f0-b45e-ed3ce46138e8@154.205.147.41:443?type=xhttp&security=none&path=/awd#OM 🇴🇲 ┇ VLESS-XHTTP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.41
+hysteria2://0f737d73b058c8cf@161.123.69.19:1602?insecure=1&obfs=salamander#OM 🇴🇲 ┇ HYSTERIA2-TCP-NTLS - Edgoo Networks Unipessoal Lda ┇ 161.123.69.19
+trojan://s3h33y2z-ce19-k9xg-635n-kighswhzi5lz@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://gfysfaxe-yrus-dmza-xqo5-12bcjegyyrlt@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
