@@ -1,6 +1,6 @@
-trojan://k1y6ow1m-o7w5-y4l6-5p56-i7k6ddivozsh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:09
-trojan://60ptr20h-4l64-vgqw-j96q-rdzxyrz10k60@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://0dx6izeo-rldu-epx9-twdk-r3uvj9u9ycox@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://1mhbfdh5-8al2-vlat-ajli-kmwo2xj70oie@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:40
+trojan://2e9km5h3-xp21-khep-tvmq-jika722xzwrd@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://5cvt5t55-ous3-fpqs-nksa-aruxfygqnalb@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#185.193.49.88:989
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:4444#54.36.174.181:4444
 ss://bm9uZTpjYmFjYmFhLWFhYmMtYWNiYS1hZGJjLWFiY2FiYmFiY2NhYw@127.0.0.1:8080#127.0.0.1:8080
@@ -18,11 +18,8 @@ trojan://0028109a-37ed-4ded-b858-e566388a904c@35.95.97.224:20230?sni=421421.xyz&
 trojan://NISHIKUITAN111@154.92.9.71:443?security=tls#154.92.9.71:443
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?sni=bPB-V.pageS.dEV&peer=bPB-V.pageS.dEV&security=tls#23.227.38.208:2053
 trojan://telegram-id-directvpn@3.68.1.93:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.68.1.93:22223
-vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?type=ws&security=tls&path=/hajmi?ed=2050&sni=nitter.ir&fp=chrome#www.venzo.com.tr:443
-vless://telegram-id-Arfilter@www.speedtest.net:80?type=ws&security=none&path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter?ed=80#www.speedtest.net:80
-vless://623a1b9d-bf41-4181-9466-d099996dc706@99.199.73.53:20911?type=tcp&security=none#99.199.73.53:20911
-vless://8fecc951-2767-5f2b-9f60-fd87c0034829@v-03.artemis-vpn.org:80?type=tcp&security=none&path=/@Artemis_Vpn#v-03.artemis-vpn.org:80
-vless://3e77d8c7-5909-4a3d-aeb2-7ae8fc743fc8@raz6.kavehe.sbs:14980?type=tcp&security=none#raz6.kavehe.sbs:14980
+trojan://er668@kfjdi.pages.dev:443?security=tls#kfjdi.pages.dev:443
+trojan://bpb-trojan@141.11.202.133:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#141.11.202.133:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
 vless://49f10318-3e61-462b-b57d-0bfa25b77d94@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050/?AZADIIIVPNBIA_CHANEL@AZADIIIVPN#www.speedtest.net:2095
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:443?type=ws&security=tls&path=/join---@MTMVPN-@MTMVPN-@MTMVPN/?ed=2560&sni=redfree8.pooriashop.ir&fp=chrome#104.21.56.44:443
@@ -60,7 +57,11 @@ vless://034a08f5-0816-4591-8bb3-3fdf237f2463@www.speedtest.net:2096?type=xhttp&s
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.66.43.162:2052?type=ws&security=none&path=/t.me/Config_Station#172.66.43.162:2052
 vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@cert.realtechshop.top:666?type=tcp&security=none#cert.realtechshop.top:666
 vless://7b5732b8-abdb-4691-a06d-b03c2752889b@wouldyoumarriemepleasefuckthesystem2.siasia.ir:2053?type=ws&security=tls&path=/apiii&sni=hheydudethisworldisshet.siasia.ir&fp=randomized#wouldyoumarriemepleasefuckthesystem2.siasia.ir:2053
-vless://100a18b8-bab3-4c42-96ec-6b96691d6a0f@18.237.114.206:443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=CgiGam2CJMM33Tb7ZEBHt52pztMD7SQ9sqdfDZro-0Y#18.237.114.206:443
+vless://16f4a1c4-905e-4816-b825-443ec775bbc4@tunnel.aghamehdi52.ir:2000?type=tcp&security=none#tunnel.aghamehdi52.ir:2000
+vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=pqh26v7.hiddendom.shop#all.tellmethetrue.shop:443
+vless://513ac7e5-f2d5-4bc4-b3fd-1fe180ead46b@vip1.zxhost.sbs:80?type=tcp&security=none#vip1.zxhost.sbs:80
+vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@speedtestcustom.com:80?type=xhttp&security=none&path=/rddeserfgg?ed=2560#speedtestcustom.com:80
+vless://b9e02ae4-b54a-4b4f-a561-ce16239f637d@151.101.194.133:443?type=ws&security=tls&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048fp=chrome&sni=mio.splashthat.com#151.101.194.133:443
 vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&sid=86#94.156.116.5:443
 vless://6fc3195e-e1ad-4e1b-8552-ac88e2780364@194.182.79.70:31516?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=tUuTbwQPiJSQXexLrOXTo6DsoOsXw_TTRSormnX8emk&sid=5f3c96#194.182.79.70:31516
 vless://270515a2-1c50-43fd-8bd1-c45f69ac4aa9@57.129.30.192:2053?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#57.129.30.192:2053
@@ -77,5 +78,6 @@ vless://f0ab68c4-2391-4968-9cf2-dd8630e8cbb1@62.60.156.102:80?type=tcp&security=
 vless://693f9dec-6cd9-4da2-b939-44a8acc2cff3@3.216.124.166:443?type=xhttp&security=reality&path=/client&sni=api.cloudflare.com&fp=chrome&pbk=QVt7gXuW_MWGO8RQmyaIPPRi16AuUmlR0ipE__dEWWA&sid=75#3.216.124.166:443
 vless://83dc5c38-92fb-4d92-adb2-038575a12d49@194.182.79.250:52612?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=tVPnI0CG8zT6VlwpceDzo2WqrNwBSUMbYk0_08ybxhs&sid=78a48e1e#194.182.79.250:52612
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.26.212.243:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#52.26.212.243:4433
-trojan://2vzi4727-7i5v-n3fm-0vhb-9cyldvod8cgx@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://on0899tl-7ulb-spqn-qoxp-hg9nt9tdppl6@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://9cffbdcf-e54c-4e5c-8af8-a98756edce13@apple.rinet.ai:55200?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&sid=190d32b118caf07f#apple.rinet.ai:55200
+trojan://6s079qmm-5la0-8k9n-sgvt-mobnb9h0d7sc@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://gf6bc7ez-iy3v-t831-c98h-ydcmgl6rlyci@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

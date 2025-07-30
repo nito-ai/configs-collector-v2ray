@@ -1,10 +1,9 @@
-trojan://zeyyeihl-iltx-54zq-osx2-3oij5ihfxtn2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:09
-trojan://a8rbc0ru-v0bj-xp75-jjtc-03xztpvy7uzf@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://sclffgwb-wlxr-a2pz-oymm-tppzkioeb9qu@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://q9hfr1h8-f20z-s5oi-yqqe-i26e2n09v20s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:40
+trojan://35olgprb-ujoy-a64v-e790-f43s844pinrv@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://fa4qhezy-5gri-qqz2-52tz-d8njxou8lif4@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#45.87.175.166:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#193.29.139.177:8080
-vmess://eyJ2IjoiMiIsInBzIjoiXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIFx1MDY3ZVx1MDYzMVx1MDYzM1x1MDYzMVx1MDYzOVx1MDYyYSBcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2NcdWRmMGJAdm1lc2MiLCJhZGQiOiIxMDkuMTIzLjIzOS45OCIsInBvcnQiOjgwODAsImlkIjoiOTMyMmQwZTYtNDI3NS01MmJiLTgyNmMtNzMwOTAzMDZmMGJjIiwiYWlkIjowLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?type=ws&security=tls&path=/?ed=2560&sni=vl.hongkong6.qzz.io&fp=random#www.visa.com.sg:2087
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880?type=ws&security=none&path=/LGTE4FBhMm0wY9yE?ed=#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560#172.67.211.214:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880?type=ws&security=none&path=/LGTE4FBhMm0wY9yE?ed=2560#172.67.211.214:8880
@@ -20,5 +19,6 @@ vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?type=ws&security=tl
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.191.195:80
 vless://376734bc-4db8-4317-b451-af0262cb01c7@160.153.0.153:8443?type=ws&security=tls&path=/KvNugxSUpljMOjgF/NzguNDcuMTU3LjY=?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=InviNCIble.FAfA20.shOP&fp=randomized#160.153.0.153:8443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?type=grpc&security=none#185.231.205.231:8880
-trojan://4l00l65s-47ms-vd94-vp03-eieyrv8ood5k@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://y443a6ri-oe8w-vny6-bxbm-nqma10m2nr0o@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?type=grpc&security=tls&sni=pqh24v8.hiddendom.shop#all.tellmethetrue.shop:443
+trojan://j1t90q8p-9l5b-0174-oy8d-a4bci05ngawy@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://f6kxw4uv-hgpq-sjb1-qzon-18rnsz00vknb@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
