@@ -1,13 +1,13 @@
-trojan://5g39h5l2-j8pw-swvm-0jq0-dg527hvi7xyy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 09:34
-trojan://i3gmlwi7-k12q-q83d-wqvy-tfoixc0o8jm8@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://lz5wt1t4-i3il-xcce-2n2q-0yz63r43tzbn@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@23.94.192.19:13498?sni=freesg01.jd0001.top&peer=freesg01.jd0001.top&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 23.94.192.19
+trojan://s08wxkrb-ejph-z4w9-uwul-oxg3dlzjxd3h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:09
+trojan://knz61p6y-0005-vqlz-o6kc-st4poidrkf3i@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://16s21k59-siy9-n942-yr4d-fyoqh40h1ath@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://YWVzLTEyOC1nY206MTAwOTVmMGQtNTJmNy00MTdlLThhY2YtOTM0NzgwYzVjNmNi@hkg03.dns-node.top:45580#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 62.72.163.136
-ss://YWVzLTEyOC1nY206MzhjZDgzOGQtYmE0Zi00YTQ2LWE0NzYtZDEzMTY3MGRmOTE5@sg02.dns-node.top:45574#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 45.145.154.8
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV0FQLkFDIExURCBcdTI1MDcgMjMuMTU2LjE1Mi4xMDYiLCJhZGQiOiIyMy4xNTYuMTUyLjEwNiIsInBvcnQiOjgwLCJpZCI6IjJkOWE4MWY2LWU4NmUtNDhlNi05NjQ2LWIzYjEzMjVmOGQ2MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3N5anNxL2RhdGEifQ
-vless://3d9d0485-e27f-4a82-820b-2251c14710b6@flyxg.flylink.cyou:10086?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=o0qeFNqPD24m-OTwXs_Bs7_FNcR-caK7lNP1-zcUIho&sid=d31616e2#HK 🇭🇰 ┇ VLESS-TCP-RLT - WAP.AC LTD ┇ 45.149.92.194
-trojan://73962781-6234-4212-b981-f8158bb2d300@0001.sg.genzpn.com:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 185.151.146.24
-trojan://92435aa8-f3b6-466a-ad58-c55cbb6d2acf@sg.mjt000.com:443?sni=sg.mjt000.com&peer=sg.mjt000.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 45.149.92.71
 ss://YWVzLTEyOC1nY206OWRjY2ZmMjItMzA5ZS00OTBlLWJmNTUtNWNlZjU5OGU2NDA4@62.72.163.211:45573#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 62.72.163.211
-trojan://1cerj9f2-81cn-chlm-o6le-0o1f740g97v8@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://mpil0pnu-emtb-9lzu-v7sm-f03r2o24hqyo@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@usla.mjt000.com:443?sni=usla.mjt000.com&peer=usla.mjt000.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 45.149.92.71
+trojan://73962781-6234-4212-b981-f8158bb2d300@0001.sg.genzpn.com:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 185.151.146.24
+vless://3d9d0485-e27f-4a82-820b-2251c14710b6@flyxg.flylink.cyou:10086?type=tcp&security=reality&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=o0qeFNqPD24m-OTwXs_Bs7_FNcR-caK7lNP1-zcUIho&sid=d31616e2#HK 🇭🇰 ┇ VLESS-TCP-RLT - WAP.AC LTD ┇ 45.149.92.194
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV0FQLkFDIExURCBcdTI1MDcgMjMuMTU2LjE1Mi4xMDYiLCJhZGQiOiIyMy4xNTYuMTUyLjEwNiIsInBvcnQiOjgwLCJpZCI6IjJkOWE4MWY2LWU4NmUtNDhlNi05NjQ2LWIzYjEzMjVmOGQ2MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3N5anNxL2RhdGEifQ
+trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@23.94.192.19:13498?sni=freesg01.jd0001.top&peer=freesg01.jd0001.top&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 23.94.192.19
+ss://YWVzLTEyOC1nY206MzhjZDgzOGQtYmE0Zi00YTQ2LWE0NzYtZDEzMTY3MGRmOTE5@sg02.dns-node.top:45574#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 45.145.154.8
+trojan://podxohdj-4q4g-1m63-j9yi-9xqcqjtvlvnd@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://wb6856aa-oos6-sjm1-vdfc-02qflzswse3i@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

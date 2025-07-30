@@ -1,8 +1,7 @@
-trojan://q350mlr4-wki1-u4b8-tr12-6vragy69rm8k@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 09:34
-trojan://jc2ozf6a-2mz3-0jda-ulhw-qg3i0lfj0wpk@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://jx9tog6w-0oqx-9rpv-o378-jgzggeyaq94o@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-trojan://NISHIKUITAN111@162.159.15.30:443?security=tls#162.159.15.30:443
-vless://a34663ca-4f10-4ba5-b9fe-d81e4766cacc@104.21.112.1:80?type=tcp&security=none&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#104.21.112.1:80
+trojan://21bffhq7-nq49-svvy-79vw-thmino0vi86x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:09
+trojan://wqlfs0ju-aods-nzmd-37cp-37d79sfb6xai@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://813x0k21-cm25-1ufb-4ndq-y5j7jx8oiadm@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://2ee85121-31de-4581-a492-eb00f606e392@139.28.232.129:443?sni=sj4.freeguard.org&peer=sj4.freeguard.org&security=tls#139.28.232.129:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.17.98.54:8000?type=ws&security=none&path=/?ed=2560security=tls&sni=a.xn--i-sx6a60i.us.kg#46.17.98.54:8000
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=tls&path=/@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.21.67.12:443
@@ -18,8 +17,9 @@ vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:8
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.243.75.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#92.243.75.251:8880
 vless://b9e02ae4-b54a-4b4f-a561-ce16239f637d@151.101.194.133:443?type=ws&security=tls&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048fp=chrome&sni=mio.splashthat.com#151.101.194.133:443
 vless://41627b93-4faa-4179-a129-c350291df966@mahxrayshovpn.sashabike.ir:2095?type=ws&security=none&path=/?ed=80#mahxrayshovpn.sashabike.ir:2095
+vless://e1d7c543-0f29-4e5e-a689-2a71d397c7c9@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
 vless://Telegram-SRCVPN-@91.107.129.66:3090?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3090
 vless://Telegram-SRCVPN-@91.107.129.66:3080?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:3080
 vless://f77fd550-aa50-4cd5-a760-6ad5eff2321c@direct.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#direct.yasharteam.com:443
-trojan://50vxmx61-ao4z-uoaf-axir-3nmsclmrl5p0@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://al2j01qs-fa2e-4lo6-421c-j5mi22hd1ypm@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://9xsp4wbj-e5vt-30c4-71b8-finrndobq3wq@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://3sgfllw4-wgex-1r7m-7qk6-gc6xjpwg3ist@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

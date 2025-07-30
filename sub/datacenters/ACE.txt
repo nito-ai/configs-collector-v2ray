@@ -1,7 +1,8 @@
-trojan://2triiidr-uc8x-ju2n-o7q9-s3h5xhjfz4kt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 09:34
-trojan://3sc26ytd-zx6d-gwaw-i0a8-y1f50bni1wu9@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://hfznhjmo-ka8h-d2ps-1abr-sg0ny6ybma51@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=cc.ylka.dpdns.org&peer=cc.ylka.dpdns.org&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ACE ┇ 43.159.98.23
-vless://a4fd6b14-5c2d-4c5a-8bd6-319da73dd50d@alexde.hpcdn.info:80?type=tcp&security=none&path=/13225/hMMad#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ACE ┇ 43.159.99.20
-trojan://opn5x9l0-42l5-f96r-2fqc-jttxno5tid18@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://2k0cnjil-a1ni-rieh-6k6z-serbepqra22t@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://r1l80vg6-bllp-ecjy-eots-appblcbg8yf6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 10:09
+trojan://vyivrjny-lwi7-fpde-spje-j3xn01fx4khw@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://yi69ztzk-6g8n-iw26-4unm-7uv4vlbzu0n0@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+vless://fd9eb6e9-bc83-4ff3-afb5-f923600e65f6@catherinede.hpcdn.info:80?type=httpupgrade&security=none&path=/37263/hMMad#SG 🇸🇬 ┇ VLESS-HTTPUPGRADE-NTLS - ACE ┇ 43.159.98.20
+vless://a4fd6b14-5c2d-4c5a-8bd6-319da73dd50d@alexde.hpcdn.info:80?type=httpupgrade&security=none&path=/13225/hMMad#SG 🇸🇬 ┇ VLESS-HTTPUPGRADE-NTLS - ACE ┇ 43.159.99.20
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=cc.ylka.dpdns.org&peer=cc.ylka.dpdns.org&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ACE ┇ 43.159.99.22
+trojan://oe3anh7q-jji5-h0gc-eo2n-z6v13pxlii45@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://qf4c22gz-ydis-g8jn-lb2e-x5st1q9xk43l@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
