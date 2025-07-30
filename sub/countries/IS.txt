@@ -1,21 +1,21 @@
-trojan://uy278h17-9j29-p8lv-b4nq-tiwl152js9q6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 12:33
-trojan://n0agpr3j-oyzb-255r-e05k-7578m8r7w6ns@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://m7r57vhf-8ugu-0n1f-y7qr-sxt0hk0ym1fl@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.152
-hysteria2://9101fa25-a090-4718-864f-f7a1b9e1ed9d@yjjdbd.yunjijd.xyz:26623?sni=yjjdbd.yunjijd.xyz&insecure=1#IS 🇮🇸 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 212.192.214.132
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw@89.221.224.166:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.166
+trojan://2xjj2fbh-30k0-pgvk-cvxr-slf833bz1dnh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 13:06
+trojan://oci8pp9t-7tpw-dmeg-2u3k-nrko0507bd1k@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://915xe50e-j68w-5zjx-smh2-qg8ak8zw0gt7@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://2ea93616-d702-4799-9b52-4f6011ff03f6@91.194.161.15:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#IS 🇮🇸 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.15
-vless://f3204304-e793-5671-a9c9-a648b2e8910a@45.83.21.136:2052?type=ws&security=none&path=/vless#IS 🇮🇸 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.136
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw@89.221.224.166:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.166
 trojan://c1087fe2-457d-366e-9d03-303133bf5b65@89.221.224.50:38860?sni=is-gy.115cloud.link&peer=is-gy.115cloud.link&security=tls#IS 🇮🇸 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.50
-vless://I_Love_🇵🇸_SSHMax_d97dcef@0:0:0:0:0:ffff:59dd:e00b:443?type=grpc&security=tls&sni=zula.ir#IS 🇮🇸 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:59dd:e00b
-trojan://9696beb2-67dc-48a4-a696-75b7ac71c5c1@0:0:0:0:0:ffff:59dd:e05e:443?sni=zula.ir&peer=zula.ir&security=tls#IS 🇮🇸 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:59dd:e05e
-vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2#IS 🇮🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.21.107
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMlkyT1RSaQ@89.221.224.93:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.93
-vless://22b35816-d926-4c7e-9c2e-d4d5379b3016@91.194.161.69:80?type=grpc&security=none&sni=zula.ir&fp=chrome#IS 🇮🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.69
-vless://9ed5414e-5875-44dc-acc9-d880bb177184@nl2.ircloudmarket.com:443?type=tcp&security=none&path=/#IS 🇮🇸 ┇ VLESS-TCP-NTLS - ASNET ┇ 212.192.214.179
-vmess://eyJ2IjoiMiIsInBzIjoiSVMgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyA4OS4yMjEuMjI0LjEyIiwiYWRkIjoiODkuMjIxLjIyNC4xMiIsInBvcnQiOjg4ODAsImlkIjoiMTdlZGQ0MzgtZjQxZC01YjQxLTk4MGQtZTdiNzZmODc2MDcwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInNuaSI6Ind3dy5zcGVlZHRlc3QubmV0In0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.168
+vless://22b35816-d926-4c7e-9c2e-d4d5379b3016@91.194.161.69:80?type=grpc&security=none&sni=zula.ir&fp=chrome#IS 🇮🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.69
+vless://I_Love_🇵🇸_SSHMax_d97dcef@0:0:0:0:0:ffff:59dd:e00b:443?type=grpc&security=tls&sni=zula.ir#IS 🇮🇸 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:59dd:e00b
 vmess://eyJ2IjoiMiIsInBzIjoiSVMgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgODkuMjIxLjIyNC45MiIsImFkZCI6Ijg5LjIyMS4yMjQuOTIiLCJwb3J0Ijo4MCwiaWQiOiIzZjk0NjFhYy01MWRjLTQxMTQtOTg4Zi1mNjVmNzI2MGVkZjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6ImlzMi54djJyYXkubmV0IiwicGF0aCI6Ii92bWVzcyIsInNuaSI6ImlzMi54djJyYXkubmV0In0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Advania Island ehf ┇ 37.235.49.152
+vmess://eyJ2IjoiMiIsInBzIjoiSVMgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyA4OS4yMjEuMjI0LjEyIiwiYWRkIjoiODkuMjIxLjIyNC4xMiIsInBvcnQiOjg4ODAsImlkIjoiMTdlZGQ0MzgtZjQxZC01YjQxLTk4MGQtZTdiNzZmODc2MDcwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJwYXRoIjoidm1lc3MtZ3JwYyIsInNuaSI6Ind3dy5zcGVlZHRlc3QubmV0In0
+vless://f3204304-e793-5671-a9c9-a648b2e8910a@45.83.21.136:2052?type=ws&security=none&path=/vless#IS 🇮🇸 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 45.83.21.136
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMlkyT1RSaQ@89.221.224.93:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.93
+vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2#IS 🇮🇸 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.21.107
+vless://9ed5414e-5875-44dc-acc9-d880bb177184@nl2.ircloudmarket.com:443?type=tcp&security=none&path=/#IS 🇮🇸 ┇ VLESS-TCP-NTLS - ASNET ┇ 212.192.214.179
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNakV3Wm1aaw@89.221.224.94:8388#IS 🇮🇸 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 89.221.224.94
-trojan://nc17weca-f80a-ryxg-7byr-9cpm9dy6hscc@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://9r0s9cwe-f8hd-j3mf-xexe-dma6p463319s@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://9696beb2-67dc-48a4-a696-75b7ac71c5c1@0:0:0:0:0:ffff:59dd:e05e:443?sni=zula.ir&peer=zula.ir&security=tls#IS 🇮🇸 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:59dd:e05e
+hysteria2://9101fa25-a090-4718-864f-f7a1b9e1ed9d@yjjdbd.yunjijd.xyz:26623?sni=yjjdbd.yunjijd.xyz&insecure=1#IS 🇮🇸 ┇ HYSTERIA2-TCP-NTLS - ASNET ┇ 212.192.214.132
+trojan://9sqv1npw-6ldk-ief3-0y94-ks7e21jc428w@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://o37psjd5-6f58-5ql9-wubi-obgrfk9iwaus@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
