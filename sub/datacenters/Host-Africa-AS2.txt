@@ -1,8 +1,8 @@
-trojan://6yl3rr17-d5a6-7miu-76bo-p6pronfz450b@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 00:24
-trojan://9pwejblg-yhrv-z63k-bfn9-8sh6yqmlou9s@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://1fve4pwl-dufn-0lck-y9b0-s4fhssus7u9d@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17132?insecure=0#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - Host-Africa-AS2 ┇ 102.129.165.167
+trojan://jowk2fdw-unx1-s0fe-6xoj-xxe6mgg3ni2d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 00:57
+trojan://2j3q2v9a-ftqj-ssoz-x6m0-i6kv10hk0n6k@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://rfqqpvbb-uz3h-ggxv-jb9t-ydmfkuwkgyi0@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://855fe99e-0cc9-5b73-90be-251f7282d172@102.129.165.116:8880?type=grpc&security=none#ZA 🇿🇦 ┇ VLESS-GRPC-NTLS - Host-Africa-AS2 ┇ 102.129.165.116
+hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17132?insecure=0#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - Host-Africa-AS2 ┇ 102.129.165.167
 vless://3f2a64be-4bb8-567c-a3bd-1cbb7233b166@102.129.165.109:443?type=ws&security=tls&path=/vless&sni=102.129.165.109&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-TLS - Host-Africa-AS2 ┇ 102.129.165.109
-trojan://kpcqe77e-ysmw-cqji-rbqb-25pgmtj7ahq4@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://jsypi1op-j5h1-wcro-5v43-k7dno57bw9fi@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://t7p5teem-wq0q-fiqa-targ-sob91jz09wx1@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://14foo7wo-u83o-roic-o4ca-qpe58yu9ruwq@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
