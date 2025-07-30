@@ -1,10 +1,10 @@
-trojan://iov0ddwp-t20u-t4qn-rkd6-kjg7mpm7z81v@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 23:59
-trojan://1m0jpafk-mgii-khoo-m3je-f1f7x39rcupf@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://iktuvmsi-txuc-k4bc-8ozt-xo00qnydpn1e@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://caylpz9j-tx0m-loy4-irl4-9k001538z6ts@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 00:24
+trojan://hit8n0jk-2l61-mmgp-q7rj-rkz4d3plg2a5@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://gxsa6i1z-ub6u-19y4-p15r-6qws7bqz8yhk@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://96f97d12-d89e-4ffc-9d33-77927f041570@46.249.35.171:50175?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Hhu0s3MQbVt6XEggtDYUoy4DnzuIJw5VOhXC2QMQ_io&sid=ead5fbe08ecf49#NL 🇳🇱 ┇ VLESS-TCP-RLT - Serverius Holding B.V. ┇ 46.249.35.171
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNlcnZlcml1cyBIb2xkaW5nIEIuVi4gXHUyNTA3IDUuMjU1LjkxLjEzMiIsImFkZCI6IjUuMjU1LjkxLjEzMiIsInBvcnQiOjQ0MywiaWQiOiIxYmU3YzZkOS05MWYzLTQxZTMtOWU1NC1kYWQwZDg4MTYzOTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://cbc043ca-bef6-431b-a182-5ca6446253bb@88.218.17.244:443?type=ws&security=tls&path=/9GUmETb6BT7sPyZ4Bfz0qA&sni=mech.sharghidustrial.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 88.218.17.244
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2VydmVyaXVzIEhvbGRpbmcgQi5WLiBcdTI1MDcgNDYuMjQ5LjU4LjE0IiwiYWRkIjoiNDYuMjQ5LjU4LjE0IiwicG9ydCI6Mzk4ODksImlkIjoiNmRmNWIyODctZDQ1NC00YWRhLWQ1NjktMjkyNjFkYWVlYWY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
 vless://3a1958c7-ce92-4f76-fb0f-2f331410f3fd@91.198.77.59:17415?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Serverius Holding B.V. ┇ 91.198.77.59
-trojan://az4unipa-vml9-2ret-zcn3-shge14ifnehj@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://jayaarq4-max6-nuj6-3qzv-0i8faj7jsnw9@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://cbc043ca-bef6-431b-a182-5ca6446253bb@mech.sharghidustrial.ir:443?type=ws&security=tls&path=/9GUmETb6BT7sPyZ4Bfz0qA&sni=mech.sharghidustrial.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 88.218.17.244
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNlcnZlcml1cyBIb2xkaW5nIEIuVi4gXHUyNTA3IDUuMjU1LjkxLjEzMiIsImFkZCI6IjUuMjU1LjkxLjEzMiIsInBvcnQiOjQ0MywiaWQiOiIxYmU3YzZkOS05MWYzLTQxZTMtOWU1NC1kYWQwZDg4MTYzOTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2VydmVyaXVzIEhvbGRpbmcgQi5WLiBcdTI1MDcgNDYuMjQ5LjU4LjE0IiwiYWRkIjoiNDYuMjQ5LjU4LjE0IiwicG9ydCI6Mzk4ODksImlkIjoiNmRmNWIyODctZDQ1NC00YWRhLWQ1NjktMjkyNjFkYWVlYWY5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
+trojan://tatmdpg4-omcw-uc9w-vw11-9t8ylbt5zbvh@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://p62ih0ju-gq8y-ulzb-0n8j-su6ztq9qn00c@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
