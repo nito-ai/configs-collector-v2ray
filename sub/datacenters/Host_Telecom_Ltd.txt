@@ -1,10 +1,11 @@
-trojan://rjyi9d1h-0k94-7cjp-7mdh-hy9gmahbz2pc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:28
-trojan://3loqtvuj-hrp6-l359-xhkx-hvvtvze3rfob@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://6j3jrrvu-047o-59kh-eht8-9te7k3yn6i9f@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#BG 🇧🇬 ┇ VLESS-GRPC-RLT - Host Telecom Ltd ┇ 87.120.205.207
-vless://331563eb-831a-4744-b51c-78e7bf4f1562@bal3.vvvm.ru:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 193.148.58.187
-vless://8793dd58-ec8c-49e4-a8d5-5c6f59acca0e@direct.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.205.2
-vless://aaf7709c-4f6a-45d4-8c79-e9917dfca010@irancloud.okamii.ir:2095?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.121.47.4
+trojan://0fwqyy1x-giho-4h8e-iydc-43w4ornq2ag5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:59
+trojan://142wen2r-udzy-1jzd-xnpg-j6sptq6aglns@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://92q1pxss-gzhq-3s14-piky-gloeu5olsrkx@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://d8359f3c-d28f-4fc5-a94f-da4fc11850f5@87.120.92.135:8080?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.120.92.135
-trojan://ejeiic5m-fpfe-vpwl-9v0e-k4ui5gta1e7m@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://6x9xqxav-ttev-dxdj-m222-7u8jifttugag@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://331563eb-831a-4744-b51c-78e7bf4f1562@bal3.vvvm.ru:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 193.148.58.187
+vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#BG 🇧🇬 ┇ VLESS-GRPC-RLT - Host Telecom Ltd ┇ 87.120.205.207
+vless://aaf7709c-4f6a-45d4-8c79-e9917dfca010@irancloud.okamii.ir:2095?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.121.47.4
+vless://18449203-c21f-431a-911f-4affde2a321e@de.x8net.world:443?type=tcp&security=reality&sni=www.focus.de&fp=chrome&flow=xtls-rprx-vision&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.205.68
+vless://8793dd58-ec8c-49e4-a8d5-5c6f59acca0e@direct.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#BG 🇧🇬 ┇ VLESS-TCP-RLT - Host Telecom Ltd ┇ 87.120.205.2
+trojan://26w2sita-1g37-gq5i-xqhw-j25b1ngvs3f4@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://7dq4x116-bzal-dtiz-16sy-8eqic2tnmto1@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
