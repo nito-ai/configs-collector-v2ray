@@ -1,9 +1,8 @@
-trojan://un7chy0g-zwct-7mlh-gvkj-8h0fp3lx3j34@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 13:30
-trojan://1t4dnbv9-d8ux-iq8c-c6hf-ooyjn4mc26cf@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://8a2x68gb-3yov-0s8g-z455-bqzb7vv3ls9p@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://69lipywc-yabf-98ij-5pz7-79217p967kq9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 14:00
+trojan://zpwy22jg-x9lr-5600-ert0-f69utjnsgw3s@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://drdhnxfx-pwpg-etrk-r4pr-dn2x294ct66i@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 trojan://telegram-id-directvpn@3.68.1.93:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.68.1.93:22223
 trojan://0hb9BWVeXeB3AK4rEypBzQ@me.ariarate.ir:8080?security=none#me.ariarate.ir:8080
-vless://8aa48fb3-9429-4029-8dd4-4ba7fe15ad01@162.159.9.106:8880?type=httpupgrade&security=none&path=/@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools?ed=8880#162.159.9.106:8880
 vless://8aa48fb3-9429-4029-8dd4-4ba7fe15ad01@check-host.net:8880?type=httpupgrade&security=none&path=/@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools?ed=8880#check-host.net:8880
 vless://78c22707-acf6-4d32-b172-5f61c3c0f220@104.16.1.106:2082?type=ws&security=none&path=/?ed=2052#104.16.1.106:2082
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?type=xhttp&security=none&path=/sc#server581122609014369419.tas-bazi.com:443
@@ -16,10 +15,11 @@ vless://057ec119-7ddc-465b-8587-cb37dd3dd3ae@kafshu.ir:8080?type=ws&security=non
 vless://2f51d8c3-bd8f-4101-96ef-80cb86dc71de@151.101.3.8:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#151.101.3.8:80
 vless://2f51d8c3-bd8f-4101-96ef-80cb86dc71de@151.101.195.8:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#151.101.195.8:80
 vless://2f51d8c3-bd8f-4101-96ef-80cb86dc71de@151.101.67.8:80?type=xhttp&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#151.101.67.8:80
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
 vless://78c22707-acf6-4d32-b172-5f61c3c0f220@direct.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#direct.yasharteam.com:443
 vless://78c22707-acf6-4d32-b172-5f61c3c0f220@direct.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#direct.yasharteam.com:443
 vless://78c22707-acf6-4d32-b172-5f61c3c0f220@direct2.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#direct2.yasharteam.com:443
 vless://Telegram-v2ray_configs_pools-@91.107.129.66:2040?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:2040
 vless://Telegram-v2ray_configs_pools-Toka@91.107.129.66:2040?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&sid=3078f8f691b6b4#91.107.129.66:2040
-trojan://ucrj44or-h1te-0r98-i19u-gpjylihmaxeu@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://if3ywy8y-0y0y-mq94-iee2-7un4hldy42f5@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://9gon5ckw-d1jt-1hab-q0i1-07soxbfapglw@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://1ihfc99w-wvtk-v4d2-xk32-60sphxe884wz@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

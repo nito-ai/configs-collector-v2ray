@@ -1,8 +1,8 @@
-trojan://d2ihbri6-62fu-pbn9-bngy-1o8co9uh36op@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 13:30
-trojan://u67lkx4h-wz43-6q0r-m0cl-qa0q4ug9199v@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://la4k7aia-8t3w-cm6b-e6ai-j4mkv0k5kism@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://x9kqjzqd-gk4a-98su-w3l7-2wyobb3qzdta@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 14:00
+trojan://d56cz04x-pnu7-iczs-327r-qf9nesmuu15j@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://rtz6j4xb-ku3y-3ggv-5u1g-lh8fp1lh1qp1@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://0c647e08-e84f-4627-98ab-cef89c19fcf1@impala.khorosshekan.ir:12112?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.46
-vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?type=grpc&security=tls&sni=servers.xvon.in#IR 🇮🇷 ┇ VLESS-GRPC-TLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.105
 vless://e0b79077-43fc-4ed8-afbc-13fe2c4f2be6@178.21.161.25:5000?type=grpc&security=tls&sni=servers.xvon.in&fp=chrome#IR 🇮🇷 ┇ VLESS-GRPC-TLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.25
-trojan://stzze9rm-wnis-vd47-pawp-9r4akir0i3q5@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://7arn1ylm-r0v3-vv63-6v0w-ca6pnwzpqmrd@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?type=grpc&security=tls&sni=servers.xvon.in#IR 🇮🇷 ┇ VLESS-GRPC-TLS - PISHTAZE E JADID INFORMATION COMPANY (Ltd.) ┇ 178.21.161.105
+trojan://xwggwovv-r5y5-y8kl-ldg4-hdl4gso5iec1@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://gf95hd7s-odr1-road-emqr-jax1p2bevwcw@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
