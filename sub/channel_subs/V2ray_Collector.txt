@@ -1,6 +1,6 @@
-trojan://6dhp9pb3-a5np-7uwc-ilnh-65m77bkxoaeg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:19
-trojan://kzgapsk0-2dnk-0iyb-hibo-1fno8l9nsziw@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://4ocai6or-l4fj-nsun-v90c-b8aua3fiuv0e@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://t53lynfy-w453-alm5-gnx7-hfr0rtwdnx8m@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:58
+trojan://wsu1h7df-ergj-wzca-u5s9-a79lcxnxnfsd@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://db4yoxa2-blb2-833f-zkoz-emxwagm7h2qo@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 trojan://bpb-trojan@172.67.70.92:443?sni=zamim340.ggff.net&peer=zamim340.ggff.net&security=tls#172.67.70.92:443
 trojan://installshield@38.180.249.177:8443?security=tls#38.180.249.177:8443
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.110.128:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#45.80.110.128:443
@@ -39,5 +39,5 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@156.238.19.232:443?type=grpc&securi
 vless://401374e6-df77-41fb-f638-dad8184f175b@77.75.199.71:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#77.75.199.71:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.160:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#103.160.204.160:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#14.102.228.18:443
-trojan://ej3t19rh-5mtj-0gta-drxv-54bpyqrnoxbw@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://fsa576km-0ivc-jcs2-jg9c-7cz5odir4jzl@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://5bfkq3kd-n77y-blmu-kesd-ov413htuhbfw@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://qx7f2a0d-xa3n-0jrh-xy3j-9yh4ioq289ev@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
