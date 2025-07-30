@@ -1,15 +1,15 @@
-trojan://4k4kveka-a8hs-e411-ei1v-ey1qgyyoskt3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 13:06
-trojan://c6n4zq21-fhbg-2imd-0898-lv6fas01u1u0@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://u309hg54-l1eg-o1ap-dwg8-p4v334ailcph@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://778zdd8f-9moa-xo6w-0cfo-c9i453w8bhde@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 13:30
+trojan://680behvb-gtuv-a2yo-xe7k-p5skbxdq8gvd@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://qljwn0vl-b4um-tps9-p2i1-cmfidh94y0t3@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+vless://ZEDMODEON--joinZEDMODEON@94.177.244.32:40734?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.32
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgOTQuMTc3LjIyNS41IiwiYWRkIjoiOTQuMTc3LjIyNS41IiwicG9ydCI6MzUzNTIsImlkIjoiMGNjOTEyOTgtYTc3ZC00ODNiLWEwNzktMjcxNjExMTM3OWI2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://7ec65d58-6c5a-48d2-8d50-a781d28dbdd3@one.soshon.in:5430?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.27
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgODkuNDAuMTE3LjEzOCIsImFkZCI6InMyLmZyYW5jZS1sZWFybnMuaXIiLCJwb3J0Ijo2NDUzNSwiaWQiOiJlYzYyNGRkMC1hNjYzLTQ4MDMtYmMyNi00MzA5YzJlN2MzODQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgMjE3LjYxLjk3LjU3IiwiYWRkIjoiYWZpbmxhbmRzaS5hcmNhbnBheWVyLmNvbSIsInBvcnQiOjgwODEsImlkIjoiMjk4ZTVjN2EtZDFkZS00OWM0LThlNjYtY2ZkNDdjNmQ1YjRlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgODkuNDAuMTE3LjI0NCIsImFkZCI6InN2OTkudHVyYm9vLXNlcnZlci5jb20iLCJwb3J0Ijo0MjkwNywiaWQiOiJ0dXJib28tc2VydmVyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://ZEDMODEON--ZEDMODEON@185.8.51.42:36201?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 185.8.51.42
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgMjE3LjYxLjk3LjU3IiwiYWRkIjoiYWZpbmxhbmRzaS5hcmNhbnBheWVyLmNvbSIsInBvcnQiOjgwODEsImlkIjoiMjk4ZTVjN2EtZDFkZS00OWM0LThlNjYtY2ZkNDdjNmQ1YjRlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydWJhIFNBUyBcdTI1MDcgODkuNDAuMTE3LjEzOCIsImFkZCI6InMyLmZyYW5jZS1sZWFybnMuaXIiLCJwb3J0Ijo2NDUzNSwiaWQiOiJlYzYyNGRkMC1hNjYzLTQ4MDMtYmMyNi00MzA5YzJlN2MzODQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://7ec65d58-6c5a-48d2-8d50-a781d28dbdd3@one.soshon.in:5430?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.27
 vless://302cec7a-87fb-4037-9281-e1d8d4e22254@paris.aparat-movies-download.ir:4450?type=tcp&security=reality&sni=zhaket.com&fp=firefox&flow=xtls-rprx-vision&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#FR 🇫🇷 ┇ VLESS-TCP-RLT - Aruba SAS ┇ 89.38.148.249
 vless://ec1938c8-acc1-4ded-a85f-9fe573b7730b@94.177.244.182:40378?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.182
-vless://ZEDMODEON--ZEDMODEON@185.8.51.42:36201?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 185.8.51.42
 vless://5739c92e-4e9c-47eb-8c35-15e35b88b9c3@94.177.225.237:53695?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Aruba SAS ┇ 94.177.225.237
-vless://ZEDMODEON--joinZEDMODEON@94.177.244.32:40734?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Aruba SAS ┇ 94.177.244.32
-trojan://xwab4cyb-9yqd-5n1h-f19j-9o017k8bep63@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://ziw3l7pa-r9sp-5h3i-1yzp-sv8b1o8zpel0@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://px6j96oo-i58d-nmj6-1bi7-nhwx3yj9fz5u@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://tbmn3ywc-bnva-lpri-rvdd-fqk1rgw4w13c@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

@@ -1,9 +1,9 @@
-trojan://f1y1lv1z-ntxx-0cwc-qw5j-nn77stgo46t4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 13:06
-trojan://r8l2k8nt-2zyw-58ll-7r8r-svaru4fq4o37@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://qx1aiwd9-xz41-4b60-hpc9-2ovz3tzbs41g@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://9bsdv2xk-gw2j-k1ty-8rb7-sbzn48yha8cc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 13:30
+trojan://0gttwkp6-5f0c-2wgi-hwk5-3reyhglwdti6@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://d4i0db21-w3uj-8b6l-99a7-osngfqr9z08a@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 217.60.244.234
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSVdtSTFNbVZHWmtoSFpXSQ@188.132.209.15:15303#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.132.209.15
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBFTlRFQ0ggQklMSVNJTSBURUtOT0xPSklMRVJJIFNBTkFZSSBWRSBUSUNBUkVUIExJTUlURUQgU0lSS0VUaSBcdTI1MDcgMTg4LjEzMi4yMDkuODEiLCJhZGQiOiIxODguMTMyLjIwOS44MSIsInBvcnQiOjI4NDI0LCJpZCI6IjczNTdmY2Y0LTllMzQtNDU5Zi1hOTUyLWEzZWRjZDgxYWQ4YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 tuic://975b32a7-51dc-45c4-ba8d-3b57dc71e453:opetateam1tuic@188.132.209.49:52300?sni=cmirq.ir&congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#TR 🇹🇷 ┇ TUIC-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.132.209.49
-trojan://e5e722mk-1lfv-q3bk-cisw-rcphwdeo6a47@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://i8jiriof-usej-3kpp-1slq-qvc4h77v3fqd@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBFTlRFQ0ggQklMSVNJTSBURUtOT0xPSklMRVJJIFNBTkFZSSBWRSBUSUNBUkVUIExJTUlURUQgU0lSS0VUaSBcdTI1MDcgMTg4LjEzMi4yMDkuODEiLCJhZGQiOiIxODguMTMyLjIwOS44MSIsInBvcnQiOjI4NDI0LCJpZCI6IjczNTdmY2Y0LTllMzQtNDU5Zi1hOTUyLWEzZWRjZDgxYWQ4YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSVdtSTFNbVZHWmtoSFpXSQ@188.132.209.15:15303#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi ┇ 188.132.209.15
+trojan://egir6jlm-uwag-mohx-1utk-0r5bacdqq17e@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://t2w96k1t-tjyx-cilu-pls4-v61fhrldap7s@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

@@ -1,11 +1,11 @@
-trojan://7jh3na8g-drfw-uwn1-8y7j-dzx9vwfkpbyl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 13:06
-trojan://z34b0ok2-m8ia-7vaw-49qf-w2h5knfgew6l@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://1mtqipk1-qvvx-1ng3-npev-7iuuby3z2ixj@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://3a66f805-c29a-5786-b8ef-b6b1007545ba@213.108.198.53:443?type=ws&security=tls&path=/vless&sni=213.108.198.53&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - NKtelecom INC ┇ 213.108.198.53
-hysteria2://5424bc48-fd4a-4a17-b576-973423c3c33b@yjjddg.yunjijd.xyz:26823?sni=yjjddg.yunjijd.xyz&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - NKtelecom INC ┇ 213.108.198.123
-hysteria2://5424bc48-fd4a-4a17-b576-973423c3c33b@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - NKtelecom INC ┇ 195.133.79.116
+trojan://f2olwnmi-ol9w-4w5a-2mub-vt8trxlbz1j6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 13:30
+trojan://k1ca18w1-3mux-87bc-q819-n4efx2og70xv@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://umqvn3yx-t2n4-yyr1-wog3-96jbx1ppnew1@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://715b3f21-8774-484a-9230-f0a2c187e168@46.243.3.15:443?type=tcp&security=reality&sni=www.cdn77.com&fp=chrome&pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&sid=e54b5ad736ae4c38#NL 🇳🇱 ┇ VLESS-TCP-RLT - NKtelecom INC ┇ 46.243.3.15
+vless://3a66f805-c29a-5786-b8ef-b6b1007545ba@213.108.198.53:443?type=ws&security=tls&path=/vless&sni=213.108.198.53&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - NKtelecom INC ┇ 213.108.198.53
+hysteria2://5424bc48-fd4a-4a17-b576-973423c3c33b@yjjdhl.yunjijd.xyz:26923?sni=yjjdhl.yunjijd.xyz&insecure=1#NL 🇳🇱 ┇ HYSTERIA2-TCP-NTLS - NKtelecom INC ┇ 195.133.79.116
 vless://50c017ff-4271-4e22-8e16-7e4367898af8@213.108.198.149:443?type=tcp&security=reality&sni=www.cdn77.com&fp=chrome&pbk=SWA-po18cETv3noGE9OearcQaA6ERQRg31ejuSMpbkI&sid=e54b5ad736ae4c38#DE 🇩🇪 ┇ VLESS-TCP-RLT - NKtelecom INC ┇ 213.108.198.149
+hysteria2://5424bc48-fd4a-4a17-b576-973423c3c33b@yjjddg.yunjijd.xyz:26823?sni=yjjddg.yunjijd.xyz&insecure=1#DE 🇩🇪 ┇ HYSTERIA2-TCP-NTLS - NKtelecom INC ┇ 213.108.198.123
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYWdyaHJ5aHRqdHI@de-3-sst.medicaldream.ir:8444#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - NKtelecom INC ┇ 213.108.198.158
-trojan://rlhskjbw-jkpp-pqhf-0sl4-jwj2xoc4e2ve@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://smxry2ix-qt3c-kxd3-tq95-boahtuowkb82@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://3l16ycuq-jv3i-xq07-wrsn-z7ylgu414xfp@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://rg9yeukd-0mq4-r0y8-9ps2-md6uu88il08o@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
