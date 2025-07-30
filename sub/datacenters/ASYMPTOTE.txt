@@ -1,8 +1,8 @@
-trojan://5iht7xje-34g1-ko7g-a2rl-1o3h8l7caxpw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 23:20
-trojan://1e21wym1-gwoi-bdkc-qbez-dyuh22ce4c3l@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://ib60nuyq-ux12-8it5-dskb-ooupu7fmjz2z@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-hysteria2://4494a8b7-de19-4b0f-85fb-4c3aab9654e4@91.124.30.24:443?sni=www.bing.com&insecure=1#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - ASYMPTOTE ┇ 91.124.30.24
+trojan://dwtsaaxl-l00a-lsnf-zyvl-kgh90dvb3dz0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 23:59
+trojan://9dflyais-ooai-1qjo-t61g-pgyjtavvdehf@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://x30dcayj-hes9-ei27-0kvd-nu5b2jvnpq13@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://bc3cc9e3-915d-4f76-ad9d-3e52d097476b@104.234.4.32:7000?type=ws&security=tls&path=/?ed=2560&sni=mihu.sorry.ip-ddns.com&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - ASYMPTOTE ┇ 104.234.4.32
 trojan://faee6828-82e8-4716-934e-d9949caead07@209.209.48.19:38032?sni=aliyun.com&peer=aliyun.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - ASYMPTOTE ┇ 209.209.48.19
-trojan://rb9u6ihe-juhv-zgrc-67pb-voqeglxo7p6w@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://7dwiskcu-zacj-8nke-bmk3-39nuzddpgk4n@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+hysteria2://4494a8b7-de19-4b0f-85fb-4c3aab9654e4@91.124.30.24:443?sni=www.bing.com&insecure=1#HK 🇭🇰 ┇ HYSTERIA2-TCP-NTLS - ASYMPTOTE ┇ 91.124.30.24
+trojan://4a3g086j-3uc6-jnoc-0vq2-7sl13xwwdph0@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://jwl8pfkc-1xri-jfzh-nxd3-og9400s5yb78@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
