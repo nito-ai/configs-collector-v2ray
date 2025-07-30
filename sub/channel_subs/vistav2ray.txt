@@ -1,6 +1,6 @@
-trojan://f2fc8gsy-evcr-29iz-24se-nrcbodz2xk03@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 17:58
-trojan://rdfqrwvs-vwcf-azp0-1i97-hetkyhpqpgwq@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://o7q07pc0-3u1g-ktdz-lbry-4129vqc1gbcw@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://3gge2hq3-qxzj-bo11-60ye-mahstuwshl76@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 18:28
+trojan://de5u4kd3-ltvz-pecx-d0tx-3xy9ywifypjb@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://omb0x5os-rvr0-z63v-ou9q-g6nydqn2g1g6@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1IEB2aXN0YXYycmF5ICBcdWQ4M2RcdWRjNDhcdWQ4M2RcdWRjNDhcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjQ1XHUwNjI3IiwiYWRkIjoiMzcuMjAyLjIyNS43NCIsInBvcnQiOjQwNTIxLCJpZCI6ImIzNjhhODZlLTZmYmMtNDMxYy05ZjA1LTZlMWZhYjg5Njg1OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNzA1IEB2aXN0YXYycmF5ICBcdWQ4M2RcdWRjNDhcdWQ4M2RcdWRjNDhcdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjQ1XHUwNjI3IiwiYWRkIjoiMi4xODguMjE5LjQzIiwicG9ydCI6ODQ0MywiaWQiOiJiMmUzODYyMS0wMzViLTQzZjgtODRhNS1lOTIxNjA3NjJmYzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
@@ -19,5 +19,5 @@ vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@nl01-vlr01.tcp-reset-club.net:443?t
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?type=xhttp&security=reality&sni=smtp.zoho.com&fp=firefox&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=7f2798f9#206.71.158.75:465
 vless://c928cc14-4bb1-48bd-b4da-69448ec797ba@91.99.216.9:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.99.216.9:8443
 vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?type=tcp&security=reality&sni=www.pottermore.com&fp=chrome&flow=xtls-rprx-vision&pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&sid=75#api.hostbaran.info:15810
-trojan://d2pa3f6t-aow4-p5xw-xcfy-oj350c3e1n9x@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://a6brvd35-2x3c-uttm-6e4p-hm6ygk7ke1bv@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://s0so8ctv-r6yb-vk0r-v6o7-sqtha4va3ho5@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://hpp2s1z1-l4wl-xiim-bxp7-4oipgc642rss@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
