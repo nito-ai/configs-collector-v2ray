@@ -1,14 +1,14 @@
-trojan://ecnga8yf-91j0-v73o-8t00-9rb5cygptntm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 03:22
-trojan://v8utypys-rc7c-h383-2efh-lrdiw0vy1sh2@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://rq2hmd0b-ys6g-vdoy-02oo-efysdir5fjqq@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@62.212.239.44:33992#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.44
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.53:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.53
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.26
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@180.149.44.120:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.120
-tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
-ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOQ@94.20.154.38:50000#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.38
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.43
-ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.67:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.67
+trojan://jjo26e74-g7q4-8yfh-4sg1-91kliukp5pp6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 05:07
+trojan://ktv47dvf-eoh6-kozs-z920-dki1ezmsrs2y@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://lgxpanx3-pzca-6t6y-wvla-41zix2p9vuy3@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.45:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.45
-trojan://4sa7bvs5-t4x0-m82j-568u-h07yqamfhe9k@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://zx464k93-jk0o-od09-24oy-gpxlwa4wqis7@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOQ@94.20.154.38:50000#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.38
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.67:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.67
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 94.20.154.26
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.43:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.43
+ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4@62.212.239.53:43893#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.53
+tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@109.205.214.104:443?congestion_control=bbr&udp_relay_mode=quic#AZ 🇦🇿 ┇ TUIC-TCP-NTLS - Kuroit Limited ┇ 109.205.214.104
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@180.149.44.120:989#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - G-Core Labs S.A. ┇ 180.149.44.120
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@62.212.239.44:33992#AZ 🇦🇿 ┇ SHADOWSOCKS-TCP-NTLS - Delta Telecom Ltd ┇ 62.212.239.44
+trojan://z2nnkh1y-nnb4-xjmt-uwnb-y1tlv73xjhxv@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://1adto24k-vyd3-rx3g-s7h6-6tfz8d8eyece@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
