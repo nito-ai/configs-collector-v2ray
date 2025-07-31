@@ -1,9 +1,11 @@
-trojan://1d1p0j5h-a6t4-y667-2m7k-my0bjj2fc5zk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 08:06
-trojan://2hhlcbi7-ta4w-avw8-hgiq-hk6fr7jno585@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://o1aeemam-olgz-kbeo-sr99-apkb7xxs3q6i@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://dcpft2ym-fls8-k5x2-s3z1-gb8at0i95x5u@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 08:40
+trojan://gc3d1byr-4sc2-o50o-p4j2-wgso3jwpdne6@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://riptyyml-6ljb-vugx-yzu5-4w1e9asr1l84@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#193.29.139.177:8080
 vmess://eyJ2IjoiMiIsInBzIjoiWzU2OTk3XSAtIFRlbGVncmFtIDogQFYyQWxsIiwiYWRkIjoiMTUuMjA0LjIzNC4yMDAiLCJwb3J0Ijo0MTEwMCwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjQxXHUwNmNjXHUwNjQ0XHUwNjJhXHUwNjMxIFx1MDY0NVx1MDZjY1x1MDYyZVx1MDYyN1x1MDZjYyBcdTA2MzlcdTA2MzZcdTA2NDggXHUwNjM0XHUwNjQ4IFx1MDYyOFx1MDY0Ny1cdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjJhXHUwNjQ0XHUwNmFmXHUwNjMxXHUwNjI3XHUwNjQ1XHUwNmNjIHwgQHYycmFhbmQiLCJhZGQiOiJzcC5iZ2dhbWluZy5pciIsInBvcnQiOjI3ODM5LCJpZCI6IjhjYTU2NmU3LWI1NzctNDQ5NS04NzBkLTNkZDViYjliYTQyZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vmess://eyJ2IjoiMiIsInBzIjoiQEdvbGVzdGFuX1ZQTiAtIFx1ZDgzZFx1ZGM0OCBcdTA2MmVcdTA2MzFcdTA2Y2NcdTA2MmYgXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIiwiYWRkIjoiMTAzLjM4LjgzLjI1MyIsInBvcnQiOjM3MTIyLCJpZCI6ImVkYzQ5M2NhLWI5MzktNDA5Ny1lMGMzLWM4ZmVlMjQzZWFjNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQEdvbGVzdGFuX1ZQTiAtIFx1ZDgzZFx1ZGM0OCBcdTA2MmVcdTA2MzFcdTA2Y2NcdTA2MmYgXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIiwiYWRkIjoiMTU0LjkwLjQ5LjU3IiwicG9ydCI6NTg4NjgsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://Parsashonam-Bot-10@104.17.147.22:8080?type=ws&security=none&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056#104.17.147.22:8080
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?type=tcp&security=none#168.119.245.178:2020
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?type=tcp&security=none#54.38.214.56:37171
@@ -12,9 +14,8 @@ vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?type=ws&security=
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&security=none#95.164.45.85:8880
 vless://c791bcdc-b9b3-4ca2-8110-fa705f4a9d32@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
-vless://55ec6907-f07b-486a-cc00-995f20e6ff35@prteam.darkping.net:2422?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA#prteam.darkping.net:2422
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@meow.postpapet.ir:666?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#meow.postpapet.ir:666
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@luna.postpapet.ir:666?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=stackoverflow.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#luna.postpapet.ir:666
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@goat.postpapet.ir:666?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#goat.postpapet.ir:666
-trojan://pj4ehvtd-9hpx-t4g1-h6rz-prf93g3m3dt9@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://b7riwvt2-djnz-lb81-dipd-9ukcxuk152r5@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://4c086lx7-2c00-eq2a-ucc0-0d5c5gwucehj@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://zm4e9g0k-5qr4-g4ot-whnr-czbkzikolar2@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

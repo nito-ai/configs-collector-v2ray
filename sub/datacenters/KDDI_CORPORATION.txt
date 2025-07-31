@@ -1,10 +1,10 @@
-trojan://y5rjjnhq-gl8e-lnn6-6jmi-q1zwah44djjc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 08:06
-trojan://3b5vqvqf-eks7-fi92-93dl-d5uadvjt3crr@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://xkg1e06r-2p07-oy04-e7wc-wbngx67j1z2w@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-trojan://7x42LetRa0@106.180.225.69:1443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KDDI CORPORATION ┇ 106.180.225.69
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEtEREkgQ09SUE9SQVRJT04gXHUyNTA3IDYxLjEyMC45LjE4IiwiYWRkIjoiNjEuMTIwLjkuMTgiLCJwb3J0Ijo0MzcyMCwiaWQiOiJmMjQ4ZDBlOS0xOWY3LWVhN2YtNjY1OS0xN2E2MTBkZmU4ZDYiLCJhaWQiOjAsInNjeSI6Im5vbmUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+trojan://qaz5kw9r-hjyf-lswx-xfir-elf24a3jgqcr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 08:40
+trojan://20qg95o8-v2nl-t4nu-bgha-nonxigajpea9@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://ayvs8666-s41x-ggiv-7zvs-7xz1uhuzfvi5@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://e510ef59-8e87-4b7a-bd9e-bf2277aa01e2@106.180.225.73:32606?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=H-nBYFMFdZInbzrieFTqt6Gsf8EhE2VT1qV855VQNg8&sid=984ba8d9#JP 🇯🇵 ┇ VLESS-TCP-RLT - KDDI CORPORATION ┇ 106.180.225.73
-trojan://9e0822c2-75ea-4d30-8895-9fe59da9935c@kddi.iggfastweb.com:23153?sni=kddi.iggfastweb.com&peer=kddi.iggfastweb.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KDDI CORPORATION ┇ 106.180.225.76
 vless://131-2f1d8-4iko45-bv1a-cb3172fpp133@114.18.26.90:2096?type=tcp&security=none&path=/jmgjhhws#JP 🇯🇵 ┇ VLESS-TCP-NTLS - KDDI CORPORATION ┇ 114.18.26.90
-trojan://72gd55c7-m3s3-hi5x-x3a3-vnzvcyptaww3@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://6nz06dut-xitj-ctjr-4rgu-igp16gjn62j7@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://9e0822c2-75ea-4d30-8895-9fe59da9935c@kddi.iggfastweb.com:23153?sni=kddi.iggfastweb.com&peer=kddi.iggfastweb.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KDDI CORPORATION ┇ 106.180.225.76
+vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEtEREkgQ09SUE9SQVRJT04gXHUyNTA3IDYxLjEyMC45LjE4IiwiYWRkIjoiNjEuMTIwLjkuMTgiLCJwb3J0Ijo0MzcyMCwiaWQiOiJmMjQ4ZDBlOS0xOWY3LWVhN2YtNjY1OS0xN2E2MTBkZmU4ZDYiLCJhaWQiOjAsInNjeSI6Im5vbmUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+trojan://7x42LetRa0@106.180.225.69:1443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KDDI CORPORATION ┇ 106.180.225.69
+trojan://2c9duw8k-4qvh-zubc-8e9c-41xqm7h5s4x4@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://r7wfypcy-y8z4-gaxd-glrr-bpk8qw047118@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

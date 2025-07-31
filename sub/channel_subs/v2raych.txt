@@ -1,7 +1,6 @@
-trojan://k5hvh6v9-0yyg-vzw3-ro2p-hlfdcmoogdo1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 08:06
-trojan://1789wpsq-z9qu-kitw-r8i7-xtxs700sm6d8@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://bu8zwlxm-k120-utrp-cowz-aducd03rxhbx@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-trojan://bpb-trojan@104.36.195.61:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#104.36.195.61:443
+trojan://zmqv6xo5-r0j9-ng59-a5hr-f6flijqt97pn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 08:40
+trojan://3un5npcq-r9b2-ze2x-1nsq-p2sws2ff4pm7@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://gyf1hkdn-7n8n-juaf-vz22-wqa15mc2ke9t@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 trojan://NISHIKUITAN111@104.24.180.183:443?security=tls#104.24.180.183:443
 trojan://NISHIKUITAN111@104.129.164.50:443?security=tls#104.129.164.50:443
 trojan://NISHIKUITAN111@156.225.72.128:443?security=tls#156.225.72.128:443
@@ -9,8 +8,8 @@ trojan://NISHIKUITAN111@172.67.113.251:443?security=tls#172.67.113.251:443
 trojan://NISHIKUITAN111@162.159.20.97:443?security=tls#162.159.20.97:443
 trojan://NISHIKUITAN111@146.19.21.61:443?security=tls#146.19.21.61:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjQxXHUwNmNjXHUwNjQ0XHUwNjJhXHUwNjMxIFx1MDY0NVx1MDZjY1x1MDYyZVx1MDYyN1x1MDZjYyBcdTA2MzlcdTA2MzZcdTA2NDggXHUwNjM0XHUwNjQ4IFx1MDYyOFx1MDY0Ny1cdTA2YTlcdTA2MjdcdTA2NDZcdTA2MjdcdTA2NDQgXHUwNjJhXHUwNjQ0XHUwNmFmXHUwNjMxXHUwNjI3XHUwNjQ1XHUwNmNjIHwgQHYycmFhbmQiLCJhZGQiOiJzcC5iZ2dhbWluZy5pciIsInBvcnQiOjI3ODM5LCJpZCI6IjhjYTU2NmU3LWI1NzctNDQ5NS04NzBkLTNkZDViYjliYTQyZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.248.141:80?type=tcp&security=none&path=/Barayeiranmahsang/JOKERRVPNTELEGRAM----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN----@HiByeVPNN?ed=2560#104.24.248.141:80
-vless://5eb0c157-07fc-4cf2-bc48-640a96a9f99c@172.67.181.173:80?type=ws&security=none&path=@Confingman @Confingman @Confingman @Confingman @Confingman&sni=PamcHalL.coM&fp=randomized#172.67.181.173:80
+vmess://eyJ2IjoiMiIsInBzIjoiQEdvbGVzdGFuX1ZQTiAtIFx1ZDgzZFx1ZGM0OCBcdTA2MmVcdTA2MzFcdTA2Y2NcdTA2MmYgXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIiwiYWRkIjoiMTU0LjkwLjQ5LjU3IiwicG9ydCI6NTg4NjgsImlkIjoiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vmess://eyJ2IjoiMiIsInBzIjoiQEdvbGVzdGFuX1ZQTiAtIFx1ZDgzZFx1ZGM0OCBcdTA2MmVcdTA2MzFcdTA2Y2NcdTA2MmYgXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIiwiYWRkIjoiMTAzLjM4LjgzLjI1MyIsInBvcnQiOjM3MTIyLCJpZCI6ImVkYzQ5M2NhLWI5MzktNDA5Ny1lMGMzLWM4ZmVlMjQzZWFjNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vless://40b12087-5bf6-4b10-8504-5da6144021d3@62.60.214.168:4040?type=tcp&security=none#62.60.214.168:4040
 vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403?type=tcp&security=none#15.204.199.122:57403
 vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429?type=tcp&security=none#51.222.84.252:25429
@@ -18,7 +17,8 @@ vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?type=tcp&securi
 vless://c03f1122-5aee-4e22-b82f-c1dd1d09d502@www.speedtest.net:80?type=ws&security=none&path=/@connet-open?ed=80#www.speedtest.net:80
 vless://ea233827-38b4-4397-a2d1-4cb49bb6bc18@::ffff:55ed:d3db:80?type=ws&security=none&path=/vless/#::ffff:55ed:d3db:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.27.132.154:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#100.27.132.154:22222
+vless://9f9aaa95-3380-4d63-a3df-fa07e8aef582@151.101.3.8:80?type=xhttp&security=none&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=2560#151.101.3.8:80
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#213.232.120.2:443
 vless://8b79f4a9-468f-46cf-9823-ba6cfe529f75@158.160.131.112:14872?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=6b1pXPB9Wc45eeBQxz1cYefETxE_jx1jlaeFaWS1pTc&sid=738a824c0bdf#158.160.131.112:14872
-trojan://khqnts4q-eqry-jhw2-c571-gdp3jj4iqpli@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://vqxklq4q-5bds-4y0t-y2pk-d4z3qv9zmxvx@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://xz216mif-kr86-pxmu-5czw-5excwrqdkrpg@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://jegt594h-who4-0uvx-h8nf-lkq86wucbgi4@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
