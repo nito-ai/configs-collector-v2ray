@@ -1,14 +1,14 @@
-trojan://kx12ryz7-45vv-pi0d-3cr4-dbhcohyo97h9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 11:25
-trojan://c3w9d9n5-221e-dd8i-ti4e-cwjo6p3a2gke@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://4s76m63r-ea0n-vy55-btcw-21677bb0phyl@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-trojan://Aimer@88.218.78.95:8443?sni=ameqo.esslh.filegear-sg.me&peer=ameqo.esslh.filegear-sg.me&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - velia.net Internetdienste GmbH ┇ 88.218.78.95
-vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@193.42.62.215:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - velia.net Internetdienste GmbH ┇ 193.42.62.215
-vless://5c3fc16d-119d-481a-9e09-f433c3116746@78.138.118.228:80?type=xhttp&security=reality&path=/v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=4hhP7RGJKPVVe06pQikybxNQWZfy50yG1FjTG99zp10&sid=39e0f3e10e8e#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - velia.net Internetdienste GmbH ┇ 78.138.118.228
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwb1p6UTVKRmRJT0RrME0yY3o@78.138.99.86:18760#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - velia.net Internetdienste GmbH ┇ 78.138.99.86
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSB2ZWxpYS5uZXQgSW50ZXJuZXRkaWVuc3RlIEdtYkggXHUyNTA3IDM3LjYxLjIxMy45NCIsImFkZCI6IjM3LjYxLjIxMy45NCIsInBvcnQiOjQ0MywiaWQiOiI5N2ZmNzhlYS04ODA3LTRjMzMtOTNlNS1kODQ4MWFjMDUzOWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9yYXkiLCJ0bHMiOiJ0bHMifQ
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@88.218.76.250:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - velia.net Internetdienste GmbH ┇ 88.218.76.250
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gdmVsaWEubmV0IEludGVybmV0ZGllbnN0ZSBHbWJIIFx1MjUwNyAyYTAxOjdhNzoyOjMzNDM6OjJiOTM6Njg0MSIsImFkZCI6IjJhMDE6N2E3OjI6MzM0Mzo6MmI5Mzo2ODQxIiwicG9ydCI6MjQ0NDQsImlkIjoiZjM2MmQwYjUtMzRkOC00ZjMzLThlYWQtOTBhNWZlNjkyMWI4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLzVlNjBiZTVmLyJ9
+trojan://8ucvq6ce-5c5p-clq3-hi6g-313kkj2qff5t@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:41
+trojan://hzr150vh-kp06-rv79-570k-ym21dk7d1x62@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://hbkldl54-nz4s-qj8h-fpih-yxgxmc8mfmjw@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://8e6a6ac9-6736-403e-a75d-5c073ebba7aa@45.95.172.82:443?type=grpc&security=tls&sni=www.speedtest.net&fp=random#FR 🇫🇷 ┇ VLESS-GRPC-TLS - velia.net Internetdienste GmbH ┇ 45.95.172.82
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@88.218.76.250:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - velia.net Internetdienste GmbH ┇ 88.218.76.250
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSB2ZWxpYS5uZXQgSW50ZXJuZXRkaWVuc3RlIEdtYkggXHUyNTA3IDM3LjYxLjIxMy45NCIsImFkZCI6IjM3LjYxLjIxMy45NCIsInBvcnQiOjQ0MywiaWQiOiI5N2ZmNzhlYS04ODA3LTRjMzMtOTNlNS1kODQ4MWFjMDUzOWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9yYXkiLCJ0bHMiOiJ0bHMifQ
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gdmVsaWEubmV0IEludGVybmV0ZGllbnN0ZSBHbWJIIFx1MjUwNyAyYTAxOjdhNzoyOjMzNDM6OjJiOTM6Njg0MSIsImFkZCI6IjJhMDE6N2E3OjI6MzM0Mzo6MmI5Mzo2ODQxIiwicG9ydCI6MjQ0NDQsImlkIjoiZjM2MmQwYjUtMzRkOC00ZjMzLThlYWQtOTBhNWZlNjkyMWI4IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLzVlNjBiZTVmLyJ9
+trojan://Aimer@88.218.78.95:8443?sni=ameqo.esslh.filegear-sg.me&peer=ameqo.esslh.filegear-sg.me&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - velia.net Internetdienste GmbH ┇ 88.218.78.95
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwb1p6UTVKRmRJT0RrME0yY3o@78.138.99.86:18760#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - velia.net Internetdienste GmbH ┇ 78.138.99.86
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwb1p6UTVKRmRJT0RrME0yY3o@37.61.223.23:18760#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - velia.net Internetdienste GmbH ┇ 37.61.223.23
-trojan://20ygtag1-m4co-y7r7-qls8-fcrz3713a8sj@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://wxuoi3vb-8lxc-737p-50z0-wea8titv3hgr@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@193.42.62.215:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - velia.net Internetdienste GmbH ┇ 193.42.62.215
+vless://5c3fc16d-119d-481a-9e09-f433c3116746@78.138.118.228:80?type=xhttp&security=reality&path=/v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=4hhP7RGJKPVVe06pQikybxNQWZfy50yG1FjTG99zp10&sid=39e0f3e10e8e#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - velia.net Internetdienste GmbH ┇ 78.138.118.228
+trojan://affnvc78-x7rv-sut6-5s9h-1q2azuxulu72@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://6lq63i8y-9vv3-tr4e-cnp0-tknfsldlommz@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

@@ -1,12 +1,6 @@
-trojan://ag33kny1-zpn7-bkv6-dim7-srivfd4coy5t@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:25
-trojan://pp9dj2mq-s6uz-9ery-x3cb-krg2scpn28ab@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://yeu8lk1y-bbjj-94eh-9jz3-gl6uea1ury84@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://2d827b0e-93a6-4e65-af06-f962a126a535@www.tunell-star.soft98speedtest.ir:2087?type=tcp&security=none&path=/#www.tunell-star.soft98speedtest.ir:2087
-vless://2d827b0e-93a6-4e65-af06-f962a126a535@www.tunell-star.soft98speedtest.ir:2087?type=tcp&security=none&path=/#www.tunell-star.soft98speedtest.ir:2087
-vless://2d827b0e-93a6-4e65-af06-f962a126a535@msx.soft98speedtest.ir:2087?type=ws&security=none&path=/scer#msx.soft98speedtest.ir:2087
-vless://2d827b0e-93a6-4e65-af06-f962a126a535@msx.soft98speedtest.ir:2087?type=ws&security=none&path=/scer#msx.soft98speedtest.ir:2087
-vless://2d827b0e-93a6-4e65-af06-f962a126a535@mx.soft98speedtest.ir:2053?type=ws&security=none&path=/scer#mx.soft98speedtest.ir:2053
-vless://2d827b0e-93a6-4e65-af06-f962a126a535@mx.soft98speedtest.ir:2053?type=ws&security=none&path=/scer#mx.soft98speedtest.ir:2053
+trojan://qu8e8jhi-9vxz-rpk4-af9n-hikncg8pwe8q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:41
+trojan://oau7spgw-lsc8-s0hv-wmt2-ls4lpt5hesqe@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://swy080ms-bgpg-ogny-1i5u-3a4sbly66cf3@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://2d827b0e-93a6-4e65-af06-f962a126a535@mw.soft98speedtest.ir:2087?type=ws&security=none&path=/scer#mw.soft98speedtest.ir:2087
 vless://2d827b0e-93a6-4e65-af06-f962a126a535@mw.soft98speedtest.ir:2087?type=ws&security=none&path=/scer#mw.soft98speedtest.ir:2087
 vless://2d827b0e-93a6-4e65-af06-f962a126a535@star.fastsoft98.ir:80?type=tcp&security=none#star.fastsoft98.ir:80
@@ -19,7 +13,13 @@ vless://2d827b0e-93a6-4e65-af06-f962a126a535@cdn-rezenintal.fastsoft98.ir:80?typ
 vless://2d827b0e-93a6-4e65-af06-f962a126a535@cdn-rezenintal.fastsoft98.ir:80?type=tcp&security=none#cdn-rezenintal.fastsoft98.ir:80
 vless://2d827b0e-93a6-4e65-af06-f962a126a535@rezidental.az9x99.ir:2053?type=tcp&security=none#rezidental.az9x99.ir:2053
 vless://2d827b0e-93a6-4e65-af06-f962a126a535@rezidental.az9x99.ir:2053?type=tcp&security=none#rezidental.az9x99.ir:2053
-vless://8b79f4a9-468f-46cf-9823-ba6cfe529f75@158.160.131.112:14872?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=6b1pXPB9Wc45eeBQxz1cYefETxE_jx1jlaeFaWS1pTc&sid=738a824c0bdf#158.160.131.112:14872
-vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.221.186:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.221.186:2083
-trojan://mmoslt2l-7bde-hizk-87l6-9kmwpuvhp3tk@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://2fr9epcr-npi1-h41p-6kvc-ew2aj8dudpkg@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v9.0 Pro | Powered by eQnz
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?type=grpc&security=none#185.231.205.181:8880
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?type=grpc&security=none#185.231.205.181:8880
+vless://46910fa8-9e1c-2b7e-50bd-5b81e0ebe9b3@157.245.72.229:88?type=tcp&security=none#157.245.72.229:88
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&security=none&path=/Barayeiranmahsang/----@-?ed=2560#91.206.71.162:8880
+vless://0d932ac5-92f2-44d5-9b58-900a2a6c370c@94.131.111.200:8775?type=tcp&security=none#94.131.111.200:8775
+vless://88633e30-ac96-4be0-98f4-c9f6b9d7fe96@172.66.40.99:80?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#172.66.40.99:80
+vless://24b4b3b9-94d7-4493-9bb8-37d438c24ff9@91.107.153.72:3232?type=tcp&security=none#91.107.153.72:3232
+trojan://m3nfhi5o-be69-erhu-45xn-z8krj3id6ehi@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://4dqttodv-w8uu-wq3s-4vap-az5d051a809f@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
