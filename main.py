@@ -8,6 +8,7 @@ import random
 import string
 import math
 import socket
+import ssl
 from pathlib import Path
 from typing import List, Dict, Set, Optional, Any, Tuple, Coroutine
 from urllib.parse import urlparse, parse_qs, unquote
@@ -68,7 +69,7 @@ class AppConfig:
     HTTP_TIMEOUT = 25.0
     HTTP_MAX_REDIRECTS = 5
     HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"}
-    MAX_CONCURRENT_REQUESTS = 20
+    MAX_CONCURRENT_REQUESTS = 25
 
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
     TELEGRAM_MESSAGE_LIMIT = 50
@@ -82,14 +83,14 @@ class AppConfig:
     SEEN_CONFIG_TIMEOUT_HOURS = 1
     
     ENABLE_CONNECTIVITY_TEST = True 
-    CONNECTIVITY_TEST_TIMEOUT = 4
-    MAX_CONNECTIVITY_TESTS = 300 
-    PING_HISTORY_COUNT = 5 
+    CONNECTIVITY_TEST_TIMEOUT = 5
+    MAX_CONNECTIVITY_TESTS = 350
+    PING_HISTORY_COUNT = 5
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "✨ Free Internet For All | @DailyV2Config"
     DNT_SIGNATURE = "❤️ Daily config Updates | @DailyV2Config"
-    DEV_SIGNATURE = "💻 Collector v8.0 Advanced | Powered by eQnz"
+    DEV_SIGNATURE = "💻 Collector v9.0 Pro | Powered by eQnz"
     CUSTOM_SIGNATURE = "☕ Join Us | Telegram @eQnz_github"
 
 CONFIG = AppConfig()
@@ -108,7 +109,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '�🇧',
+    'AD': '�🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -168,7 +169,7 @@ class BaseConfig(BaseModel):
     asn_org: Optional[str] = Field(None, exclude=True)
     
     ping: Optional[int] = Field(None, exclude=True)
-    status: str = Field("unknown", exclude=True) 
+    status: str = Field("unknown", exclude=True)
     last_tested: Optional[str] = Field(None, exclude=True)
 
     def get_deduplication_key(self) -> str:
@@ -892,25 +893,33 @@ class ConfigProcessor:
         console.log(f"IP-based deduplication removed {removed_count} configs. {len(self.parsed_configs)} remaining.")
 
     async def _test_config_latency(self, config: BaseConfig) -> Optional[int]:
-        """
-        تست اتصال TCP برای اندازه‌گیری زمان پاسخ (Latency).
-        نکته: این تابع سرعت دانلود را تست نمی‌کند. برای تست سرعت واقعی،
-        نیاز به یک کلاینت V2Ray برای برقراری تونل و سپس ارسال ترافیک از طریق آن است
-        که پیاده‌سازی آن در این اسکریپت بسیار پیچیده خواهد بود.
-        """
         ip = Geolocation._ip_cache.get(config.host)
         if not ip: return None
+
+        use_tls = config.security in ['tls', 'xtls', 'reality']
         
         try:
             start_time = asyncio.get_event_loop().time()
-            fut = asyncio.open_connection(ip, config.port)
+
+            if use_tls:
+                server_hostname = config.sni if config.sni else config.host
+                ssl_context = ssl.create_default_context()
+                ssl_context.check_hostname = False
+                ssl_context.verify_mode = ssl.CERT_NONE
+                
+                fut = asyncio.open_connection(
+                    ip, config.port, ssl=ssl_context, server_hostname=server_hostname
+                )
+            else:
+                fut = asyncio.open_connection(ip, config.port)
+
             reader, writer = await asyncio.wait_for(fut, timeout=CONFIG.CONNECTIVITY_TEST_TIMEOUT)
             
             end_time = asyncio.get_event_loop().time()
             writer.close()
             await writer.wait_closed()
             return int((end_time - start_time) * 1000)
-        except (asyncio.TimeoutError, ConnectionRefusedError, OSError, Exception):
+        except (asyncio.TimeoutError, ConnectionRefusedError, OSError, ssl.SSLError, Exception):
             return None
 
     async def _test_connectivity(self):
@@ -922,7 +931,7 @@ class ConfigProcessor:
         now_utc_iso = datetime.now(timezone.utc).isoformat()
 
         with Progress(
-            TextColumn("[bold blue]Testing Connectivity..."),
+            TextColumn("[bold blue]Testing Connectivity (TLS Handshake)..."),
             BarColumn(bar_width=None),
             "[progress.percentage]{task.percentage:>3.0f}%",
             "•",
@@ -1016,7 +1025,7 @@ class V2RayCollectorApp:
         self.start_time = datetime.now()
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v8.0 Advanced[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v9.0 Pro[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
@@ -1081,11 +1090,14 @@ class V2RayCollectorApp:
         
         active_configs = [c for c in all_configs if c.status == 'active']
         if not active_configs:
-            console.log("[yellow]No active configs to save. Saving all unique configs instead.[/yellow]")
-            active_configs = all_configs
+            console.log("[yellow]No active configs found. Saving all unique configs to main files.[/yellow]")
+            active_configs_for_main_files = all_configs
+        else:
+            active_configs_for_main_files = active_configs
+
 
         save_tasks: List[Coroutine] = []
-        save_tasks.append(self.file_manager.write_configs_to_file(self.config.DIRS["subscribe"] / "base64.txt", active_configs))
+        save_tasks.append(self.file_manager.write_configs_to_file(self.config.DIRS["subscribe"] / "base64.txt", active_configs_for_main_files))
         save_tasks.append(self.file_manager.write_configs_to_file(self.config.OUTPUT_DIR / "all_configs.txt", all_configs, base64_encode=False))
         save_tasks.append(self.file_manager.write_configs_to_file(self.config.OUTPUT_DIR / "active_configs.txt", active_configs, base64_encode=False))
         
@@ -1103,9 +1115,9 @@ class V2RayCollectorApp:
 
                     save_tasks.append(self.file_manager.write_configs_to_file(path, active_cat_configs, base64_encode=False))
             
-        chunk_size = math.ceil(len(active_configs) / 20) if active_configs else 0
+        chunk_size = math.ceil(len(active_configs_for_main_files) / 20) if active_configs_for_main_files else 0
         if chunk_size > 0:
-            for i, chunk in enumerate([active_configs[i:i + chunk_size] for i in range(0, len(active_configs), chunk_size)]):
+            for i, chunk in enumerate([active_configs_for_main_files[i:i + chunk_size] for i in range(0, len(active_configs_for_main_files), chunk_size)]):
                 path = self.config.DIRS["splitted"] / f"mixed_{i+1}.txt"
                 save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
         
