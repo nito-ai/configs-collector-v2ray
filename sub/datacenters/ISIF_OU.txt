@@ -1,7 +1,7 @@
-trojan://lmsf6bqp-bqtu-cedy-7xhd-q034a4062drh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:00
-trojan://bx45pnob-18yu-o042-vdvh-ejtvybei2qmk@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://m90dzbe1-fx6p-ejaw-wevm-w7jbmzoxi7sd@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://aayf8tt3-d5by-l17h-aqv0-2hiik2f7hjq8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:29
+trojan://ykih47kb-9jb3-dhgw-baka-m2mfz8w1u2x6@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://sg8kwyvt-g6lo-b0r4-gimb-kprhconfc81w@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://370dcfc2-6cd0-40ad-b98d-e9044cc35a31@46.232.108.107:39966?type=tcp&security=reality&sni=swdist.apple.com&fp=ios&flow=xtls-rprx-vision&pbk=OwsSzr4jY5oZ1kF3QA0tdmHwE6alaREe6WU0PLubOgY&sid=0c6205#HK 🇭🇰 ┇ VLESS-TCP-RLT - ISIF OU ┇ 46.232.108.107
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@46.232.109.221:10031?type=ws&security=tls&path=/?ed=2560\u0026proxyip=ts.hpc.tw&sni=edga.aimercc.dpdns.org#HK 🇭🇰 ┇ VLESS-WS-TLS - ISIF OU ┇ 46.232.109.221
-trojan://24j9ggp0-w1e8-09s0-chbx-ig24u21k60e1@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://65wdc1te-cp4q-3ep5-39ix-r638ed5gtinq@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@46.232.109.221:10031?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edga.aimercc.dpdns.org&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - ISIF OU ┇ 46.232.109.221
+trojan://fe52wvad-iyqq-7ni5-pozn-e3ly59lcwqrf@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://5fcgxhk8-zijl-ik48-2wvj-466lypl2a5mp@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

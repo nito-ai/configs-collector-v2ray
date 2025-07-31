@@ -1,6 +1,6 @@
-trojan://qjn8p2wi-x55n-b9a5-f85t-j95bak7v773r@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:00
-trojan://8bdql23b-vaq9-tnk2-dv3y-0210dcu2qeb4@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://nadnlal6-unu6-fqt7-mf6x-a7aeuyxe7yzj@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://tpumljy2-kwry-nppf-hwq8-48tswmry24ai@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:29
+trojan://6gsygedo-mp24-ao57-pvou-i1wpm7wb3raz@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://d4swoxsj-cery-0i75-pyvv-exxqcbly5r0z@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#45.87.175.154:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#45.158.171.60:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#45.87.175.171:8080
@@ -13,10 +13,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI4XHUwNjI3XHUwNjJhIFx1MDYyZVx1MDYzMVx1
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjI4XHUwNmNjXHUwNjI3IFx1MDYzMVx1MDYyOFx1MDYyN1x1MDYyYSBcdTA2MmFcdTA2MzNcdTA2MmEgXHUwNjMxXHUwNjI3XHUwNmNjXHUwNmFmXHUwNjI3XHUwNjQ2IFx1MDYyOFx1MDZhZlx1MDZjY1x1MDYzMSBcdTA2MjdcdTA2YWZcdTA2MzEgXHUwNjI3XHUwNmNjXHUwNjQ2IFx1MDY0Mlx1MDYzN1x1MDYzOVx1MDY0N1x1ZDgzZFx1ZGU4MCBAQWxwaGFuZXRfc2hvcF9ib3QiLCJhZGQiOiIxNzIuNjcuMTMxLjI3IiwicG9ydCI6MjA1MywiaWQiOiIzNTBlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI4XHUwNjI3XHUwNjJhIFx1MDYyZVx1MDYzMVx1MDZjY1x1MDYyZiBcdTA2NDggXHUwNjJhXHUwNjMzXHUwNjJhXHVkODNkXHVkYzQ4XHVkODNkXHVkZDE3IEBSb3lhbE5ldF9OX2JvdCIsImFkZCI6IjEwNC4yMS4zLjE4OSIsInBvcnQiOjIwNTMsImlkIjoiMmZjMzc3MTMtMzAxNy00OTdlLWZmMmQtOTY1ZjgyNmExOWEzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImNjMmQ0Ljg5MDYwMDA0Lnh5eiIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiY2MyZDQuODkwNjAwMDQueHl6In0
 vmess://eyJ2IjoiMiIsInBzIjoiMzAwXHUwNmFmXHUwNmNjXHUwNmFmIDM5XHUwNjJhXHUwNjQ4XHUwNjQ1XHUwNjI3XHUwNjQ2ISBcdTA2MmFcdTA2MzNcdTA2MmFcdTIwMGNcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2VcdWRkMjlUaWNrVjJib3RAIiwiYWRkIjoic3VidGVsLnN0cmFuZ2xlZC5uZXQiLCJwb3J0IjozMjk3MCwiaWQiOiI2MWZhOTkwMC04MDI5LTQ1ZjYtZGM3OC04M2JjNTM3NGI1ZWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.145.167:8443?type=xhttp&security=none&path=/xhttp#91.99.145.167:8443
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?type=xhttp&security=none&path=/xhttp#91.99.239.156:8443
-vless://93defc2d-200d-4b2f-8baa-dd85e378e247@holanx.blacklike.ir:9008?type=ws&security=none&path=/?ed=2048#holanx.blacklike.ir:9008
-vless://c43d7798-af65-477d-9bd4-317d60bec393@45.94.215.252:1001?type=tcp&security=none#45.94.215.252:1001
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
 vless://20810de5-70e7-484c-800a-45cd7bea3cc4@91.107.146.208:13088?type=tcp&security=none#91.107.146.208:13088
@@ -77,7 +73,10 @@ vless://93defc2d-200d-4b2f-8baa-dd85e378e247@holanx.blacklike.ir:9008?type=ws&se
 vless://f6717009-f9e4-4509-8df5-5884c0b6e8ca@104.25.27.160:2095?type=httpupgrade&security=none&path=/?ed=2560/ShadowProxy66#104.25.27.160:2095
 vless://f6717009-f9e4-4509-8df5-5884c0b6e8ca@162.159.51.67:2095?type=httpupgrade&security=none&path=/?ed=2560/ShadowProxy66#162.159.51.67:2095
 vless://f6717009-f9e4-4509-8df5-5884c0b6e8ca@108.162.194.19:2095?type=httpupgrade&security=none&path=/?ed=2560/ShadowProxy66#108.162.194.19:2095
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?type=tcp&security=none#54.38.214.56:37171
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?type=tcp&security=none#168.119.245.178:2020
 vless://55ec6907-f07b-486a-cc00-995f20e6ff35@prteam.darkping.net:2422?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA#prteam.darkping.net:2422
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#213.232.120.2:443
-trojan://3z58zt4k-kdiv-l1xs-oapp-sxk58mu0nwxu@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://esm4wo9g-qy7v-1h93-zwvd-4qzs7ejqcy5b@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@meow.postpapet.ir:666?type=xhttp&security=reality&path=/dashboard?ed=2560&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#meow.postpapet.ir:666
+trojan://i18rt8ad-8ad2-91iy-qswm-119l69bcs6ni@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://wpfnb3g4-7pot-tamu-w03l-3xl84nqpcogb@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

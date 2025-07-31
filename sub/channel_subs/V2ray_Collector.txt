@@ -1,6 +1,6 @@
-trojan://md80bsfi-uqxg-oh6r-938v-xpj48ivz0d70@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:00
-trojan://ntk40ero-hp0x-b06p-kzv2-bemmv5v292jr@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://yq175p98-48yv-7w1d-r6x4-i0jjywbypftw@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://uzdx6hat-yip2-fhn4-1r1h-klt1c2hqgjqv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:29
+trojan://kfsyewob-l06z-4drz-j1z4-0w31bdishjcu@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://yi6f2w94-euzr-wzg9-iqok-8qcuh8xz280f@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 trojan://bpb-trojan@172.67.70.92:443?sni=zamim340.ggff.net&peer=zamim340.ggff.net&security=tls#172.67.70.92:443
 trojan://installshield@38.180.249.177:8443?security=tls#38.180.249.177:8443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?type=grpc&security=none#95.164.45.95:8880
@@ -40,5 +40,5 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443?type=grpc&security
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.142.120.139:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#45.142.120.139:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@176.124.223.161:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#176.124.223.161:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.117:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#154.83.2.117:443
-trojan://pqx4pyjz-kgju-v3uz-yjxo-ecsxya5xeccn@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://rmcmhq6s-u6w6-ukkb-ysv5-ot08rc8y6ioa@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://e59boxw2-sguz-xycc-2lcs-0ihcj81rj2ni@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://np5wdlo0-51oh-7nkp-wqaw-2y95fmaglgmn@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
