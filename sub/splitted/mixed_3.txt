@@ -1,11 +1,6 @@
-trojan://bo2oq7pu-d8fk-k3dj-hxy6-tqf6c3k4ntv3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:06
-trojan://90tw6jpd-q8ik-g8ks-9zzr-qcnq2atzyfqk@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://aitnnghv-z2fu-2kqu-kbya-ykqky2n83jwy@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.47.82:2053?type=ws&security=tls&path=/oqLIXWAi6lzpnumQتعاون#XX 🏳️ ┇ VLESS-WS-TLS - CLOUDFLARENET - 25ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.72.29:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - USG-PROD-WEST01 - 25ms
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@103.133.1.197:8880?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC - 25ms
-vless://f6717009-f9e4-4509-8df5-5884c0b6e8ca@104.16.189.195:2095?type=httpupgrade&security=none&path=/?ed=2560/ShadowProxy66#XX 🏳️ ┇ VLESS-HTTPUPGRADE-NTLS - CLOUDFLARENET - 25ms
-vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn.pages.dev&fp=chrome#XX 🏳️ ┇ VLESS-WS-TLS - CLOUDFLARENET - 26ms
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.142.120.221:8880?type=httpupgrade&security=none&path=/#RU 🇷🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC - 26ms
-trojan://rcl8wifm-tdrn-zk2g-mlmw-v334e0ktgc3c@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://ctg4671r-to1n-yl6m-z13v-a72zme5ex0n9@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v8.0 Advanced | Powered by eQnz
+trojan://cdol0jts-npia-bt4k-7nip-pt88ait2yx47@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:19
+trojan://z98486ku-fp2a-8nua-8y11-mrdhk50hsjzk@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://zn5yzr8k-0pq4-s0b8-sz8l-rxb4f18y7pp6@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.100.70.147:443?type=ws&security=tls&path=/?ed=2560\u0026proxyip=ts.hpc.tw&sni=edga.aimercc.dpdns.org#HK 🇭🇰 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. - 407ms
+trojan://ft15xmru-7qeo-unk5-bbzi-za2i5xp4flsf@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://6km7352i-08rk-j9b3-jzk8-ymguk2f3yhcf@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v9.0 Pro | Powered by eQnz

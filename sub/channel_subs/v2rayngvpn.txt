@@ -1,6 +1,6 @@
-trojan://vuypi4jb-ux4c-rrt4-zdmz-3leruupg6ph7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:06
-trojan://gk4d96kh-q84k-r36r-d99d-mun3szh43o04@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://zfow6vc5-qygh-amq2-krpz-x5u526pv2v85@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://5346sn7q-3zyf-4iql-dhmk-11rfsmlihfm2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:19
+trojan://5sf9tvrp-r1zo-g8cs-pxlf-gimrvi5637ud@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://qlqy4xri-hsbc-b2l1-r8we-sbv1zj08ouhg@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#45.87.175.154:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#45.158.171.60:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#45.87.175.171:8080
@@ -73,8 +73,11 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=t
 vless://93defc2d-200d-4b2f-8baa-dd85e378e247@netflix.kimjo.ir:2096?type=ws&security=none&path=/?ed=2048#netflix.kimjo.ir:2096
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
 vless://93defc2d-200d-4b2f-8baa-dd85e378e247@holanx.blacklike.ir:9008?type=ws&security=none&path=/?ed=2048#holanx.blacklike.ir:9008
+vless://93defc2d-200d-4b2f-8baa-dd85e378e247@netflix.kimjo.ir:2096?type=ws&security=none&path=/?ed=2048#netflix.kimjo.ir:2096
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
+vless://93defc2d-200d-4b2f-8baa-dd85e378e247@holanx.blacklike.ir:9008?type=ws&security=none&path=/?ed=2048#holanx.blacklike.ir:9008
 vless://d5f63b9e-780a-472a-9d1b-e2088087a037@194.182.79.252:37814?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=rk5UKshtrRPf3achXqaxQgA-7EryZABGx6fSXv35D14&sid=10a5#194.182.79.252:37814
 vless://55ec6907-f07b-486a-cc00-995f20e6ff35@prteam.darkping.net:2422?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA#prteam.darkping.net:2422
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#213.232.120.2:443
-trojan://e1wbyldj-r4r9-2p00-m8aj-6ljue61mkg5u@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://dc3byk0h-71r5-pf0r-j5fo-ka7fdfrr1kt2@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v8.0 Advanced | Powered by eQnz
+trojan://0hbh16py-iann-y5ay-hx9c-appcoy1afplb@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://mat0z22a-j3ha-04a1-htht-8n109rgvizz5@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v9.0 Pro | Powered by eQnz

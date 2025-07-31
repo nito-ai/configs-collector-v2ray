@@ -1,10 +1,6 @@
-trojan://yfawnwtt-dh3b-6y6x-8zo2-cn1rgnmpu6c0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:06
-trojan://s9q2htr0-yby0-pzbk-nbh6-red4zs4xrab5@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://1di671pe-bi64-t39i-lhvx-tnxz3vdsa5up@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://829d6c36-fac5-4dc1-bea4-c1814cdddd68@sg3.interld123456789.com:56702?type=tcp&security=tls&path=/&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#SG 🇸🇬 ┇ VLESS-TCP-TLS - Akamai Connected Cloud - 213ms
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDVEcgU2VydmVyIExpbWl0ZWQgLSAyMTltcyIsImFkZCI6IjEzNC4xMjIuMTM1LjE3NiIsInBvcnQiOjQ4ODgyLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJkdGxzIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInRscyI6InRscyJ9
-vless://fc361924-4934-4ad4-a680-e2bfb1eb6c41@91.192.81.178:2087?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Melbikomas UAB - 220ms
-vless://b5485d98-70ed-4ad0-bc9d-ebf42f8d6616@sg2vless.ipservers.xyz:443?type=ws&security=tls&path=/jagoanssh&sni=s141.abriclass.net#SG 🇸🇬 ┇ VLESS-WS-TLS - OVH SAS - 235ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiYmNjMTAzMy00N2EwLTRmMjgtYjFmMC05OGRiMzczOGViNjg@tw1.ydso.xyz:30443#TW 🇹🇼 ┇ SHADOWSOCKS-TCP-NTLS - Data Communication Business Group - 252ms
-trojan://sbnttab2-n3mn-wxd4-yomh-afgnutjlurvo@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://dn2coxpj-rk65-0yr9-u34d-xan9p4e2xrjv@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v8.0 Advanced | Powered by eQnz
+trojan://x2i2ifcd-uiya-er74-t967-qkdpuek7o5im@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:19
+trojan://o84wbg88-qwqc-atl2-mh5r-vv96odar321g@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://o4gew1q3-d410-3gow-ld3j-4l07yftgrz3i@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@178.128.106.216:443?sni=www.baidu.com&peer=www.baidu.com&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN - 765ms
+trojan://7e6ws80z-zlgm-svdm-i8p9-a7cbk2u60py6@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://a3943fnr-cu9i-ktm2-a0gy-o4uhekv70chh@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v9.0 Pro | Powered by eQnz

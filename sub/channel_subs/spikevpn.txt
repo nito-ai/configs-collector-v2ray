@@ -1,8 +1,6 @@
-trojan://v3owyrhk-34gx-1n1t-8lr5-5ygky09q1nje@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:06
-trojan://1oc08wm1-e38j-v3ao-p98a-5476yogw302p@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://kt1l2sq8-hj64-i52u-a6dw-x354wzgyctui@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://60cc00c1-dafc-4755-e93b-52a59f31982e@www.speedtest.net:2086?type=httpupgrade&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086#www.speedtest.net:2086
-vless://87fd9297-5b0f-42aa-c01e-a196c9591daa@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
+trojan://p1nhqh5k-m5xg-8kmz-g2m2-b8u5r76ytmjq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:19
+trojan://j2of91v6-m5fg-09up-75cf-28t7krb7ltag@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://s53olsp3-cc6n-8fb2-b4et-x66gvgp61k6h@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://11f4feb7-8f06-4fd2-a64c-15c5b73277eb@www.speedtest.net:2086?type=httpupgrade&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086#www.speedtest.net:2086
 vless://5b8dc6a9-d5fb-4505-b08f-9221225ec011@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
 vless://76cdaf1a-a3ac-47fb-d995-5cc2f62ba5b5@www.speedtest.net:2086?type=httpupgrade&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086#www.speedtest.net:2086
@@ -25,5 +23,7 @@ vless://2ab29dc3-2dc1-40bc-8e7e-8c3b5beacbc6@www.speedtest.net:2086?type=httpupg
 vless://7c9eba49-5b15-40a5-d615-3a4e32ecbf22@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
 vless://00e7e47a-4fec-4931-da61-2c9aba8190d6@www.speedtest.net:2086?type=httpupgrade&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086#www.speedtest.net:2086
 vless://c42dd991-cdef-4f19-9519-c2632f150f51@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
-trojan://p9f90fz9-dcru-w2s7-fgtj-dnvbunz1euud@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://42qb5fjr-1om4-ev5a-bisl-5x7unz1qa52r@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v8.0 Advanced | Powered by eQnz
+vless://a9b8d890-4e70-4f42-a51d-915b65b539ce@www.speedtest.net:2086?type=httpupgrade&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086#www.speedtest.net:2086
+vless://5f589460-0acc-4e7b-8bf0-686d033a2373@www.speedtest.net:2082?type=ws&security=none&path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082#www.speedtest.net:2082
+trojan://bv9jnt70-1k4q-a3hd-sicf-6hctwzofq6ce@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://w4t4bq3i-ybrs-489f-0z2d-mk0yqppf2cs9@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v9.0 Pro | Powered by eQnz

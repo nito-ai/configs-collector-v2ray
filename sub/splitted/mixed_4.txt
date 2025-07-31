@@ -1,11 +1,6 @@
-trojan://nz9a3quf-tepc-7uq1-t3em-ddfprtewrrvn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:06
-trojan://defz2iwo-12ti-4apu-cczp-o77kdurudbn7@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://qx6swo5p-f42f-ig8b-pztr-eea0yhdje3ub@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.49.41:443?type=ws&security=none&sni=xv6.jpmj.dpdns.org#XX 🏳️ ┇ VLESS-WS-NTLS - CLOUDFLARENET - 26ms
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.115:80?type=ws&security=none&path=/Telegram@WangCai2/?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - Cloudflare London, LLC - 26ms
-trojan://Aimer@206.238.236.63:2087?sni=amepo.ambercc.filegear-sg.me&peer=amepo.ambercc.filegear-sg.me&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - TERAEXCH - 26ms
-vless://e0074f88-d6bb-4ccd-a0e5-82daa8ec550b@172.67.166.23:443?type=ws&security=tls&path=vless-ws/?ed=2048&sni=newhs.grqjfn.workers.dev#XX 🏳️ ┇ VLESS-WS-TLS - CLOUDFLARENET - 26ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.161.63:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#LT 🇱🇹 ┇ VLESS-WS-FALSE - Cloudflare London, LLC - 27ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@168.100.6.168:8880?type=ws&security=false&path=/Telegram@WangCai2/?ed=2560&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - Cloudflare London, LLC - 27ms
-trojan://tz164ynl-81rn-zaxr-ftwm-wyygdn59sh29@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://p2p9nkoz-0h3s-0lxk-mb1a-ailhlhcbv4ql@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v8.0 Advanced | Powered by eQnz
+trojan://pui9leic-v81n-ueox-ip16-mzvuq03qx3bf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:19
+trojan://le9ggjwz-51k2-ebjk-tj1q-iqu64gwqmi0a@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://pqt36nja-4gvt-fcar-y3b9-uxizh0pk7hxo@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@119.200.48.55:12270?type=ws&security=tls&path=/?ed=2560\u0026proxyip=ts.hpc.tw&sni=edga.aimercc.dpdns.org#KR 🇰🇷 ┇ VLESS-WS-TLS - Korea Telecom - 414ms
+trojan://xdff6wmg-zlym-5y5l-4b88-woqjkiybdpyj@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://su5ol5sz-lzcg-nzi7-h7hf-rmc571jebpqi@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v9.0 Pro | Powered by eQnz
