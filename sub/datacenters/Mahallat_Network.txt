@@ -1,9 +1,9 @@
-trojan://1rvqi7lp-2ssv-5dgr-3001-88g414mha13h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 05:06
-trojan://dyjw74r5-ibui-pied-6sq7-ruj1y488q295@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://kvyj4usm-dahi-t2tr-u9eq-cbntz3qds5po@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1haGFsbGF0IE5ldHdvcmsgXHUyNTA3IDg1LjEzMy4yMzMuMTg0IiwiYWRkIjoiODUuMTMzLjIzMy4xODQiLCJwb3J0IjozODkwLCJpZCI6IjAxMzg1NTUwLWFmNjAtNGQ1Ny1hZjg0LWRkZGFjNTIxM2IwYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+trojan://p5y8wha0-qw0t-pkoy-shok-n78iytvj2opz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 07:01
+trojan://1cquzuz8-c6u3-d57k-95wo-c0qtztopi5hk@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://xma79e2p-0mww-m263-j5ll-s8tfbu519dv5@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://bf742aa8-0168-4081-b01f-3c3e994b054f@85.133.233.59:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahallat Network ┇ 85.133.233.59
-vless://97469164-110c-5924-6d56-1ba7a0f42f6a@85.133.233.206:3670?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahallat Network ┇ 85.133.233.206
 vless://16b95750-74af-4dec-b526-3d8891ed3b67@85.133.233.175:9999?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mahallat Network ┇ 85.133.233.175
-trojan://i8azib1e-ii37-ke4m-uc19-wwlu9aauop94@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://lp3g0qfv-2dei-zmyq-n9qc-hyprrugl3mof@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://97469164-110c-5924-6d56-1ba7a0f42f6a@85.133.233.206:3670?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahallat Network ┇ 85.133.233.206
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1haGFsbGF0IE5ldHdvcmsgXHUyNTA3IDg1LjEzMy4yMzMuMTg0IiwiYWRkIjoiODUuMTMzLjIzMy4xODQiLCJwb3J0IjozODkwLCJpZCI6IjAxMzg1NTUwLWFmNjAtNGQ1Ny1hZjg0LWRkZGFjNTIxM2IwYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+trojan://8rv25pyi-wx7t-y18k-x1bd-wlssw789vgn5@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://y6laqm05-l2t6-clox-fs9b-bbrzqzsyvnsb@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
