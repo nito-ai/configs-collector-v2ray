@@ -1,10 +1,6 @@
-trojan://qlg8i1yl-gq39-kgvm-f4wk-isfprvu8nrv8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:06
-trojan://cariqi9a-6gm0-i7gi-wf0l-7e4b7pfjexig@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://ivxmxueo-9par-m23m-onl1-d40lelgrf9e7@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.11.203.20:8880?type=ws&security=none&path=/?ed=2560#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cloudflare London, LLC - 27ms
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.138:80?type=ws&security=none&path=/olem/ws?ed=2560#FR 🇫🇷 ┇ VLESS-WS-NTLS - FASTLY - 106ms
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.14:80?type=ws&security=none&path=/olem/ws?ed=2560#FR 🇫🇷 ┇ VLESS-WS-NTLS - FASTLY - 107ms
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1ZIIFNBUyAtIDExNW1zIiwiYWRkIjoiZnIxLmM4ODk4NDk2LWFkYjYtNDA3My05ZWU0LWZmNGU0OTg0NDE1Yi5wb2x5Y2RuLmNvbSIsInBvcnQiOjgwLCJpZCI6ImZhMjViMDk1LTc5NDEtNDk3NS1iNjI5LTM3YzI5YTc3NjNlYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-vless://2d6be8bf-27a6-482b-bc3a-ad385c8999d0@51.91.250.245:8443?type=tcp&security=reality&sni=easygoau1h.com&fp=chrome&flow=xtls-rprx-vision&pbk=oj8VxkyFXCZEtJoRc-yjx7MEyRT1QrW17Ca3Rnu3hSE&sid=9b5538a5c337e0a7#FR 🇫🇷 ┇ VLESS-TCP-RLT - OVH SAS - 117ms
-trojan://xi68v6yp-dim6-n96f-sb2y-anlq21nms770@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://9ef9m7nk-g51l-5wme-tbel-bj4wyf02u9zi@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v8.0 Advanced | Powered by eQnz
+trojan://suywbw3n-92sd-0blu-l2wg-wtdg8bzobhku@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:25
+trojan://cryrsh8h-6294-kfg6-siiu-mv18ah9tk3lh@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://2qffolug-9uq3-bo2x-ybi4-3o7xv4saw9ic@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+vless://ServerNett@fr.safeline.12.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=XetKmjWtt6D08aG4I5F9tETkO4RogFgDaqW6F-HHoyA&sid=64ede3f582de#FR 🇫🇷 ┇ VLESS-TCP-RLT - Cgi Global Limited - 1209ms
+trojan://qw5682pp-391l-loq2-c1mt-kg9uw08hpk1d@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://ojj3f58m-e7kf-nv8o-6bw9-1ughs9ivfc6x@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v9.0 Pro | Powered by eQnz
