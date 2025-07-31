@@ -1,6 +1,7 @@
-trojan://6bnx3hj1-cee5-1y3s-bw94-4tx8zu6vqq3c@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 10:38
-trojan://if7zbifl-nw05-yuop-njuu-ngwbcom3esus@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://022a9jo0-rpqv-qo7x-4jqe-abrpxvrz2ny0@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://58djp64r-pv4o-135m-2nsp-vyxjihsn873z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 11:06
+trojan://tiglx6yt-pdng-eiol-j7kb-e3ltl2ztxv2w@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://ubu5gzni-04g6-souz-1biv-prip6rwafpr4@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 trojan://Aimer@172.82.16.99:443?sni=epmd.ambercc.filegear-sg.me&peer=epmd.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - OLINK-CLOUD ┇ 172.82.16.99
-trojan://bb3gcete-9y20-my93-07q8-uwgubbvynzo4@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://pzvskr7i-1qhn-z4og-5ikp-mibrbdmt8c0y@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@172.82.16.38:27053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - OLINK-CLOUD ┇ 172.82.16.38
+trojan://vssncduf-hbbi-8b4d-wmvn-ourbs7149ppe@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://5rcpby5d-ygkc-6eif-w6c2-u6vyacjhe5w7@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
