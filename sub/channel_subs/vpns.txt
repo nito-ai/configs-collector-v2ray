@@ -1,6 +1,6 @@
-trojan://05dd1n7c-al4e-qtis-obhu-gsvkb1vb18pl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 13:28
-trojan://245khpgk-b4wh-fb3n-xjsz-0lh1zjaweyes@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://8qnu5fh5-wg3n-3kbz-mp7o-2t7wh5l8ij0u@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://34qz2pk4-x995-i770-zhmu-b8x54hw7ab5s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:00
+trojan://31v5cf25-ur20-m3n3-sf7z-e8snshp4jnss@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://1teykm6w-bnu8-xqe8-tn0a-f70zfiamtwyt@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&security=none#45.159.248.125:8880
 vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?type=tcp&security=none#15.204.236.64:24820
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.18.36.24:443
@@ -14,5 +14,5 @@ vless://Parsashonam-Bot-10@185.146.173.39:8080?type=httpupgrade&security=none&pa
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
 vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.18.36.24:443
-trojan://n5usgcqy-z07j-87ni-ut3t-kb97bk9kefgb@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://z51jc8ws-ic2s-hhes-kkdg-as1gecg22vze@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://pbjy3obk-zz1i-jsb3-7gya-8ln19nf2je2q@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://nhrfwg45-ciux-0w92-yzcu-6wufa3nbdsid@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
