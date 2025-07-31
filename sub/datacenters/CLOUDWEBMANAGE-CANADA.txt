@@ -1,7 +1,7 @@
-trojan://04b3ygxu-0iu6-nrmt-yzis-9opvkakbiodg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 10:08
-trojan://kuk3wqpp-ipyx-wulk-nthy-i099tum7ez42@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://dx9aqkfx-oow8-qzq9-2e5p-sahfx4l58zj9@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://turboo-server@canada.turboo-server.com:10538?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-RLT - CLOUDWEBMANAGE-CANADA ┇ 103.54.59.67
+trojan://tgmw0g7t-e38e-ro2g-yj8u-g2m5h7d3t8pf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 10:38
+trojan://jpxenwz9-0mvh-7y0o-5t4c-88x417t7owvs@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://h3fbk0jk-sfc2-7q6i-yn6j-785ia8u9hs1d@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://c54dd620-fa5f-46de-82c2-9d1492ee74e4@103.98.215.248:443?type=tcp&security=tls&sni=tor2.jarviskit.com&flow=xtls-rprx-vision#CA 🇨🇦 ┇ VLESS-TCP-TLS - CLOUDWEBMANAGE-CANADA ┇ 103.98.215.248
-trojan://f0g1t3uy-8f61-kaq2-eknb-ozhg01xv7572@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://o1x9ckmx-53js-iyx1-mfwz-7nfk1r1yjrme@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://turboo-server@canada.turboo-server.com:10538?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-RLT - CLOUDWEBMANAGE-CANADA ┇ 103.54.59.67
+trojan://r66qhe8w-f287-0a8s-1lxm-uwccpsh8y7zk@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://bo9bg972-mm5m-0y3h-40r8-oex39d75zrjo@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
