@@ -1,6 +1,6 @@
-trojan://t3q22zxi-cdeb-85m6-mf7n-ox8r46qrgek8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:29
-trojan://1r2x7xkx-rlt1-edb0-vakn-u3i1e7dl5x4m@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://n70thanc-wqkn-3xhz-bfn8-qrmxsrizav8w@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://18a5g92p-1nw7-bdmr-msjl-dpyswpdm73n7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 14:57
+trojan://oxlbn6gu-ohsf-0vox-exfi-5r3bojtltnq6@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://6h2mdx09-xdti-ebhc-mqj3-6678alsazb1f@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.23:38388#103.186.154.23:38388
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.154.206.192:989#45.154.206.192:989
@@ -21,5 +21,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.187.191:22224?type=ws&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.192.89.212:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#18.192.89.212:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.35.48:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#3.120.35.48:22224
-trojan://59949t5z-rklt-rejz-846s-bkjs0a0y2xcs@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://keyko57u-m32g-mbc1-sqo6-s9b7qbzlxvcn@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://mawbknjs-zaw5-prnd-cvj7-e9ve6qdbcjml@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://0zytbex1-jphs-qi88-qnh6-r3rg768xs91c@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
