@@ -1,9 +1,9 @@
-trojan://reyn9tsv-mt0c-eq6c-yjt8-0yirgdsxt7qd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 03:05
-trojan://o0ud5lqt-yuob-nnnd-vkvc-7m4o9s3hmdfg@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://778zziqz-vd55-kxxa-v1uy-7nbprlbx9z8h@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://16b95750-74af-4dec-b526-3d8891ed3b67@85.133.233.175:9999?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mahallat Network ┇ 85.133.233.175
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1haGFsbGF0IE5ldHdvcmsgXHUyNTA3IDg1LjEzMy4yMzMuMTg0IiwiYWRkIjoiODUuMTMzLjIzMy4xODQiLCJwb3J0IjozODkwLCJpZCI6IjAxMzg1NTUwLWFmNjAtNGQ1Ny1hZjg0LWRkZGFjNTIxM2IwYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://97469164-110c-5924-6d56-1ba7a0f42f6a@85.133.233.206:3670?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahallat Network ┇ 85.133.233.206
+trojan://6m4jy9de-9uwd-6o3t-kbqc-8xyz2kq9wk6s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 03:32
+trojan://fptaq6or-250x-wub7-s9n3-7kjwxgcpuh07@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://7mlnb1k5-k2ac-3vg7-egw4-ugi7w4o1nwfa@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://bf742aa8-0168-4081-b01f-3c3e994b054f@85.133.233.59:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahallat Network ┇ 85.133.233.59
-trojan://st26hs20-v3nb-41ae-b8dq-xlu5wh6627nz@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://k5yltyfm-zt9r-ywbv-2h3p-zwwt8263lp96@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://16b95750-74af-4dec-b526-3d8891ed3b67@85.133.233.175:9999?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mahallat Network ┇ 85.133.233.175
+vless://97469164-110c-5924-6d56-1ba7a0f42f6a@85.133.233.206:3670?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mahallat Network ┇ 85.133.233.206
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1haGFsbGF0IE5ldHdvcmsgXHUyNTA3IDg1LjEzMy4yMzMuMTg0IiwiYWRkIjoiODUuMTMzLjIzMy4xODQiLCJwb3J0IjozODkwLCJpZCI6IjAxMzg1NTUwLWFmNjAtNGQ1Ny1hZjg0LWRkZGFjNTIxM2IwYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+trojan://eglm5g05-fe01-kfye-9bg3-7tv7mkww5fw0@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://0nqeq0zo-8u5j-jqf7-xcim-ewk0cm1niinp@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

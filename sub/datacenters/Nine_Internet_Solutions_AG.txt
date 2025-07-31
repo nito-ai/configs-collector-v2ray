@@ -1,8 +1,8 @@
-trojan://2n3q7ru1-oezc-6vqe-7mz0-r61o4pee2oqi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 03:05
-trojan://zpb46gmo-6l92-mich-lyc8-ayq77o8qnt22@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://x2j0pmhf-kepr-65dx-sylj-1okmklmcytse@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpId2NLQzZQT2hmV3BlbFgxRXBQdkdq@178.209.40.88:8443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Nine Internet Solutions AG ┇ 178.209.40.88
-vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@178.209.51.115:444?type=tcp&security=tls&sni=opensuse.org&fp=chrome&flow=xtls-rprx-vision-udp443#CH 🇨🇭 ┇ VLESS-TCP-TLS - Nine Internet Solutions AG ┇ 178.209.51.115
+trojan://7axgpy0e-1qiz-wvy9-ue2t-cjqmftvmwle0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 03:32
+trojan://2al9mvka-410w-ku0l-2mj8-a1xpobb5k6vi@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://thrn1hzf-0rlx-1oix-mpof-ao7hvi3q3qbx@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodzQwNHhSa3JkMXlSNUVDZGc3RkFY@178.209.40.92:8443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Nine Internet Solutions AG ┇ 178.209.40.92
-trojan://ragjfsju-ibhe-3ga5-zjsh-lnmtagxqrsbs@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://tzfbxvj9-zf32-hai1-8czj-7b0bbm132cy0@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@178.209.51.115:444?type=tcp&security=tls&sni=opensuse.org&fp=chrome&flow=xtls-rprx-vision-udp443#CH 🇨🇭 ┇ VLESS-TCP-TLS - Nine Internet Solutions AG ┇ 178.209.51.115
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpId2NLQzZQT2hmV3BlbFgxRXBQdkdq@178.209.40.88:8443#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Nine Internet Solutions AG ┇ 178.209.40.88
+trojan://pmzyhdy4-zq2p-damz-g5bs-65x0zlexic50@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://v1yu7hxo-w9hp-wozq-5920-kygbbiobgsev@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
