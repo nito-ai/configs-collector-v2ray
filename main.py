@@ -8,7 +8,6 @@ import random
 import string
 import math
 import socket
-import ssl
 from pathlib import Path
 from typing import List, Dict, Set, Optional, Any, Tuple, Coroutine
 from urllib.parse import urlparse, parse_qs, unquote
@@ -17,6 +16,7 @@ from collections import Counter
 
 import httpx
 import aiofiles
+import jdatetime
 
 try:
     import geoip2.database
@@ -56,7 +56,8 @@ class AppConfig:
 
     TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
     SUBSCRIPTION_LINKS_FILE = DATA_DIR / "subscription_links.json"
-    STATE_FILE = DATA_DIR / "state.json"
+    LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
+    SEEN_CONFIGS_FILE = DATA_DIR / "seen_configs.json"
     TELEGRAM_REPORT_FILE = DATA_DIR / "telegram_report.log"
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
@@ -69,7 +70,7 @@ class AppConfig:
     HTTP_TIMEOUT = 25.0
     HTTP_MAX_REDIRECTS = 5
     HTTP_HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0"}
-    MAX_CONCURRENT_REQUESTS = 25
+    MAX_CONCURRENT_REQUESTS = 20
 
     TELEGRAM_BASE_URL = "https://t.me/s/{}"
     TELEGRAM_MESSAGE_LIMIT = 50
@@ -78,19 +79,17 @@ class AppConfig:
 
     ENABLE_SUBSCRIPTION_FETCHING = True
     ENABLE_IP_DEDUPLICATION = True
-    
-    ENABLE_SEEN_CONFIG_FILTER = True
+    ENABLE_SEEN_CONFIG_FILTER = False
     SEEN_CONFIG_TIMEOUT_HOURS = 1
     
-    ENABLE_CONNECTIVITY_TEST = True 
-    CONNECTIVITY_TEST_TIMEOUT = 5
-    MAX_CONNECTIVITY_TESTS = 350
-    PING_HISTORY_COUNT = 5
+    ENABLE_CONNECTIVITY_TEST = False 
+    CONNECTIVITY_TEST_TIMEOUT = 4
+    MAX_CONNECTIVITY_TESTS = 250
 
     ADD_SIGNATURES = True
     ADV_SIGNATURE = "✨ Free Internet For All | @DailyV2Config"
     DNT_SIGNATURE = "❤️ Daily config Updates | @DailyV2Config"
-    DEV_SIGNATURE = "💻 Collector v9.0 Pro | Powered by eQnz"
+    DEV_SIGNATURE = "💻 Collector v4.0 | Powered by eQnz"
     CUSTOM_SIGNATURE = "☕ Join Us | Telegram @eQnz_github"
 
 CONFIG = AppConfig()
@@ -109,7 +108,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '�🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -166,11 +165,8 @@ class BaseConfig(BaseModel):
     fingerprint: Optional[str] = None
     country: Optional[str] = Field("XX", exclude=True)
     source_type: str = Field("unknown", exclude=True)
-    asn_org: Optional[str] = Field(None, exclude=True)
-    
     ping: Optional[int] = Field(None, exclude=True)
-    status: str = Field("unknown", exclude=True)
-    last_tested: Optional[str] = Field(None, exclude=True)
+    asn_org: Optional[str] = Field(None, exclude=True)
 
     def get_deduplication_key(self) -> str:
         return f"{self.protocol}:{self.host}:{self.port}:{self.uuid}"
@@ -553,8 +549,8 @@ class RawConfigCollector:
 
 
 class TelegramScraper:
-    def __init__(self, channels: List[str]):
-        self.channels, self.iran_tz = channels, get_iran_timezone()
+    def __init__(self, channels: List[str], since_datetime: datetime):
+        self.channels, self.since_datetime, self.iran_tz = channels, since_datetime, get_iran_timezone()
         self.configs_by_channel: Dict[str, List[str]] = {}
         self.successful_channels: List[Tuple[str, int]] = []
         self.failed_channels: List[str] = []
@@ -638,19 +634,25 @@ class TelegramScraper:
                         if configs_count_in_channel >= CONFIG.MAX_CONFIGS_PER_CHANNEL:
                             break
 
-                        text_div = msg.find("div", class_="tgme_widget_message_text")
-                        if text_div:
-                            found_configs = RawConfigCollector.find_all(text_div.get_text('\n', strip=True))
-                            for config_type, configs in found_configs.items():
-                                remaining_slots = CONFIG.MAX_CONFIGS_PER_CHANNEL - configs_count_in_channel
-                                if remaining_slots <= 0: break
-                                
-                                configs_to_add = configs[:remaining_slots]
-                                channel_configs[config_type].extend(configs_to_add)
-                                configs_count_in_channel += len(configs_to_add)
-                            
-                            if configs_count_in_channel >= CONFIG.MAX_CONFIGS_PER_CHANNEL:
-                                break
+                        time_tag = msg.find("time", class_="time")
+                        if time_tag and 'datetime' in time_tag.attrs:
+                            try:
+                                message_dt = datetime.fromisoformat(time_tag['datetime']).astimezone(self.iran_tz)
+                                if CONFIG.TELEGRAM_IGNORE_LAST_UPDATE or message_dt > self.since_datetime:
+                                    text_div = msg.find("div", class_="tgme_widget_message_text")
+                                    if text_div:
+                                        found_configs = RawConfigCollector.find_all(text_div.get_text('\n', strip=True))
+                                        for config_type, configs in found_configs.items():
+                                            remaining_slots = CONFIG.MAX_CONFIGS_PER_CHANNEL - configs_count_in_channel
+                                            if remaining_slots <= 0: break
+                                            
+                                            configs_to_add = configs[:remaining_slots]
+                                            channel_configs[config_type].extend(configs_to_add)
+                                            configs_count_in_channel += len(configs_to_add)
+                                        
+                                        if configs_count_in_channel >= CONFIG.MAX_CONFIGS_PER_CHANNEL:
+                                            break
+                            except (ValueError, TypeError): continue
                     return channel_configs
             except (NetworkError, Exception):
                 pass
@@ -793,11 +795,11 @@ class Geolocation:
         if cls._asn_reader: cls._asn_reader.close()
 
 class ConfigProcessor:
-    def __init__(self, raw_configs_by_type: Dict[str, List[str]], state_data: Dict[str, Any]):
+    def __init__(self, raw_configs_by_type: Dict[str, List[str]], seen_configs: Dict[str, str]):
         self.raw_configs_by_type = raw_configs_by_type
         self.parsed_configs: Dict[str, BaseConfig] = {}
         self.total_raw_count = sum(len(v) for v in raw_configs_by_type.values())
-        self.state_data = state_data
+        self.seen_configs = seen_configs
         self.tested_configs_count = 0
         self.active_configs_count = 0
 
@@ -819,7 +821,7 @@ class ConfigProcessor:
         console.log(f"Deduplication by URI resulted in {len(self.parsed_configs)} unique configs.")
 
         if CONFIG.ENABLE_SEEN_CONFIG_FILTER:
-            self._filter_and_update_state()
+            self._filter_by_seen_cache()
         
         await self._resolve_geo_info()
         if CONFIG.ENABLE_IP_DEDUPLICATION:
@@ -834,11 +836,11 @@ class ConfigProcessor:
         random.shuffle(temp_list)
         
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
-            temp_list.sort(key=lambda c: (c.status != 'active', c.ping if c.ping is not None else 9999))
+            temp_list.sort(key=lambda item: item.ping if item.ping is not None else 9999)
         
         self.parsed_configs = {cfg.get_deduplication_key(): cfg for cfg in temp_list}
 
-    def _filter_and_update_state(self):
+    def _filter_by_seen_cache(self):
         now_utc = datetime.now(timezone.utc)
         timeout = timedelta(hours=CONFIG.SEEN_CONFIG_TIMEOUT_HOURS)
         
@@ -846,20 +848,17 @@ class ConfigProcessor:
         removed_count = 0
         
         for key, config in self.parsed_configs.items():
-            state_entry = self.state_data.get(key)
-            if state_entry:
+            if key in self.seen_configs:
                 try:
-                    last_seen_time = datetime.fromisoformat(state_entry.get("last_seen", "1970-01-01T00:00:00+00:00"))
-                    if now_utc - last_seen_time < timeout:
+                    seen_time = datetime.fromisoformat(self.seen_configs[key])
+                    if now_utc - seen_time < timeout:
                         removed_count += 1
-                        continue
+                        continue 
                 except (ValueError, TypeError):
                     pass
             
             configs_to_keep[key] = config
-            if key not in self.state_data:
-                self.state_data[key] = {"first_seen": now_utc.isoformat(), "ping_history": []}
-            self.state_data[key]["last_seen"] = now_utc.isoformat()
+            self.seen_configs[key] = now_utc.isoformat()
             
         self.parsed_configs = configs_to_keep
         if removed_count > 0:
@@ -892,34 +891,24 @@ class ConfigProcessor:
         self.parsed_configs = kept_configs
         console.log(f"IP-based deduplication removed {removed_count} configs. {len(self.parsed_configs)} remaining.")
 
-    async def _test_config_latency(self, config: BaseConfig) -> Optional[int]:
+    async def _test_tcp_connection(self, config: BaseConfig) -> Optional[int]:
         ip = Geolocation._ip_cache.get(config.host)
         if not ip: return None
-
-        use_tls = config.security in ['tls', 'xtls', 'reality']
         
         try:
             start_time = asyncio.get_event_loop().time()
-
-            if use_tls:
-                server_hostname = config.sni if config.sni else config.host
-                ssl_context = ssl.create_default_context()
-                ssl_context.check_hostname = False
-                ssl_context.verify_mode = ssl.CERT_NONE
-                
-                fut = asyncio.open_connection(
-                    ip, config.port, ssl=ssl_context, server_hostname=server_hostname
-                )
-            else:
-                fut = asyncio.open_connection(ip, config.port)
-
+            fut = asyncio.open_connection(ip, config.port)
             reader, writer = await asyncio.wait_for(fut, timeout=CONFIG.CONNECTIVITY_TEST_TIMEOUT)
             
+            writer.write(b"\x01") 
+            await writer.drain()
+            await reader.read(1)
+
             end_time = asyncio.get_event_loop().time()
             writer.close()
             await writer.wait_closed()
             return int((end_time - start_time) * 1000)
-        except (asyncio.TimeoutError, ConnectionRefusedError, OSError, ssl.SSLError, Exception):
+        except (asyncio.TimeoutError, ConnectionRefusedError, OSError, Exception):
             return None
 
     async def _test_connectivity(self):
@@ -928,10 +917,9 @@ class ConfigProcessor:
             configs_to_test = random.sample(configs_to_test, CONFIG.MAX_CONNECTIVITY_TESTS)
         
         self.tested_configs_count = len(configs_to_test)
-        now_utc_iso = datetime.now(timezone.utc).isoformat()
 
         with Progress(
-            TextColumn("[bold blue]Testing Connectivity (TLS Handshake)..."),
+            TextColumn("[bold blue]Testing Connectivity..."),
             BarColumn(bar_width=None),
             "[progress.percentage]{task.percentage:>3.0f}%",
             "•",
@@ -940,29 +928,15 @@ class ConfigProcessor:
         ) as progress:
             ping_task = progress.add_task("pinging", total=len(configs_to_test))
             
-            tasks = [self._test_config_latency(config) for config in configs_to_test]
+            tasks = [self._test_tcp_connection(config) for config in configs_to_test]
             results = await asyncio.gather(*tasks)
 
             for config, ping_result in zip(configs_to_test, results):
-                key = config.get_deduplication_key()
-                state_entry = self.state_data.get(key, {})
-
                 if ping_result is not None:
                     config.ping = ping_result
-                    config.status = 'active'
-                    config.last_tested = now_utc_iso
-                    state_entry["last_tested"] = now_utc_iso
-                    
-                    ping_history = state_entry.get("ping_history", [])
-                    ping_history.append(ping_result)
-                    state_entry["ping_history"] = ping_history[-CONFIG.PING_HISTORY_COUNT:]
-                else:
-                    config.status = 'inactive'
-                
-                self.state_data[key] = state_entry
                 progress.update(ping_task, advance=1)
         
-        self.active_configs_count = sum(1 for c in configs_to_test if c.status == 'active')
+        self.active_configs_count = sum(1 for c in configs_to_test if c.ping is not None)
         console.log(f"Connectivity test complete. {self.active_configs_count}/{self.tested_configs_count} configs responded.")
 
     def _format_config_remarks(self):
@@ -977,11 +951,10 @@ class ConfigProcessor:
             sec = 'RLT' if config.source_type == 'reality' else (config.security.upper() if config.security != 'none' else 'NTLS')
             net = config.network.upper() if config.network else 'N/A'
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
+            ip_address = Geolocation._ip_cache.get(config.host, "N/A")
             
             asn_str = f" - {config.asn_org}" if config.asn_org else ""
-            ping_str = f" - {config.ping}ms" if config.ping is not None else ""
-            
-            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec}{asn_str}{ping_str}"
+            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec}{asn_str} ┇ {ip_address}"
             config.remarks = new_remark.strip()
 
     def get_all_unique_configs(self) -> List[BaseConfig]:
@@ -1021,17 +994,18 @@ class V2RayCollectorApp:
     def __init__(self):
         self.config = CONFIG
         self.file_manager = FileManager(self.config)
-        self.state_data = {}
+        self.last_update_time = datetime.now(timezone.utc) - timedelta(days=1)
+        self.seen_configs = {}
         self.start_time = datetime.now()
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v9.0 Pro[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v7.0.4[/bold green]")
         await self._load_state()
 
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
         sub_links = await self.file_manager.read_json_file(self.config.SUBSCRIPTION_LINKS_FILE)
 
-        tg_scraper = TelegramScraper(tg_channels)
+        tg_scraper = TelegramScraper(tg_channels, self.last_update_time)
         sub_fetcher = SubscriptionFetcher(sub_links)
 
         if tg_channels: await tg_scraper.scrape_all()
@@ -1052,9 +1026,9 @@ class V2RayCollectorApp:
             console.log("[yellow]No new configurations found. Exiting.[/yellow]")
             return
 
-        processor = ConfigProcessor(combined_raw_configs, self.state_data)
+        processor = ConfigProcessor(combined_raw_configs, self.seen_configs)
         await processor.process()
-        self.state_data = processor.state_data
+        self.seen_configs = processor.seen_configs
 
         all_unique_configs = processor.get_all_unique_configs()
         if not all_unique_configs:
@@ -1068,17 +1042,28 @@ class V2RayCollectorApp:
         console.log("[bold green]Collection and processing complete.[/bold green]")
 
     async def _load_state(self):
-        if self.config.STATE_FILE.exists():
+        if self.config.SEEN_CONFIGS_FILE.exists():
             try:
-                async with aiofiles.open(self.config.STATE_FILE, 'r') as f:
-                    self.state_data = json.loads(await f.read())
+                async with aiofiles.open(self.config.SEEN_CONFIGS_FILE, 'r') as f:
+                    self.seen_configs = json.loads(await f.read())
             except Exception:
-                self.state_data = {}
+                self.seen_configs = {}
+        
+        if self.config.LAST_UPDATE_FILE.exists():
+            try:
+                async with aiofiles.open(self.config.LAST_UPDATE_FILE, 'r') as f:
+                    self.last_update_time = datetime.fromisoformat(await f.read())
+            except Exception: pass
 
     async def _save_state(self):
         try:
-            async with aiofiles.open(self.config.STATE_FILE, 'w') as f:
-                await f.write(json.dumps(self.state_data, indent=4))
+            async with aiofiles.open(self.config.SEEN_CONFIGS_FILE, 'w') as f:
+                await f.write(json.dumps(self.seen_configs, indent=4))
+        except IOError: pass
+        
+        try:
+            async with aiofiles.open(self.config.LAST_UPDATE_FILE, 'w') as f:
+                await f.write(datetime.now(timezone.utc).isoformat())
         except IOError: pass
 
     def _sanitize_filename(self, name: str) -> str:
@@ -1088,23 +1073,13 @@ class V2RayCollectorApp:
     async def _save_results(self, all_configs: List[BaseConfig], categories: Dict[str, Any], configs_by_channel: Dict[str, List[str]]):
         console.log("Saving categorized configurations...")
         
-        active_configs = [c for c in all_configs if c.status == 'active']
-        if not active_configs:
-            console.log("[yellow]No active configs found. Saving all unique configs to main files.[/yellow]")
-            active_configs_for_main_files = all_configs
-        else:
-            active_configs_for_main_files = active_configs
-
-
         save_tasks: List[Coroutine] = []
-        save_tasks.append(self.file_manager.write_configs_to_file(self.config.DIRS["subscribe"] / "base64.txt", active_configs_for_main_files))
+        save_tasks.append(self.file_manager.write_configs_to_file(self.config.DIRS["subscribe"] / "base64.txt", all_configs))
         save_tasks.append(self.file_manager.write_configs_to_file(self.config.OUTPUT_DIR / "all_configs.txt", all_configs, base64_encode=False))
-        save_tasks.append(self.file_manager.write_configs_to_file(self.config.OUTPUT_DIR / "active_configs.txt", active_configs, base64_encode=False))
         
         for cat_name, cat_items in categories.items():
             for item_name, configs in cat_items.items():
-                active_cat_configs = [c for c in configs if c.status == 'active']
-                if active_cat_configs:
+                if configs:
                     sanitized_name = self._sanitize_filename(str(item_name))
                     if not sanitized_name: continue
                     
@@ -1113,11 +1088,11 @@ class V2RayCollectorApp:
                     else:
                         path = self.config.DIRS[cat_name] / f"{sanitized_name}.txt"
 
-                    save_tasks.append(self.file_manager.write_configs_to_file(path, active_cat_configs, base64_encode=False))
+                    save_tasks.append(self.file_manager.write_configs_to_file(path, configs, base64_encode=False))
             
-        chunk_size = math.ceil(len(active_configs_for_main_files) / 20) if active_configs_for_main_files else 0
+        chunk_size = math.ceil(len(all_configs) / 20) if all_configs else 0
         if chunk_size > 0:
-            for i, chunk in enumerate([active_configs_for_main_files[i:i + chunk_size] for i in range(0, len(active_configs_for_main_files), chunk_size)]):
+            for i, chunk in enumerate([all_configs[i:i + chunk_size] for i in range(0, len(all_configs), chunk_size)]):
                 path = self.config.DIRS["splitted"] / f"mixed_{i+1}.txt"
                 save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
         
@@ -1125,13 +1100,12 @@ class V2RayCollectorApp:
         for protocol, configs in categories["protocols"].items():
             if protocol not in allowed_protocols_for_mix:
                 continue
-            
-            active_proto_configs = [c for c in configs if c.status == 'active']
-            if not active_proto_configs: continue
-            random.shuffle(active_proto_configs)
-            chunk_size_proto = math.ceil(len(active_proto_configs) / 5)
+
+            if not configs: continue
+            random.shuffle(configs)
+            chunk_size_proto = math.ceil(len(configs) / 5)
             if chunk_size_proto > 0:
-                for i, chunk in enumerate([active_proto_configs[i:i + chunk_size_proto] for i in range(0, len(active_proto_configs), chunk_size_proto)][:5]):
+                for i, chunk in enumerate([configs[i:i + chunk_size_proto] for i in range(0, len(configs), chunk_size_proto)][:5]):
                     path = self.config.DIRS["mix_protocol"] / f"mix_{protocol}_{i+1}.txt"
                     save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
 
@@ -1148,11 +1122,9 @@ class V2RayCollectorApp:
 
     def _print_summary_report(self, processor: ConfigProcessor, tg_scraper: TelegramScraper, sub_fetcher: SubscriptionFetcher, start_time: datetime):
         all_configs = processor.get_all_unique_configs()
-        active_configs = [c for c in all_configs if c.status == 'active']
-        
-        protocol_counts = Counter(c.protocol for c in active_configs)
-        country_counts = Counter(c.country for c in active_configs if c.country and c.country != 'XX')
-        asn_counts = Counter(c.asn_org for c in active_configs if c.asn_org)
+        protocol_counts = Counter(c.protocol for c in all_configs)
+        country_counts = Counter(c.country for c in all_configs if c.country and c.country != 'XX')
+        asn_counts = Counter(c.asn_org for c in all_configs if c.asn_org)
         
         duration = datetime.now() - start_time
         duration_str = str(duration).split('.')[0]
@@ -1160,7 +1132,7 @@ class V2RayCollectorApp:
         run_details_table = Table(title="⚙️ Run Details ⚙️", title_style="bold yellow")
         run_details_table.add_column("Item", style="cyan", justify="right")
         run_details_table.add_column("Value", style="bold green", justify="left")
-        run_details_table.add_row("Script Version", CONFIG.DEV_SIGNATURE.split(' ')[-3])
+        run_details_table.add_row("Script Version", CONFIG.DEV_SIGNATURE.split(' ')[-1])
         run_details_table.add_row("Start Time", start_time.strftime('%Y-%m-%d %H:%M:%S'))
         run_details_table.add_row("Duration", duration_str)
         console.print(run_details_table)
@@ -1180,17 +1152,15 @@ class V2RayCollectorApp:
         summary_table.add_column("Key", style="cyan")
         summary_table.add_column("Value", style="bold green")
         summary_table.add_row("Unique & Valid Configs", str(len(all_configs)))
-        summary_table.add_row("Tested Configs", str(processor.tested_configs_count))
-        summary_table.add_row("[bold]Active Configs[/bold]", f"[bold]{processor.active_configs_count}[/bold]")
         console.print(summary_table)
 
-        proto_table = Table(title="📈 Active Configs by Protocol", title_style="bold blue")
+        proto_table = Table(title="📈 Configs by Protocol", title_style="bold blue")
         proto_table.add_column("Protocol", style="cyan")
         proto_table.add_column("Count", style="bold green")
         for protocol, count in protocol_counts.most_common():
             proto_table.add_row(protocol.upper(), str(count))
             
-        country_table = Table(title="🌍 Top 5 Countries (Active)", title_style="bold blue")
+        country_table = Table(title="🌍 Top 5 Countries", title_style="bold blue")
         country_table.add_column("Flag")
         country_table.add_column("Country", style="cyan")
         country_table.add_column("Count", style="bold green")
@@ -1198,7 +1168,7 @@ class V2RayCollectorApp:
             flag = COUNTRY_CODE_TO_FLAG.get(country_code, '🏳️')
             country_table.add_row(flag, country_code, str(count))
 
-        asn_table = Table(title="🏢 Top 5 Datacenters (Active)", title_style="bold blue")
+        asn_table = Table(title="🏢 Top 5 Datacenters", title_style="bold blue")
         asn_table.add_column("Datacenter", style="cyan")
         asn_table.add_column("Count", style="bold green")
         for asn, count in asn_counts.most_common(5):
@@ -1208,7 +1178,7 @@ class V2RayCollectorApp:
         console.print(country_table)
         console.print(asn_table)
         
-        commit_message = f"feat: Update configs - {len(active_configs)} active"
+        commit_message = f"feat: Update configs - {len(all_configs)} total"
         console.print(Panel(f"[bold cyan]{commit_message}[/bold cyan]", title="💡 Suggested Commit Message", border_style="yellow"))
 
 async def _download_db_if_needed(url: str, file_path: Path):
@@ -1230,6 +1200,7 @@ async def _setup_data_file(remote_url: str, local_path: Path):
         try:
             status, content = await AsyncHttpClient.get(remote_url)
             if status == 200 and content:
+                # The content is expected to be JSON. Let's parse and re-dump to ensure format.
                 data = json.loads(content)
                 async with aiofiles.open(local_path, "w", encoding='utf-8') as f:
                     await f.write(json.dumps(data, indent=4))
