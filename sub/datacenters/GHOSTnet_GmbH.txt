@@ -1,9 +1,9 @@
-trojan://2x3x3da9-qxpa-fiss-ycpo-dbjhjbhr523k@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:41
-trojan://2fe9365w-ydqj-wutk-6wmh-4tp44zfaceum@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://0d4oau9c-5bqt-noj2-mhch-9qitmzdteslw@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://8dgzg1p0-4hkp-i0aw-26yk-bjbuy8jvfa0n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 13:04
+trojan://1cm2vmb9-759h-5q3e-msyc-n4g2x8c1tc2f@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://nmoa8v7o-w2j9-3ybb-9nrh-tzqkbqaspnwq@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@5.230.44.233:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - GHOSTnet GmbH ┇ 5.230.44.233
-vless://f184c89c-80a4-4a3a-bc67-97db43266c11@5.230.44.117:16771?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - GHOSTnet GmbH ┇ 5.230.44.117
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR0hPU1RuZXQgR21iSCBcdTI1MDcgNS4yMzAuNzQuMTk1IiwiYWRkIjoiNS4yMzAuNzQuMTk1IiwicG9ydCI6ODAsImlkIjoiM2M2ZjY1NmItZjc5Mi00YjVkLTg5MmMtNTM0NWIwMzU3NTIxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQ1VqbnZHa2J2VjdObkNMaVpjRGVQMlQyRjF2S1U3VkdSa1NWWkVuNG5zU2RSNDlZSlpvVENDQ3hDdGR6elJUUExoajVNakJFUUVvc2I0V1MxUlNXYkhNeDFTcWJjcTE@5.231.63.169:40934#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - GHOSTnet GmbH ┇ 5.231.63.169
-trojan://ofv4ueel-1d9w-6sqj-r10w-ycju7fyvg4ik@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://ba2rre9h-txgh-zpkk-3a3g-efdx2ospvooy@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://f184c89c-80a4-4a3a-bc67-97db43266c11@5.230.44.117:16771?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - GHOSTnet GmbH ┇ 5.230.44.117
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpadlFnVUxQa1o1UjcxN2tNb1c3cVVMMTNiMWM2b0pLSnRHMzVTVWp1U0dEV1Y1MmtmR0w0ZGRlYll2d25WcU5jRXp3OU1nZEN6MnBUeXZCZGE5OWFjR29WQ3lzc2FYQkI@5.231.63.169:40934#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - GHOSTnet GmbH ┇ 5.231.63.169
+trojan://pqwr1p8e-rxym-pbm5-gk6m-b45cysjgtnmt@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://wmtufpog-7v6p-4syh-e119-lbjndkt00gx8@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

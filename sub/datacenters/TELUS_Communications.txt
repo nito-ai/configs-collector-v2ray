@@ -1,9 +1,9 @@
-trojan://0mwkgp7u-0sca-o49b-06km-ygu8fvyswart@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:41
-trojan://n913gm62-1anj-1smn-36u4-v7zs4eak99rw@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://m1lx5dov-d9d3-ebcg-ncn7-g2yv00cci0vi@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-trojan://p5T9x5WrfZ@99.199.73.53:46780?security=none#CA 🇨🇦 ┇ TROJAN-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+trojan://gc0t88y3-jpou-a46p-tda0-ue7g7r3auquh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 13:04
+trojan://4ee05kjt-aod9-21fr-ppgm-3pkvtc4tr37w@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://86k6eehy-1305-gsni-3mgr-mbn1c2eh01vu@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+vless://5cf90cec-7303-409e-8772-b1478defb56f@99.199.73.57:23877?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.57
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuODMuNDgiLCJhZGQiOiI5OS4xOTkuODMuNDgiLCJwb3J0IjozMzY3OCwiaWQiOiJmZDgzZDYzYy1lOTdlLTRhOTQtODdkYi0yNzEwN2RjYmUyOTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://b1867b10-e968-44d1-9182-a674ef81ecb7@142.179.77.40:56565?type=tcp&security=tls&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision-udp443#CA 🇨🇦 ┇ VLESS-TCP-TLS - TELUS Communications ┇ 142.179.77.40
-vless://5cf90cec-7303-409e-8772-b1478defb56f@99.199.73.57:23877?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.57
-trojan://kpv7kzyq-6pls-votf-e9iv-wx0qq9xzd1t4@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://a8x4tong-9eqr-jrkr-39t8-dlg9l2y56nqb@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://p5T9x5WrfZ@99.199.73.53:46780?security=none#CA 🇨🇦 ┇ TROJAN-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+trojan://m2rk8a92-6mbc-cfw4-y14b-tcdeqmr1d4d1@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://gribrgsm-7z6e-rnvf-k3it-33dd4up81cfh@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

@@ -1,8 +1,8 @@
-trojan://e9yfd1fa-x8za-1ox0-n65w-09r6dw73uo5t@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:41
-trojan://k6pp2ufu-1t3y-5iq8-m680-ybay3dgofvfc@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://ka321oay-n8yd-yjpg-028w-5pn5xf3k3ph3@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://srofxx1w-usz7-ergn-4xq3-gli8u29pcba6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 13:04
+trojan://q9s42ra5-mp4b-x38n-0nxr-br443haw48fk@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://mj5xz7uo-q5a2-21ll-jm7m-g4beickdbv6g@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEluc2lnaHRvbWV0cmljcyBCLlYuIFx1MjUwNyA4Ny4yNDcuMTY4LjIzNyIsImFkZCI6Ijg3LjI0Ny4xNjguMjM3IiwicG9ydCI6MjA3MCwiaWQiOiJjNGNhY2I4YS02NGVjLTRkZmMtYTgwZC1kZjNmZDg4NTFmY2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://4c20c859-a872-4659-be2d-86b07a8f329c@87.247.169.69:2101?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Insightometrics B.V. ┇ 87.247.169.69
 vless://be34d195-0697-44b4-8a3e-07edc2f3abb7@87.247.169.211:8001?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Insightometrics B.V. ┇ 87.247.169.211
-trojan://b87zdx4m-wgf5-3oeq-55jp-gpexk77umd1l@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://ymnimqpt-h9s0-z8ev-rkkf-fv1corvd72vw@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://4c20c859-a872-4659-be2d-86b07a8f329c@87.247.169.69:2101?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Insightometrics B.V. ┇ 87.247.169.69
+trojan://oxskgw5v-ux44-tc1y-3y6p-9c81lu3xz5sw@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://jut16dtq-6a7w-vzob-njv1-cz1mrff5xr68@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

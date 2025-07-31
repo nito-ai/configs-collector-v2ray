@@ -1,8 +1,7 @@
-trojan://nxu8b72e-3f6d-7wa7-162h-a4wjxvh956z8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 12:41
-trojan://b0ns92tw-pce0-lmk2-nssb-qwg3eudghgrc@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://xnrvztyt-c3b7-60zf-uzry-ewdrz1syvnew@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://zsy5tatv-8su0-eezu-lap3-oujxcbgw8xxq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 13:04
+trojan://slxwsb7s-fd89-x2m4-dy05-wlu3ihn6f3yc@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://84yxs9hf-tkx2-rkgw-6nee-hbd9cng8ts8r@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#193.29.139.177:8080
-vless://98b020e6-50f0-4247-864a-226b0129e9ce@8.47.69.4:80?type=ws&security=none&path=/www.speedtest.net/index.html-www.google.com?ed=2048#8.47.69.4:80
 vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?type=tcp&security=none#51.222.84.59:14643
 vless://f64ec975-bed6-4c91-b02b-80e5fdad363b@51.222.84.252:25429?type=tcp&security=none#51.222.84.252:25429
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?type=tcp&security=none#78.46.251.109:2020
@@ -16,6 +15,7 @@ vless://f6717009-f9e4-4509-8df5-5884c0b6e8ca@104.25.27.160:2095?type=httpupgrade
 vless://f6717009-f9e4-4509-8df5-5884c0b6e8ca@162.159.51.67:2095?type=httpupgrade&security=none&path=/?ed=2560/ShadowProxy66#162.159.51.67:2095
 vless://f6717009-f9e4-4509-8df5-5884c0b6e8ca@108.162.194.19:2095?type=httpupgrade&security=none&path=/?ed=2560/ShadowProxy66#108.162.194.19:2095
 vless://Parsashonam-Bot-10@185.146.173.39:8080?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8080
-vless://d8600793-c79e-4f54-aa7c-fce7537ce903@158.160.131.112:20520?type=tcp&security=reality&sni=www.yahoo.com&fp=firefox&pbk=_Nm8JyrUKhpT8TVj_mes7oJmu0UVyjfUXfI-RRUR6Gw#158.160.131.112:20520
-trojan://lq1yoqdt-jo9n-2jrt-vmp2-144lwsba3cb8@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://r87fp0e8-qfs9-t3gw-qjpa-0rwgor9m14dt@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
+vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
+trojan://0kioc92b-7g43-cz8u-8wp8-1niti2iv1wg6@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://7v2d51ha-5jpz-diak-fw4a-3y9t9jfu6q3o@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
