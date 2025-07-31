@@ -1,6 +1,6 @@
-trojan://b50cgawl-dwsn-o1ab-4c1z-vg1lvwvqwqvk@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 11:06
-trojan://v4ms2oq6-2505-28y4-606h-nljb4jqimz8p@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://8kezbjq0-3x5r-uwe9-id3z-sdbnokasdjpd@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://2orao1o1-th84-lzo1-ny7n-25ug5c3q70r6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 11:25
+trojan://1w1jmuxo-abv6-pd88-bh64-qe6hbf0hcbdr@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://lkylt73q-uh58-9rgn-vn8x-lu83bt8yvgnf@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vmess://eyJ2IjoiMiIsInBzIjoiQE5FVE1lbGxpQW50aSIsImFkZCI6InNoLnNydi50ZTE0NTAuaXIiLCJwb3J0Ijo0MDMxLCJpZCI6ImM0MDI5ZDJiLTE2NjEtNGIxMC1iMDUxLWQ4NzY1NjRkNTE5ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://08ff9679-dc03-4642-b26c-1b8d7fa368b2@http.gozaroshloreshin.ir:2086?type=httpupgrade&security=none&path=/www.adsl.tci.ir?ed=1024#http.gozaroshloreshin.ir:2086
 vless://db38758e-5ecb-4b07-bb19-4226a96f7e84@uk.shokolatroshd.xyz:18907?type=tcp&security=none#uk.shokolatroshd.xyz:18907
@@ -17,5 +17,5 @@ vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?type=tcp&s
 vless://f0b0b22d-1747-4315-8f19-23d7052a5e8c@91.99.212.10:10485?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=cmLzdXwo-6_Cnc_q2L5xPAyoJjfVDDIAJOZYtx5eQCY&sid=0d0e8aa9fd14#91.99.212.10:10485
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ind01-vlr01.tcp-reset-club.net:443
 vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?type=tcp&security=reality&sni=www.pottermore.com&fp=chrome&flow=xtls-rprx-vision&pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&sid=75#api.hostbaran.info:15810
-trojan://j7m60m6m-6hph-o2x3-cp3o-9jg2t09q9rat@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://1nuqqvpv-kjez-evhw-4lrn-pew87yz7tv9m@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+trojan://o7pmxhoz-1b6v-vec6-xg87-tigpm2gci32o@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://x63vivlg-qheu-bdnp-k6os-w1twoekky4c4@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

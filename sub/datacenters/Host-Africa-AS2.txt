@@ -1,8 +1,8 @@
-trojan://grn5ynk3-cgoe-ign4-zp81-tm76gnwixj8n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 11:06
-trojan://io5c5m7h-oyxt-g9ds-udtn-m38fnko4skiw@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://kz7syc6m-x3r1-ogps-iffe-gjzv0hvx2us3@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
-vless://3f2a64be-4bb8-567c-a3bd-1cbb7233b166@102.129.165.109:443?type=ws&security=tls&path=/vless&sni=102.129.165.109&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-TLS - Host-Africa-AS2 ┇ 102.129.165.109
-vless://855fe99e-0cc9-5b73-90be-251f7282d172@102.129.165.116:8880?type=grpc&security=none#ZA 🇿🇦 ┇ VLESS-GRPC-NTLS - Host-Africa-AS2 ┇ 102.129.165.116
+trojan://kbhp2il4-mq31-8qoj-nmlw-m3p8vrfar4gy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 11:25
+trojan://qdttns2f-n5rp-rd5u-wrz3-itjfp55qyzqu@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://7m45glgx-4lbr-leb7-8ek4-2mfcmsyijpza@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 hysteria2://621187c3-859d-4682-aac1-cd4500f9690e@za.saigonfly.com:17132?insecure=0#ZA 🇿🇦 ┇ HYSTERIA2-TCP-NTLS - Host-Africa-AS2 ┇ 102.129.165.167
-trojan://ewchrncw-208v-yc52-qge8-ogmsfhliw39j@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://q8v9b1xi-0k4v-cyv9-yh27-cmmgb87lbt3j@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vless://855fe99e-0cc9-5b73-90be-251f7282d172@102.129.165.116:8880?type=grpc&security=none#ZA 🇿🇦 ┇ VLESS-GRPC-NTLS - Host-Africa-AS2 ┇ 102.129.165.116
+vless://3f2a64be-4bb8-567c-a3bd-1cbb7233b166@102.129.165.109:443?type=ws&security=tls&path=/vless&sni=102.129.165.109&fp=chrome#ZA 🇿🇦 ┇ VLESS-WS-TLS - Host-Africa-AS2 ┇ 102.129.165.109
+trojan://josa0547-kctj-agxw-n8kz-zwd1bvmzw86r@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://cec1c2kr-8jjs-mvh2-o138-znma1ti9djii@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz

@@ -1,11 +1,11 @@
-trojan://sp9cgnl2-f7bv-vj56-6xx6-34q5k7zxl0u6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 11:06
-trojan://ui3mmjwp-cblv-7wwd-gcco-jylz6hb0rftp@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
-trojan://x8wu7kbq-bvmq-beta-lj4s-dz36hkwoduua@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
+trojan://n4dlx160-77d7-pho8-0v85-5up7v0wq4h29@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 11:25
+trojan://ie0y2zrz-858i-mkvk-a8aw-ksruv1dywxop@127.0.0.1:2080?security=tls&type=tcp#✨ Free Internet For All | @DailyV2Config
+trojan://kllnpr2e-1s3p-52cv-6c81-bdqqddvokot1@127.0.0.1:4080?security=tls&type=tcp#☕ Join Us | Telegram @eQnz_github
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.109:443?type=ws&security=tls&path=/blue&sni=dc.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HOSTWINDS ┇ 192.236.249.109
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@104.168.167.197:27213?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HOSTWINDS ┇ 104.168.167.197
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@104.168.176.241:24264?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HOSTWINDS ┇ 104.168.176.241
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBIT1NUV0lORFMgXHUyNTA3IDE5Mi4yMzYuMjQ5LjEwMiIsImFkZCI6IjE5Mi4yMzYuMjQ5LjEwMiIsInBvcnQiOjQ0MywiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhPU1RXSU5EUyBcdTI1MDcgMTA0LjE2OC4yMTMuMTkzIiwiYWRkIjoiMTA0LjE2OC4yMTMuMTkzIiwicG9ydCI6Mjk2OTEsImlkIjoiMzhjMTYyZWQtMDMzMi00MjcwLTk0NjctNTRjY2U4YjEyYjAzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@104.168.167.197:27213?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HOSTWINDS ┇ 104.168.167.197
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.96:443?type=ws&security=tls&path=/?ed=2560&sni=cg.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HOSTWINDS ┇ 192.236.249.96
-trojan://efqi2mjr-99jc-o4p1-jfeo-x3j3aqdxm79f@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
-trojan://vpwylq2y-lj2g-7xrl-wmk2-9j9wyu5p2s3o@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhPU1RXSU5EUyBcdTI1MDcgMTA0LjE2OC4yMTMuMTkzIiwiYWRkIjoiMTA0LjE2OC4yMTMuMTkzIiwicG9ydCI6Mjk2OTEsImlkIjoiMzhjMTYyZWQtMDMzMi00MjcwLTk0NjctNTRjY2U4YjEyYjAzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@104.168.176.241:24264?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vxh.wxgqlfx.cn&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HOSTWINDS ┇ 104.168.176.241
+trojan://ohyuaec9-5g9g-2gul-denl-zklxnudfrz53@127.0.0.1:8080?security=tls&type=tcp#❤️ Daily config Updates | @DailyV2Config
+trojan://dgywi49g-1n5b-zflm-b04y-q22vwfx3pjmr@127.0.0.1:8081?security=tls&type=tcp#💻 Collector v4.0 | Powered by eQnz
