@@ -108,7 +108,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AD': '🇦🇩', 'AE': '🇦�', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -1075,7 +1075,7 @@ class V2RayCollectorApp:
         
         save_tasks: List[Coroutine] = []
         save_tasks.append(self.file_manager.write_configs_to_file(self.config.DIRS["subscribe"] / "base64.txt", all_configs))
-        save_tasks.append(self.file_manager.write_configs_to_file(self.config.OUTPUT_DIR / "all_configs.txt", all_configs, base64_encode=False))
+        save_tasks.append(self.file_manager.write_configs_to_file(self.config.OUTPUT_DIR / "all_configs.txt", all_configs))
         
         for cat_name, cat_items in categories.items():
             for item_name, configs in cat_items.items():
@@ -1087,14 +1087,13 @@ class V2RayCollectorApp:
                         path = self.config.DIRS[cat_name] / "warp.txt"
                     else:
                         path = self.config.DIRS[cat_name] / f"{sanitized_name}.txt"
-
-                    save_tasks.append(self.file_manager.write_configs_to_file(path, configs, base64_encode=False))
+                    save_tasks.append(self.file_manager.write_configs_to_file(path, configs))
             
         chunk_size = math.ceil(len(all_configs) / 20) if all_configs else 0
         if chunk_size > 0:
             for i, chunk in enumerate([all_configs[i:i + chunk_size] for i in range(0, len(all_configs), chunk_size)]):
                 path = self.config.DIRS["splitted"] / f"mixed_{i+1}.txt"
-                save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
+                save_tasks.append(self.file_manager.write_configs_to_file(path, chunk))
         
         allowed_protocols_for_mix = ['vmess', 'vless', 'trojan', 'shadowsocks']
         for protocol, configs in categories["protocols"].items():
@@ -1107,7 +1106,7 @@ class V2RayCollectorApp:
             if chunk_size_proto > 0:
                 for i, chunk in enumerate([configs[i:i + chunk_size_proto] for i in range(0, len(configs), chunk_size_proto)][:5]):
                     path = self.config.DIRS["mix_protocol"] / f"mix_{protocol}_{i+1}.txt"
-                    save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
+                    save_tasks.append(self.file_manager.write_configs_to_file(path, chunk))
 
         for channel_name, raw_configs in configs_by_channel.items():
             if raw_configs:
@@ -1116,7 +1115,7 @@ class V2RayCollectorApp:
                 if parsed_channel_configs:
                     sanitized_name = self._sanitize_filename(channel_name)
                     path = self.config.DIRS["channel_subs"] / f"{sanitized_name}.txt"
-                    save_tasks.append(self.file_manager.write_configs_to_file(path, parsed_channel_configs, base64_encode=False))
+                    save_tasks.append(self.file_manager.write_configs_to_file(path, parsed_channel_configs))
 
         await asyncio.gather(*save_tasks)
 
@@ -1200,7 +1199,6 @@ async def _setup_data_file(remote_url: str, local_path: Path):
         try:
             status, content = await AsyncHttpClient.get(remote_url)
             if status == 200 and content:
-                # The content is expected to be JSON. Let's parse and re-dump to ensure format.
                 data = json.loads(content)
                 async with aiofiles.open(local_path, "w", encoding='utf-8') as f:
                     await f.write(json.dumps(data, indent=4))
