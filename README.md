@@ -10,6 +10,7 @@
 ![Countries](https://img.shields.io/badge/Countries-100+-orange?style=for-the-badge&logo=globe)
 ![Update](https://img.shields.io/badge/Auto%20Update-24/7-teal?style=for-the-badge&logo=refresh)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=mit)
+[![V2Ray Config Collector](https://github.com/eQnz/configs-collector-v2ray/actions/workflows/main.yml/badge.svg)](https://github.com/eQnz/configs-collector-v2ray/actions/workflows/main.yml)
 
 </div>
 
